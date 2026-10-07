@@ -6,7 +6,7 @@ All content comes from the book **الصحيح المسند من أذكار ال
 
 ## Status
 
-Planning. No app code yet. Next step: a pilot on one chapter of the book (see [Content pipeline](#content-pipeline)).
+Content pilot done on the Adhan chapter (book pages 35–47, entries 37–57): 19 of 21 entries matched a vocalized hadith automatically. The other 2 cite books that aren't in any database (Ibn Hibban, Abu 'Awana). No app code yet.
 
 ## Features
 
@@ -35,14 +35,29 @@ Planning. No app code yet. Next step: a pilot on one chapter of the book (see [C
 
 The book decides what is included: which hadith, under which chapter, with which grading. The vocalized Arabic text comes from hadith databases instead of being typed or OCR'd from the book.
 
-1. **Index the book.** For each entry, record its number, narration letter, chapter, the book's citation, the Sheikh's grading and the opening of the text.
-2. **Match to a hadith database.** Search the collection the book cites for the closest text, then have a person confirm each match. Use the cited collection, since wording differs between collections.
-3. **Fallback.** Entries from books not in the database (Musnad Ahmad, al-Nasa'i's *Amal al-Yawm wal-Layla*, Ibn al-Sunni, …) use the book's own text, with tashkeel added and reviewed.
+1. **Index the book.** For each entry, record its number, sub-heading letter, chapter, the book's citation, the Sheikh's grading and the opening of the text.
+2. **Match to a hadith database.** Search the collection the book cites for the closest text, then have a person confirm each match. Use the cited collection, since wording differs between collections. hadith-api is searched first; Open-Hadith-Data fills its gaps and adds Musnad Ahmad and Sunan al-Darimi.
+3. **Fallback.** Entries from books not in either database (Ibn Hibban, Abu 'Awana, al-Nasa'i's *Amal al-Yawm wal-Layla*, Ibn al-Sunni, …) use the book's own text, with tashkeel added and reviewed.
 4. **Prepare for the app.** Pull out the exact words to say, repeat counts and virtues. Assign sections and tags. Mark entries that are supporting hadith (virtues, rulings) rather than azkar to recite.
 5. **Translate.** Write the English translation of the meaning and the transliteration, then have them reviewed.
 6. **Review.** A person with Arabic and sharia knowledge checks every entry before release.
 
-We start with a pilot on the Adhan & Mosque chapter (book pages 35–48) to measure the match rate before doing the whole book.
+### Content tools
+
+```
+content/book/      transcribed book entries, one file per chapter (source of truth)
+content/matches/   match results per chapter (generated, then reviewed)
+tools/             Python scripts for the content pipeline
+.cache/            downloads, page images and review pages (not in git)
+```
+
+```sh
+python3 -m venv .venv && .venv/bin/pip install -r tools/requirements.txt
+.venv/bin/python tools/render_pages.py 35 48              # page images to transcribe from
+.venv/bin/python tools/fetch_hadith.py                    # hadith databases (~215 MB, once)
+.venv/bin/python tools/match.py content/book/adhan.json   # writes content/matches/adhan.json
+.venv/bin/python tools/report.py adhan                    # writes .cache/reports/adhan.html
+```
 
 ### Notes on the source book
 
@@ -51,6 +66,7 @@ We start with a pilot on the Adhan & Mosque chapter (book pages 35–48) to meas
 - The index (فهرس) starts on page 447.
 - Each entry gives its source, the full chain of narrators, the text in bold and the Sheikh's grading, followed by footnotes with more references.
 - Most citations give the volume and page of a specific printed edition (e.g. أبو داود ج١ ص٣٣٧; Bukhari via *Fath al-Bari*; Muslim via al-Nawawi's commentary). Ibn Majah is cited by hadith number.
+- Letters such as (أ)، (ب) number the items under a heading and restart at each heading.
 - Example match: entry (٤٥) is Sunan Abi Dawud #499.
 
 ## Data
@@ -62,7 +78,7 @@ We start with a pilot on the Adhan & Mosque chapter (book pages 35–48) to meas
 
 Each entry record holds:
 
-- the book's entry number and narration letter
+- the book's entry number and sub-heading letter
 - chapter, sections and tags
 - the words to say, the repeat count and the virtue
 - the full narration
@@ -85,5 +101,5 @@ Each entry record holds:
 ## Sources and credits
 
 - Book, selection and gradings: Sheikh Mustafa al-Adawi, <https://mostafaaladwy.com>
-- Vocalized hadith text: [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) (public domain, Unlicense)
+- Vocalized hadith text: [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) (public domain, Unlicense) and [mhashim6/Open-Hadith-Data](https://github.com/mhashim6/Open-Hadith-Data) (ODbL; a database we publish that is built from it must also be shared under ODbL)
 - Quran verses: [Tanzil](https://tanzil.net) (used unmodified, with attribution)
