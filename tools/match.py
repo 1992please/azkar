@@ -1,8 +1,9 @@
 """Match transcribed book entries to vocalized hadith.
 
-Usage: python tools/match.py content/book/adhan.json
+Usage: python tools/match.py adhan
 
-Writes content/matches/<same name>.json. Run tools/fetch_hadith.py first.
+Reads content/book/<name>.json and writes content/matches/<name>.json.
+Run tools/fetch_hadith.py first. Approved corrections are applied before matching.
 
 Each entry's text is compared with every hadith by word pairs:
 - containment: share of the book's word pairs found in the hadith
@@ -21,6 +22,7 @@ import json
 import pathlib
 
 from arabic import words
+from book import corrected, load_chapter
 from fetch_hadith import (HADITH_API_COLLECTIONS, OPEN_HADITH_FILES,
                           hadith_api_path, open_hadith_path)
 
@@ -117,10 +119,10 @@ def label(c: dict) -> str:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("book_file", type=pathlib.Path)
+    parser.add_argument("name")
     args = parser.parse_args()
 
-    book = json.loads(args.book_file.read_text(encoding="utf-8"))
+    book = load_chapter(args.name)
     api_rows, open_rows = load_hadith_api(), load_open_hadith()
     known = set(HADITH_API_COLLECTIONS) | set(OPEN_HADITH_FILES)
     # For "found elsewhere": hadith-api, plus Open-Hadith-Data only for the
@@ -129,7 +131,7 @@ def main() -> None:
 
     results = []
     for entry in book["entries"]:
-        entry_pairs = pairs(words(entry["text"]))
+        entry_pairs = pairs(words(corrected(entry, "text")))
         cited = entry["source"]["collection"]
         if cited in known:
             ranked = rank(entry_pairs, [r for r in api_rows if r["collection"] == cited])
@@ -157,7 +159,7 @@ def main() -> None:
         print(f"{entry['number']:>4}  {status:<15} {shown}")
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    out = OUT_DIR / args.book_file.name
+    out = OUT_DIR / f"{args.name}.json"
     out.write_text(json.dumps({"chapter": book["chapter"], "results": results},
                               ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {out.relative_to(ROOT)}")

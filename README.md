@@ -6,7 +6,7 @@ All content comes from the book **الصحيح المسند من أذكار ال
 
 ## Status
 
-Content pilot done on the Adhan chapter (book pages 35–47, entries 37–57): 19 of 21 entries matched a vocalized hadith automatically. The other 2 cite books that aren't in any database (Ibn Hibban, Abu 'Awana). No app code yet.
+Transcribing the book chapter by chapter. The index is transcribed (41 work units), the Adhan chapter (pp. 35–47, entries 37–57) is done and reviewed, and the long run over the remaining chapters is ready to start. No app code yet.
 
 ## Features
 
@@ -33,31 +33,55 @@ Content pilot done on the Adhan chapter (book pages 35–47, entries 37–57): 1
 
 ## Content pipeline
 
-The book decides what is included: which hadith, under which chapter, with which grading. The vocalized Arabic text comes from hadith databases instead of being typed or OCR'd from the book.
+The Sheikh's book is the source of truth for the wording of every hadith. The hadith databases are only used to find each hadith's standard reference number, to catch transcription mistakes and to supply tashkeel. Their wording never replaces the book's.
 
-1. **Index the book.** For each entry, record its number, sub-heading letter, chapter, the book's citation, the Sheikh's grading and the opening of the text.
-2. **Match to a hadith database.** Search the collection the book cites for the closest text, then have a person confirm each match. Use the cited collection, since wording differs between collections. hadith-api is searched first; Open-Hadith-Data fills its gaps and adds Musnad Ahmad and Sunan al-Darimi.
-3. **Fallback.** Entries from books not in either database (Ibn Hibban, Abu 'Awana, al-Nasa'i's *Amal al-Yawm wal-Layla*, Ibn al-Sunni, …) use the book's own text, with tashkeel added and reviewed.
-4. **Prepare for the app.** Pull out the exact words to say, repeat counts and virtues. Assign sections and tags. Mark entries that are supporting hadith (virtues, rulings) rather than azkar to recite.
-5. **Translate.** Write the English translation of the meaning and the transliteration, then have them reviewed.
-6. **Review.** A person with Arabic and sharia knowledge checks every entry before release.
+Each chapter goes through these steps:
+
+1. **Transcribe exactly as printed:** the hadith with its chain of narrators (bold and regular type marked), the book's own tashkeel marks, the Sheikh's grading, the source references, footnotes about the hadith, and the Sheikh's own text in the main body. General commentary in footnotes is skipped and its pages are logged.
+2. **Cross-check with OCR.** Tesseract reads the same pages. Every word where it disagrees, especially where my reading matches the database but the page shows otherwise, is checked on a zoomed crop. On the pilot this caught all 7 words written from memory.
+3. **Match** each entry to the collection it cites. hadith-api is searched first; Open-Hadith-Data fills its gaps and adds Musnad Ahmad and Sunan al-Darimi.
+4. **Find the book's misprints.** Every difference between an entry and its matched hadith is checked against all the hadith collections and dorar.net:
+   - the printed wording is attested elsewhere, or is a usual narration variant → kept as printed
+   - a likely misprint with confidence of 90% or more → corrected automatically (shown on the review page with an Undo box)
+   - below 90% → the owner is asked, unless it is a clear grammar mistake the transcriber can judge
+   The printed text is always kept next to a correction.
+5. **Add tashkeel** to the book's text. The book's own marks always win. Words identical to the matched hadith take its tashkeel. Words without a match are left without tashkeel rather than risk a wrong one. Words next to a difference are flagged, because their endings can depend on it.
+6. **Review** the chapter page: questions, automatic corrections, kept differences, with dorar.net links for cross-checking.
+
+`tools/pipeline.py <chapter>` runs steps 2–6 after the transcription. The long run (`tools/long_run.sh`) does one chapter per fresh Claude Code session, in the order of `content/book/PROGRESS.md`, and waits out usage-limit resets.
+
+After all chapters are done:
+
+7. **Prepare for the app.** Pull out the exact words to say, repeat counts and virtues. Assign sections and tags. Mark entries that are supporting hadith (virtues, rulings) rather than azkar to recite.
+8. **Translate.** Write the English translation of the meaning and the transliteration, then have them reviewed.
+9. **Final review.** A person with Arabic and sharia knowledge checks every entry before release.
 
 ### Content tools
 
+The detailed transcription rules are in [docs/transcription.md](docs/transcription.md).
+
 ```
-content/book/      transcribed book entries, one file per chapter (source of truth)
-content/matches/   match results per chapter (generated, then reviewed)
-tools/             Python scripts for the content pipeline
-.cache/            downloads, page images and review pages (not in git)
+content/book/index.tsv     the book's index (فهرس, pp. 447–470): every heading and its page
+content/book/chapters.tsv  the 41 work units (chapters) with their pages and file names
+content/book/PROGRESS.md   the long run's order and status
+content/book/              transcribed book entries and corrections, one file per chapter (source of truth)
+content/matches/           matched hadith for each entry (generated)
+content/vocalized/         the book's text with tashkeel added, word by word (generated)
+tools/                     Python scripts for the content pipeline
+.cache/                    downloads, page images and review pages (not in git)
 ```
 
 ```sh
 python3 -m venv .venv && .venv/bin/pip install -r tools/requirements.txt
-.venv/bin/python tools/render_pages.py 35 48              # page images to transcribe from
-.venv/bin/python tools/fetch_hadith.py                    # hadith databases (~215 MB, once)
-.venv/bin/python tools/match.py content/book/adhan.json   # writes content/matches/adhan.json
-.venv/bin/python tools/report.py adhan                    # writes .cache/reports/adhan.html
+tools/fetch_ocr.sh                                         # Tesseract OCR into .cache/ocr (nothing installed system-wide)
+.venv/bin/python tools/fetch_hadith.py                     # hadith databases (~215 MB, once)
+.venv/bin/python tools/render_pages.py 35 47 --dpi 220 --strips 2   # zoomed page images to transcribe from
+.venv/bin/python tools/zoom.py 41 0.30 0.35                # a closer look at part of a page
+.venv/bin/python tools/pipeline.py adhan                   # check, match, OCR cross-check, misprints, tashkeel, review page
+tools/long_run.sh                                          # the long run: one chapter per session until all are done
 ```
+
+The pipeline's steps can also be run one by one: `check.py`, `match.py`, `ocr.py FIRST LAST`, `ocr_check.py --crops`, `misprints.py`, `vocalize.py`, `report.py`. Review pages are in `.cache/reports/` (`index.html` lists every chapter).
 
 ### Notes on the source book
 
@@ -102,4 +126,5 @@ Each entry record holds:
 
 - Book, selection and gradings: Sheikh Mustafa al-Adawi, <https://mostafaaladwy.com>
 - Vocalized hadith text: [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) (public domain, Unlicense) and [mhashim6/Open-Hadith-Data](https://github.com/mhashim6/Open-Hadith-Data) (ODbL; a database we publish that is built from it must also be shared under ODbL)
+- Cross-checking wordings and misprints: [Dorar al-Saniyya hadith encyclopedia](https://dorar.net/hadith) (dorar.net, through its public search API)
 - Quran verses: [Tanzil](https://tanzil.net) (used unmodified, with attribution)

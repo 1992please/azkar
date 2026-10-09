@@ -1,0 +1,482 @@
+[
+  {
+    "entry": 37,
+    "kind": "substitution",
+    "tokens": [
+      49,
+      50
+    ],
+    "printed_words": [
+      "كانت"
+    ],
+    "alternative_words": [
+      "كان"
+    ],
+    "alternative_tokens": [
+      "كان"
+    ],
+    "left": [
+      "الموذن",
+      "وثب",
+      "فان"
+    ],
+    "right": [
+      "به",
+      "حاجه",
+      "اغتسل"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a masculine/feminine verb ending, a usual difference between narrations and editions."
+  },
+  {
+    "entry": 38,
+    "kind": "substitution",
+    "tokens": [
+      36,
+      37
+    ],
+    "printed_words": [
+      "لا"
+    ],
+    "alternative_words": [
+      "لم"
+    ],
+    "alternative_tokens": [
+      "لم"
+    ],
+    "left": [
+      "والصف",
+      "الاول",
+      "ثم"
+    ],
+    "right": [
+      "يجدوا",
+      "الا",
+      "ان"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 14,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 15,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.91,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 14 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "ثم لا يجدوا",
+    "corrected": "ثم لم يجدوا"
+  },
+  {
+    "entry": 39,
+    "kind": "other",
+    "tokens": [
+      45,
+      47
+    ],
+    "printed_words": [
+      "وحدثنيه",
+      "اسحاق"
+    ],
+    "alternative_words": [
+      "و",
+      "حدثنيه",
+      "اسحق"
+    ],
+    "alternative_tokens": [
+      "و",
+      "حدثنيه",
+      "إسحق"
+    ],
+    "left": [
+      "اعناقا",
+      "يوم",
+      "القيامه"
+    ],
+    "right": [
+      "بن",
+      "منصور",
+      "اخبرني"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 0,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif written or left out), a usual difference between narrations and editions."
+  },
+  {
+    "entry": 39,
+    "kind": "substitution",
+    "tokens": [
+      49,
+      50
+    ],
+    "printed_words": [
+      "اخبرني"
+    ],
+    "alternative_words": [
+      "اخبرنا"
+    ],
+    "alternative_tokens": [
+      "أخبرنا"
+    ],
+    "left": [
+      "اسحاق",
+      "بن",
+      "منصور"
+    ],
+    "right": [
+      "ابو",
+      "عامر",
+      "حدثنا"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 17,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a different transmission verb, a usual difference between narrations and editions."
+  },
+  {
+    "entry": 39,
+    "kind": "substitution",
+    "tokens": [
+      65,
+      66
+    ],
+    "printed_words": [
+      "يقول"
+    ],
+    "alternative_words": [
+      "يقولا"
+    ],
+    "alternative_tokens": [
+      "يقولا"
+    ],
+    "left": [
+      "قال",
+      "سمعت",
+      "معاويه"
+    ],
+    "right": [
+      "قال",
+      "رسول",
+      "الله"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 0,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 41,
+    "kind": "extra",
+    "tokens": [
+      45,
+      46
+    ],
+    "printed_words": [
+      "في"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "في",
+      "غنمك",
+      "او"
+    ],
+    "right": [
+      "باديتك",
+      "فاذنت",
+      "بالصلاه"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 5,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 7,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a extra particle, a usual difference between narrations and editions."
+  },
+  {
+    "entry": 42,
+    "kind": "substitution",
+    "tokens": [
+      62,
+      63
+    ],
+    "printed_words": [
+      "تمس"
+    ],
+    "alternative_words": [
+      "لتمس"
+    ],
+    "alternative_tokens": [
+      "لتمس"
+    ],
+    "left": [
+      "طلحه",
+      "وان",
+      "قدمي"
+    ],
+    "right": [
+      "قدم",
+      "النبي",
+      "صلي"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a conjunction or preposition prefix, a usual difference between narrations and editions."
+  },
+  {
+    "entry": 42,
+    "kind": "substitution",
+    "tokens": [
+      71,
+      72
+    ],
+    "printed_words": [
+      "بمكايلهم"
+    ],
+    "alternative_words": [
+      "بمكاتلهم"
+    ],
+    "alternative_tokens": [
+      "بمكاتلهم"
+    ],
+    "left": [
+      "قال",
+      "فخرجوا",
+      "الينا"
+    ],
+    "right": [
+      "ومساحيهم",
+      "فلما",
+      "راوا"
+    ],
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.93,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "بمكائلهم",
+    "corrected": "بمكاتلهم"
+  },
+  {
+    "entry": 45,
+    "kind": "substitution",
+    "tokens": [
+      94,
+      95
+    ],
+    "printed_words": [
+      "قلت"
+    ],
+    "alternative_words": [
+      "فقلت"
+    ],
+    "alternative_tokens": [
+      "فقلت"
+    ],
+    "left": [
+      "خير",
+      "من",
+      "ذلك"
+    ],
+    "right": [
+      "له",
+      "بلي",
+      "قال"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 11,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a conjunction or preposition prefix, a usual difference between narrations and editions."
+  },
+  {
+    "entry": 45,
+    "kind": "substitution",
+    "tokens": [
+      164,
+      165
+    ],
+    "printed_words": [
+      "استاذن"
+    ],
+    "alternative_words": [
+      "استاخر"
+    ],
+    "alternative_tokens": [
+      "استأخر"
+    ],
+    "left": [
+      "الله",
+      "قال",
+      "ثم"
+    ],
+    "right": [
+      "عني",
+      "غير",
+      "بعيد"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 15,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.91,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "استأذن",
+    "corrected": "استأخر"
+  },
+  {
+    "entry": 45,
+    "kind": "missing",
+    "tokens": [
+      271,
+      271
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "يا",
+      "رسول",
+      "الله"
+    ],
+    "alternative_tokens": [
+      "يا",
+      "رسول",
+      "الله"
+    ],
+    "left": [
+      "والذي",
+      "بعثك",
+      "بالحق"
+    ],
+    "right": [
+      "لقد",
+      "رايت",
+      "مثل"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 3,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (3 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 48,
+    "kind": "order",
+    "tokens": [
+      57,
+      59
+    ],
+    "printed_words": [
+      "بها",
+      "عليه"
+    ],
+    "alternative_words": [
+      "عليه",
+      "بها"
+    ],
+    "alternative_tokens": [
+      "عليه",
+      "بها"
+    ],
+    "left": [
+      "صلاه",
+      "صلي",
+      "الله"
+    ],
+    "right": [
+      "عشرا",
+      "ثم",
+      "سلوا"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 4,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 8,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the same words in a different order, a usual difference between narrations and editions."
+  }
+]
