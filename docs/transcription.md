@@ -16,7 +16,9 @@ These rules apply to every chapter. They were agreed with the project owner; cha
 2. **Render** the pages as zoomed strips and read every strip:
    `.venv/bin/python tools/render_pages.py FROM TO --dpi 220 --strips 2`
    Zoom further on small marks, digits in citations, names, and any doubtful word:
-   `.venv/bin/python tools/zoom.py PAGE TOP BOTTOM [--left L --right R] [--dpi 400]` (fractions of the page).
+   `.venv/bin/python tools/zoom.py PAGE TOP BOTTOM [--left L --right R]` (fractions of the page; a line is about 0.03 high).
+   - **Zoom in batches.** Every step re-reads the whole session so far, so many one-crop steps add up to most of a session's cost. While reading a page's strips, note its doubtful spots. Then render them all in one command, `.venv/bin/python tools/zoom.py PAGE --crop TOP BOTTOM [LEFT RIGHT] --crop TOP BOTTOM [LEFT RIGHT] …`, and read all the crops in one step (several Reads at once). Zoom again only on what is still unclear.
+   - **Crop narrower for more detail; don't raise the dpi.** The Read tool shows an image at most 2000 px on its longer side, so a wide crop above about 330 dpi is scaled back down and shows nothing more. `zoom.py` picks the highest dpi that is shown in full, so leave out `--dpi`. A crop of one or two words is magnified up to 1600 dpi.
 3. **Write** `content/book/<slug>.json` (format below).
 4. **Run the pipeline:** `.venv/bin/python tools/pipeline.py <slug>`. It checks the file, matches entries, OCRs the pages, cross-checks the transcription against the OCR, detects misprints, vocalizes and builds the review page. Fix any checker error and rerun.
 5. **Look at every OCR flag sheet** (`.cache/ocr/flags/<slug>/sheet-*.png`). Each line holds a word where the OCR disagrees with the transcription (headings, citations, entry texts and `author_text`; footnotes aren't checked, so read them with extra care). "memory" flags (my word matches the database but the OCR sees something else) are the most important. Fix real mistakes and rerun.

@@ -1,11 +1,12 @@
 #!/bin/sh
 # Keep the long transcription run going: a fresh Claude Code session for each
-# round of up to 10 pages (docs/long-run.md), waiting out usage-limit resets in between.
+# round of up to 5 pages (docs/long-run.md), waiting out usage-limit resets in between.
 #
-# Start it in a terminal you leave open, ideally inside tmux or screen, and
-# stop it any time with Ctrl+C:
-#     tools/long_run.sh
-# Progress: content/book/PROGRESS.md · log: .cache/long-run.log
+# Start it from the project folder in the background, so it keeps going after the terminal closes:
+#     setsid nohup tools/long_run.sh >> .cache/long-run.log 2>&1 &
+# Stop it (the loop and the round in progress):
+#     pkill -f '^/bin/sh tools/long_run.sh'; pkill -f '^claude -p Do one round'
+# Progress: content/book/PROGRESS.md · log: .cache/long-run.log (follow it with: tail -F .cache/long-run.log)
 # A round's whole session can be opened afterwards with: claude --resume <its session id in the log>
 #
 # Each session may only read files, edit files under content/, and run the
