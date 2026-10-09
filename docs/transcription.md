@@ -56,6 +56,7 @@ The checker rejects anything outside the expected characters: Persian look-alike
   "book_pages": [35, 47],
   "notes": ["English notes about the chapter"],
   "skipped": [{ "pages": "39–40", "what": "what was skipped and why" }],
+  "author_text": [ … ],
   "entries": [ … ]
 }
 ```

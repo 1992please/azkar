@@ -392,7 +392,8 @@ def main() -> None:
             evaluate(c, ev, toks, bold, ocr, entry_words)
             if c["decision"] in ("approve", "ask"):
                 c["printed"], c["corrected"] = correction_strings(c, toks, text)
-                if any(c["printed"] in o["printed"] or o["printed"] in c["printed"] for o in owner):
+                if any(o["field"] == "text" and (c["printed"] in o["printed"] or o["printed"] in c["printed"])
+                       for o in owner):
                     c["decision"] = "owner-decided"
                 else:
                     new.append(c)

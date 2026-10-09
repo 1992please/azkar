@@ -48,7 +48,7 @@ Each chapter goes through these steps:
 5. **Add tashkeel** to the book's text. The book's own marks always win. Words identical to the matched hadith take its tashkeel. Words without a match are left without tashkeel rather than risk a wrong one. Words next to a difference are flagged, because their endings can depend on it.
 6. **Review** the chapter page: questions, automatic corrections, kept differences, with dorar.net links for cross-checking.
 
-`tools/pipeline.py <chapter>` runs steps 2–6 after the transcription. The long run (`tools/long_run.sh`) does one chapter per fresh Claude Code session, in the order of `content/book/PROGRESS.md`, and waits out usage-limit resets.
+`tools/pipeline.py <chapter>` runs steps 2–6 after the transcription. The long run (`tools/long_run.sh`) works through the chapters in the order of `content/book/PROGRESS.md`, up to 10 pages per fresh Claude Code session, and waits out usage-limit resets.
 
 After all chapters are done:
 
@@ -78,7 +78,7 @@ tools/fetch_ocr.sh                                         # Tesseract OCR into 
 .venv/bin/python tools/render_pages.py 35 47 --dpi 220 --strips 2   # zoomed page images to transcribe from
 .venv/bin/python tools/zoom.py 41 0.30 0.35                # a closer look at part of a page
 .venv/bin/python tools/pipeline.py adhan                   # check, match, OCR cross-check, misprints, tashkeel, review page
-tools/long_run.sh                                          # the long run: one chapter per session until all are done
+tools/long_run.sh                                          # the long run: up to 10 pages per session until all are done
 ```
 
 The pipeline's steps can also be run one by one: `check.py`, `match.py`, `ocr.py FIRST LAST`, `ocr_check.py --crops`, `misprints.py`, `vocalize.py`, `report.py`. Review pages are in `.cache/reports/` (`index.html` lists every chapter).

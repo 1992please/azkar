@@ -3,7 +3,7 @@
 Status: running
 
 Chapters are done in this order: the app's core azkar first, then the rest in book order.
-The owner may reorder the `todo` rows. Statuses: `todo`, `in progress (through p. N)`, `done: …`, `blocked: …` (waits for the owner).
+The owner may reorder the `todo` rows. Statuses: `todo`, `in progress (through p. N)`, `transcribed` (pipeline and review next), `done: …`, `blocked: …` (waits for the owner).
 
 | # | Chapter | Pages | Title | Status |
 |---|---|---|---|---|

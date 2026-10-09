@@ -196,6 +196,8 @@ def main() -> None:
     if args.crops:
         out_dir = ROOT / ".cache" / "ocr" / "flags" / args.name
         out_dir.mkdir(parents=True, exist_ok=True)
+        for old in out_dir.glob("*.png"):  # the previous run's crops and sheets
+            old.unlink()
         doc = pymupdf.open(PDF)
         for k, f in enumerate(flagged, 1):
             f["crop"] = str((out_dir / f"{k:03d}-{f['kind']}-e{f['entry']}.png").relative_to(ROOT))
