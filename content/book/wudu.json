@@ -1,0 +1,260 @@
+{
+  "chapter": "باب أذكار الوضوء",
+  "book_pages": [
+    30,
+    34
+  ],
+  "notes": [
+    "The chapter ends on p. 34 (ornament «****»); p. 35 opens with «باب أذكار الأذان», so nothing of p. 35 belongs to it.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 29,
+      "book_page": 30,
+      "heading": "لا وضوء لمن لم يذكر اسم الله عليه",
+      "label": null,
+      "citation": "قال ابن ماجه رقم ٣٩٧",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 397
+      },
+      "text": "حدثنا أبو كريب محمد بن العلاء ثنا زيد بن الحباب ح وثنا محمد بن بشار ثنا أبو عامر العقدي ، ح وحدثنا أحمد بن منيع ثنا أبو أحمد الزبيري قالوا حدثنا كثير بن زيد عن ربيح بن عبد الرحمن بن أبي سعيد عن أبيه **عن أبي سعيد أن النبي ﷺ قال : « لا وضوء لمن لم يذكر اسم الله عليه » .**",
+      "grading": "صحيح لشواهده",
+      "takhrij": "والدارقطني ج١ ص٧١ ، والبيهقي ١ / ٤٣ ، وأحمد ٣ / ٤١ ، وانظر مسند أحمد ٤ / ٧٠ و ٥ / ٣٨١-٣٨٢ .",
+      "footnotes": [
+        "(*) [على «صحيح لشواهده»] وقال في الزوائد حسن كما في ابن ماجه .",
+        "(٢٩) [على «لا وضوء لمن لم يذكر اسم الله عليه»] تعقيب : من فقه صاحب منار السبيل أنه اتبع هذا الحديث بحديث « عُفي لأمتي عن الخطأ والنسيان » وصححه الألباني إرواء رقم ٨٢ ."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "وثنا",
+          "corrected": "وحدثنا",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The footnote area of p. 30 has, after the (*) footnote and before footnote (31), an unmarked paragraph «تعقيب : …» about this hadith (the author of Manar al-Sabil follows it with the hadith on forgiveness for mistakes and forgetting). As with footnote (162) in protections, it is stored as a separate footnote item under «(٢٩)»; the marker is ours."
+      ]
+    },
+    {
+      "number": 30,
+      "book_page": 30,
+      "heading": "لا وضوء لمن لم يذكر اسم الله عليه",
+      "label": null,
+      "citation": "قال الطبراني ج٦ ص١٤٧",
+      "source": {
+        "collection": "tabarani",
+        "volume": 6,
+        "page": 147
+      },
+      "text": "حدثنا عبد الرحمن بن معاوية العتبي المصري ثنا عبيد الله بن محمد بن المنكدري ثنا ابن أبي فديك عن أبي عباس بن سهل بن سعد عن أبيه عن جده **أن رسول الله ﷺ قال : « لا صلاة لمن لا وضوء له ولا وضوء لمن لم يذكر اسم الله عليه ، ولا صلاة لمن لا يصلي على النبي ، ولا صلاة لمن لا يحب الأنصار » .**",
+      "grading": null,
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "العتبي",
+          "corrected": "الضبي",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "No grading and no source-reference footnote are printed for this entry: entry 31's citation follows the text directly, and the footnotes of p. 30 are (29), (*) and (31).",
+        "«عن أبي عباس بن سهل بن سعد» is printed so (zoomed)."
+      ]
+    },
+    {
+      "number": 31,
+      "book_page": 30,
+      "heading": "لا وضوء لمن لم يذكر اسم الله عليه",
+      "label": null,
+      "citation": "وقال ابن ماجه رقم ٣٩٩",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 399
+      },
+      "text": "حدثنا أبو كريب وعبد الرحمن بن إبراهيم قالا ثنا ابن أبي فديك ثنا محمد بن موسى بن أبي عبد الله عن يعقوب بن سلمة الليثي عن أبيه **عن أبي هريرة قال : قال رسول الله ﷺ : « لا صلاة لمن لا وضوء له ، ولا وضوء لمن لم يذكر اسم الله عليه » .**",
+      "grading": null,
+      "takhrij": "ورواه أبو داود ج١ ص٧٦ وأخرجه أحمد ج٢ ص٤١٨ ، وأبو داود ج١ ص٧٦ ، والحاكم ١ / ١٤٦ ، والدارقطني من طريق يحيى بن أبي كثير عن أبي سلمه عن أبي هريرة مرفوعا ص٧١ ج١ ، والبيهقي ١ / ٤٣ ، ٤٤ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry starts on p. 30 and ends at the top of p. 31, where the heading «الذكر بعد الوضوء وفضله» follows it directly; no grading is printed.",
+        "The takhrij is printed at the foot of p. 30."
+      ]
+    },
+    {
+      "number": 32,
+      "book_page": 31,
+      "heading": "الذكر بعد الوضوء وفضله",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٣ ص١١٨",
+      "source": {
+        "collection": "muslim",
+        "volume": 3,
+        "page": 118
+      },
+      "text": "حدثنا محمد بن حاتم بن ميمون حدثنا عبد الرحمن بن مهدي حدثنا معاوية بن صالح عن ربيعة يعني ابن يزيد عن أبي إدريس الخولاني عن عقبة بن عامر ح وحدثني أبو عثمان عن جبير بن نفير **عن عقبة بن عامر قال كانت علينا رعاية الإبل فجاءت نوبتي فروحتها بعشي فأدركت رسول الله ﷺ قائما يحدث الناس فأدركت من قوله : « ما من مسلم يتوضأ فيحسن وضوءه ثم يقوم فيصلي ركعتين مقبل عليهما بقلبه ووجهه إلا وجبت له الجنة » قال : فقلت ما أجود هذه فإذا قائل بين يدي يقول : التي قبلها أجود فنظرت فإذا عمر قال : إني قد رأيتك جئت آنفا قال : « ما منكم من أحد يتوضأ فيبلغ أو فيسبغ الوضوء ثم يقول أشهد أن لا إله إلا الله وأن محمدا عبد الله ورسوله إلا فتحت له أبواب الجنة الثمانية يدخل من أيها شاء »** وحدثنا أبو بكر بن أبي شيبة حدثنا زيد بن الحباب حدثنا معاوية بن صالح عن ربيعة بن زيد عن أبي أدريس الخولاني وأبي عثمان عن جبير بن نفير بن مالك الحضرمي **عن عقبة بن عامر الجهني أن رسول الله ﷺ قال فذكر مثله غير أنه قال : « من توضأ فقال أشهد أن لا إله إلا الله وحده لا شريك له وأشهد أن محمدا عبده ورسوله » .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أحمد ج٤ ص١٥٣ ، والنسائيّ مختصرا ج١ ص٩٢ ، والترمذي مختصرا تحفه ج١ ص١٨٠ ، وكذا أحمد ١٤٥ ، ١٤٦ ج٤ ، وأبو داود ١ / ١١٨ ، وأبو عوانه ٢ / ٢٢٤-٢٢٥ ، وابن ماجه ج١ ص١٥٩ ، والبيهقي ج١ ص٧٨ ، ٢ / ٢٨٠ ، وابن السني رقم ٣١ عمل اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "ربيعة بن زيد",
+          "corrected": "ربيعة بن يزيد",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: a narrator's name with its first letter missing. The second chain (Zayd ibn al-Hubab from Mu'awiya ibn Salih, from Rabi'a, from Abu Idris al-Khawlani) names the same narrator whom the first chain of this entry names «ربيعة يعني ابن يزيد». Checked on the scan in transcription: the page prints «بن زيد». The database text of Muslim 234 has no chain, so the tool couldn't check it."
+        }
+      ],
+      "transcriber_notes": [
+        "The second chain prints «ربيعة بن زيد» and «أبي أدريس» (hamza above the alef), where the first chain has «ربيعة يعني ابن يزيد» and «أبي إدريس»; both zoomed.",
+        "The grading «حسن» is printed so, although the entry is from Muslim."
+      ]
+    },
+    {
+      "number": 33,
+      "book_page": 32,
+      "heading": "فضل الصلاة بعد الوضوء",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٦ ص١٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 16,
+        "page": 13
+      },
+      "text": "حدثنا عبيد بن يعيش ومحمد بن العلاء الهمداني قالا حدثنا أبو أسامة عن أبي حيان ح وحدثنا محمد بن عبد الله بن نمير -واللفظ له- حدثنا أبي حدثنا أبو حيان التيمي يحيى بن سعيد عن أبي زرعة **عن أبي هريرة قال قال رسول الله ﷺ لبلال عند صلاة الغداة : « يا بلال حدثني بأرجى عمل عملته عندك في الإسلام منفعة فإني سمعت الليلة خشف نعليك بين يدي في الجنة ؟ قال بلال ما عملت عملا في الإسلام أرجى عندي منفعة من أني لا أتطهر طُهُورًا تاما في ساعة من ليل ولا نهار إلا صليت بذلك الطهور ما كتب الله لي أن أصلي » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه البخاري فتح ج٣ ص٣٤ ، وأحمد ٢ / ٣٣٣ ، ٤٣٩ ، وعزاه المزي في الأطراف إلى النسائيّ في السنن الكبرى في المناقب .",
+      "footnotes": [
+        "(*) [على «صحيح»] وله شاهد من حديث بريدة أخرجه أحمد ٥ / ٣٦٠ والحاكم ٣ / ٢٨٥ والترمذي ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«-واللفظ له-» is printed between dashes, each attached to the word next to it.",
+        "The closing quotation mark is printed after «أن أصلي», so Bilal's answer stands inside the quotation as printed."
+      ]
+    },
+    {
+      "number": 34,
+      "book_page": 32,
+      "heading": "ما يدعى به في صلاة الليل",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١١٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 116
+      },
+      "text": "حدثنا على بن عبد الله حدثنا ابن مهدي عن سفيان عن سلمه عن كريب **عن ابن عباس رضي الله عنهما قال : بتُّ عند ميمونة ، فقام النبي ﷺ فأتى حاجته فغسل وجهه ويديه ، ثم نام ثم قام فأتى القربة فأطلق شناقها ، ثم توضأ وضوءًا بين وضوءين لم يكثر وقد أبلغ فصلى فقمت فتمطيت كراهية أن يراني أني كنت أتقيه ، فتوضأت فقام يصلي فقمت عن يساره ، فأخذ بأذني فأدارني عن يمينه ، فتتامت صلاته ثلاث عشرة ركعة ، ثم اضطجع فنام حتى نفخ وكان إذا نام نفخ ، فآذنه بلال بالصلاة ، فصلى ولم يتوضأ وكان يقول في دعائه : « اللهم اجعل في قلبي نورا ، وفي بصري نورا ، وفي سمعي نورا ، وعن يميني نورا ، وعن يساري نورا ، وفوقي نورا ، وتحتي نورا ، وأمامي نورا ، وخلفي نورا ، واجعل لي نورا » . قال كريب : وسبع في التابوت فلقيت رجلا من ولد العباس فحدثني بهن فذكر عصبي ولحمي ودمي وشعري وبشرى ، وذكر خصلتين .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٥٤٤ ، وفي إحدى رواياته : فصلى فجعل يقول في صلاته أو في سجوده ... فذكره . والنسائي ج٢ ص٢١٨ ، وأبو داود مختصرا رقم ٥٠٤٣ .",
+      "footnotes": [
+        "(*) [على «التابوت»] قيل أن المراد بالتابوت الصدر قال الحافظ ج١١ ص١١٧ وقد أخرجه مسلم من طريق عقيل عن سلمة بن كهيل « فدعا رسول الله ﷺ بتسع عشرة كلمة حدثنيها كريب فحفظت منها ثنتي عشرة ونسيت ما بقي » ."
+      ],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "يراني",
+          "corrected": "يرى",
+          "confidence": 0.88,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The entry starts on p. 32 and ends on p. 33; the takhrij is at the foot of p. 32 and the (*) footnote at the foot of p. 33.",
+        "«أتقيه», «يراني» and «وبشرى» (final «ى») are printed so (zoomed)."
+      ]
+    },
+    {
+      "number": 35,
+      "book_page": 33,
+      "heading": "ما يقرأ في الوتر وما يقال بعده",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٣ ص٤٠٦",
+      "source": {
+        "collection": "ahmad",
+        "volume": 3,
+        "page": 406
+      },
+      "text": "حدثنا محمد بن جعفر حدثنا شعبة عن سلمة بن كهيل وزبيد الأيامي عن ذر عن ابن عبد الرحمن بن أبزى عن أبيه **عن النبي ﷺ أنه كان يقرأ في الوتر بسبح اسم ربك الأعلى وقل ياأيها الكافرون وقل هو الله أحد فإذا سلم قال سبحان الملك القدوس ، سبحان الملك القدوس ، سبحان الملك القدوس ورفع بها صوته .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٢ ص١٣٧ ، ١٣٣ ، وابن ماجه مختصرا رقم ١١٧١ ، والنسائيّ ج٣ ص٢٣٦ من حديث عبد الرحمن بن أبزي عن أُبيّ بن كعب ، ص٢٤٥ من حديث ابن أبزى ، وابن الجارود في المنتقى رقم ٢٧١ .",
+      "footnotes": [
+        "(*) [على «ورفع بها صوته»] في رواية عزرة عن سعيد بن عبد الرحمن بن أبزى « يطوّلها ثلاثا » . وفي رواية أخرى يمد بالآخرة صوته ص٤٠٧ ج٣ ."
+      ],
+      "corrections": [
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "ياأيها",
+          "corrected": "يا أيها",
+          "confidence": 0.66,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 15 time(s) in the collections and 11 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed «ما يقرأ في الوتر …»; the index has «ما يقرئ …».",
+        "The chain prints «عن ذر عن ابن عبد الرحمن بن أبزى» (zoomed). The surah names are printed in bold without Quran brackets, and «ياأيها» is printed with both alefs."
+      ]
+    },
+    {
+      "number": 36,
+      "book_page": 34,
+      "heading": "ما يقرأ في الوتر وما يقال بعده",
+      "label": null,
+      "citation": "قال الطبراني ج٣ ص٧٥ رقم ٢٧٠٧",
+      "source": {
+        "collection": "tabarani",
+        "volume": 3,
+        "page": 75,
+        "hadith": 2707
+      },
+      "text": "حدثنا محمد بن محمد التمار حدثنا عمرو بن مرزوق أن شعبة عن بريد بن أبي مريم عن أبي الحوراء قال سمعت **الحسن بن علي رضي الله عنه يقول : علمني رسول الله ﷺ أن أقول في الوتر : « اللهم اهدني فيمن هديت وتولَّني فيمن توليت وعافني فيمن عافيت وبارك لي فيما أعطيت وقني شر ما قضيت إنك تقضي ولا يُقضى عليك إنه لا يذل من واليت ولا يعز من عاديت تباركت وتعاليت » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه الطبراني من طرق كثيرة عن بريد . وأحمد ١ / ١٩٩ ، ٢٠٠ والبيهقي ٢ / ٢٠٩ ، ٤٩٧ ، ٤٩٨ والحاكم ٣ / ١٧٢ . وابن ماجه ١١٧٨ والنسائيّ والدارمي ١ / ٣٧٣ وأبو داود ١٤٢٥ والترمذي رقم الحديث ٤٠٦٤ وقال حديث حسن وابن الجارود ٢٧٢ .",
+      "footnotes": [
+        "(١) [على «تباركت»] في بعض الروايات « تباركت ربنا وتعاليت » وفي بعض الروايات مقيدا بالوتر وفي بعضها مطلق ، يراجع الأرواء ص١٧٣ ج٢ ."
+      ],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "أن شعبة",
+          "corrected": "أنا شعبة",
+          "confidence": 0.75,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "Transcriber's proposal: «حدثنا عمرو بن مرزوق أن شعبة عن بريد» has a transmission word where «أن» has no predicate. «أنا» (the usual abbreviation of «أخبرنا») is one letter from the print, but «ثنا» is also possible. Checked on the scan in transcription: the page prints «أن». Al-Tabarani isn't in the databases, so the tool couldn't check it. Left for the owner."
+        }
+      ],
+      "transcriber_notes": [
+        "The chain prints «عمرو بن مرزوق أن شعبة» (zoomed), not «أنا» or «حدثنا».",
+        "The takhrij is printed as three indented lines; they are joined into one paragraph. Its Tirmidhi number is printed «٤٠٦٤» (zoomed)."
+      ]
+    }
+  ]
+}

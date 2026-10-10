@@ -1,0 +1,52 @@
+{
+  "chapter": "باب ما يقوله من تعار من الليل",
+  "book_pages": [
+    24,
+    24
+  ],
+  "notes": [
+    "The chapter is one entry on p. 24 and ends there with the ornament «****»; p. 25 opens with the next chapter («باب ما يقوله من قام ليتهجد»), so nothing of p. 25 belongs to it.",
+    "It has no sub-headings, so the entry's heading is the chapter title.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 22,
+      "book_page": 24,
+      "heading": "باب ما يقوله من تعار من الليل",
+      "label": null,
+      "citation": "قال البخاري فتح ج٣ ص٣٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 39
+      },
+      "text": "حدثنا صدقة بن الفضل أخبرنا الوليد عن الأوزاعي قال ثنا عمير بن هانىء قال حدثنا جنادة بن أبي أمية **حدثني عبادة بن الصامت عن النبي ﷺ قال : « من تعار من الليل فقال : لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير ، الحمد لله وسبحان الله ولا إله إلا الله والله أكبر ولا حول ولا قوة إلا بالله ثم قال اللهم اغفر لي -أو دعا- استجيب فإن توضأ قبلت صلاته » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود رقم ٥٠٦٠ ، والترمذي في الدعوات باب ٢٦ حديث رقم ٣٤١٤ ، وقال : حديث حسن صحيح غريب ، وابن ماجه رقم ٣٨٧٨ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [
+        "(*) [على «الوليد»] وقد صرح الوليد بالتحديث كما في رواية أحمد .",
+        "(**) [على «تعار»] التعار : يقظة مع صوت قاله الأكثر فتح ج٣ ص٣٩ والبعض ذكر أنها الاستيقاظ والبعض تعار - انتبه والبعض التقلب على الفراش ليلا مع كلام ."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "توضأ قبلت",
+          "corrected": "توضأ وصلى قبلت",
+          "confidence": 0.65,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "«هانىء» is printed with a dotless final ya and the hamza standing after it (zoomed at 1600 dpi).",
+        "The page prints «استجيب فإن توضأ قبلت صلاته» with no «له» after «استجيب» and no «وصلى» after «توضأ» (zoomed at 1200–1600 dpi).",
+        "The mark on the final ya of «للنسائيّ» in the takhrij is transcribed as a shadda, as in the other chapters."
+      ]
+    }
+  ]
+}

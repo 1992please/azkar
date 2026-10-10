@@ -1,0 +1,155 @@
+{
+  "chapter": "باب ما يقال عند الخروج من الخلاء",
+  "entries": [
+    {
+      "number": 28,
+      "heading": "باب ما يقال عند الخروج من الخلاء",
+      "match": "ahmad 24063",
+      "text": "ثنا هَاشِمُ بْنُ الْقَاسِمِ ثنا إِسْرَائِيلُ عَنْ يُوسُفَ بْنِ أَبِي بُرْدَةَ عَنْ أَبِيهِ قَالَ **حَدَّثَتْنِي عَائِشَةُ أَنَّ النَّبِيَّ ﷺ كَانَ إِذَا خَرَجَ مِنْ الخلاء قَالَ غُفْرَانَكَ .**",
+      "counts": {
+        "none": 3,
+        "letters_differ": 2,
+        "database": 22,
+        "near_difference": 2,
+        "no_match": 1
+      },
+      "words": [
+        {
+          "text": "ثنا",
+          "tashkeel": "none",
+          "flag": "letters_differ"
+        },
+        {
+          "text": "هَاشِمُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْقَاسِمِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ثنا",
+          "tashkeel": "none",
+          "flag": "letters_differ"
+        },
+        {
+          "text": "إِسْرَائِيلُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يُوسُفَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بُرْدَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِيهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "**حَدَّثَتْنِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَائِشَةُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَنَّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "النَّبِيَّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "كَانَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "إِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "خَرَجَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنْ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "الخلاء",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "غُفْرَانَكَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        }
+      ]
+    }
+  ]
+}

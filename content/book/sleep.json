@@ -1,0 +1,407 @@
+{
+  "chapter": "أذكار النوم",
+  "book_pages": [
+    341,
+    349
+  ],
+  "notes": [
+    "The chapter title is printed on p. 341, after the end of entry 546 (the last entry of the istighfar chapter).",
+    "The chapter ends on p. 349 with entry 561 and the ornament «****»; p. 350 opens with the next chapter («الرؤيا وآدابها»).",
+    "On p. 348 a section heading «آداب تتعلق بالنوم» is printed above «نوم الجنب إذا توضأ», with no text of its own; it is noted on entry 559, the first entry under it.",
+    "The footnotes print «النسائيّ» with a mark on the final ya, transcribed as a shadda as in the other chapters. Entries 547 and 551, first written without it, were checked on the zoomed scan in the review (pp. 341, 344) and fixed.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 341,
+      "heading": "أذكار النوم",
+      "kind": "crossref",
+      "text": "سبقت بعض الأذكار الخاصة بالنوم في مواضع أخرى منها : قراءة آية الكرسي : باب حروز وعزائم . وأعوذ بكلمات الله التامات : باب أذكار المساء . واللهم باسمك أموت وأحيا : باب ما يقال عند الاستيقاظ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed under the chapter title, with no heading of its own, so `heading` is the chapter title. One cross-reference per line; the lines are joined here."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 547,
+      "book_page": 341,
+      "heading": "قراءة المعوذات والنفث بها عند النوم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٢٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 125
+      },
+      "text": "حدثنا عبد الله بن يوسف حدثنا الليث قال : حدثني عقيل عن ابن شهاب قال : أخبرني عروة **عن عائشة رضي الله عنها أن رسول الله ﷺ كان إذا أخذ مضجعه نفث في يديه وقرأ بالمعوذات ومسح بهما جسده .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ٣٨٧٥ ، وأبو داود رقم ٥٠٥٦ ، والترمذي رقم ٣٤٠٢ وقال : هذا حديث حسن صحيح غريب . وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى .",
+      "footnotes": [
+        "(*) [على «بالمعوذات»] قال الحافظ في الفتح ج٨ ص١٣١ : والمراد بالمعوذات سورة قل أعوذ برب الفلق وقل أعوذ برب الناس ، وجمع إما باعتبار أن أقل الجمع اثنان أو باعتبار أن المراد الكلمات التي يقع التعوذ بها من السورتين ويحتمل أن المراد بالمعوذات هاتان السورتان مع سورة الإخلاص وأطلق ذلك تغليبا وهذا هو المعتمد . ثم قال الحافظ في تعليقه على الحديث في كتاب فضائل القرآن قوله - باب فضل المعوذات - أي الإخلاص والفلق والناس وقد كنت جوزت في باب الوفاة النبوية - يقصد كلامه الأول - من كتاب المغازي أن الجمع فيه بناء على أن أقل الجمع اثنان ثم ظهر من حديث هذا الباب - يأتي إن شاء الله - أنه على الظاهر وأن المراد بأنه كان يقرأ بالمعوذات أي السور الثلاث وذكر سورة الإخلاص معهما تغليبا لما اشتملت عليه من صفة الرب وإن لم يصرح فيها بلفظ التعويذ ، وقد أخرج أصحاب السنن الثلاثة وأحمد وابن خزيمة وابن حبان من حديث عقبة بن عامر قال لي رسول الله ﷺ : « قل هو الله أحد وقل أعوذ برب الفلق وقل أعوذ برب الناس تعوذ بهن فإنه لم يتعوذ بمثلهن » وفي لفظ : « اقرأ المعوذات دبر كل صلاة » فذكرهن ."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "شهاب قال :",
+          "corrected": "شهاب :",
+          "confidence": 0.58,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The (*) footnote runs from p. 341 onto p. 342 (marked «=») and is joined into one."
+      ]
+    },
+    {
+      "number": 548,
+      "book_page": 342,
+      "heading": "تفسير المعوذات وكيفية المسح بهن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٦٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 62
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا المفضل بن فضالة عن عقيل عن ابن شهاب عن عروة **عن عائشة : « أن النبي ﷺ كان إذا أوى إلى فراشه كل ليلة جمع كفيه ثم نفث فيهما فقرأ فيهما : ﴿ قل هو الله أحد ﴾ و ﴿ قل أعوذ برب الفلق ﴾ و ﴿ قل أعوذ برب الناس ﴾ ثم يمسح بهما ما استطاع من جسده يبدأ بهما على رأسه ووجهه وما أقبل من جسده يفعل ذلك ثلاث مرات » .**",
+      "grading": "صحيح",
+      "takhrij": "انظر الحديث المتقدم .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 549,
+      "book_page": 342,
+      "heading": "تفسير المعوذات وكيفية المسح بهن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٢٠٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 209
+      },
+      "text": "حدثنا عبد العزيز بن عبد الله الأويسي حدثنا سليمان عن يونس عن ابن شهاب عن عروة ابن الزبير **عن عائشة رضي الله عنها قالت : كان رسول الله ﷺ إذا أوى إلى فراشه نفث في كفيه بقل هو الله أحد وبالمعوذتين جميعا ثم يمسح بهما وجهه وما بلغت يداه من جسده . قالت عائشة : فلما اشتكى كان يأمرني أن أفعل ذلك به .** قال يونس : كنت أرى ابن شهاب يصنع ذلك إذا أتى إلى فراشه .",
+      "grading": "صحيح",
+      "takhrij": "ومسلم في الطب ٥ : ٣ ، وأخرجه الترمذي ج٩ ص٣٤٥ تحفة وقال : حسن صحيح غريب .",
+      "footnotes": [
+        "(*) [على «الترمذي»] رواية الترمذي فيها زيادة ( .. ويفعل ذلك ثلاث مرات ) ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) footnote is marked in the takhrij, on «الترمذي»."
+      ]
+    },
+    {
+      "number": 550,
+      "book_page": 343,
+      "heading": "التكبير والحمد والتسبيح عند المنام",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص١٢٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 125
+      },
+      "text": "حدثنا بدل بن المحبر أخبرنا شعبة أخبرني الحكم قال : سمعت ابن أبي ليلى **أخبرنا علي أن فاطمة اشتكت ما تلقى من الرحى مما تطحنه فبلغها أن رسول الله ﷺ أتى بسبي فأتته تسأله خادما فلم توافقه فذكرت لعائشة فجاء النبي ﷺ فذكرت ذلك عائشة له فأتانا وقد أخذنا مضجعنا فذهبنا لنقوم فقال : « على مكانكما » حتى وجدت برد قدمه على صدري . فقال : « ألا أدلكما على خير مما سألتماني ؟ إذا أخذتما مضاجعكما فكبرا الله أربعا وثلاثين واحمدا الله ثلاثا وثلاثين وسبحا ثلاثا وثلاثين فإن ذلك خير لكما مما سألتماه » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٧ ص٤٥ ، وأبو داود ج٣ ص٣٩٤ ، ج٥ ص٣٠٧ ، والترمذي ج٩ ص٣٥٣ وقال : حسن غريب . وأحمد ١ / ٨٠ .",
+      "footnotes": [
+        "(*) [على «سألتماه»] قال الحافظ في الفتح ج٩ ص٥٠٦ : ويستفاد من قوله ألا أدلكما على خير مما سألتماني أن الذي يلازم ذكر الله يعطى قوة أعظم من القوة التي يعملها له الخادم أو تسهل الأمور عليه بحيث يكون تعاطيه أموره أسهل من تعاطي الخادم لها هكذا استنبطه بعضهم من الحديث والذي يظهر أن المراد أن نفع التسبيح مختص بالدار الآخرة ونفع الخادم مختص بالدار الدنيا والآخرة خير وأبقى ."
+      ],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "تطحنه",
+          "corrected": "تطحن",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "أخذنا مضجعنا",
+          "corrected": "دخلنا مضاجعنا",
+          "confidence": 0.48,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "سألتماني",
+          "corrected": "سألتماه",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net."
+        },
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "واحمدا الله ثلاثا",
+          "corrected": "واحمدا ثلاثا",
+          "confidence": 0.66,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The bold run starts at «أخبرنا علي», at the end of the chain's line."
+      ]
+    },
+    {
+      "number": 551,
+      "book_page": 343,
+      "heading": "نفض الفراش وذكر آخر عند النوم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٢٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 125
+      },
+      "text": "حدثنا أحمد بن يونس حدثنا زهير حدثنا عبيد الله بن عمر حدثني سعيد بن أبي سعيد المقبري عن أبيه **عن أبي هريرة قال : قال النبي ﷺ : « إذا أوى أحدكم إلى فراشه فلينفض فراشه بداخلة إزاره فإنه لا يدري ما خلفه عليه ثم يقول : باسمك ربي وضعت جنبي وبك أرفعه إن أمسكت نفسي فارحمها وإن أرسلتها فاحفظها بما تحفظ به عبادك الصالحين » .** تابعه أبو ضمرة وإسماعيل بن زكريا عن عبيد الله وقال يحيى بن سعيد وبشر عن عبيد الله عن سعيد **عن أبي هريرة عن النبي ﷺ ورواه مالك وابن عجلان عن سعيد عن أبي هريرة عن النبي ﷺ .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٧ ص٣٧ ، وأبو داود ج٥ ص٣٠٠ ، وابن ماجه ٣٨٧٤ ، والترمذي ج٩ ص٣٤٥ وقال : حسن . وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة ، وأحمد ٢ / ٢٩٥ .",
+      "footnotes": [
+        "(*) [على «فارحمها»] في رواية مالك فتح ج١٣ ص٣٧٨ بلفظ « فاغفر لها » بدلا من « فارحمها » . وقال الحافظ في الفتح ج١٣ ص٣٨٠ : وجمع بينهما إسماعيل بن أمية عن سعيد المقبري أخرجه المخلص في أواخر الأول من فوائده .",
+        "(**) [على «مالك»] قوله رواه مالك أخرجه البخاري فتح ج١٣ ص٣٧٨ بزيادة « ثلاث مرات » أي بعد قوله إذا جاء أحدكم فراشه قال : فلينفضه بصنفة ثوبه ثلاث مرات ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 343 onto p. 344. Bukhari's closing remark («تابعه أبو ضمرة … عن النبي ﷺ .») is part of the printed text; in it the page prints «عن أبي هريرة عن النبي ﷺ ورواه مالك وابن عجلان عن سعيد عن أبي هريرة عن النبي ﷺ .» in bold, as marked."
+      ]
+    },
+    {
+      "number": 552,
+      "book_page": 344,
+      "heading": "الاضطجاع على الشق الأيمن وذكر آخر عند النوم",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٧ ص٣٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 17,
+        "page": 35
+      },
+      "text": "حدثني زهير بن حرب حدثنا جرير **عن سهيل قال : كان أبو صالح يأمرنا إذا أراد أحدنا أن ينام أن يضطجع على شقه الأيمن ثم يقول : اللهم رب السموات ورب الأرض ورب العرش العظيم ربنا ورب كل شيء فالق الحب والنوى ومنزل التوراة والإنجيل والفرقان أعوذ بك من شر كل شيء أنت آخذ بناصيته اللهم أنت الأول فليس قبلك شيء وأنت الآخر فليس بعدك شيء وأنت الظاهر فليس فوقك شيء وأنت الباطن فليس دونك شيء اقضِ عنا الدَّين واغننا من الفقر . وكان يروي ذلك عن أبي هريرة عن النبي ﷺ .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٣٠١ ، وابن ماجه ٣٨٣١ مصحوبا بقصة فاطمة رضي الله عنها وبدونها ٣٨٧٣ ، والترمذي ج٩ ص٣٤٣ وقال : حسن صحيح . والترمذي ج٩ ص٤٥٢ مصحوبا بقصة فاطمة رضي الله عنها ، وأحمد ٢ / ٣٨١ ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 344 onto p. 345. The book's own marks: a kasra in «اقضِ» and a shadda with fatha in «الدَّين» (checked at 1200 dpi)."
+      ]
+    },
+    {
+      "number": 553,
+      "book_page": 345,
+      "heading": "توسد اليمين وذكر آخر عند النوم",
+      "label": null,
+      "citation": "قال الترمذي تحفة ج٩ ص٣٤٢",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 9,
+        "page": 342
+      },
+      "text": "حدثنا ابن أبي عمر أخبرنا سفيان عن عبد الملك بن عمير عن ربعي بن خراش **عن حذيفة بن اليمان أن النبي ﷺ كان إذا أراد أن ينام وضع يده تحت رأسه ثم قال : « اللهم قني عذابك يوم تجمع عبادك أو تبعث عبادك » .** وقال الترمذي ج٩ ص٣٤٢ : حدثنا أبو كريب أخبرنا إسحاق بن منصور عن إبراهيم بن يوسف بن أبي إسحاق عن أبيه عن أبي إسحاق عن أبي بردة **عن البراء بن عازب قال : كان رسول الله ﷺ يتوسد يمينه عند المنام ثم يقول : « رب قني عذابك يوم تبعث عبادك » .**",
+      "grading": null,
+      "takhrij": "وأخرجه ابن ماجه ٣٨٧٧ ، وقال : هذا حديث حسن صحيح .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "After Hudhayfa's hadith the page prints a second citation line, «وقال الترمذي ج٩ ص٣٤٢ :» (regular type, no entry number), followed by al-Bara' ibn Azib's hadith with its own chain. As with entry 132 (after-prayer), the second narration is joined to this entry's text and its citation line is kept in the text as printed.",
+        "No grading is printed: the next heading («ذكر آخر عند النوم») follows the text directly, so `grading` is null."
+      ]
+    },
+    {
+      "number": 554,
+      "book_page": 345,
+      "heading": "ذكر آخر عند النوم",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٧ ص٣٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 17,
+        "page": 37
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا يزيد بن هارون عن حماد بن سلمة عن ثابت **عن أنس أن رسول الله ﷺ كان إذا أوى إلى فراشه قال : « الحمد لله الذي أطعمنا وسقانا وكفانا وآوانا فكم ممن لا كافي له ولا مؤوي » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٣٠٢ ، والترمذي ج٩ ص٣٤٠ وقال : حسن غريب صحيح . وأحمد ٣ / ١٥٣ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 345 onto p. 346. The heading is printed «ذكر آخر عند النوم»; the book's index lists it on p. 345 as «ذكر آخر عند المنام», the wording of the next heading (p. 346)."
+      ]
+    },
+    {
+      "number": 555,
+      "book_page": 346,
+      "heading": "ذكر آخر عند المنام",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٧ ص٣٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 17,
+        "page": 35
+      },
+      "text": "حدثنا عقبة بن مكرم العمى وأبو بكر بن نافع قالا : حدثنا غندر حدثنا شعبة عن خالد قال : سمعت عبد الله بن الحارث يحدث **عن عبد الله بن عمر أنه أمر رجلا إذا أخذ مضجعه قال : اللهم خلقت نفسي وأنت توفاها لك مماتها ومحياها إن أحييتها فاحفظها وإن أمتها فاغفر لها ، اللهم إني أسألك العافية . فقال له رجل : أسمعت هذا من عمر ؟ فقال : من خير من عمر من رسول الله ﷺ** . قال ابن نافع في روايته عن عبد الله بن الحارث ولم يذكر سمعت .",
+      "grading": "صحيح",
+      "takhrij": "وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The dhikr is printed without quotation marks. Muslim's closing remark («قال ابن نافع … ولم يذكر سمعت .») is in regular type."
+      ]
+    },
+    {
+      "number": 556,
+      "book_page": 346,
+      "heading": "ما كان يقوله الرسول ﷺ عند النوم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١١٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 115
+      },
+      "text": "حدثنا مسدد حدثنا عبد الواحد بن زياد حدثنا العلاء بن المسيب قال : حدثني أبي **عن البراء بن عازب قال : كان رسول الله ﷺ إذا أوى إلى فراشه نام على شقه الأيمن ثم قال : « اللهم إني أسلمت نفسي إليك ووجهت وجهي إليك وفوضت أمري إليك وألجأت ظهري إليك رغبة ورهبة إليك لا ملجأ ولا منجا منك إلا إليك آمنت بكتابك الذي أنزلت ونبيك الذي أرسلت » . وقال رسول الله ﷺ : « من قالهن ثم مات تحت ليلته مات على الفطرة » .**",
+      "grading": "صحيح",
+      "takhrij": "وقد أمر رسول الله ﷺ بهذا الذكر كما في الحديث التالي . وأخرجه أحمد ٤ / ٢٨٥ ، ٢٩٠ ، ٢٩٢ ، ٢٩٩ ، ٣٠٠ ، ٣٠٢",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 346 onto p. 347. The takhrij is printed as two lines, the second («وأخرجه أحمد …») indented as a new paragraph, with no full stop at its end; they are joined here."
+      ]
+    },
+    {
+      "number": 557,
+      "book_page": 347,
+      "heading": "ما كان يقوله الرسول ﷺ عند النوم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١١٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 113
+      },
+      "text": "حدثنا سعيد بن الربيع ومحمد بن عرعرة قالا : حدثنا شعبة عن أبي إسحاق سمعت البراء بن عازب أن النبي ﷺ أمر رجلا ح . وحدثنا آدم حدثنا شعبة حدثنا أبو إسحاق الهمداني **عن البراء بن عازب أن النبي ﷺ أوصى رجلا فقال : « إذا أردت مضجعك فقل : اللهم أسلمت نفسي إليك وفوضت أمري ووجهت وجهي إليك وألجأت ظهري إليك رغبة ورهبة إليك لا ملجأ ولا منجا منك إلا إليك آمنت بكتابك الذي أنزلت ونبيك الذي أرسلت فإن مت مت على الفطرة » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٧ ص٣٤ ، وابن ماجه ٣٨٧٦ ، والترمذي ج٩ ص٣٣٨ وقال : حسن غريب . وعزاه المزي في الأطراف للنسائيّ . وانظر ما تقدم .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "أمري ووجهت",
+          "corrected": "أمري إليك ووجهت",
+          "confidence": 0.65,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "The first chain ends with the tahwil sign «ح .», and the second chain («وحدثنا آدم …») starts a new printed line; the lines are joined here.",
+        "The page prints «وفوضت أمري ووجهت وجهي إليك», with no «إليك» after «أمري» (checked at 326 dpi)."
+      ]
+    },
+    {
+      "number": 558,
+      "book_page": 347,
+      "heading": "آخر ما يقول عند النوم والوضوء عند النوم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٠٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 109
+      },
+      "text": "حدثنا مسدد حدثنا معتمر قال : سمعت منصورا عن سعد بن عبيدة قال : **حدثني البراء بن عازب رضي الله عنهما قال : قال لي رسول الله ﷺ : « إذا أتيت مضجعك فتوضأ وضوءك للصلاة ثم اضطجع على شقك الأيمن وقل : اللهم أسلمت وجهي إليك وفوضت أمري إليك وألجأت ظهري إليك رغبة ورهبة إليك لا ملجأ ولا منجا منك إلا إليك آمنت بكتابك الذي أنزلت وبنبيك الذي أرسلت فإن مت مت على الفطرة فاجعلهن آخر ما تقول » . فقلت : استذكرهن وبرسولك الذي أرسلت . قال : « لا وبنبيك الذي أرسلت » .**",
+      "grading": "صحيح",
+      "takhrij": "أطراف هذا الحديث فتح ج١ ص٣٥٧ ، ورواه مسلم ج١٧ ص٣٢ ، وأبو داود ج٥ ص٢٩٨ ، والترمذي تحفة ج١٠ ص٢٥ وقال : حسن صحيح . وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة . وانظر ما تقدم .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 347 onto p. 348. The bold run starts at «حدثني», at the end of the chain's line. The heading is printed «آخر ما يقول …»; the book's index has «آخر ما يقوله …».",
+        "«استذكرهن» is printed with a bare alif (checked at 326 dpi)."
+      ]
+    },
+    {
+      "number": 559,
+      "book_page": 348,
+      "heading": "نوم الجنب إذا توضأ",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٣٩٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 393
+      },
+      "text": "حدثنا موسى بن إسماعيل قال : حدثنا جويرية عن نافع **عن عبد الله قال : استفتى عمر النبي ﷺ : أينام أحدنا وهو جنب ؟ قال : « نعم إذا توضأ » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن ماجه رقم ٥٨٥ ، والنسائيّ ج١ ص١٣٩ ، ١٤٠ ، وأحمد ٢ / ١٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Above this entry's heading the page prints a section heading «آداب تتعلق بالنوم» (also in the book's index, p. 348), with no text of its own. It covers the rest of the chapter, so it is recorded here and in the chapter notes rather than in a heading field.",
+        "The grading is printed «حسن», though the hadith is al-Bukhari's."
+      ]
+    },
+    {
+      "number": 560,
+      "book_page": 348,
+      "heading": "نوم الجنب إذا توضأ",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٣٩٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 393
+      },
+      "text": "حدثنا يحيى بن بكير قال : حدثنا الليث عن عبيد الله بن أبي جعفر عن محمد ابن عبد الرحمن عن عروة **عن عائشة قالت : كان النبي ﷺ إذا أراد أن ينام وهو جنب غسل فرجه وتوضأ للصلاة .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه حديث رقم ٥٨٤ ، والنسائيّ ج١ ص١٣٨ ، وأحمد ٢ / ١٠٢ ، ١١٩ ، ٢٠٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«ابن» is printed at the end of a line («محمد ابن» / «عبد الرحمن»)."
+      ]
+    },
+    {
+      "number": 561,
+      "book_page": 349,
+      "heading": "إطفاء النار عند النوم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٨٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 85
+      },
+      "text": "حدثنا أبو نعيم حدثنا ابن عيينة عن الزهري عن سالم **عن أبيه عن النبي ﷺ قال : « لا تتركوا النار في بيوتكم حين تنامون » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٣ ص١٨٧ ، وأبو داود ج٥ ص٤٠٨ ، وابن ماجه ٣٧٦٩ ، والترمذي ج٥ ص٥٣٣ تحفة وقال : حسن صحيح . وأحمد ٢ / ٨ .",
+      "footnotes": [
+        "(*) [على «الزهري»] قال الحافظ فتح ج١١ ص٨٥ وقع في رواية الحميدي « عن سفيان حدثنا الزهري » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The last entry of the chapter: it is followed by the ornament «****», and p. 350 opens with the next chapter's title «الرؤيا وآدابها»."
+      ]
+    }
+  ]
+}

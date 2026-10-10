@@ -1,0 +1,72 @@
+{
+  "chapter": "باب ما يقال عند الاستيقاظ",
+  "book_pages": [
+    22,
+    23
+  ],
+  "notes": [
+    "The chapter has no sub-headings, so each entry's heading is the chapter title.",
+    "It ends on p. 23 with the ornament «****»; p. 24 opens with the next chapter («باب ما يقوله من تعار من الليل»).",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 20,
+      "book_page": 22,
+      "heading": "باب ما يقال عند الاستيقاظ",
+      "label": null,
+      "citation": "قال البخاري فتح ج١١ ص١١٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 113
+      },
+      "text": "حدثنا قبيصة حدثنا سفيان عن عبد الملك عن ربعي بن خراش **عن حذيفة قال : كان النبي ﷺ إذا أوى إلى فراشه قال : « باسمك أموت وأحيا ، وإذا قام قال : الحمد لله الذي أحيانا بعد ما أماتنا وإليه النشور » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم ج١٧ ص٣٥ ، وأبو داود ج٥ ص٣٠٠ ، وابن ماجه رقم ٣٨٨٠ ، والترمذي تحفة ج٩ ص٣٦٢ ، وقال : حسن صحيح ، وابن السني في عمل اليوم والليلة رقم ٨ ، وأحمد ٥ / ٣٨٠ و ٤٠٧ ، والترمذي في الشمائل ٤١ : ٥ .",
+      "footnotes": [
+        "(*) [على «باسمك»] في رواية أبي نعيم عن سفيان في البخاري ج١١ ص ١٣٠ « باسمك اللهم » وكذا في أكثر الروايات .",
+        "(**) [على «الحمد لله الذي أحيانا بعد ما أماتنا وإليه النشور»] وقال تعالى : ﴿ **وسبح بحمد ربك حين تقوم ومن الليل فسبحه وإدبار النجوم** ﴾ الطور ٤٩ ."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "خراش",
+          "corrected": "حراش",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 17 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "Footnote (*) prints «ص ١٣٠» with a space after «ص» (zoomed at 726 dpi); kept as printed.",
+        "The (**) marker stands after the closing quotation mark, so the footnote belongs to the waking dhikr; the verse in it is printed in bold."
+      ]
+    },
+    {
+      "number": 21,
+      "book_page": 22,
+      "heading": "باب ما يقال عند الاستيقاظ",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٧١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 71
+      },
+      "text": "حدثنا عبد الله بن يوسف أخبرنا مالك عن مخرمة بن سليمان عن كريب مولى ابن عباس أنه أخبره **عن عبد الله بن عباس رضي الله عنهما أنه بات عند ميمونة -وهي خالته- قال فاضطجعت على عرض الوسادة ، واضطجع رسول الله ﷺ حتى انتصف الليل أو قبله بقليل أو بعده بقليل ، ثم استيقظ رسول الله ﷺ فجلس فمسح النوم عن وجهه بيده ، ثم قرأ العشر الآيات خواتيم سورة آل عمران ، ثم قام إلى شن معلَّقة فتوضأ منها فأحسن وضوءه ، ثم قام يصلي . قال عبد الله بن عباس رضي الله عنهما : فقمت فصنعت مثل ما صنع ، ثم ذهبت فقمت إلى جنبه ، فوضع رسول الله ﷺ يده اليمنى على رأسي وأخذ بأذني اليمنى يفتلها بيده فصلى ركعتين ، ثم ركعتين ، ثم ركعتين ، ثم ركعتين ، ثم ركعتين ، ثم ركعتين ، ثم أوتر ثم اضطجع حتى جاءه المؤذن فقام فصلى ركعتين خفيفتين ، ثم خرج فصلى الصبح .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٤٥ ، ورواه أحمد ج١ ص٣٥٨ ، وأبو داود ج١ ص٤٨ مختصرا ، وأبو داود ج٢ ص٩٥ ، ١٠٠ ، وابن ماجه ١٣٦٣ ، والنسائيّ ج٣ ص٢١١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The text runs from p. 22 onto p. 23; the grading and the takhrij footnote (٢١) are on p. 23.",
+        "«-وهي خالته-» is printed between dashes attached to the words, as kept here."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "chapter": "باب ما يقوله من قام ليتهجد",
+  "book_pages": [
+    25,
+    25
+  ],
+  "notes": [
+    "The chapter is one page: it ends on p. 25 with the ornament «****», and p. 26 opens with the next chapter (باب ما يقال عند سماع صياح الديكة …). It has no sub-headings, so the entry's heading is the chapter title.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 23,
+      "book_page": 25,
+      "heading": "باب ما يقوله من قام ليتهجد",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 3
+      },
+      "text": "حدثنا علي بن عبد الله قال حدثنا سفيان قال حدثنا سليمان بن أبي مسلم عن طاووس **سمع ابن عباس رضي الله عنهما قال : كان النبي ﷺ إذا قام من الليل يتهجد قال : « اللهم لك الحمد أنت قيم السمٰوات والأرض ومن فيهن ، ولك الحمد لك ملك السمٰوات والأرض ومن فيهن ، ولك الحمد أنت نور السمٰوات والأرض ، ولك الحمد أنت ملك السمٰوات والأرض ، ولك الحمد أنت الحق ووعدك الحق ، ولقاؤك حق ، وقولك حق ، والجنة حق والنار حق ، والنبيون حق ، ومحمد ﷺ حق ، والساعة حق ، اللهم لك أسلمت ، وبك آمنت ، وعليك توكلت ، وإليك أنبت ، وبك خاصمت ، وإليك حاكمت ، فاغفر لي ما قدمت وما أخَّرت ، وما أسررت وما أعلنت ، أنت المقدم وأنت المؤخر لا إله إلا أنت أو لا إله غيرك » .** قال سفيان قال سليمان بن أبي مسلم من طاووس عن ابن عباس رضي الله عنهما عن النبي ﷺ .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٥٤ وأبو داود ج١ ص٤٨٨ وابن ماجه ١٣٥٥ ، والنسائيّ ج٣ ص٢٠٩ ، والترمذي ج٩ ص٣٦٤ وقال : حسن صحيح ، وأحمد ١ / ٣٠٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "عن طاووس **سمع",
+          "corrected": "عن طاوس **سمع",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        },
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "من طاووس عن",
+          "corrected": "من طاوس عن",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "«السمٰوات» is printed four times with a small upright alef above the letters after the meem (checked at 576–1600 dpi); it is transcribed as the superscript alef (U+0670) on the meem. The book's elongation stroke (tatweel) is not kept.",
+        "«أخَّرت» carries a printed fatha and shadda on the kha (1600 dpi). «قيم» has no printed shadda. No comma is printed between «والجنة حق» and «والنار حق» (line break).",
+        "After the hadith, a line in regular type gives Sufyan's second report of the chain («قال سفيان قال سليمان بن أبي مسلم من طاووس عن ابن عباس …»); it is kept at the end of `text` as printed. «طاووس» is printed with two waws both times, and the second line has «من طاووس» as printed.",
+        "The scan shows a faint dashed vertical line under «فاغفر»; it is a mark of the scan, not a kasra, so «فاغفر» has no tashkeel."
+      ]
+    }
+  ]
+}

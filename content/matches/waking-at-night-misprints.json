@@ -1,0 +1,118 @@
+[
+  {
+    "entry": 22,
+    "kind": "substitution",
+    "tokens": [
+      9,
+      10
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "حدثني"
+    ],
+    "alternative_tokens": [
+      "حدثني"
+    ],
+    "left": [
+      "عن",
+      "الاوزاعي",
+      "قال"
+    ],
+    "right": [
+      "عمير",
+      "بن",
+      "هاني"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a different transmission verb, a usual difference between narrations and editions."
+  },
+  {
+    "entry": 22,
+    "kind": "substitution",
+    "tokens": [
+      14,
+      15
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "حدثني"
+    ],
+    "alternative_tokens": [
+      "حدثني"
+    ],
+    "left": [
+      "بن",
+      "هاني",
+      "قال"
+    ],
+    "right": [
+      "جناده",
+      "بن",
+      "ابي"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 5,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a different transmission verb, a usual difference between narrations and editions."
+  },
+  {
+    "entry": 22,
+    "kind": "missing",
+    "tokens": [
+      79,
+      79
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "وصلي"
+    ],
+    "alternative_tokens": [
+      "وصلى"
+    ],
+    "left": [
+      "استجيب",
+      "فان",
+      "توضا"
+    ],
+    "right": [
+      "قبلت",
+      "صلاته"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": false
+    },
+    "decision": "ask",
+    "confidence": 0.65,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net.",
+    "printed": "توضأ قبلت",
+    "corrected": "توضأ وصلى قبلت"
+  }
+]

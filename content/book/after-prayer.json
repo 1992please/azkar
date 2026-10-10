@@ -1,0 +1,753 @@
+{
+  "chapter": "باب الذكر بعد الصلاة",
+  "book_pages": [
+    78,
+    93
+  ],
+  "notes": [
+    "The chapter's title is printed at the top of p. 78; the prayer chapter ends on p. 77. The chapter ends on p. 93 with entry 140; p. 94 opens with the title of the morning-evening chapter.",
+    "Some headings are printed with a number and a dash attached to the title («١ -حديث ابن عباس», «٢ -حديث أبي هريرة …»). They are kept in the heading as printed, written with a space on both sides of the dash; the book's index leaves the numbers out. Headings without a number (e.g. «مشروعية رفع الصوت بالذكر عند الانصراف من المكتوبة») come between them.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 115,
+      "book_page": 78,
+      "heading": "١ - حديث ابن عباس",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٣٢٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 325
+      },
+      "text": "حدثنا علي بن عبد الله قال : حدثنا سفيان قال : حدثنا عمر قال : أخبرني أبو معبد **عن ابن عباس رضي الله عنهما قال : كنت أعرف انقضاء صلاة النبي ﷺ بالتكبير .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٥ ص٨٣ ، وأبو داود ج١ ص٦٠٩ ، والنسائيّ ج٣ ص٦٧ ، وأبو عوانة ج٢ ص٢٦٤ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "حدثنا عمر قال",
+          "corrected": "حدثنا عمرو قال",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: a narrator's name. The narrator between Sufyan and Abu Ma'bad is «عمرو» (the matched Bukhari 842 has «عن عمرو», and entry 116 prints this chain «أخبرني عمرو أن أبا معبد»); the chain with «عمر» occurs in no narration. The tool proposed «قال : حدثنا عمر» → «عن عمرو», which also replaces the book's transmission words, a usual narration variant; narrowed to the name."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed «١ -حديث ابن عباس», the dash attached to «حديث»; written with spaces.",
+        "«حدثنا عمر قال» is printed «عمر» with no final «و» (checked at 1000 dpi), while entry 116 has «أخبرني عمرو أن أبا معبد»; kept as printed."
+      ]
+    },
+    {
+      "number": 116,
+      "book_page": 78,
+      "heading": "مشروعية رفع الصوت بالذكر عند الانصراف من المكتوبة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٣٢٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 324
+      },
+      "text": "حدثنا إسحاق بن نصر قال : حدثنا عبد الرزاق قال : أخبرنا ابن جريج قال : أخبرني عمرو أن أبا معبد مولى ابن عباس أخبره **أن ابن عباس رضي الله عنهما أخبره أن رفع الصوت بالذكر - حين ينصرف الناس من المكتوبة - كان على عهد النبي ﷺ . وقال ابن عباس : كنت أعلم إذا انصرفوا بذلك إذا سمعته .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٥ ص٨٤ ، وأبو عوانة ج٢ ص٢٦٤ .",
+      "footnotes": [
+        "(*) [على «وقال ابن عباس»] قوله : قال ابن عباس : هو موصول بالإسناد المبدأ به كما في رواية مسلم حدثنا محمد بن حاتم قال : أخبرنا محمد بن بكر أخبرنا ابن جريج ح وحدثنا إسحاق بن منصور ثنا عبد الرزاق أخبرنا ابن جريج أخبرني عمر بن دينار أن أبا معبد مولى ابن عباس أخبره أنه ... الحديث ، وأنه قال : قال ابن عباس ج٤ ص٨٤ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«-حين ينصرف الناس من المكتوبة-» is printed with the dashes attached; written with spaces.",
+        "In the (*) footnote «عمر بن دينار» is printed with no final «و» (checked at 1000 dpi); kept as printed."
+      ]
+    },
+    {
+      "number": 117,
+      "book_page": 79,
+      "heading": "٢ - حديث أبي هريرة ( ذهب أهل الدثور ... )",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٣٢٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 325
+      },
+      "text": "حدثنا محمد بن أبي بكر قال : حدثنا معتمر عن عبيد الله عن سمي عن أبي صالح **عن أبي هريرة رضي الله عنه قال : جاء الفقراء إلى النبي ﷺ فقالوا : ذهب أهل الدثور من الأموال بالدرجات العلى والنعيم المقيم يصلون كما نصلي ويصومون كما نصوم ، ولهم فضل من أموال يحجون بها ويعتمرون ويجاهدون ويتصدقون . قال : « ألا أحدثكم بأمر إن أخذتم به أدركتم من سبقكم ، ولم يدرككم أحد من بعدكم ، وكنتم خير من أنتم بين ظهرانيه ، إلا من عمل مثله ، تُسبِّحون وتحمدون وتكبرون خلف كل صلاة ثلاثا وثلاثين » . فاختلفنا بيننا ، فقال بعضنا : نسبِّح ثلاثا وثلاثين ونحمد ثلاثا وثلاثين ونكبر أربعا وثلاثين . فرجعت إليه فقال : « تقول : سبحان الله والحمد لله والله أكبر حتى يكون منهن ثلاث وثلاثون » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٥ ص٩٣ ، وأبو داود ج٢ ص١٧٢ ، وأبو عوانة ج٢ ص٢٧١ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [
+        "(*) [على «فاختلفنا بيننا»] قوله : فاختلفنا بيننا . قال الحافظ : ظاهره أن أبا هريرة هو القائل ، وكذا قوله فرجعت إليه وأن الذي رجع أبو هريرة إليه هو النبي ﷺ ."
+      ],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "ثلاث وثلاثون",
+          "corrected": "كلهن ثلاثا وثلاثين",
+          "confidence": 0.48,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed «٢ -حديث أبي هريرة (ذهب أهل الدثور ...)», the dash attached to «حديث» and the parentheses to the words inside; written with spaces.",
+        "«تُسبِّحون» has a damma on the «ت» and a shadda with kasra on the «ب»; «نسبِّح» has the same shadda with kasra (checked at 1300 dpi).",
+        "The hadith ends «حتى يكون منهن ثلاث وثلاثون» as printed (checked at 400 dpi)."
+      ]
+    },
+    {
+      "number": 118,
+      "book_page": 79,
+      "heading": "عقد التسبيح باليد",
+      "label": null,
+      "citation": "قال الترمذي تحفة ج٩ ص٤٥٨",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 9,
+        "page": 458
+      },
+      "text": "حدثنا محمد بن عبد الأعلى أخبرنا عتام بن علي عن الأعمش عن عطاء بن السائب عن أبيه **عن عبد الله بن عمرو قال : رأيت النبي ﷺ يعقد التسبيح بيده . وقال : هذا حديث حسن غريب عن عطاء بن السائب . وروى شعبة والثوري هذا الحديث عن عطاء بن السائب بطوله . وفي الباب عن يسيرة بنت ياسر .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود في الصلاة رقم ١٥٠٢ ، والنسائيّ في الصلاة باب ٥٥٠ ، وأحمد ، وفي بعضه : بيمينه . وابن حبان ( في موارد الظمآن ) رقم ٢٣٣٤ . والسائب وإن كان صدوقا مختلطا فقد قال النسائيّ - كما في التهذيب - : رواية شعبة وسفيان عنه جيدة .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "أخبرنا عتام",
+          "corrected": "أخبرنا عثام",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: a narrator's name. «عتام» (two dots, checked at 800 dpi) exists nowhere in the collections; the narrator is «عثام بن علي», as in the matched Tirmidhi 3486. The tool proposed «أخبرنا عتام» → «بصري حدثنا عثام», which also adds the previous narrator's nisba and changes the transmission verb, both usual narration variants; narrowed to the name."
+        }
+      ],
+      "transcriber_notes": [
+        "The narrator's name is printed «عتام بن علي», with two dots on the second letter (checked at 800 dpi; compare the three dots of «حدثنا» on the same line); he is known as «عثام بن علي». Kept as printed.",
+        "Al-Tirmidhi's remarks after the hadith («وقال : هذا حديث حسن غريب … وفي الباب عن يسيرة بنت ياسر .») are printed in bold, continuing the hadith's bold run; they end at the top of p. 80, followed by the grading.",
+        "In the takhrij «-كما في التهذيب-» is printed with the dashes attached; written with spaces."
+      ]
+    },
+    {
+      "number": 119,
+      "book_page": 80,
+      "heading": "٣ - حديث أبي هريرة « من سبح في دبر كل صلاة .. »",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص٩٤",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 94
+      },
+      "text": "حدثني عبد الحميد بن بيان الواسطي أخبرنا خالد بن عبد الله عن سهيل عن أبي عبيد المذحجي - قال مسلم : أبو عبيد مولى سليمان بن عبد الملك - عن عطاء ابن يزيد الليثي **عن أبي هريرة عن رسول الله ﷺ : « من سبَّح في دُبر كل صلاة ثلاثًا وثلاثين وحمد الله ثلاثا وثلاثين وكبَّر الله ثلاثا وثلاثين فتلك تسع وتسعون وقال تمام المائة لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير غفرت خطاياه وإن كانت مثل زبد البحر »** . وحدثنا محمد بن الصباح حدثنا إسماعيل بن زكريا عن سهيل عن أبي عبيد عن عطاء **عن أبي هريرة قال : قال رسول الله ﷺ بمثله .**",
+      "grading": "حسن",
+      "takhrij": "وأبو عوانة ج٢ ص٢٧٠ ، والبيهقي ٢ / ١٨٧ ، وأحمد ٢ / ٣٧٣ ، ٣٨٣ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة ( ٥٧ : ٢ ) .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed «٣ -حديث أبي هريرة «من سبح في دبر كل صلاة ..»», the dash attached to «حديث» and the quotation marks to the words inside; written with spaces.",
+        "«-قال مسلم : أبو عبيد مولى سليمان بن عبد الملك-» is printed with the dashes attached; written with spaces.",
+        "«سبَّح» and «وكبَّر» carry a shadda with fatha, «دُبر» a damma, and the first «ثلاثًا» a tanween fath; the other «ثلاثا» have no marks (checked at 1100–1500 dpi).",
+        "The grading is printed «حسن», although the hadith is from Muslim; kept as printed."
+      ]
+    },
+    {
+      "number": 120,
+      "book_page": 80,
+      "heading": "٤ - حديث كعب بن عجرة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص٩٤",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 94
+      },
+      "text": "حدثنا الحسن بن عيسى أخبرنا ابن المبارك أخبرنا مالك بن مغول قال : سمعت الحكم بن عتيبة يحدث عن عبد الرحمن بن أبي ليلى **عن كعب بن عجرة عن رسول الله ﷺ قال : « معقبات لا يخيب قائلهن أو فاعلهن دبر كل صلاة مكتوبة ثلاث وثلاثون تسبيحة وثلاث وثلاثون تحميدة وأربع وثلاثون تكبيرة » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٣ ص٧٥ ، والترمذي ج٩ ص٣٥٨ وقال : حسن . وأبو عوانة ج٢ ص٢٦٩ ، والبيهقي ٢ / ١٨٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed «٤ -حديث كعب بن عجرة», the dash attached to «حديث»; written with spaces.",
+        "The citation and the first line of the chain are at the bottom of p. 80; the rest of the entry is on p. 81."
+      ]
+    },
+    {
+      "number": 121,
+      "book_page": 81,
+      "heading": "٥ - حديث زيد بن ثابت",
+      "label": null,
+      "citation": "قال النسائيّ ج٣ ص٦٤",
+      "source": {
+        "collection": "nasai",
+        "volume": 3,
+        "page": 64
+      },
+      "text": "أخبرنا موسى بن حزام الترمذي قال : حدثنا يحيى بن آدم عن ابن إدريس عن هشام ابن حسان عن محمد بن سيرين عن كثير بن أفلح **عن زيد بن ثابت قال : أُمروا أن يُسبحوا دبر كل صلاة ثلاثا وثلاثين ويحمدوا ثلاثا وثلاثين ويكبروا أربعا وثلاثين . فأتى رجل من الأنصار في منامه فقيل له : أمركم رسول الله ﷺ أن تسبحوا دبر كل صلاة ثلاثا وثلاثين وتحمدوا ثلاثا وثلاثين وتكبروا أربعا وثلاثين ؟ قال : نعم . قال : فاجعلوها خمسا وعشرين ، اجعلوا فيها التهليل . فلما أصبح أتى النبي ﷺ فذكر ذلك له فقال : « اجعلوها كذلك » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٤ / ٢٥١ ، وابن حبان في موارد الظمآن رقم ٢٣٤٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed «٥ -حديث زيد بن ثابت», the dash attached to «حديث»; written with spaces.",
+        "«أُمروا» has a damma over the hamza and «يُسبحوا» a damma on the «ي» (checked at 470–940 dpi); the other verbs have no marks.",
+        "«هشام ابن حسان»: «ابن» is printed at the start of a line; kept as printed."
+      ]
+    },
+    {
+      "number": 122,
+      "book_page": 81,
+      "heading": "٦ - حديث المغيرة بن شعبة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٣٢٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 325
+      },
+      "text": "حدثنا محمد بن يوسف قال : حدثنا سفيان عن عبد الملك بن عمير عن وراد كاتب المغيرة بن شعبة قال : **أملى عليَّ المغيرة بن شعبة في كتاب إلى معاوية أن النبي ﷺ كان يقول في دبر كل صلاة مكتوبة : « لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير ، اللهم لا مانع لما أعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد »** . وقال شعبة عن عبد الملك بهذا عن الحكم عن القاسم بن مخيمر عن وراد بهذا . وقال الحسن : الجد غِنَى .",
+      "grading": "صحيح",
+      "takhrij": "وقد ساق البخاري طرقًا أخرى كثيرة عن وراد في أماكن متفرقة من صحيحه . ورواه مسلم ج٥ ص٩٠ ، وأبو داود ج٢ ص١٧٣ ، والنسائيّ ج٣ ص٧١ ، والترمذي معلقا تحفة ج٢ ص١٩٤ ، وأبو عوانة ج٢ ص٢٦٥ ، وابن السني في عمل اليوم والليلة رقم ١١٣ .",
+      "footnotes": [
+        "(*) [على «وقال شعبة»] قال الحافظ فتح ج٢ ص٣٣٣ قوله : وقال شعبة عن عبد الملك بن عمير بهذا .. وصله السراج في مسنده ، والطبراني في الدعاء وابن حبان من طريق معاذ بن معاذ عن شعبة ولفظه عن عبد الملك بن عمير : سمعت ورادا كاتب المغيرة بن شعبة أن المغيرة كتب إلى معاوية ... فذكره وفي قوله : ( كتب ) تجوزا لما تبين من رواية سفيان وغيره أن الكاتب هو وراد لكنه كتب بأمر المغيرة وإملائه عليه ، وعند مسلم من رواية عبدة عن وراد قال : كتب المغيرة إلى معاوية ، كتب ذلك الكتاب له وراد . فجمع بين الحقيقة والمجاز ."
+      ],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "مخيمر",
+          "corrected": "مخيمرة",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed «٦ -حديث المغيرة بن شعبة», the dash attached to «حديث»; written with spaces.",
+        "The entry starts at the bottom of p. 81 and ends on p. 82.",
+        "Al-Bukhari's remarks after the hadith («وقال شعبة … وقال الحسن : الجد غِنَى .») are printed in regular type, after the bold run.",
+        "«بهذا عن الحكم» and «القاسم بن مخيمر» (no final «ة») are printed so (checked at 500 dpi); the narrator is usually named «القاسم بن مخيمرة». Kept as printed.",
+        "«غِنَى» has a kasra under the «غ» and a single fatha over the «ن», not a tanween (checked at 1600 dpi). «عليَّ» has a shadda with fatha.",
+        "The takhrij (122) opens with the remark «وقد ساق البخاري طرقًا …» and goes on, on a new line, with «ورواه مسلم …»; joined into one paragraph. «طرقًا» carries a tanween fath (1600 dpi)."
+      ]
+    },
+    {
+      "number": 123,
+      "book_page": 82,
+      "heading": "٧ - حديث ابن الزبير",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص٩١",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 91
+      },
+      "text": "حدثنا محمد بن عبد الله بن نمير حدثنا أبي حدثنا هشام عن أبي الزبير قال : **كان ابن الزبير يقول في دبر كل صلاة حين يسلم : لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير لا حول ولا قوة إلا بالله لا إله إلا الله ولا نعبد إلا إياه له النعمة وله الفضل وله الثناء الحسن لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير لا حول ولا قوة إلا بالله لا إله إلا الله ولا نعبد إلا إياه له النعمة وله الفضل وله الثناء الحسن لا إله إلا الله مخلصين له الدين ولو كره الكافرون وقال : كان رسول الله ﷺ يهلل بهن دبر كل صلاة .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٣ ص١٧٣ ، والنسائيّ ج٣ ص٦٩ ، وأبو عوانة ج٢ ص٢٦٧ ، وأحمد ٤ / ٥ .",
+      "footnotes": [
+        "(**) [على «أبي الزبير»] وقد صُرح في مسلم بسماع أبي الزبير من عبد الله بن الزبير كما في الرواية التالية لهذه ج٥ ص٩٢ نووي .",
+        "(*) [على «ولو كره الكافرون»] في رواية أبي عوانة : ولو كره المشركون . ص٢٦٧ وفي أخرى : الكافرون ."
+      ],
+      "corrections": [
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "الحسن لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير لا حول ولا قوة إلا بالله لا إله إلا الله ولا نعبد إلا إياه له النعمة وله الفضل وله الثناء الحسن لا إله إلا الله مخلصين",
+          "corrected": "الحسن لا إله إلا الله مخلصين",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "Repeated at the page turn: p. 82 ends «… وله الثناء الحسن لا إله إلا الله» and p. 83 starts again from «وحده لا شريك له», so the dhikr from «وحده» to «لا إله إلا الله» is printed twice. The matched Muslim 594 has it once: vocalize.py finds no database match for 39 of the entry's words, almost all of them the 38 repeated ones. The repetition is grammatical, so it is left for the owner."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed «٧ -حديث ابن الزبير», the dash attached to «حديث»; written with spaces.",
+        "Repeated passage across the page break: p. 82 ends «… وله الثناء الحسن لا إله إلا الله» and p. 83 begins again «وحده لا شريك له له الملك … وله الثناء الحسن لا إله إلا الله مخلصين له الدين …», so the whole run from «وحده لا شريك له» to «الثناء الحسن لا إله إلا الله» is printed twice. Transcribed as printed; it looks like a typesetting repetition at the page turn, for the pipeline review to judge.",
+        "«ولو كره الكافرون» is followed directly by «وقال :» with no full stop, as printed.",
+        "The footnote markers are (**) on «أبي الزبير» (footnote on p. 82, where (*) is entry 122's) and (*) on «الكافرون» (footnote on p. 83). In the (**) footnote «بسماع» is printed with a gap («بسما ع»); written as one word."
+      ]
+    },
+    {
+      "number": 124,
+      "book_page": 83,
+      "heading": "٨ - حديث ثوبان",
+      "label": null,
+      "citation": "قال ابن ماجه ٩٢٨",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 928
+      },
+      "text": "حدثنا هشام بن عمار ثنا عبد الحميد بن حبيب ثنا الأُوزاعي ح وحدثنا عبد الرحمن ابن إبراهيم الدمشقي قال : ثنا الوليد بن مسلم قال : حدثنا الأُوزاعي حدثني شداد أبو عمار حدثنا أبو أسماء الرحبي **حدثني ثوبان أن رسول الله ﷺ كان إذا انصرف من صلاته استغفر ثلاث مرات ثم يقول : « اللهم أنت السلام ومنك السلام تباركت يا ذا الجلال والإكرام » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم ج٥ ص٨٩ نووي ، والنسائيّ ج٣ ص٦٨ ، والترمذي تحفة ج٢ ص١٩٥ ، وأبو عوانة ج٢ ص٢٦٤ ، وأبو داود في الصلاة ٣٦١ .",
+      "footnotes": [
+        "(**) [على «والإكرام»] وهناك زيادة تفسيرية من قول التابعي .. وهي ( قال الوليد للأُوزاعي : كيف الاستغفار ؟ قال : تقول : استغفر الله ، استغفر الله ) ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed «٨ -حديث ثوبان», the dash attached to «حديث»; written with spaces.",
+        "«الأُوزاعي» has a damma over the hamza both times in the chain, and «للأُوزاعي» in the footnote too (checked at 1100–1600 dpi).",
+        "«عبد الرحمن ابن إبراهيم»: «ابن» is printed at the start of a line; kept as printed. «ثلاث مرات ثم يقول» checked at 730 dpi.",
+        "The footnote marker is (**), since (*) on the same page belongs to entry 123. In it «استغفر» is printed with a plain alef both times; kept as printed."
+      ]
+    },
+    {
+      "number": 125,
+      "book_page": 83,
+      "heading": "٩ - حديث عائشة",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص١٧٦",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 176
+      },
+      "text": "حدثنا مسلم بن إبراهيم حدثنا شعبة عن عاصم الأحول وخالد الحذاء عن عبد الله ابن الحارث **عن عائشة رضي الله عنها أن النبي ﷺ كان إذا سلم قال : « اللهم أنت السلام ومنك السلام تباركت يا ذا الجلال والإكرام » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه رقم ٩٢٤ ، والنسائيّ ج٣ ص٦٩ ، والترمذي تحفة ج٢ ص١٩٢ وقال : حسن صحيح . وأبو عوانة ص٢٦٣ ج٢ ، وابن السني عمل اليوم والليلة رقم ١٠٧ ، ومسلم ص٤١٤ ولفظه عنده : كان النبي ﷺ إذا سلم لم يقعد إلا مقدار ما يقول : « اللهم أنت السلام ومنك السلام تباركت ذا الجلال والإكرام » .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed «٩ -حديث عائشة», the dash attached to «حديث»; written with spaces.",
+        "The entry starts at the bottom of p. 83; the supplication is at the top of p. 84, with the opening quotation mark attached to «اللهم»; written with a space.",
+        "«عبد الله ابن الحارث»: «ابن» is printed at the start of a line; kept as printed.",
+        "In the takhrij, «ص٢٦٣ ج٢» is printed in that order, Muslim is cited by page only («ص٤١٤»), and the quoted wording has «تباركت ذا الجلال» without «يا» (checked at 330 dpi); all kept as printed."
+      ]
+    },
+    {
+      "number": 126,
+      "book_page": 84,
+      "heading": "١٠ - حديث معاذ",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص١٨٠",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 180
+      },
+      "text": "حدثنا عبيد الله بن عمر بن ميسرة ، حدثنا عبد الله بن يزيد المقرئ ، حدثنا حيوة ابن شريح ، قال : سمعت عقبة بن مسلم يقول : حدثني أبو عبد الرحمن الحبلي عن الصنابحى **عن معاذ بن جبل أن رسول الله ﷺ أخذ بيده وقال : « يا معاذ والله إني لأحبك والله إني لأحبك » فقال : « أوصيك يا معاذ لا تدعن في دبر كل صلاة تقول : اللهم أعني على ذكرك وشكرك وحسن عبادتك » .** وأوصى بذلك معاذٌ الصنابحىُ وأوصى به الصنابحىُ أبا عبد الرحمن .",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٣ ص٥٣ ، وابن السني رقم ١١٦ ، وأحمد ٥ / ٢٤٥ ، ٢٤٧ ، وابن حبان رقم ٢٣٤٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed «١٠ -حديث معاذ», the dash attached to «حديث»; written with spaces.",
+        "«المقرئ» ends in a «ي»-shaped letter with the hamza above its tail and no dots (checked at 1600 dpi); written «ئ».",
+        "«الصنابحى» is printed without dots under the final letter all three times (checked at 1600 dpi); kept as printed.",
+        "The closing sentence «وأوصى بذلك معاذٌ الصنابحىُ وأوصى به الصنابحىُ أبا عبد الرحمن .» is in regular type. At 1600 dpi «معاذ» carries a damma whose tail curls up, read as tanween damm, and both «الصنابحى» carry the same plain damma, although the first is the object of «أوصى» (one would expect «الصنابحيَّ»). Transcribed as printed.",
+        "«حيوة ابن شريح»: «ابن» is printed at the start of a line; kept as printed."
+      ]
+    },
+    {
+      "number": 127,
+      "book_page": 84,
+      "heading": "١١ - حديث عقبة بن عامر",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص١٨١",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 181
+      },
+      "text": "حدثنا محمد بن سلمة المرادي ، حدثنا ابن وهب ، عن الليث بن سعد أن حنين بن أبي حكيم حدثه ، عن علي بن رباح اللخمي **عن عقبة بن عامر قال : أمرني رسول الله ﷺ أن أقرأ بالمعوذات دبر كل صلاة .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه النسائيّ ج٣ ص٦٨ ، والترمذي ج٨ ص٢١٥ وقال : حسن غريب . وابن السني عمل اليوم والليلة رقم ١٢٠ ، وأحمد ٤ / ١٥٥ ، ٢٠١ ، وابن حبان رقم ٢٣٤٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed «١١ -حديث عقبة بن عامر», the dash attached to «حديث»; written with spaces.",
+        "The takhrij (127) breaks off at the bottom of p. 84 after «وقال :» and goes on at the top of p. 85 («= حسن غريب …»); joined."
+      ]
+    },
+    {
+      "number": 128,
+      "book_page": 85,
+      "heading": "١٢ - حديث سعد بن أبي وقاص",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص٣٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 35
+      },
+      "text": "حدثنا موسى بن إسماعيل حدثنا أبو عوانة حدثنا عبد الملك بن عمير سمعت عمر ابن ميمون الأودي قال : **كان سعد يعلم بنيه هؤلاء الكلمات كما يعلم المعلم الغلمان الكتابة ويقول : إن رسول الله ﷺ كان يتعوذ منهن دبر الصلاة ، اللهم إني أعوذ بك من الجبن ، وأعوذ بك أن أرد إلى أرذل العمر ، وأعوذ بك من فتنة الدنيا وأعوذ بك من عذاب القبر . فحدثت به مصعبًا فصدقه .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي ج١٠ ص١٤ وقال : حسن صحيح . والنسائيّ ج٧ باب التعوذ .",
+      "footnotes": [
+        "(*) [على «سمعت»] هكذا رواه البخاري هنا مصرحا بالتحديث والسماع ومقيدا بدبر الصلاة . وقد رواه في أماكن متفرقة من صحيحه غير مصرحا فيها بالتحديث ولا بالسماع وغير مقيد بدبر الصلاة ."
+      ],
+      "corrections": [
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "عمر ابن ميمون",
+          "corrected": "عمرو ابن ميمون",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: a narrator's name. The matched Bukhari 2822 names him «عمرو بن ميمون الأودي», and «عمر» in this context occurs in no narration (misprints.py found the printed wording nowhere, but kept it because only the matched text supports the alternative). The same final «و» is missing from «عمرو» in entry 115 (correction 2)."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed «١٢ -حديث سعد بن أبي وقاص», the dash attached to «حديث»; written with spaces.",
+        "«سمعت عمر ابن ميمون»: «عمر» is printed with no final «و» at the end of a line (checked at 1600 dpi) and «ابن» starts the next line, as in entry 115's «عمر»; kept as printed.",
+        "«الجبن،وأعوذ» is printed with the comma attached; written with spaces. «مصعبًا» carries a tanween fath.",
+        "The (*) footnote reads «غير مصرحا» as printed."
+      ]
+    },
+    {
+      "number": 129,
+      "book_page": 85,
+      "heading": "١٣ - حديث أبي بكرة",
+      "label": null,
+      "citation": "قال النسائيّ ج٨ ص٢٣٠",
+      "source": {
+        "collection": "nasai",
+        "volume": 8,
+        "page": 230
+      },
+      "text": "أخبرنا محمد بن المثنى قال : حدثنا ابن أبي عدي قال : حدثنا عثمان يعني الشحام قال : حدثنا مسلم يعني ابن أبي بكرة أنه **سمع والده يقول في دبر الصلاة : اللهم إني أعوذ بك من الكفر والفقر وعذاب القبر . فجعلت أدعو بهن ، فقال : يا بني أنى علمت هؤلاء الكلمات ؟ قلت : يا أبت سمعتك تدعو بهن في دبر الصلاة فأخذتهن عنك . قال : فالزمهن يا بني ؛ فإن نبي الله ﷺ كان يدعو بهن في دبر الصلاة .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن السني في عمل اليوم والليلة رقم ١٠٩ ، وأحمد ٥ / ٣٦ ، ٣٩ ، ٤٤ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "أنه **سمع",
+          "corrected": "أنه كان **سمع",
+          "confidence": 0.6,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed «١٣ -حديث أبي بكرة», the dash attached to «حديث»; written with spaces.",
+        "The entry starts at the bottom of p. 85; its last line, the grading and the takhrij are on p. 86.",
+        "The bold run starts at «سمع والده», after «أنه» (checked at 330 dpi). «يا بني ؛ فإن» is printed with an Arabic semicolon; kept as printed."
+      ]
+    },
+    {
+      "number": 130,
+      "book_page": 86,
+      "heading": "فضل آية الكرسي دبر الصلاة",
+      "label": null,
+      "citation": "قال ابن السني عمل اليوم والليلة رقم ١٢١",
+      "source": {
+        "collection": "ibnsunni",
+        "hadith": 121,
+        "edition": "عمل اليوم والليلة"
+      },
+      "text": "حدثنا محمد بن عبيد بن الفضل الكلاعي الحمصي حدثنا اليمان بن سعيد وأحمد بن هارون جميعا بالمصيصة قالا : حدثنا محمد بن حمير عن محمد بن زياد الألهاني **عن أبي أمامة قال : قال رسول الله ﷺ : « من قرأ آية الكرسي دبر كل صلاة مكتوبة لم يحل بينه وبين دخول الجنة إلا الموت » .**",
+      "grading": "حسن",
+      "takhrij": "وللحديث شاهد عزاه ابن القيم للنسائيّ في السنن الكبير وقال : هذا الحديث تفرد به محمد بن حمير عن محمد بن زياد الألهاني عن أبي أمامة ، ورواه النسائيّ عن الحسين ابن بشر عن محمد بن حمير . ( زاد المعاد . تحقيق شعيب ج١ ص٣٠٣ ) وذكره ابن كثير بإسناد ابن مردويه ج١ ص٤٥٥ تفسير آية الكرسي .",
+      "footnotes": [
+        "(*) [على «وأحمد بن هارون»] محمد بن عبيد الكلاعي ، ذكر الشيخ ناصر الألباني أن له ترجمة جيدة في تاريخ ابن عساكر ٥ / ٣٢٣ / ٢ . يمان بن سعيد ، قال في الميزان : ضعفه الدارقطني ولم يترك . وقد تعامل معه الشيخ ناصر على أنه يمان بن يزيد لروايته عن محمد بن حمير . ويمان بن يزيد ، قال الدارقطني : لا اعرفه . ولكن كما ترى فقد فرق بينهما صاحب الميزان . أحمد بن هارون ، يقال له : أحمد المصيصي . صاحب مناكير عن الثقات . قاله ابن عدي - كما في اللسان - ومن ذلك روايته عن حجاج عن ابن جريج عن الزهري عن عروة عن عائشة وزيد ابن خالد مرفوعا : من مس ذكره فليتوضأ . انتهى . وذكره ابن حبان في الثقات فقال : أحمد بن هارون بن آدم من أهل المصيصة وروى عن محمد بن حمير حدثنا عنه مكحول البيروتي . وقال ابن كثير في تفسير آية الكرسي بعد أن ذكره : وهكذا رواه النسائيّ في « اليوم والليلة » عن الحسين بن بشر به وأخرجه ابن حبان في صحيحه من حديث محمد بن حمير وهو الحمصي - من رجال البخاري أيضا فهو إسناد على شرط البخاري . وقد زعم أبو الفرج بن الجوزي أنه حديث موضوع . فالله أعلم . وقد روى مردويه من حديث علي والمغيرة بن شعبة وجابر بن عبد الله نحو هذا الحديث ولكن في إسناد كل منهما ضعف ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain has «اليمان بن سعيد» (with the article) while the (*) footnote names him «يمان بن سعيد»; both as printed.",
+        "The (*) marker is on «هارون»; the footnote covers all three narrators of the chain. After the marked paragraph it goes on in unmarked paragraphs (on «يمان بن سعيد», «أحمد بن هارون», Ibn Hibban, and Ibn Kathir's remark on the hadith); they are kept in this footnote in the printed order, joined into one paragraph. Its last paragraph breaks off at the bottom of p. 86 after «وهو الحمصي -» and goes on at the top of p. 87 («= من رجال البخاري …»); joined, keeping the printed dash.",
+        "In the (*) footnote the Ibn Asakir reference is printed «٥/٣٢٣/٢» with «٥» on the right (checked at 1200 dpi), written right to left as «٥ / ٣٢٣ / ٢»; «لا اعرفه» has a bare alef with no hamza (checked at 650 dpi); «-كما في اللسان-» is printed with the dashes attached, written with spaces; «وقد روى مردويه» has no «ابن»; «كل منهما» as printed. All kept as printed.",
+        "In the takhrij «الحسين ابن بشر»: «ابن» is printed at the start of a line; kept as printed. The takhrij and the footnote look heavier than the body's regular type, as footnotes do throughout; no bold is marked in them."
+      ]
+    },
+    {
+      "number": 131,
+      "book_page": 87,
+      "heading": "المكث في المصلى بعد صلاة الصبح حتى تطلع الشمس",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص١٧٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 170
+      },
+      "text": "حدثنا أحمد بن عبد الله بن يونس حدثنا زهير حدثنا سماك ح وحدثنا يحيى بن يحيى واللفظ له قال : أخبرنا أبو خيثمة عن سماك بن حرب قال : **قلت لجابر بن سمرة : أكنت تجالس رسول الله ﷺ ؟ قال : نعم كثيرا ، كان لا يقوم من مصلاه الذي يصلي فيه الصبح أو الغداة حتى تطلع الشمس فإذا طلعت قام . وكانوا يتحدثون فيأخذون في أمر الجاهلية فيضحكون ويتبسم .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص١٧٨ مختصرا والنسائيّ ج٣ ص٨٠ ، والترمذي ج٣ ص١٩٣ تحفة وقال : حسن صحيح .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed on two lines («المكث في المصلى بعد صلاة الصبح» / «حتى تطلع الشمس»); joined with a space.",
+        "The grading is printed «حسن», although the hadith is from Muslim; kept as printed.",
+        "In the takhrij «ج٥ ص١٧٨ مختصرا والنسائيّ» has no comma after «مختصرا» (checked at 330 dpi); kept as printed."
+      ]
+    },
+    {
+      "number": 132,
+      "book_page": 87,
+      "heading": "فضل من جلس بعد صلاة الفجر جماعة يذكر الله حتى تطلع الشمس",
+      "label": null,
+      "citation": "قال الترمذي ج٣ ص١٩٣ تحفة",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 3,
+        "page": 193
+      },
+      "text": "حدثنا عبد الله بن معاوية الجمحي البصري أخبرنا عبد العزيز بن مسلم أخبرنا أبو ظلال **عن أنس قال : قال رسول الله ﷺ : « من صلى الفجر في جماعة ثم قعد يذكر الله حتى تطلع الشمس ثم صلى ركعتين كانت له كأجر حجة قال الطبراني رقم ٧٦٤٩ :** حدثنا أحمد بن عمرو الخلال المكي ثنا يعقوب بن حميد ثنا مروان معاوية عن الأحوص ابن حكيم ثنا أبو عامر الألهاني **عن أبي أمامة وعتبة بن عبد أن رسول الله ﷺ كان يقول : « من صلى الصبح في مسجد جماعة ثم مكث حتى يسبح تسبيحة الضحى كان له كأجر حاج ومعتمر تام له حجته وعمرته » . وقال الطبراني أيضا رقم ٧٦٦٣ :** حدثنا الحسين بن إسحاق التستري ثنا المغيرة بن عبد الرحمن عن موسى بن علي عن يحيى بن الحارث عن القاسم **عن أبي أمامة قال : قال رسول الله ﷺ : « من صلى صلاة الصبح في مسجد جماعة يثبت فيه حتى يصلي سبحة الضحى كان له كأجر حاج أو معتمر تاما حجته وعمرته » . وقال الطبراني رقم ٧٧٤١ :** حدثنا الحسين بن إسحاق التستري ثنا المغيرة بن عبد الرحمن الحراني ثنا عثمان بن عبد الرحمن عن موسى بن علي عن يحيى بن الحارث عن القاسم **عن أبي أمامة رضي الله عنه قال : قال رسول الله ﷺ : « من صلى صلاة الغداة في جماعة ثم جلس يذكر الله حتى تطلع الشمس ثم قام فركع ركعتين انقلب بأجر حجة وعمرة » .**",
+      "grading": null,
+      "takhrij": "قال أبو عيسى : هذا حديث حسن غريب . وسألت محمد بن إسماعيل عن أبي ظلال فقال : هو مقارب الحديث ، قال محمد : واسمه هلال .",
+      "footnotes": [
+        "(*) [على «هذا حديث حسن» في التخريج] قال المباركفوري : حسنه الترمذي ، في إسناده أبو ظلال متكلم فيه لكن له شواهد ، فمنها حديث أبي أمامة قال : قال رسول الله ﷺ : « من صلى الغداة في جماعة ثم جلس يذكر الله حتى تطلع الشمس ثم قام فصلى ركعتين انقلب بأجر حجة وعمرة » . أخرجه الطبراني ، قال المنذري في الترغيب : إسناده جيد . ومنها حديث أبي أمامة وعتبة بن عبد مرفوعا : « من صلى الصبح في جماعة ثم ثبت حتى يسبح الله سبحة الضحى كان له كأجر حاج ومعتمر تاما له حجة وعمرة » . أخرجه الطبراني ، قال المنذري : وبعض رواته مختلف فيه ، قال : وللحديث شواهد كثيرة . انتهى ، وفي الباب أحاديث عديدة ذكرها المنذري في الترغيب ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed on two lines («فضل من جلس بعد صلاة الفجر جماعة» / «يذكر الله حتى تطلع الشمس»); joined with a space.",
+        "The hadith breaks off at the bottom of p. 87 with «كانت له كأجر حجة», with no closing quotation mark and no full stop: nothing else is printed below it before the footnote rule, and p. 88 opens directly with «قال الطبراني رقم ٧٦٤٩ :» (both checked at 330 dpi). Al-Tirmidhi's narration ends «… كأجر حجة وعمرة تامة تامة تامة», so the rest of the line seems lost in typesetting. Transcribed as printed.",
+        "P. 88 has three narrations from al-Tabarani, each with its own citation line printed in the bold type of citation lines («قال الطبراني رقم ٧٦٤٩ :», «وقال الطبراني أيضا رقم ٧٦٦٣ :», «وقال الطبراني رقم ٧٧٤١ :») but no entry number and no grading. Entry numbers can't repeat, so they are joined to this entry's text, as on entry 174 (p. 116). Unlike there, these citation lines name another source, so they are kept in the text, in bold as printed.",
+        "No grading is printed after the entry or after the Tabarani narrations; `grading` is null. The takhrij (132) quotes al-Tirmidhi's own grading «حسن غريب».",
+        "First Tabarani chain: «مروان معاوية» is printed with no «بن» between the names (checked at 550 dpi), and «الأحوص ابن حكيم» has «ابن» at the start of a line; both kept as printed. Its wording «تام له حجته وعمرته» and the second's «تاما حجته وعمرته» are as printed (330 dpi).",
+        "The (*) marker is in the takhrij, on «حسن» of «هذا حديث حسن غريب». The footnote's first lines (on p. 87) are printed in bold; no bold is marked in footnotes. It breaks off after «« من صلى الغداة =» and goes on at the top of p. 88; joined."
+      ]
+    },
+    {
+      "number": 133,
+      "book_page": 88,
+      "heading": "النداء عند الكسوف ( الصلاة جامعة )",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٥٣٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 533
+      },
+      "text": "حدثنا إسحاق قال : أخبرنا يحيى بن صالح قال : حدثنا معاوية بن سلام بن أبي سلام الحبشي الدمشقي قال : حدثنا يحي بن أبي كثير قال : أخبرني أبو سلمة بن عبد الرحمن ابن عوف الزهري **عن عبد الله بن عمر رضي الله عنهما قال : لما كُسفت الشمس على عهد رسول الله ﷺ نودي : إن الصلاة جامعة .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢١٤ نووي .",
+      "footnotes": [
+        "(*) [على «الحبشي الدمشقي»] وأخرجه البخاري من طريق أبي نعيم حدثنا شيبان عن يحيى .. فتح ج٢ ص٥٣٨ ."
+      ],
+      "corrections": [
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "عبد الله بن عمر رضي",
+          "corrected": "عبد الله بن عمرو رضي",
+          "confidence": 0.75,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "The page prints «عبد الله بن عمر» (no final «و», checked at 1600 dpi), but the matched Bukhari 1045 (93%) narrates this hadith from «عبد الله بن عمرو». misprints.py keeps the book because «عبد الله بن عمر» (Ibn Umar) is a common name, but this changes which Companion narrates, so it is left for the owner. The same final «و» is missing from «عمرو» in entries 115 and 128."
+        },
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "حدثنا يحي بن",
+          "corrected": "حدثنا يحيى بن",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed on two lines, «النداء عند الكسوف» and «(الصلاة جامعة)» below it; joined with a space, with spaces inside the parentheses.",
+        "The citation and the first line of the chain are at the bottom of p. 88; the rest of the entry is on p. 89.",
+        "«حدثنا يحي بن أبي كثير» is printed with a single final «ي» (checked at 1600 dpi), while the (*) footnote has «يحيى»; kept as printed.",
+        "The Companion is printed «عبد الله بن عمر» with no final «و» (checked at 1600 dpi); al-Bukhari narrates this hadith from «عبد الله بن عمرو». Kept as printed, for the pipeline review. «كُسفت» carries a damma on the «ك»."
+      ]
+    },
+    {
+      "number": 134,
+      "book_page": 89,
+      "heading": "ذكر الله والدعاء والاستغفار عند الكسوف",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٥٤٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 545
+      },
+      "text": "حدثنا محمد بن العلاء قال : حدثنا أبو أسامة عن بريد بن عبد الله عن أبي بردة **عن أبي موسى قال : خسفت الشمس فقام النبي ﷺ فزعا يخشى أن تكون الساعة فأتى المسجد فصلى بأطول قيام وركوع وسجود رأيته قط يفعله وقال : « هذه الآيات التي يرسل الله لا تكون لموت أحد ولا لحياته ، ولكن يخوف الله بها عباده ، فإذا رأيتم شيئا من ذلك فافزعوا إلى ذكر الله ودعائه واستغفاره » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢١٥ نووي ، والنسائيّ ج٣ ص١٥٤ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "ذكر الله",
+          "corrected": "ذكره",
+          "confidence": 0.56,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The bold run starts at «عن أبي موسى», whose «عن» ends the first line of the chain."
+      ]
+    },
+    {
+      "number": 135,
+      "book_page": 89,
+      "heading": "دعاء الله والصلاة عند الكسوف",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٥٤٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 546
+      },
+      "text": "حدثنا أبو الوليد قال : حدثنا زائدة قال : حدثنا زياد بن علاقة قال : **سمعت المغيرة ابن شعبة يقول : انكسفت الشمس يوم مات إبراهيم ، فقال الناس : انكسفت لموت إبراهيم ، فقال رسول الله ﷺ : « إن الشمس والقمر آيتان من آيات الله ، لا ينكسفان لموت أحد ولا لحياته ، فإذا رأيتموهما فادعوا الله وصلوا حتى ينجلي » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢١٨ نووي ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى ، وأخرجه أحمد ٤ / ٢٤٥ ، ٢٤٩ ، ٢٥٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation, the chain and the first line of the hadith are at the bottom of p. 89; the rest of the entry, the grading and the takhrij (135) are on p. 90.",
+        "The bold run starts at «سمعت المغيرة». «المغيرة ابن شعبة»: «ابن» is printed at the start of a line; kept as printed."
+      ]
+    },
+    {
+      "number": 136,
+      "book_page": 90,
+      "heading": "إحدى كيفيات صلاة الكسوف",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٥٣٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 535
+      },
+      "text": "حدثنا سعيد بن عفير قال : حدثنا الليث حدثني عقيل عن ابن شهاب قال : أخبرني عروة بن الزبير **أن عائشة زوج النبي ﷺ أخبرته أن رسول الله ﷺ صلى يوم خسفت الشمس فقام فكبر فقرأ قراءة طويلة ثم ركع ركوعا طويلا ، ثم رفع رأسه فقال : « سمع الله لمن حمده » وقام كما هو ، ثم قرأ قراءة طويلة وهي أدني من القراءة الأولى ، ثم ركع ركوعا طويلا وهيى أدنى من الركعة الأولى ، ثم سجد سجودا طويلا ثم فعل في الركعة الآخرة مثل ذلك ، ثم سلم وقد تجلت الشمس فخطب الناس فقال في كسوف الشمس والقمر : « إنهما آيتان من آيات الله لا يخسفان لموت أحد ولا لحياته ، فإذا رأيتموهما فافزعوا إلى الصلاة » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢٠٠ نووي ، وأبو داود ج١ ص٦٩٧ ، وابن ماجه ١٢٦٣ ، والنسائيّ ج٣ ص١٣٠ ، والترمذي ج٣ ص١٤٣ تحفة وقال : حسن صحيح . وابن الجارود رقم ٢٤٩ ، وأحمد ٦ / ١٢٤ ، ١٦٨ ، ٣٥٤ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "وهيى",
+          "corrected": "وهى",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 2 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "The bold run starts at «أن عائشة».",
+        "«وهي أدني من القراءة الأولى» has two dots under the final letter of «أدني», and «وهيى أدنى من الركعة الأولى» has an extra undotted «ى» after «وهي», with «أدنى» undotted (both checked at 1260–1490 dpi); kept as printed."
+      ]
+    },
+    {
+      "number": 137,
+      "book_page": 91,
+      "heading": "إحدى كيفيات صلاة الخوف",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٤٢٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 429
+      },
+      "text": "حدثنا أبو اليمان قال : أخبرنا شعيب عن الزهري قال : سألته هل صلى النبي ﷺ - يعني صلاة الخوف - قال : أخبرني سالم **أن عبد الله بن عمر رضي الله عنهما قال : غزوت مع رسول الله ﷺ قبل نجد فوازينا العدو فصاففنا لهم ، فقام رسول الله ﷺ يصلي لنا ، فقامت طائفة معه تصلي ، وأقبلت طائفة على العدو ، وركع رسول الله ﷺ بمن معه وسجد سجدتين ، ثم انصرفوا مكان الطائفة التي لم تصل ، فجاءوا فركع رسول الله ﷺ بهم ركعة وسجد سجدتين ثم سلم ، فقام كل واحد منهم فركع لنفسه ركعة وسجد سجدتين .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٢ ص٣٧ بالمعنى ، وابن ماجه ١٢٥٨ ، والنسائيّ ج٣ ص١٧٢ ، والترمذي ج٣ ص١٥٠ تحفة وقال : حسن صحيح . وابن الجارود رقم ٢٣٣ من المنتقى .",
+      "footnotes": [
+        "(*) [على «سألته»] قال الحافظ فتح ص٤٣٠ : قوله ( عن الزهري سألته ) القائل هو شعيب والمسئول هو الزهري وهو القائل : ( أخبرني سالم ) أي ابن عبد الله بن عمر ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«-يعني صلاة الخوف-» is printed with the dashes attached; written with spaces. The bold run starts at «أن عبد الله».",
+        "In the (*) footnote «(عن الزهري سألته)» and «(أخبرني سالم)» are printed with the parentheses attached; written with spaces."
+      ]
+    },
+    {
+      "number": 138,
+      "book_page": 91,
+      "heading": "صلاة التسابيح",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص٦٧",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 67
+      },
+      "text": "حدثنا عبد الرحمن بن بشر بن الحكم النيسابوري ، حدثنا موسى بن عبد العزيز ، حدثنا الحكم بن أبان عن عكرمة **عن ابن عباس أن رسول الله ﷺ قال للعباس ابن عبد المطلب : « يا عباس يا عماه ألا أعطيك ألا أمنحك ألا أحبوك ألا أفعل بك ، عشر خصال إذا أنت فعلت ذلك غفر الله لك ذنبك أوله وآخره قديمه وحديثه خطأه وعمده صغيره وكبيره سره وعلانيته عشر خصال أن تصلي أربع ركعات تقرأ في كل ركعة فاتحة الكتاب وسورة فإذا فرغت من القراءة في أول ركعة وأنت قائم قلت : سبحان الله والحمد لله ولا إله إلا الله والله أكبر خمس عشرة مرة ، ثم تركع فتقولها وأنت راكع عشرا ، ثم ترفع رأسك من الركوع فتقولها عشرا ، ثم تهوي ساجدا فتقولها وأنت ساجد عشرا ، ثم ترفع رأسك من السجود فتقولها عشرا ثم تسجد فتقولها عشرا ثم ترفع رأسك فتقولها عشرا فذلك خمس وسبعون في كل ركعة ، تفعل ذلك في أربع ركعات إن استطعت أن تصليها في كل يوم فافعل فإن لم تفعل ففي كل جمعة مرة فإن لم تفعل ففي كل شهر مرة ، فإن لم تفعل ففي كل سنة مرة فإن لم تفعل ففي عمرك مرة » .**",
+      "grading": "حسن",
+      "takhrij": "وابن ماجه ١٣٨٦ .",
+      "footnotes": [
+        "(**) [على «صلاة التسابيح» في العنوان] قال في الترغيب : رواه أبو داود وابن ماجه وابن خزيمة في صحيحه . وقال : إن صح الخبر فإن في القلب من هذا الإسناد شيئا . فذكره ، ثم قال : ورواه إبراهيم بن الحكم بن أبان عن أبيه عن عكرمة مرسلا ، لم يذكر ابن عباس ، ( قال الحافظ ) : ورواه الطبراني وقال في آخره : « فلو كانت ذنوبك مثل زبد البحر أو رمل عالج غفر الله لك » . ( قال الحافظ ) : وقد روي هذا الحديث من طرق كثيرة وعن جماعة من الصحابة وأمثلتها [ لعلها وأمثلها ] حديث عكرمة هذا ، وقد صححه جماعة منهم الحافظ أبو بكر الآجري ، وشيخنا أبو محمد عبد الرحيم المصري ، وشيخنا الحافظ أبو الحسن المقدسي رحمهم الله تعالى ، وقال أبو بكر بن أبي داود : سمعت أبي يقول : ليس في صلاة التسابيح حديث صحيح غير هذا . وقال مسلم بن الحجاج : لا يروى في هذا الحديث إسناد أحسن من هذا . يعني إسناد حديث عكرمة عن ابن عباس ، وقال الحاكم : قد صحت الرواية عن ابن عمر أن رسول الله ﷺ علم ابن عمه هذه الصلاة . انتهى ، ثم بدأ في سرد الحديث عن صحابة آخرين ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed «صلاة التسابيح**»: the (**) footnote belongs to the heading (the (*) on p. 91 is entry 137's). It breaks off at the bottom of p. 91 after «وقد روي هذا الحديث =» and goes on at the top of p. 92; joined. «[ لعلها وأمثلها ]» is the book's own bracketed remark; kept.",
+        "The citation and the first line of the chain are at the bottom of p. 91; the rest of the entry, the grading and the takhrij (138) are on p. 92.",
+        "The bold run starts at «عن ابن عباس». A speck under the «ع» of «عباس» is not a kasra (checked at 1600 dpi). «للعباس ابن عبد المطلب»: «ابن» is printed at the start of a line; kept as printed."
+      ]
+    },
+    {
+      "number": 139,
+      "book_page": 92,
+      "heading": "في صلاة الاستسقاء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٤٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 144
+      },
+      "text": "حدثنا موسى بن إسماعيل حدثنا وهيب حدثنا عمرو بن يحيى عن عباد بن تميم **عن عبد الله ابن زيد قال : خرج النبي ﷺ إلى هذا المصلى يستسقي ، فدعا واستسقى ، ثم استقبل القبلة وقلب رداءه .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو دلود ج١ ص٦٩٠ ، وابن الجارود رقم ٢٥٥ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "takhrij",
+          "printed": "أبو دلود",
+          "corrected": "أبو داود",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the takhrij names Abu Dawud, whose name is printed correctly «أبو داود» in the takhrij of entries 136 and 137; here the alef is printed joined to the «و» as a «ل» («دلود»), a name no source uses, like the misspelt names the owner approved in the Adhan chapter."
+        }
+      ],
+      "transcriber_notes": [
+        "The citation and the chain up to «عن عبد الله» are at the bottom of p. 92; the rest of the entry, the grading and the takhrij (139) are on p. 93. «عبد الله ابن زيد»: «ابن» is printed at the start of a line; kept as printed.",
+        "In the takhrij, «أبو دلود» is printed with the second letter joined to the «و» like a «ل» and reaching below the line (checked at 1600 dpi; compare the separate alef of «أبو داود» in the takhrij of entry 137 at 1600 dpi). Transcribed as printed, with a correction."
+      ]
+    },
+    {
+      "number": 140,
+      "book_page": 93,
+      "heading": "الخطبة في صلاة الاستسقاء",
+      "label": null,
+      "citation": "قال ابن حبان رحمه الله ( موارد حديث رقم ٦٠٤ )",
+      "source": {
+        "collection": "ibnhibban",
+        "hadith": 604,
+        "edition": "موارد الظمآن"
+      },
+      "text": "أخبرنا أحمد بن يحيى بن زهير حدثنا طاهر بن خالد بن نزار الأيلي حدثنا أبي حدثنا القاسم بن مبرور عن يونس بن يزيد الأيلي عن هشام بن عروة عن أبيه **عن عائشة قالت : شكا الناس إلى رسول الله ﷺ قحوط المطر فأمر بالمنبر فوضع له في المصلى ووعد الناس يوما يخرجون فيه . قالت عائشة : فخرج الناس إلى رسول الله ﷺ حين بدا حاجب الشمس فقعد على المنبر فحمد الله وأثنى عليه ثم قال : « إنكم شكوتم جدب جنانكم واحتباس المطر عن إبان زمانه فيكم ، وقد أمركم الله أن تدعوه ووعدكم أن يستجيب لكم » ثم قال : « الحمد لله رب العالمين الرحمن الرحيم ملك يوم الدين لا إله إلا أنت تفعل ما تريد أنت الله لا إله إلا أنت أنت الغني ونحن الفقراء أنزل علينا الغيث واجعل ما أنزلت لنا قوة وبلاغا إلى خير » ثم رفع يديه ﷺ حتى رأينا بياض إبطيه ثم حول إلى الناس ظهره وقلب أو حول رداءه وهو رافع يديه ثم أقبل على الناس ونزل فصلى ركعتين فأنشأ الله سحابا فرعدت ، وأبرقت وأمطرت بإذن الله فلم يلبث في مسجده حتى سالت السيول فلما رأى رسول الله ﷺ لثق الثياب على الناس ضحك حتى بدت نواجذه وقال : « أشهد أن الله على كل شيء قدير وأني عبد الله ورسوله » .**",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation is printed «(موارد حديث رقم ٦٠٤)», with the parentheses attached; written with spaces. It names the edition «موارد» only, recorded as «موارد الظمآن» as in the Adhan chapter.",
+        "No takhrij is printed: the only source-reference footnote on p. 93 is (139), and pp. 94–95 (the morning-evening chapter) have only (141)–(144). `takhrij` is null.",
+        "The bold run starts at «عن عائشة», at the end of the chain's second line, and runs to the end of the entry.",
+        "Checked at 700–1600 dpi and kept as printed: «جدب جنانكم», «ملك يوم الدين» (no alef), «لا إله إلا أنت تفعل ما تريد أنت الله» (two dots over the «ت» of «تفعل» and «تريد»; all three «أنت» carry a hamza), «لثق الثياب» and «وأني». «فرعدت ، وأبرقت» is printed with a comma."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "entry": 23,
+    "kind": "substitution",
+    "tokens": [
+      15,
+      16
+    ],
+    "printed_words": [
+      "طاووس"
+    ],
+    "alternative_words": [
+      "طاوس"
+    ],
+    "alternative_tokens": [
+      "طاوس"
+    ],
+    "left": [
+      "ابي",
+      "مسلم",
+      "عن"
+    ],
+    "right": [
+      "سمع",
+      "بن",
+      "عباس"
+    ],
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.99,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it.",
+    "printed": "عن طاووس **سمع",
+    "corrected": "عن طاوس **سمع"
+  },
+  {
+    "entry": 23,
+    "kind": "missing",
+    "tokens": [
+      148,
+      148
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "سمعه"
+    ],
+    "alternative_tokens": [
+      "سمعه"
+    ],
+    "left": [
+      "بن",
+      "ابي",
+      "مسلم"
+    ],
+    "right": [
+      "من",
+      "طاووس",
+      "عن"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 3,
+      "context_words": 1,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (3 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 23,
+    "kind": "substitution",
+    "tokens": [
+      149,
+      150
+    ],
+    "printed_words": [
+      "طاووس"
+    ],
+    "alternative_words": [
+      "طاوس"
+    ],
+    "alternative_tokens": [
+      "طاوس"
+    ],
+    "left": [
+      "ابي",
+      "مسلم",
+      "من"
+    ],
+    "right": [
+      "عن",
+      "بن",
+      "عباس"
+    ],
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.99,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it.",
+    "printed": "من طاووس عن",
+    "corrected": "من طاوس عن"
+  }
+]

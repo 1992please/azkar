@@ -1,0 +1,40 @@
+{
+  "chapter": "باب ما يقال عند دخول الخلاء",
+  "book_pages": [
+    28,
+    28
+  ],
+  "notes": [
+    "The chapter is one page: entry 27 on p. 28, closed by the ornament «****». P. 29 opens with the next chapter («باب ما يقال عند الخروج من الخلاء»), so nothing of p. 29 belongs to it.",
+    "It has no sub-headings, so the entry's heading is the chapter title.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 27,
+      "book_page": 28,
+      "heading": "باب ما يقال عند دخول الخلاء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٢٤٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 242
+      },
+      "text": "ثنا آدم قال ثنا شعبة عن عبد العزيز بن صهيب قال : **سمعت أنسا يقول : كان النبي ﷺ إذا دخل الخلاء قال « اللهم إني أعوذ بك من الخُبث والخبائث » . تابعه ابن عرعرة عن شعبة وقال غندر عن شعبة « إذا أتى الخلاء » . وقال موسى عن حماد « إذا دخل » وقال سعيد بن زيد : حدثنا عبد العزيز « إذا أراد أن يدخل » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أحمد ج٣ ص٩٩ ، ١٠١ ، ٢٨٢ ، ورواه أحمد ج٤ ص٣٦٩ ، ٣٧٣ من حديث زيد بن أرقم بلفظ الأمر ، ومسلم رقم ٣٧٥ فؤاد عبد الباقي ، وأبو داود ج١ ص١٥ ، ابن ماجه رقم ٢٩٨ ، والنسائيّ ج١ ص٢٠ ، والترمذي تحفة ج١ ص٤٢ ، وقال حسن صحيح وأبو عوانة ج١ ص٢١٦ ، وابن السني في عمل اليوم والليلة رقم ١٧ .",
+      "footnotes": [
+        "(*) [على «الخُبث»] قال الحافظ في الفتح ص٢٤٣ ج١ : والخبث جمع خبيث ، والخبائث جمع خبيثة يريد ذكران الشياطين وإناثهم قاله الخطابي وابن حبان وغيرهما ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain («ثنا آدم … قال :») is in small regular type; from «سمعت أنسا» on, everything is bold, including al-Bukhari's follow-up paragraph («تابعه ابن عرعرة … « إذا أراد أن يدخل » .»), which is printed as a new paragraph after the hadith. I joined it to the text as printed, as one bold run.",
+        "«الخُبث» is printed with a damma on the khaa (zoomed at 1000 dpi); «والخبائث» has no mark (1600 dpi), nor has «والخبث» in footnote (*).",
+        "The takhrij prints «، ابن ماجه» without «و», and the mark on «والنسائيّ» (zoomed at 1600 dpi) is transcribed as a shadda, as in the other chapters. Footnote (*) prints the reference as «ص٢٤٣ ج١», in that order."
+      ]
+    }
+  ]
+}

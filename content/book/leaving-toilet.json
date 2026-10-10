@@ -1,0 +1,40 @@
+{
+  "chapter": "باب ما يقال عند الخروج من الخلاء",
+  "book_pages": [
+    29,
+    29
+  ],
+  "notes": [
+    "The chapter is one page: entry 28 on p. 29, closed by the ornament «****». P. 30 opens with the next chapter («باب أذكار الوضوء»), so nothing of p. 30 belongs to it.",
+    "It has no sub-headings, so the entry's heading is the chapter title.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 28,
+      "book_page": 29,
+      "heading": "باب ما يقال عند الخروج من الخلاء",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٦ ص١٥٥",
+      "source": {
+        "collection": "ahmad",
+        "volume": 6,
+        "page": 155
+      },
+      "text": "ثنا هاشم بن القاسم ثنا إسرائيل عن يوسف بن أبي بردة عن أبيه قال **حدثتني عائشة أن النبي ﷺ كان إذا خرج من الخلاء قال غفرانك .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أبو داود ج١ ص٣٠ ، وابن ماجه رقم ٣٠٠ ، والترمذي ج١ ص٤٨ تحفة وقال حديث حسن ، وابن السني رقم ٢٣ .",
+      "footnotes": [
+        "(*) [على «غفرانك»] ساق ابن الصلاح هذا الحديث مثالا للفرد الحسن كما في فتح المغيث ص١٨٨ ج١ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain («ثنا هاشم … عن أبيه قال») is in small regular type; from «حدثتني عائشة» to the end of the hadith everything is bold (zoomed at 654 dpi).",
+        "The book prints «غفرانك» with no quotation marks and no tashkeel marks anywhere in the entry (zoomed at 654 dpi).",
+        "In the takhrij, «تحفة» (the edition of al-Tirmidhi) begins the second printed line, after «والترمذي ج١ ص٤٨». Footnote (*) prints the reference as «ص١٨٨ ج١», in that order, and «كما في» in the ligature forms of the footnote type (zoomed at 1600 dpi)."
+      ]
+    }
+  ]
+}

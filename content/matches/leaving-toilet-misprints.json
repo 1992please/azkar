@@ -1,0 +1,40 @@
+[
+  {
+    "entry": 28,
+    "kind": "substitution",
+    "tokens": [
+      23,
+      24
+    ],
+    "printed_words": [
+      "الخلا"
+    ],
+    "alternative_words": [
+      "الغايط"
+    ],
+    "alternative_tokens": [
+      "الغائط"
+    ],
+    "left": [
+      "اذا",
+      "خرج",
+      "من"
+    ],
+    "right": [
+      "قال",
+      "غفرانك"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 2,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (2 in the collections, 0 on dorar.net), so it is a genuine variant."
+  }
+]

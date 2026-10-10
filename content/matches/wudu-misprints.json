@@ -1,0 +1,240 @@
+[
+  {
+    "entry": 29,
+    "kind": "substitution",
+    "tokens": [
+      11,
+      12
+    ],
+    "printed_words": [
+      "وثنا"
+    ],
+    "alternative_words": [
+      "وحدثنا"
+    ],
+    "alternative_tokens": [
+      "وحدثنا"
+    ],
+    "left": [
+      "بن",
+      "الحباب",
+      "ح"
+    ],
+    "right": [
+      "محمد",
+      "بن",
+      "بشار"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.99,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it.",
+    "printed": "وثنا",
+    "corrected": "وحدثنا"
+  },
+  {
+    "entry": 30,
+    "kind": "substitution",
+    "tokens": [
+      5,
+      6
+    ],
+    "printed_words": [
+      "العتبي"
+    ],
+    "left": [
+      "بن",
+      "معاويه"
+    ],
+    "right": [
+      "المصري",
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "الضبي"
+    ],
+    "alternative_tokens": [
+      "الضبي"
+    ],
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 0,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.93,
+    "evidence": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it.",
+    "printed": "العتبي",
+    "corrected": "الضبي"
+  },
+  {
+    "entry": 32,
+    "kind": "substitution",
+    "tokens": [
+      0,
+      1
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "حدثني"
+    ],
+    "alternative_tokens": [
+      "حدثني"
+    ],
+    "left": [],
+    "right": [
+      "محمد",
+      "بن",
+      "حاتم"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 37,
+      "context_words": 3,
+      "alternative_in_collections": 44,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (37 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 34,
+    "kind": "substitution",
+    "tokens": [
+      31,
+      32
+    ],
+    "printed_words": [
+      "فغسل"
+    ],
+    "alternative_words": [
+      "غسل"
+    ],
+    "alternative_tokens": [
+      "غسل"
+    ],
+    "left": [
+      "وسلم",
+      "فاتي",
+      "حاجته"
+    ],
+    "right": [
+      "وجهه",
+      "ويديه",
+      "ثم"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 2,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 34,
+    "kind": "substitution",
+    "tokens": [
+      58,
+      59
+    ],
+    "printed_words": [
+      "يراني"
+    ],
+    "alternative_words": [
+      "يري"
+    ],
+    "alternative_tokens": [
+      "يرى"
+    ],
+    "left": [
+      "فتمطيت",
+      "كراهيه",
+      "ان"
+    ],
+    "right": [
+      "اني",
+      "كنت",
+      "اتقيه"
+    ],
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 5,
+      "ocr_confirms_printed": true
+    },
+    "decision": "ask",
+    "confidence": 0.88,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "يراني",
+    "corrected": "يرى"
+  },
+  {
+    "entry": 35,
+    "kind": "other",
+    "tokens": [
+      35,
+      36
+    ],
+    "printed_words": [
+      "ياايها"
+    ],
+    "alternative_words": [
+      "يا",
+      "ايها"
+    ],
+    "alternative_tokens": [
+      "يا",
+      "أيها"
+    ],
+    "left": [
+      "ربك",
+      "الاعلي",
+      "وقل"
+    ],
+    "right": [
+      "الكافرون",
+      "وقل",
+      "هو"
+    ],
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 15,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 11,
+      "ocr_confirms_printed": true
+    },
+    "decision": "ask",
+    "confidence": 0.66,
+    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 15 time(s) in the collections and 11 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "ياأيها",
+    "corrected": "يا أيها"
+  }
+]
