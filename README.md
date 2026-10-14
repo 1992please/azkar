@@ -48,7 +48,7 @@ Each chapter goes through these steps:
 5. **Add tashkeel** to the book's text. The book's own marks always win. Words identical to the matched hadith take its tashkeel. Words without a match are left without tashkeel rather than risk a wrong one. Words next to a difference are flagged, because their endings can depend on it.
 6. **Review** the chapter page: questions, automatic corrections, kept differences, with dorar.net links for cross-checking.
 
-`tools/pipeline.py <chapter>` runs steps 2–6 after the transcription. The long run (`tools/long_run.sh`) works through the chapters in the order of `content/book/PROGRESS.md`, up to 5 pages per fresh Claude Code session, and waits out usage-limit resets.
+`tools/pipeline.py <chapter>` runs steps 2–6 after the transcription. The long run (`tools/long_run.sh`) works through the chapters in the order of `content/book/PROGRESS.md`, up to 5 pages per fresh Claude Code session. Transcription rounds run Opus at low effort and review rounds at xhigh: a test on the Adhan chapter found low effort as accurate as xhigh at about a third of the cost. Before each round it reads how much of the 5-hour and weekly usage limits is used, and it waits for a reset rather than start a round the 5-hour window may not leave room to finish. The log shows how much of each limit every round used.
 
 After all chapters are done:
 

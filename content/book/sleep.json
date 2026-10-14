@@ -7,7 +7,7 @@
   "notes": [
     "The chapter title is printed on p. 341, after the end of entry 546 (the last entry of the istighfar chapter).",
     "The chapter ends on p. 349 with entry 561 and the ornament «****»; p. 350 opens with the next chapter («الرؤيا وآدابها»).",
-    "On p. 348 a section heading «آداب تتعلق بالنوم» is printed above «نوم الجنب إذا توضأ», with no text of its own; it is noted on entry 559, the first entry under it.",
+    "On p. 348 a section heading «آداب تتعلق بالنوم» is printed above «نوم الجنب إذا توضأ», with no text of its own; it is an `author_text` block of kind `heading` after entry 558, and noted on entry 559, the first entry under it.",
     "The footnotes print «النسائيّ» with a mark on the final ya, transcribed as a shadda as in the other chapters. Entries 547 and 551, first written without it, were checked on the zoomed scan in the review (pp. 341, 344) and fixed.",
     "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
   ],
@@ -23,6 +23,18 @@
       "corrections": [],
       "transcriber_notes": [
         "Printed under the chapter title, with no heading of its own, so `heading` is the chapter title. One cross-reference per line; the lines are joined here."
+      ]
+    },
+    {
+      "after_entry": 558,
+      "book_page": 348,
+      "heading": "آداب تتعلق بالنوم",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "A section heading printed above «نوم الجنب إذا توضأ», with no text of its own."
       ]
     }
   ],
@@ -123,10 +135,10 @@
           "field": "text",
           "printed": "تطحنه",
           "corrected": "تطحن",
-          "confidence": 0.93,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; asked rather than corrected automatically, because an attached pronoun is added or dropped, and either form can be grammatical."
         },
         {
           "id": 3,

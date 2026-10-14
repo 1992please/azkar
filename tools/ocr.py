@@ -50,6 +50,33 @@ def words(n: int) -> list[dict]:
     return out
 
 
+def footnote_top(n: int) -> int | None:
+    """The pixel row of the short rule that opens the page's footnotes, or None if it has none.
+
+    The rule is a dark horizontal line about 370 px long at 300 dpi (a fifth of the page's
+    width) and a few pixels thick; no line of text has an unbroken dark run that long."""
+    png = page_image(n)
+    if not png.exists():
+        return None
+    pix = pymupdf.Pixmap(str(png))
+    if pix.n != 1:
+        pix = pymupdf.Pixmap(pymupdf.csGRAY, pix)
+    w, samples = pix.width, pix.samples
+    dark = bytes(1 if v < 200 else 0 for v in range(256))
+    for y in range(pix.height):
+        if max(map(len, samples[y * w:(y + 1) * w].translate(dark).split(b"\x00"))) >= 0.14 * w:
+            return y
+    return None
+
+
+def main_words(n: int) -> list[dict]:
+    """The page's OCR words above its footnotes: the main text, which holds the headings,
+    citations, entries and the Sheikh's own text."""
+    top = footnote_top(n)
+    ws = words(n)
+    return ws if top is None else [w for w in ws if w["box"][1] + w["box"][3] / 2 < top]
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("first", type=int)

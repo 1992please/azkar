@@ -62,7 +62,19 @@
       "footnotes": [
         "(*) [على «وقال ابن عباس»] قوله : قال ابن عباس : هو موصول بالإسناد المبدأ به كما في رواية مسلم حدثنا محمد بن حاتم قال : أخبرنا محمد بن بكر أخبرنا ابن جريج ح وحدثنا إسحاق بن منصور ثنا عبد الرزاق أخبرنا ابن جريج أخبرني عمر بن دينار أن أبا معبد مولى ابن عباس أخبره أنه ... الحديث ، وأنه قال : قال ابن عباس ج٤ ص٨٤ ."
       ],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 13,
+          "field": "footnotes.0",
+          "printed": "عمر بن دينار",
+          "corrected": "عمرو بن دينار",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: a narrator's name. Ibn Jurayj's teacher who narrates from Abu Ma'bad, the client of Ibn Abbas, is «عمرو بن دينار»; the book drops the «و» of «عمرو» the same way in entries 115 and 128 (corrections 2 and 10)."
+        }
+      ],
       "transcriber_notes": [
         "«-حين ينصرف الناس من المكتوبة-» is printed with the dashes attached; written with spaces.",
         "In the (*) footnote «عمر بن دينار» is printed with no final «و» (checked at 1000 dpi); kept as printed."

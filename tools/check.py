@@ -30,7 +30,7 @@ import sys
 import unicodedata
 
 from arabic import words
-from book import BOOK_DIR, corrected
+from book import BOOK_DIR, corrected, field_value
 
 ABJAD = "أ ب ج د هـ و ز ح ط ي ك ل م ن س ع ف ص ق ر ش ت ث خ ذ ض ظ غ".split()
 GRADINGS = {"صحيح", "حسن", "صحيح لغيره", "حسن لغيره", "ضعيف", "صحيح موقوف", "حسن موقوف"}
@@ -44,7 +44,7 @@ COLLECTIONS = {
 ENTRY_FIELDS = {"number": int, "book_page": int, "heading": str, "citation": str, "source": dict,
                 "text": str, "footnotes": list, "corrections": list, "transcriber_notes": list}
 ARABIC_FIELDS = ["heading", "citation", "text", "grading", "takhrij"]
-AUTHOR_KINDS = {"preface", "verses", "note", "list", "crossref", "essay"}
+AUTHOR_KINDS = {"preface", "verses", "note", "list", "crossref", "essay", "heading"}
 INDIC = str.maketrans("0123456789", "٠١٢٣٤٥٦٧٨٩")
 AUTHOR_FIELDS = {"book_page": int, "heading": str, "kind": str, "text": str,
                  "footnotes": list, "corrections": list, "transcriber_notes": list}
@@ -77,6 +77,9 @@ def norm(s: str) -> str:
 def similar(a: str, b: str) -> bool:
     a, b = norm(a), norm(b)
     return a == b or (a and b and (a in b or b in a)) or difflib.SequenceMatcher(None, a, b).ratio() >= 0.8
+
+
+ATTACHED_DASH = re.compile(r"-[^\s٠-٩-]|[^\s٠-٩-]-")
 
 
 def bad_chars(s: str) -> list[str]:
@@ -182,9 +185,13 @@ def check_chapter(r: Report, path: pathlib.Path, ch: dict, items: list[dict]) ->
                 r.error(where, f"unexpected character in {field}: {c}")
             if isinstance(value, str) and (value != value.strip() or "  " in value):
                 r.warn(where, f"extra spaces in {field}")
+            if isinstance(value, str) and ATTACHED_DASH.search(value.replace("*", "")):
+                r.warn(where, f"a dash without a space on each side in {field}")
         for k, note in enumerate(e["footnotes"]):
             for c in bad_chars(note):
                 r.error(where, f"unexpected character in footnote {k + 1}: {c}")
+            if ATTACHED_DASH.search(note.replace("*", "")):
+                r.warn(where, f"a dash without a space on each side in footnote {k + 1}")
         check_corrections(r, where, e)
 
         # Sub-heading letters, with approved heading corrections applied.
@@ -209,7 +216,8 @@ def check_chapter(r: Report, path: pathlib.Path, ch: dict, items: list[dict]) ->
     # Headings against the index (printed headings: the index was printed from them).
     first_page = {}
     for e in sorted(book.get("entries", []) + book.get("author_text", []), key=lambda x: x.get("book_page", 0)):
-        first_page.setdefault(e["heading"], e["book_page"])
+        if isinstance(e.get("heading"), str):  # a missing heading is reported above
+            first_page.setdefault(e["heading"], e["book_page"])
     for heading, page in first_page.items():
         if similar(heading, ch["title"]):
             continue  # a chapter without sub-headings: its entries come under the chapter title
@@ -282,7 +290,7 @@ def check_corrections(r: Report, where: str, e: dict) -> None:
             r.error(where, f"correction {c['id']}: confidence must be a number from 0 to 1")
         elif decided_by == "auto" and conf < 0.9:
             r.error(where, f"correction {c['id']}: approved automatically below 0.90")
-        value = e.get(c["field"])
+        value = field_value(e, c["field"])
         if not isinstance(value, str) or value.count(c["printed"]) != 1:
             r.error(where, f"correction {c['id']}: printed text must occur exactly once in {c['field']}")
         for c2 in bad_chars(c["corrected"]):

@@ -21,6 +21,8 @@
 
 **If a chapter can't be finished** for a reason only the owner can fix (a tool fails on it in a way no edit under `content/` fixes, or a page can't be read), set its status to `blocked: <short reason>`, explain under "Notes for the owner" in `PROGRESS.md`, and stop. The next round moves on to the next chapter, so the run never repeats the same failure.
 
+**Notes.** Record what you checked and decided while transcribing or reviewing (OCR flags that were misreads, words zoomed on, format choices the rules cover) in the chapter file's `notes` or the entry's `transcriber_notes`. The "Notes for the owner" in `PROGRESS.md` are only for what the owner must decide: a question the rules don't answer, a rule or tool that seems wrong, a blocked chapter. Keep each to a few lines, and don't repeat what the review page shows (questions and automatic corrections). Every round reads `PROGRESS.md` in full, so it must stay short.
+
 **What a round may do.** Read any file, edit files under `content/`, and run the project's tools as plain commands from the project folder, e.g. `.venv/bin/python tools/zoom.py 96 0.30 0.35`. Write no `cd`, pipes, `python -c` or other shell commands: anything else is refused, because nobody is there to approve it.
 
 Never commit to git, and never change `docs/` or `tools/` during the run. If a rule or a tool seems wrong, describe it under "Notes for the owner" in `PROGRESS.md` and carry on with the rules as they are.

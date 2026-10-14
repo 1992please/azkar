@@ -629,7 +629,7 @@
     },
     "decision": "kept",
     "confidence": 0.15,
-    "evidence": "Kept: a spelling-only difference (a long-vowel alif written or left out), a usual difference between narrations and editions."
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
   },
   {
     "entry": 166,
@@ -668,11 +668,9 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.58,
-    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it.",
-    "printed": "ماقام",
-    "corrected": "ما قام"
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
   },
   {
     "entry": 167,
@@ -863,6 +861,6 @@
     },
     "decision": "kept",
     "confidence": 0.15,
-    "evidence": "Kept: a spelling-only difference (a long-vowel alif written or left out), a usual difference between narrations and editions."
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
   }
 ]

@@ -15,9 +15,11 @@ For each one:
 2. Typical differences between narrations and editions are kept without
    asking, as long as the printed word is a real word: a conjunction or
    preposition prefix (و ف ل ب ك), a missing or extra particle (في، من، ثم …),
-   a different transmission verb (حدثنا / أخبرني …), a spelling-only
-   difference (إسحاق / إسحق), or swapped word order. So is any difference
-   whose alternative has no support beyond the one matched database text.
+   a different transmission verb (حدثنا / أخبرني …, or the abbreviation ثنا),
+   a spelling-only difference (إسحاق / إسحق, طاووس / طاوس), or swapped word
+   order. So is any difference whose alternative has no support beyond the one
+   matched database text. Transmission verbs and spelling-only differences are
+   kept even when the printed form occurs in no collection.
 3. Otherwise a score estimates how likely the printed wording is a slip. It
    starts from the kind of difference (a slip of one or two letters in one
    word is the typical printing error; a missing, extra or reordered word is
@@ -27,7 +29,11 @@ For each one:
    difference is probably a transcription mistake and is listed for checking
    instead.
 4. A score of 0.90 or more approves the correction automatically; anything
-   lower is proposed and the owner is asked.
+   lower is proposed and the owner is asked. Some corrections are always asked,
+   whatever their score: when the alternative is attested nowhere in this
+   context, when the entry has no matched hadith (its source isn't in the
+   databases, so its chain can't be compared), and when the difference is an
+   attached pronoun added or dropped (either form can be grammatical).
 
 Corrections the owner has decided are never changed. Results: corrections in
 content/book/<name>.json, the full analysis in content/matches/<name>-misprints.json.
@@ -48,10 +54,12 @@ THRESHOLD = 0.90
 MAX_WORDS = 3          # longer differences are different wordings, not slips
 SALUTATION = "ﷺ"
 PREFIXES = ("و", "ف", "ل", "ب", "ك", "ال")
+PRONOUN_SUFFIXES = ("ه", "ها", "هم", "هما", "هن", "ك", "كم", "ني", "نا")
 PARTICLES = {"في", "من", "الي", "علي", "عن", "و", "ف", "ثم", "قد", "لقد", "ان", "اذا", "لو", "يا"}
 NAME_BEFORE = {"بن", "ابي", "ابو", "ام", "بنت"}  # a word after these is part of a name
 TRANSMISSION = {"حدثنا", "حدثني", "اخبرنا", "اخبرني", "انبانا", "انباني", "سمعت", "عن", "قال", "ثنا"}
 SALUTATION_WORDS = [normalize_word(w) for w in "صلى الله عليه وسلم".split()]
+ASK_CAP = 0.85  # the highest score of a correction that is always asked
 
 
 def levenshtein(a: str, b: str) -> int:
@@ -125,10 +133,10 @@ class Evidence:
 def ocr_readings(name: str, book: dict) -> dict:
     """(entry, token index) → the OCR word read there, if the chapter has been OCR'd."""
     try:
-        from ocr import words as ocr_words
+        from ocr import main_words
         from ocr_check import align, my_tokens
         first, last = book["book_pages"]
-        ocr = [dict(w, norm=normalize_word(w["text"])) for n in range(first, last + 1) for w in ocr_words(n)]
+        ocr = [dict(w, norm=normalize_word(w["text"])) for n in range(first, last + 1) for w in main_words(n)]
     except FileNotFoundError:
         return {}
     ocr = [w for w in ocr if w["norm"]]
@@ -137,8 +145,35 @@ def ocr_readings(name: str, book: dict) -> dict:
     return {(t["entry"], t["index"]): t["ocr"]["norm"] for t in mine if t["field"] == "text" and t.get("ocr")}
 
 
+def transmission(w: str) -> bool:
+    """A transmission word, with or without a conjunction prefix (وحدثنا, فقال)."""
+    return w in TRANSMISSION or (w[:1] in ("و", "ف") and w[1:] in TRANSMISSION)
+
+
+def form_variant(kind: str, p: list[str], a: list[str]) -> str | None:
+    """A short description if both sides are the same word written differently.
+
+    These are kept even when the printed form occurs in no collection: the corpus has
+    one edition's spelling, and the chain's abbreviations (ثنا) are rarely in it."""
+    if kind == "substitution" and transmission(p[0]) and transmission(a[0]):
+        return "a different transmission verb"
+    x, y = "".join(p), "".join(a)
+    middle = lambda w: w[1:-1].replace("ا", "").replace("وو", "و")
+    if x and y and x[0] == y[0] and x[-1] == y[-1] and middle(x) == middle(y):
+        return "a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined)"
+    return None
+
+
+def pronoun_suffix(kind: str, p: list[str], a: list[str]) -> bool:
+    """One side is the other with an attached pronoun (تطحنه / تطحن)."""
+    if kind != "substitution":
+        return False
+    x, y = p[0], a[0]
+    return any(x == y + s or y == x + s for s in PRONOUN_SUFFIXES)
+
+
 def typical_variant(kind: str, p: list[str], a: list[str]) -> str | None:
-    """A short description if the difference is a usual narration or edition variant."""
+    """A short description if the difference is a usual narration variant (form_variant is checked first)."""
     if kind == "order":
         return "the same words in a different order"
     if kind in ("missing", "extra") and len(p + a) == 1 and (p + a)[0] in PARTICLES:
@@ -147,13 +182,8 @@ def typical_variant(kind: str, p: list[str], a: list[str]) -> str | None:
         x, y = p[0], a[0]
         if any(x == pre + y or y == pre + x for pre in PREFIXES):
             return "a conjunction or preposition prefix"
-        if x in TRANSMISSION and y in TRANSMISSION:
-            return "a different transmission verb"
         if x + "ت" == y or y + "ت" == x:
             return "a masculine/feminine verb ending"
-    x, y = "".join(p), "".join(a)
-    if x and y and x[0] == y[0] and x[-1] == y[-1] and x[1:-1].replace("ا", "") == y[1:-1].replace("ا", ""):
-        return "a spelling-only difference (a long-vowel alif written or left out)"
     return None
 
 
@@ -272,7 +302,8 @@ def candidates_for_unmatched(entry: dict, text: str, corpus: Corpus) -> list[dic
     return out
 
 
-def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, entry_words: list[str]) -> None:
+def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, entry_words: list[str],
+             matched: bool = True) -> None:
     p, a, left, right = c["printed_words"], c["alternative_words"], c["left"], c["right"]
     t1, t2 = c["tokens"]
     c["nonword"] = any(ev.corpus.freq(w) == 0 for w in p)
@@ -314,6 +345,11 @@ def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, 
         c.update(decision="check-scan", confidence=None,
                  evidence="The OCR reads the alternative here: re-check the transcription on the scan.")
         return
+    form = form_variant(c["kind"], p, a)
+    if form:
+        c.update(decision="kept", confidence=0.15,
+                 evidence=f"Kept: {form}, a usual difference between editions.")
+        return
     variant = typical_variant(c["kind"], p, a)
     if not c["nonword"] and variant:
         c.update(decision="kept", confidence=0.15,
@@ -324,8 +360,19 @@ def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, 
                  evidence="Kept: the alternative has no support beyond the one matched database text.")
         return
     # A name: anywhere in the chain of narrators (regular type), or after أبي / بن … in the hadith text.
-    in_name = c["kind"] == "substitution" and (not in_hadith_text or (left and left[-1] in NAME_BEFORE))
+    in_name = c["kind"] == "substitution" and not transmission(p[0]) and not transmission(a[0]) and \
+        (not in_hadith_text or (left and left[-1] in NAME_BEFORE))
     conf = score(c["kind"], p, a, c["nonword"], strength, ocr_confirms, in_name, bool(internal))
+    # Always asked, whatever the score.
+    always_ask = []
+    if strength == 0:
+        always_ask.append("the alternative is attested nowhere in this context")
+    if not matched:
+        always_ask.append("the entry's source isn't in the databases, so its wording can't be compared")
+    if pronoun_suffix(c["kind"], p, a) and not in_name:  # a name's ة is normalized to ه
+        always_ask.append("an attached pronoun is added or dropped, and either form can be grammatical")
+    if always_ask:
+        conf = min(conf, ASK_CAP)
     parts = [f"the printed wording occurs nowhere ({'with ' + str(k) + ' word(s) of context' if k else 'in context'})"]
     if c["nonword"]:
         parts.append("the printed word exists nowhere in the collections")
@@ -337,6 +384,8 @@ def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, 
         parts.append("the alternative also appears elsewhere in this entry")
     if ocr_confirms:
         parts.append("the OCR confirms the page prints it")
+    if always_ask:
+        parts.append("asked rather than corrected automatically, because " + " and ".join(always_ask))
     c.update(decision="approve" if conf >= THRESHOLD else "ask", confidence=conf,
              evidence=f"{c['kind'].capitalize()}: " + "; ".join(parts) + ".")
 
@@ -389,7 +438,7 @@ def main() -> None:
         new = []
         entry_words = words(text)
         for c in cands:
-            evaluate(c, ev, toks, bold, ocr, entry_words)
+            evaluate(c, ev, toks, bold, ocr, entry_words, matched=bool(m))
             if c["decision"] in ("approve", "ask"):
                 c["printed"], c["corrected"] = correction_strings(c, toks, text)
                 if any(o["field"] == "text" and (c["printed"] in o["printed"] or o["printed"] in c["printed"])
@@ -406,8 +455,11 @@ def main() -> None:
                 "decided_by": "auto" if c["decision"] == "approve" else None, "reason": c["evidence"]})
 
     # Number the corrections after the owner's, in entry order; one id per distinct correction.
+    # Ids of corrections on the Sheikh's own text (proposed by hand) are taken too.
     ids = {}
-    next_id = 1 + max(list(previous.values()) or [0])
+    taken = list(previous.values()) + [c["id"] for b in book.get("author_text", [])
+                                       for c in b.get("corrections", []) if c.get("id")]
+    next_id = 1 + max(taken or [0])
     for e in book["entries"]:
         for c in e["corrections"]:
             if c["id"] is None:

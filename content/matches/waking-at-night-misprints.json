@@ -36,7 +36,7 @@
     },
     "decision": "kept",
     "confidence": 0.15,
-    "evidence": "Kept: a different transmission verb, a usual difference between narrations and editions."
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
   },
   {
     "entry": 22,
@@ -75,14 +75,14 @@
     },
     "decision": "kept",
     "confidence": 0.15,
-    "evidence": "Kept: a different transmission verb, a usual difference between narrations and editions."
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
   },
   {
     "entry": 22,
     "kind": "missing",
     "tokens": [
-      79,
-      79
+      81,
+      81
     ],
     "printed_words": [],
     "alternative_words": [

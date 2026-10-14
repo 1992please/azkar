@@ -26,28 +26,7 @@
       "grading": "صحيح",
       "takhrij": "ورواه مسلم ج٦ ص٥٤ وأبو داود ج١ ص٤٨٨ وابن ماجه ١٣٥٥ ، والنسائيّ ج٣ ص٢٠٩ ، والترمذي ج٩ ص٣٦٤ وقال : حسن صحيح ، وأحمد ١ / ٣٠٨ .",
       "footnotes": [],
-      "corrections": [
-        {
-          "id": 1,
-          "field": "text",
-          "printed": "عن طاووس **سمع",
-          "corrected": "عن طاوس **سمع",
-          "confidence": 0.99,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
-        },
-        {
-          "id": 2,
-          "field": "text",
-          "printed": "من طاووس عن",
-          "corrected": "من طاوس عن",
-          "confidence": 0.99,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
-        }
-      ],
+      "corrections": [],
       "transcriber_notes": [
         "«السمٰوات» is printed four times with a small upright alef above the letters after the meem (checked at 576–1600 dpi); it is transcribed as the superscript alef (U+0670) on the meem. The book's elongation stroke (tatweel) is not kept.",
         "«أخَّرت» carries a printed fatha and shadda on the kha (1600 dpi). «قيم» has no printed shadda. No comma is printed between «والجنة حق» and «والنار حق» (line break).",

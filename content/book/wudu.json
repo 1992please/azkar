@@ -28,18 +28,7 @@
         "(*) [على «صحيح لشواهده»] وقال في الزوائد حسن كما في ابن ماجه .",
         "(٢٩) [على «لا وضوء لمن لم يذكر اسم الله عليه»] تعقيب : من فقه صاحب منار السبيل أنه اتبع هذا الحديث بحديث « عُفي لأمتي عن الخطأ والنسيان » وصححه الألباني إرواء رقم ٨٢ ."
       ],
-      "corrections": [
-        {
-          "id": 1,
-          "field": "text",
-          "printed": "وثنا",
-          "corrected": "وحدثنا",
-          "confidence": 0.99,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
-        }
-      ],
+      "corrections": [],
       "transcriber_notes": [
         "The footnote area of p. 30 has, after the (*) footnote and before footnote (31), an unmarked paragraph «تعقيب : …» about this hadith (the author of Manar al-Sabil follows it with the hadith on forgiveness for mistakes and forgetting). As with footnote (162) in protections, it is stored as a separate footnote item under «(٢٩)»; the marker is ours."
       ]
@@ -65,10 +54,10 @@
           "field": "text",
           "printed": "العتبي",
           "corrected": "الضبي",
-          "confidence": 0.93,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
         }
       ],
       "transcriber_notes": [
@@ -140,7 +129,7 @@
         "volume": 16,
         "page": 13
       },
-      "text": "حدثنا عبيد بن يعيش ومحمد بن العلاء الهمداني قالا حدثنا أبو أسامة عن أبي حيان ح وحدثنا محمد بن عبد الله بن نمير -واللفظ له- حدثنا أبي حدثنا أبو حيان التيمي يحيى بن سعيد عن أبي زرعة **عن أبي هريرة قال قال رسول الله ﷺ لبلال عند صلاة الغداة : « يا بلال حدثني بأرجى عمل عملته عندك في الإسلام منفعة فإني سمعت الليلة خشف نعليك بين يدي في الجنة ؟ قال بلال ما عملت عملا في الإسلام أرجى عندي منفعة من أني لا أتطهر طُهُورًا تاما في ساعة من ليل ولا نهار إلا صليت بذلك الطهور ما كتب الله لي أن أصلي » .**",
+      "text": "حدثنا عبيد بن يعيش ومحمد بن العلاء الهمداني قالا حدثنا أبو أسامة عن أبي حيان ح وحدثنا محمد بن عبد الله بن نمير - واللفظ له - حدثنا أبي حدثنا أبو حيان التيمي يحيى بن سعيد عن أبي زرعة **عن أبي هريرة قال قال رسول الله ﷺ لبلال عند صلاة الغداة : « يا بلال حدثني بأرجى عمل عملته عندك في الإسلام منفعة فإني سمعت الليلة خشف نعليك بين يدي في الجنة ؟ قال بلال ما عملت عملا في الإسلام أرجى عندي منفعة من أني لا أتطهر طُهُورًا تاما في ساعة من ليل ولا نهار إلا صليت بذلك الطهور ما كتب الله لي أن أصلي » .**",
       "grading": "صحيح",
       "takhrij": "وأخرجه البخاري فتح ج٣ ص٣٤ ، وأحمد ٢ / ٣٣٣ ، ٤٣٩ ، وعزاه المزي في الأطراف إلى النسائيّ في السنن الكبرى في المناقب .",
       "footnotes": [
@@ -148,7 +137,7 @@
       ],
       "corrections": [],
       "transcriber_notes": [
-        "«-واللفظ له-» is printed between dashes, each attached to the word next to it.",
+        "«- واللفظ له -» is printed between dashes, each attached to the word next to it; written with a space on each side (rule agreed with the owner on 2026-10-14).",
         "The closing quotation mark is printed after «أن أصلي», so Bilal's answer stands inside the quotation as printed."
       ]
     },
@@ -165,7 +154,7 @@
       },
       "text": "حدثنا على بن عبد الله حدثنا ابن مهدي عن سفيان عن سلمه عن كريب **عن ابن عباس رضي الله عنهما قال : بتُّ عند ميمونة ، فقام النبي ﷺ فأتى حاجته فغسل وجهه ويديه ، ثم نام ثم قام فأتى القربة فأطلق شناقها ، ثم توضأ وضوءًا بين وضوءين لم يكثر وقد أبلغ فصلى فقمت فتمطيت كراهية أن يراني أني كنت أتقيه ، فتوضأت فقام يصلي فقمت عن يساره ، فأخذ بأذني فأدارني عن يمينه ، فتتامت صلاته ثلاث عشرة ركعة ، ثم اضطجع فنام حتى نفخ وكان إذا نام نفخ ، فآذنه بلال بالصلاة ، فصلى ولم يتوضأ وكان يقول في دعائه : « اللهم اجعل في قلبي نورا ، وفي بصري نورا ، وفي سمعي نورا ، وعن يميني نورا ، وعن يساري نورا ، وفوقي نورا ، وتحتي نورا ، وأمامي نورا ، وخلفي نورا ، واجعل لي نورا » . قال كريب : وسبع في التابوت فلقيت رجلا من ولد العباس فحدثني بهن فذكر عصبي ولحمي ودمي وشعري وبشرى ، وذكر خصلتين .**",
       "grading": "صحيح",
-      "takhrij": "ورواه مسلم ج٦ ص٥٤٤ ، وفي إحدى رواياته : فصلى فجعل يقول في صلاته أو في سجوده ... فذكره . والنسائي ج٢ ص٢١٨ ، وأبو داود مختصرا رقم ٥٠٤٣ .",
+      "takhrij": "ورواه مسلم ج٦ ص٥٤٤ ، وفي إحدى رواياته : فصلى فجعل يقول في صلاته أو في سجوده ... فذكره . والنسائيّ ج٢ ص٢١٨ ، وأبو داود مختصرا رقم ٥٠٤٣ .",
       "footnotes": [
         "(*) [على «التابوت»] قيل أن المراد بالتابوت الصدر قال الحافظ ج١١ ص١١٧ وقد أخرجه مسلم من طريق عقيل عن سلمة بن كهيل « فدعا رسول الله ﷺ بتسع عشرة كلمة حدثنيها كريب فحفظت منها ثنتي عشرة ونسيت ما بقي » ."
       ],
@@ -203,18 +192,7 @@
       "footnotes": [
         "(*) [على «ورفع بها صوته»] في رواية عزرة عن سعيد بن عبد الرحمن بن أبزى « يطوّلها ثلاثا » . وفي رواية أخرى يمد بالآخرة صوته ص٤٠٧ ج٣ ."
       ],
-      "corrections": [
-        {
-          "id": 4,
-          "field": "text",
-          "printed": "ياأيها",
-          "corrected": "يا أيها",
-          "confidence": 0.66,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 15 time(s) in the collections and 11 on dorar.net; the OCR confirms the page prints it."
-        }
-      ],
+      "corrections": [],
       "transcriber_notes": [
         "The heading is printed «ما يقرأ في الوتر …»; the index has «ما يقرئ …».",
         "The chain prints «عن ذر عن ابن عبد الرحمن بن أبزى» (zoomed). The surah names are printed in bold without Quran brackets, and «ياأيها» is printed with both alefs."

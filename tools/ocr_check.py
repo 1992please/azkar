@@ -34,7 +34,7 @@ import pymupdf
 
 from arabic import normalize_word
 from book import BOOK_DIR, load_chapter
-from ocr import DPI, PDF, words as ocr_words
+from ocr import DPI, PDF, main_words
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SALUTATION = "ﷺ"
@@ -175,7 +175,9 @@ def main() -> None:
     book = json.loads(args.file.read_text(encoding="utf-8")) if args.file else load_chapter(args.name)
     matches = json.loads((ROOT / "content" / "matches" / f"{args.name}.json").read_text(encoding="utf-8"))
     first, last = book["book_pages"]
-    ocr = [dict(w, norm=normalize_word(w["text"])) for n in range(first, last + 1) for w in ocr_words(n)]
+    # Footnotes are left out: they aren't checked, and a footnote that quotes a chain or a
+    # heading would otherwise draw the alignment away from the main text.
+    ocr = [dict(w, norm=normalize_word(w["text"])) for n in range(first, last + 1) for w in main_words(n)]
     ocr = [w for w in ocr if w["norm"]]
 
     mine = my_tokens(book)

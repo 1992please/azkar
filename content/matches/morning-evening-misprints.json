@@ -36,7 +36,7 @@
     },
     "decision": "kept",
     "confidence": 0.15,
-    "evidence": "Kept: a different transmission verb, a usual difference between narrations and editions."
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
   },
   {
     "entry": 142,
@@ -116,7 +116,7 @@
     },
     "decision": "kept",
     "confidence": 0.15,
-    "evidence": "Kept: a different transmission verb, a usual difference between narrations and editions."
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
   },
   {
     "entry": 147,
@@ -321,7 +321,7 @@
     },
     "decision": "kept",
     "confidence": 0.15,
-    "evidence": "Kept: a spelling-only difference (a long-vowel alif written or left out), a usual difference between narrations and editions."
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
   },
   {
     "entry": 153,

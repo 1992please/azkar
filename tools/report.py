@@ -100,11 +100,35 @@ def vocalized_html(words: list[dict]) -> str:
     return " ".join(out)
 
 
-def author_block(b: dict) -> str:
+def correction_lines(corrections: list[dict]) -> str:
+    out = []
+    for c in corrections:
+        if c["status"] == "proposed":
+            verb = f"Question {c['id']} ({c['confidence']:.0%})"
+        elif c["status"] == "approved":
+            verb = (f"Corrected automatically ({c['confidence']:.0%})" if c.get("decided_by") == "auto"
+                    else "Correction approved by you")
+        else:
+            verb = "Correction rejected"
+        out.append(f'<p class="corr {c["status"]}"><b>{verb}</b> ({esc(c["field"])}): '
+                   f'{ar(c["printed"].replace("**", ""))} → {ar(c["corrected"].replace("**", ""))} — '
+                   f'{reason_html(c["reason"])}</p>')
+    return "".join(out)
+
+
+def author_block(b: dict, k: int) -> str:
+    if b["kind"] == "heading":  # a section heading with no text of its own
+        return f"""
+    <section class="card author" id="a{k}">
+      <header><h3 class="ar" lang="ar" dir="rtl">{esc(b['heading'])}</h3>
+        <span class="status author">Section heading</span></header>
+      <p class="meta">Book p. {b['book_page']}</p>{correction_lines(b.get("corrections", []))}
+    </section>"""
     text = " ".join(f'<b>{esc(t)}</b>' if bold else esc(t) for t, bold in bold_runs(b["text"].split()))
-    notes = "".join(f'<p class="note">Note: {reason_html(n)}</p>' for n in b["transcriber_notes"])
+    notes = correction_lines(b.get("corrections", []))
+    notes += "".join(f'<p class="note">Note: {reason_html(n)}</p>' for n in b["transcriber_notes"])
     return f"""
-    <section class="card author">
+    <section class="card author" id="a{k}">
       <header><h3 class="ar" lang="ar" dir="rtl">{esc(b['heading'])}</h3>
         <span class="status author">The Sheikh's own text · {esc(b['kind'])}</span></header>
       <p class="meta">Book p. {b['book_page']} · not vocalized</p>
@@ -138,17 +162,17 @@ def context_words(text: str, phrase: str, k: int = 3) -> list[str]:
     return ps
 
 
-def correction_row(c: dict, entry: dict, mode: str) -> str:
+def correction_row(c: dict, holder: dict, mode: str, anchor: str, label: str) -> str:
+    """A table row for a correction on an entry or on a block of the Sheikh's text (holder)."""
     level = "clear" if c["confidence"] >= 0.9 else "possible"
-    n = entry["number"]
     if mode == "question":
         control = (f'<label><input type="radio" name="q{c["id"]}" value="approve" data-id="{c["id"]}"> Approve</label> '
                    f'<label><input type="radio" name="q{c["id"]}" value="reject" data-id="{c["id"]}"> Reject</label>')
     else:
         control = f'<label><input type="checkbox" name="u{c["id"]}" value="undo" data-id="{c["id"]}"> Undo</label>'
-    link = dorar_link(context_words(corrected(entry, c["field"]), c["corrected"]))
+    link = dorar_link(context_words(corrected(holder, c["field"]), c["corrected"]))
     return f"""<tr>
-      <td>{c['id']}</td><td><a href="#e{n}">{n}</a></td>
+      <td>{c['id']}</td><td><a href="#{anchor}">{esc(label)}</a></td>
       <td>{ar(c['printed'].replace("**", ""))}</td><td>{ar(c['corrected'].replace("**", ""))}</td>
       <td><span class="chip {level}">{c['confidence']:.0%}</span></td>
       <td class="reason">{reason_html(c['reason'])} {link}</td>
@@ -195,17 +219,7 @@ def card(entry: dict, result: dict, voc: dict) -> str:
                     f"except the book's own marks. {search}</p>")
     body.append(f'<p class="ar text" lang="ar" dir="rtl">{vocalized_html(voc["words"])}</p>')
 
-    for c in entry["corrections"]:
-        if c["status"] == "proposed":
-            verb = f"Question {c['id']} ({c['confidence']:.0%})"
-        elif c["status"] == "approved":
-            verb = (f"Corrected automatically ({c['confidence']:.0%})" if c.get("decided_by") == "auto"
-                    else "Correction approved by you")
-        else:
-            verb = "Correction rejected"
-        body.append(f'<p class="corr {c["status"]}"><b>{verb}</b> ({esc(c["field"])}): '
-                    f'{ar(c["printed"].replace("**", ""))} → {ar(c["corrected"].replace("**", ""))} — '
-                    f'{reason_html(c["reason"])}</p>')
+    body.append(correction_lines(entry["corrections"]))
     for note in entry["transcriber_notes"]:
         body.append(f'<p class="note">Note: {reason_html(note)}</p>')
 
@@ -219,7 +233,9 @@ def card(entry: dict, result: dict, voc: dict) -> str:
             <div><h4>Book</h4><p class="ar small" lang="ar" dir="rtl">{book_html}</p></div>
             <div><h4>Database</h4><p class="ar small" lang="ar" dir="rtl">{db_html}</p></div>
           </div></details>""")
-    notes = ([entry["takhrij"]] if entry["takhrij"] else []) + entry["footnotes"]
+    # Footnotes with approved corrections applied (each correction is listed above).
+    notes = ([corrected(entry, "takhrij")] if entry["takhrij"] else []) + \
+        [corrected(entry, f"footnotes.{i}") for i in range(len(entry["footnotes"]))]
     if notes:
         items = "".join(f"<li>{ar(n, 'span')}</li>" for n in notes)
         body.append(f"<details><summary>Footnotes ({len(notes)})</summary><ul class=\"ar-list\">{items}</ul></details>")
@@ -237,16 +253,20 @@ def page(book: dict, matches: dict, vocalized: dict, misprints: list, book_slug:
     voc = {v["number"]: v for v in vocalized["entries"]}
     entries = book["entries"]
 
+    # Corrections on entries and on the Sheikh's own text, each with where it is: (c, holder, anchor, label).
+    holders = [(e, f"e{e['number']}", str(e["number"])) for e in entries]
+    holders += [(b, f"a{k}", f"Sheikh's text, p. {b['book_page']}")
+                for k, b in enumerate(book.get("author_text", [])) if b.get("corrections")]
     seen, proposed, automatic = set(), [], []
-    for e in entries:
-        for c in e["corrections"]:
+    for holder, anchor, label in holders:
+        for c in holder["corrections"]:
             if c["id"] in seen:
                 continue
             seen.add(c["id"])
             if c["status"] == "proposed":
-                proposed.append((c, e["number"]))
+                proposed.append((c, holder, anchor, label))
             elif c.get("decided_by") == "auto":
-                automatic.append((c, e["number"]))
+                automatic.append((c, holder, anchor, label))
     kept = [k for k in misprints if k["decision"] in ("kept", "variant")]
     totals = {}
     for v in vocalized["entries"]:
@@ -255,21 +275,20 @@ def page(book: dict, matches: dict, vocalized: dict, misprints: list, book_slug:
     matched = sum(1 for r in matches["results"] if r["match"])
     unmatched = [str(r["number"]) for r in matches["results"] if not r["match"]]
 
-    by_number = {e["number"]: e for e in entries}
-    decisions = "".join(correction_row(c, by_number[n], "question") for c, n in proposed) or \
+    decisions = "".join(correction_row(c, h, "question", a, l) for c, h, a, l in proposed) or \
         '<tr><td colspan="7">No questions for this chapter.</td></tr>'
-    auto_rows = "".join(correction_row(c, by_number[n], "auto") for c, n in automatic) or \
+    auto_rows = "".join(correction_row(c, h, "auto", a, l) for c, h, a, l in automatic) or \
         '<tr><td colspan="7">None.</td></tr>'
     kept_rows = "".join(kept_row(k) for k in kept) or '<tr><td colspan="4">None.</td></tr>'
     skipped = "".join(f"<li>Pages {esc(s['pages'])}: {reason_html(s['what'])}</li>" for s in book["skipped"])
     notes = "".join(f"<li>{reason_html(n)}</li>" for n in book["notes"])
     blocks = {}
-    for b in book.get("author_text", []):
-        blocks.setdefault(b["after_entry"], []).append(b)
-    cards = "".join(author_block(b) for b in blocks.get(None, []))
+    for k, b in enumerate(book.get("author_text", [])):
+        blocks.setdefault(b["after_entry"], []).append((b, k))
+    cards = "".join(author_block(b, k) for b, k in blocks.get(None, []))
     for e in entries:
         cards += card(e, results[e["number"]], voc[e["number"]])
-        cards += "".join(author_block(b) for b in blocks.get(e["number"], []))
+        cards += "".join(author_block(b, k) for b, k in blocks.get(e["number"], []))
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -447,8 +466,8 @@ def write_index() -> None:
         if path.exists():
             book = json.loads(path.read_text(encoding="utf-8"))
             seen, auto, questions = set(), 0, 0
-            for e in book["entries"]:
-                for c in e["corrections"]:
+            for e in book["entries"] + book.get("author_text", []):
+                for c in e.get("corrections", []):
                     if c["id"] in seen:
                         continue
                     seen.add(c["id"])

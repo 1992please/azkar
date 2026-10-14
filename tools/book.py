@@ -11,9 +11,17 @@ def load_chapter(name: str) -> dict:
     return json.loads((BOOK_DIR / f"{name}.json").read_text(encoding="utf-8"))
 
 
+def field_value(entry: dict, field: str):
+    """A correction's field: "text", "heading", "takhrij" …, or "footnotes.N" for the N-th footnote (from 0)."""
+    if field.startswith("footnotes."):
+        notes, k = entry.get("footnotes") or [], field.split(".", 1)[1]
+        return notes[int(k)] if k.isdigit() and int(k) < len(notes) else None
+    return entry.get(field)
+
+
 def corrected(entry: dict, field: str) -> str:
     """The field's printed value with its approved corrections applied."""
-    value = entry[field]
+    value = field_value(entry, field)
     for c in entry["corrections"]:
         if c["field"] == field and c["status"] == "approved":
             if value.count(c["printed"]) != 1:
