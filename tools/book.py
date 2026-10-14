@@ -2,13 +2,20 @@
 
 import json
 import pathlib
+import re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 BOOK_DIR = ROOT / "content" / "book"
+PROGRESS = BOOK_DIR / "PROGRESS.md"
 
 
 def load_chapter(name: str) -> dict:
     return json.loads((BOOK_DIR / f"{name}.json").read_text(encoding="utf-8"))
+
+
+def statuses(text: str) -> dict[str, str]:
+    """{slug: status} from the table in the text of PROGRESS.md."""
+    return dict(re.findall(r"^\| \d+ \| (\S+) \| [^|]* \| [^|]* \| (.*) \|$", text, re.M))
 
 
 def field_value(entry: dict, field: str):

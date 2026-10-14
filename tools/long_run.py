@@ -25,11 +25,10 @@ import argparse
 import datetime
 import json
 import pathlib
-import re
 import time
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
-PROGRESS = ROOT / "content" / "book" / "PROGRESS.md"
+from book import PROGRESS, statuses
+
 NAMES = {"five_hour": "5-hour", "seven_day": "weekly"}
 
 
@@ -80,10 +79,6 @@ def wait(args: argparse.Namespace) -> None:
     reset, reason = max(waits)
     # A minute's margin, so the next check sees the window already reset.
     print(f"{int(reset - now) + 60} {reason}; waiting until it resets on {when(reset)}")
-
-
-def statuses(text: str) -> dict[str, str]:
-    return dict(re.findall(r"^\| \d+ \| (\S+) \| [^|]* \| [^|]* \| (.*) \|$", text, re.M))
 
 
 def next_round(args: argparse.Namespace) -> None:

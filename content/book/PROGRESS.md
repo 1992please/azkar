@@ -3,7 +3,7 @@
 Status: running
 
 Chapters are done in this order: the app's core azkar first, then the rest in book order.
-The owner may reorder the `todo` rows. Statuses: `todo`, `in progress (through p. N)`, `transcribed` (pipeline and review next), `done: …`, `blocked: …` (waits for the owner).
+The owner may reorder the `todo` rows. Statuses: `todo`, `in progress (next: entry N, p. P)`, `transcribed` (pipeline and review next), `done: …`, `blocked: …` (waits for the owner).
 
 | # | Chapter | Pages | Title | Status |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ The owner may reorder the `todo` rows. Statuses: `todo`, `in progress (through p
 | 9 | entering-toilet | 28–29 | باب ما يقال عند دخول الخلاء | done: 1 entry, 0 corrected automatically, 0 questions |
 | 10 | leaving-toilet | 29–30 | باب ما يقال عند الخروج من الخلاء | done: 1 entry, 0 corrected automatically, 0 questions |
 | 11 | wudu | 30–35 | باب أذكار الوضوء | done: 8 entries, 1 corrected automatically, 3 questions |
-| 12 | prayer | 49–78 | باب أذكار الصلاة | in progress (through p. 53) |
+| 12 | prayer | 49–78 | باب أذكار الصلاة | in progress (next: entry 65, p. 52) |
 | 13 | food | 178–188 | باب أذكار الطعام | todo |
 | 14 | travel | 394–413 | باب في أذكار السفر | todo |
 | 15 | salawat | 117–125 | باب الصلاة على النبي ﷺ | todo |

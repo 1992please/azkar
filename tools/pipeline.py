@@ -23,7 +23,8 @@ PY = sys.executable
 
 
 def run(*args: str) -> None:
-    print(f"\n$ {' '.join(args)}")
+    # Flushed, so the heading comes before the step's own output when it goes to a pipe or a file.
+    print(f"\n$ {' '.join(args)}", flush=True)
     result = subprocess.run([PY, *args], cwd=ROOT)
     if result.returncode:
         sys.exit(f"Stopped: {args[0]} failed.")

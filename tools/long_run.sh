@@ -51,7 +51,7 @@ peak_hours() {
 
 # Read how much of the usage limits is used, with a one-word Haiku request.
 read_limits() {
-    claude -p "Reply with the single word OK." --model haiku --tools "" --strict-mcp-config \
+    CLAUDE_CODE_DISABLE_AUTO_MEMORY=1 claude -p "Reply with the single word OK." --model haiku --tools "" --strict-mcp-config \
         --disable-slash-commands --no-session-persistence --output-format stream-json --verbose \
         > "$PROBE" 2>> "$LOG"
 }
@@ -76,7 +76,9 @@ while ! grep -q '^Status: ALL DONE' content/book/PROGRESS.md; do
     # 10-minute command timeout: the pipeline on a long chapter can outlast the 2-minute default.
     # A 5-minute prompt cache: on a subscription the default is 1 hour, whose cache writes cost
     # more, and calls in a round come at most about 2 minutes apart.
-    BASH_DEFAULT_TIMEOUT_MS=600000 CLAUDE_CODE_PROMPT_CACHE_TTL=5m claude -p "$PROMPT" \
+    # No auto-memory: a round works only from the repo's files, and can't save notes into the
+    # memory the owner's own sessions load (this also cuts about 1K tokens from every call).
+    BASH_DEFAULT_TIMEOUT_MS=600000 CLAUDE_CODE_PROMPT_CACHE_TTL=5m CLAUDE_CODE_DISABLE_AUTO_MEMORY=1 claude -p "$PROMPT" \
         --model "$MODEL" --effort "$effort" --permission-mode dontAsk --allowedTools "$TOOLS" --tools "$BUILTIN" --strict-mcp-config \
         --disable-slash-commands --output-format stream-json --verbose > "$OUT" 2>> "$LOG"
     # Log the round's session id, length, cost estimate, limits used, status changes and closing message.

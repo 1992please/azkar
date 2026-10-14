@@ -7,9 +7,11 @@ Errors (exit code 1) must be fixed; warnings need a look.
 Checks:
 - index.tsv and chapters.tsv are well formed and consistent
 - each chapter file has the required fields, and its pages and title match chapters.tsv
-- entry numbers run without gaps or repeats, within and across chapters
+- entry numbers run without gaps or repeats, within and across chapters (a gap after a
+  chapter that PROGRESS.md shows `in progress` is only a warning: the rest isn't saved yet)
 - headings match the book's index (printed headings, since the index was printed from them),
-  and every index heading of the chapter appears in it
+  and every index heading of the chapter appears in it (in a chapter still in progress, only
+  the headings on the pages before the last one saved)
 - sub-heading letters (أ، ب، ج …) continue under the same heading and restart at أ under a
   new one (approved corrections applied) — this is how the p. 36 heading misprint showed up
 - corrections are well formed and their printed text occurs exactly once
@@ -30,7 +32,7 @@ import sys
 import unicodedata
 
 from arabic import words
-from book import BOOK_DIR, corrected, field_value
+from book import BOOK_DIR, PROGRESS, corrected, field_value, statuses
 
 ABJAD = "أ ب ج د هـ و ز ح ط ي ك ل م ن س ع ف ص ق ر ش ت ث خ ذ ض ظ غ".split()
 GRADINGS = {"صحيح", "حسن", "صحيح لغيره", "حسن لغيره", "ضعيف", "صحيح موقوف", "حسن موقوف"}
@@ -134,7 +136,7 @@ def index_items(index: list[dict], chapters: list[dict], k: int) -> list[dict]:
     return index[start + 1:end]
 
 
-def check_chapter(r: Report, path: pathlib.Path, ch: dict, items: list[dict]) -> list[int]:
+def check_chapter(r: Report, path: pathlib.Path, ch: dict, items: list[dict], in_progress: bool) -> list[int]:
     name = path.name
     book = json.loads(path.read_text(encoding="utf-8"))
     for key in ("chapter", "book_pages", "notes", "skipped", "author_text", "entries"):
@@ -227,6 +229,8 @@ def check_chapter(r: Report, path: pathlib.Path, ch: dict, items: list[dict]) ->
         elif not any(0 <= page - it["page"] <= 1 for it in hits):
             r.warn(name, f"heading «{heading}» is on p. {page}, index says p. {', '.join(str(h['page']) for h in hits)}")
     for it in items:
+        if in_progress and it["page"] >= pages[1]:
+            continue  # its page isn't saved yet, or only in part
         if not any(similar(it["title"], h) for h in first_page):
             r.warn(name, f"index heading not found in the chapter: {it['title']} (p. {it['page']})")
     return numbers
@@ -304,7 +308,9 @@ def main() -> None:
 
     r = Report()
     index, chapters = check_tables(r)
-    previous_last = None
+    progress = statuses(PROGRESS.read_text(encoding="utf-8")) if PROGRESS.exists() else {}
+    in_progress = {slug for slug, status in progress.items() if status.startswith("in progress")}
+    previous_last = previous_slug = None
     checked = 0
     for k, ch in enumerate(chapters):
         path = BOOK_DIR / f"{ch['slug']}.json"
@@ -314,11 +320,15 @@ def main() -> None:
         if args.names and ch["slug"] not in args.names:
             previous_last = None
             continue
-        numbers = check_chapter(r, path, ch, index_items(index, chapters, k))
+        numbers = check_chapter(r, path, ch, index_items(index, chapters, k), ch["slug"] in in_progress)
         checked += 1
         if numbers and previous_last is not None and numbers[0] != previous_last + 1:
-            r.error(path.name, f"first entry {numbers[0]} doesn't follow the previous chapter's last entry {previous_last}")
-        previous_last = numbers[-1] if numbers else None
+            message = f"first entry {numbers[0]} doesn't follow the previous chapter's last entry {previous_last}"
+            if numbers[0] > previous_last + 1 and previous_slug in in_progress:
+                r.warn(path.name, f"{message} ({previous_slug} is still in progress)")
+            else:
+                r.error(path.name, message)
+        previous_last, previous_slug = numbers[-1] if numbers else None, ch["slug"]
 
     known = {ch["slug"] for ch in chapters}
     for path in sorted(BOOK_DIR.glob("*.json")):

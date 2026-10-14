@@ -273,6 +273,11 @@ def page(book: dict, matches: dict, vocalized: dict, misprints: list, book_slug:
         for k, n in v["counts"].items():
             totals[k] = totals.get(k, 0) + n
     matched = sum(1 for r in matches["results"] if r["match"])
+    dorar_skipped = sum(1 for k in misprints if k.get("dorar_skipped"))
+    dorar_note = (f'<p class="corr proposed">dorar.net couldn\'t be searched when this page was made, so '
+                  f'{dorar_skipped} difference(s) were judged without it and the corrections and questions '
+                  f'below may change. Rerun <code>tools/pipeline.py {esc(book_slug)}</code> when it can be reached.</p>'
+                  if dorar_skipped else "")
     unmatched = [str(r["number"]) for r in matches["results"] if not r["match"]]
 
     decisions = "".join(correction_row(c, h, "question", a, l) for c, h, a, l in proposed) or \
@@ -368,6 +373,7 @@ def page(book: dict, matches: dict, vocalized: dict, misprints: list, book_slug:
   <p class="meta">Book pages {book["book_pages"][0]}–{book["book_pages"][1]} · {len(entries)} entries ·
   {matched} matched to a database · {len(automatic)} corrected automatically · {len(proposed)} questions ·
   {totals.get("none", 0)} words left without tashkeel · {totals.get("near_difference", 0)} words to check</p>
+  {dorar_note}
 
   <h2>Questions for you</h2>
   <p class="meta">Possible misprints I'm less than 90% sure about. The book's printed text stays unless you approve.

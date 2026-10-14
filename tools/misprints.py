@@ -35,6 +35,10 @@ For each one:
    databases, so its chain can't be compared), and when the difference is an
    attached pronoun added or dropped (either form can be grammatical).
 
+If dorar.net can't be reached (a request fails twice), the run goes on without it, and the
+candidates it would have been searched for are marked `dorar_skipped`: their decisions may change
+once it can be searched, so the review page says so.
+
 Corrections the owner has decided are never changed. Results: corrections in
 content/book/<name>.json, the full analysis in content/matches/<name>-misprints.json.
 """
@@ -44,6 +48,7 @@ import difflib
 import json
 import pathlib
 import re
+import time
 
 from arabic import TASHKEEL, normalize_word, words
 from book import BOOK_DIR, corrected, load_chapter
@@ -60,6 +65,7 @@ NAME_BEFORE = {"بن", "ابي", "ابو", "ام", "بنت"}  # a word after the
 TRANSMISSION = {"حدثنا", "حدثني", "اخبرنا", "اخبرني", "انبانا", "انباني", "سمعت", "عن", "قال", "ثنا"}
 SALUTATION_WORDS = [normalize_word(w) for w in "صلى الله عليه وسلم".split()]
 ASK_CAP = 0.85  # the highest score of a correction that is always asked
+DORAR_RETRY = 10  # seconds to wait before trying a failed dorar.net request again
 
 
 def levenshtein(a: str, b: str) -> int:
@@ -115,18 +121,25 @@ class Evidence:
             out[k] = self.corpus.count(" ".join(phrase)) if phrase else 0
         return out
 
-    def dorar(self, left: list[str], middle: list[str], right: list[str], query_words: list[str]) -> int:
-        """How many dorar.net narrations contain the middle words with two context words each side."""
-        if self.offline or not query_words:
+    def dorar(self, left: list[str], middle: list[str], right: list[str], query_words: list[str]) -> int | None:
+        """How many dorar.net narrations contain the middle words with two context words each side,
+        or None if dorar.net isn't searched (--offline, or it can't be reached)."""
+        if self.offline:
+            return None
+        if not query_words:
             return 0
         from dorar import search
         phrase = " ".join(left[-2:] + middle + right[:2])
-        try:
-            results = search(" ".join(query_words))
-        except Exception as error:  # network trouble shouldn't stop the run
-            print(f"  dorar.net unavailable ({error}); continuing without it")
-            self.offline = True
-            return 0
+        for attempt in (1, 2):
+            try:
+                results = search(" ".join(query_words))
+                break
+            except Exception as error:  # network trouble shouldn't stop the run
+                if attempt == 2:
+                    print(f"  dorar.net unavailable ({error}); continuing without it")
+                    self.offline = True
+                    return None
+                time.sleep(DORAR_RETRY)
         return sum(f" {phrase} " in " " + " ".join(words(r["text"])) + " " for r in results)
 
 
@@ -320,6 +333,9 @@ def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, 
     if in_hadith_text and not printed_attested:
         dorar_p = ev.dorar(left, p, right, query_context(p))
         dorar_a = ev.dorar(left, a, right, query_context(a))
+        if dorar_p is None or dorar_a is None:
+            c["dorar_skipped"] = True
+            dorar_p, dorar_a = dorar_p or 0, dorar_a or 0
     # How well the alternative is attested, at the shortest context where the printed wording occurs nowhere.
     unattested = [j for j in (1, 2, 3) if count_p[j] == 0 and (k is None or j <= k)]
     strength = (count_a[unattested[0]] if unattested else 0) + dorar_a
@@ -377,7 +393,9 @@ def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, 
     if c["nonword"]:
         parts.append("the printed word exists nowhere in the collections")
     parts.append(f"the alternative is attested {count_a[k] if k else 0} time(s) in the collections"
-                 + (f" and {dorar_a} on dorar.net" if in_hadith_text and not ev.offline else ""))
+                 + (f" and {dorar_a} on dorar.net" if in_hadith_text and not c.get("dorar_skipped") else ""))
+    if c.get("dorar_skipped"):
+        parts.append("dorar.net couldn't be searched")
     if in_name:
         parts.append("it is part of a name, and the printed spelling is used in no narration")
     if internal:
@@ -482,6 +500,10 @@ def main() -> None:
         print(f"{c['decision']:<13} {conf}  entry {c['entry']:>3}  {c['kind']:<12} "
               f"{' '.join(c['printed_words']) or '∅'} → {' '.join(c['alternative_words']) or '∅'}  "
               f"{c.get('evidence_counts', '')}")
+    skipped = sum(1 for c in analysis if c.get("dorar_skipped"))
+    if skipped:
+        print(f"dorar.net wasn't searched for {skipped} candidate(s), so their decisions may change: "
+              "rerun the pipeline when it can be reached.")
 
 
 if __name__ == "__main__":
