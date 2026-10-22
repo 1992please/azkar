@@ -2,11 +2,13 @@
   "chapter": "باب أذكار الصلاة",
   "book_pages": [
     49,
-    53
+    77
   ],
   "notes": [
     "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
-    "The chapter has no introduction: its title on p. 49 is followed directly by the heading «خطاب الإمام للمصلين بين يدي الصلاة»."
+    "The chapter has no introduction: its title on p. 49 is followed directly by the heading «خطاب الإمام للمصلين بين يدي الصلاة».",
+    "The chapter ends with entry 114 on p. 77. p. 78 begins with the next chapter's title «باب الذكر بعد الصلاة» (entry 115 on belongs to after-prayer), so nothing on p. 78 belongs to this chapter.",
+    "Review round: all 53 OCR flags were OCR misreads or word-order flags, checked on the flag sheets; the sheet's crop for «مرة» in entry 96 fell on the citation line, so «عمرو بن مرة» was checked on p. 67. The wording behind the questions on entries 63, 65, 106, 109 and 111 («والقراءة إسكاتة», «إلا أنت ربي», «حين يسلمون», «أُبي ؟», «فكبر الناس») was checked on the scans: the page prints it so."
   ],
   "skipped": [],
   "author_text": [],
@@ -128,7 +130,18 @@
       "grading": "صحيح",
       "takhrij": "ورواه مسلم ج٥ ص٩٦ ، وأبو داود ج١ ص٤٩٣ ، وابن ماجه رقم ٨٠٥ والنسائيّ ج١ ص٥٠ ، وأبو عوانة في مسنده ج٢ ص١٠٧ ، وأحمد ٢ / ٢٣١ ، ٤٩٤ ، وابن الجارود في المنتقى ٣٢٠ .",
       "footnotes": [],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "التكبير والقراءة إسكاتة",
+          "corrected": "التكبير وبين القراءة إسكاتة",
+          "confidence": 0.48,
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it. Rejected by the owner on 2026-10-15."
+        }
+      ],
       "transcriber_notes": [
         "«والبرَد» has a single fatha, over the ra (zoomed at 1600 dpi); the ba has none."
       ]
@@ -164,6 +177,1166 @@
         "«الخُدري» has a damma over the kha and «قالَ» a fatha over the lam (zoomed at 727–1600 dpi).",
         "The takhrij (footnote (٦٤)) runs from p. 51 over p. 52 to p. 53 («=» at each page break) and has several indented paragraphs, joined here with spaces. It quotes three narrations with their chains (Ibn Majah 806, Abu Dawud, al-Tabarani via Nasb al-Raya), each printed in bold from the Companion on; the bold is marked as in the text.",
         "Printed so, kept as printed (zoomed at 1092–1600 dpi): «البيهقي ح ٢ / ٣٤» with «ح», not «ج»; «حديث اخر» without madda; «الملائيّ» with a mark over the final letters, written as the shadda of «النسائيّ»; «الشمالي» with sheen; «ولا تخالف آذانكم»."
+      ]
+    },
+    {
+      "number": 65,
+      "book_page": 52,
+      "heading": "دعاء افتتاح الصلاة",
+      "label": "ج",
+      "citation": "قال الإمام مسلم ج٦ ص٥٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 57
+      },
+      "text": "حدثنا محمد بن أبي بكر المقدمي حدثنا يوسف الماجشون حدثني أبي عن عبد الرحمن الأعرج عن عبيد الله بن أبي رافع **عن علي بن أبي طالب عن رسول الله ﷺ أنه كان إذا قام إلى الصلاة قال : « وجهت وجهي للذي فطر السموات والأرض حنيفا وما أنا من المشركين إن صلاتي ونسكي ومحياي ومماتي لله رب العالمين لا شريك له وبذلك أمرت وأنا من المسلمين . اللهم أنت الملك لا إله إلا أنت ربي وأنا عبدك ظلمت نفسي واعترفت بذنبي فاغفر لي ذنوبي جميعا إنه لا يغفر الذنوب إلا أنت واهدني لأحسن الأخلاق لا يهدي لأحسنها إلا أنت واصرف عني سيئها لا يصرف عني سيئها إلا أنت لبيك وسعديك والخير كله في يديك والشر ليس إليك أنا بك وإليك تباركت وتعاليت أستغفرك وأتوب إليك » ، وإذا ركع قال : « اللهم لك ركعت وبك آمنت ولك أسلمت خشع لك سمعي وبصري ومخي وعظمي وعصبي » ، وإذا رفع قال : « اللهم لك الحمد ملء السموات والأرض وملء ما بينهما وملء ما شئت من شيء بعد » ، وإذا سجد قال : « اللهم لك سجدت وبك آمنت ولك أسلمت سجد وجهي للذي خلقه وصوره وشق سمعه وبصره تبارك الله أحسن الخالقين » ، ثم يكون من آخر ما يقول بين التشهد والتسليم : « اللهم اغفر لي ما قدمت وما أخرت وما أسررت وما أعلنت وما أسرفت وما أنت أعلم به مني أنت المقدم وأنت المؤخر لا إله إلا أنت » .** وحدثناه زهير بن حرب حدثنا عبد الرحمن بن مهدي ح وحدثنا إسحاق بن إبراهيم أخبرنا أبو النضر قال : حدثنا عبد العزيز بن عبد الله بن أبي سلمة عن عمه الماجشون ابن أبي سلمة عن الأعرج بهذا الإسناد وقال : **كان رسول الله ﷺ إذا استفتح الصلاة كبر ثم قال : « وجهت وجهي » ، وقال : « وأنا أول المسلمين » ، وقال : وإذا رفع رأسه من الركوع قال : « سمع الله لمن حمده ربنا ولك الحمد » ، وقال : « وصوّره فأحسن صوره » ، وقال : إذا سلم قال : « اللهم اغفر لي ما قدمت » إلى آخر الحديث ، ولم يقل : « بين التشهد والتسليم » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٤٨١ ، والنسائيّ ج٢ ص١٣٠ ، وابن الجارود في المنتقى رقم ١٧٩ ، والترمذي في الدعوات باب ٣٢ حديث رقم ٣٤٢٣ وقال : حسن صحيح .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "إله إلا أنت ربي",
+          "corrected": "إله إلا أنت أنت ربي",
+          "confidence": 0.68,
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 6 time(s) in the collections and 15 on dorar.net. Approved by the owner on 2026-10-15."
+        },
+        {
+          "id": 12,
+          "field": "text",
+          "printed": ": إذا سلم",
+          "corrected": ": وإذا سلم",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the alternative also appears elsewhere in this entry; in the hadith text the wording of the cited source (muslim 1290) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The entry runs from p. 52 over p. 53 to p. 54, where its grading is printed; its takhrij is on p. 54.",
+        "A further narration («وحدثناه زهير بن حرب …», p. 53) is printed without an entry number of its own; kept in `text` as printed, its chain regular and the rest bold.",
+        "Zoomed at 327 dpi: «سيئها» is printed so both times; «وصوّره» in the second narration has a shadda over the waw; «وصوره» in the first has none."
+      ]
+    },
+    {
+      "number": 66,
+      "book_page": 54,
+      "heading": "دعاء افتتاح الصلاة",
+      "label": null,
+      "citation": "قال الإمام مسلم رحمه الله ص٤١٩",
+      "source": {
+        "collection": "muslim",
+        "page": 419
+      },
+      "text": "حدثني زهير بن حرب حدثنا عفان حدثنا حماد أخبرنا قتادة وثابت وحميد **عن أنس أن رجلا جاء فدخل الصف وقد حفزه النفس فقال : الحمد لله حمدا كثيرا طيبا مباركا فيه . فلما قضى رسول الله ﷺ صلاته قال : « أيكم المتكلم بالكلمات ؟ » فأرم القوم فقال : « أيكم المتكلم بها ، فإنه لم يقل بأسا » فقال رجل : جئت وقد حفزني النفس فقلتها ، فقال : « لقد رأيت اثني عشر ملكا يبتدرونها أيهم يرفعها » .**",
+      "grading": null,
+      "takhrij": "( عند أحمد ٣ / ١٦٧ فقال : الله أكبر الحمد لله حمدا كثيرا طيبا مباركا فيه . فتحمل رواية مسلم على أنه قال ذلك بعد التكبير ) .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No grading is printed after the entry: the heading «افتتاح صلاة الليل» follows directly (p. 54).",
+        "The citation gives only a page, «ص٤١٩», with no volume; kept as printed.",
+        "The takhrij (footnote (٦٦)) is printed in parentheses; kept as printed."
+      ]
+    },
+    {
+      "number": 67,
+      "book_page": 54,
+      "heading": "افتتاح صلاة الليل",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٥٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 56
+      },
+      "text": "حدثنا محمد بن المثنى ومحمد بن حاتم وعبد بن حميد ومعن الرقاشي قالوا : حدثنا عمر بن يونس حدثنا عكرمة بن عمار حدثنا يحيى بن أبي كثير حدثني أبو سلمة بن عبد الرحمن بن عوف قال : **سألت عائشة أم المؤمنين بأي شيء كان نبي الله ﷺ يفتتح صلاته إذا قام من الليل ؟ قالت : كان إذا قام من الليل افتتح صلاته : « اللهم رب جبرائيل وميكائيل وإسرافيل فاطر السموات والأرض عالِمَ الغيب والشهادة أنت تحكم بين عبادك فيما كانوا فيه يختلفون اهدني لما اختلف فيه من الحق بإذنك إنك تهدي من تشاء إلى صراط مستقيم » .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أبو داود ج ص٤٨٧ ، وابن ماجه رقم ١٣٥٧ والنسائيّ ج٣ ص٢١٣ ، والترمذي ج٩ ص٣٧٢ تحفة وقال : حسن غريب . وأحمد ٦ / ١٥٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 54 onto p. 55, where its last line and grading are printed; its takhrij is on p. 55.",
+        "«عالِمَ» has a kasra under the lam and a fatha over the mim (zoomed at 327 dpi).",
+        "The takhrij prints «أبو داود ج ص٤٨٧» with no volume digit after «ج»; kept as printed (the volume can't be told from the page).",
+        "A dot printed under the grading «حسن» looks like a stray mark; not transcribed."
+      ]
+    },
+    {
+      "number": 68,
+      "book_page": 55,
+      "heading": "افتتاح صلاة الليل",
+      "label": null,
+      "citation": "قال أبو داود رحمه الله (حديث ٧٦٦)",
+      "source": {
+        "collection": "abudawud",
+        "hadith": 766
+      },
+      "text": "حدثنا محمد بن رافع حدثنا زيد بن الحباب أخبرني معاوية بن صالح أخبرني أزهر بن سعيد الحرازي عن عاصم بن حميد قال : **سألت عائشة بأي شيء كان يفتتح رسول الله ﷺ قيام الليل ؟ فقالت : لقد سألتني عن شيء ما سألني عنه أحد قبلك ، كان إذا قام كبر عشرا وحمد الله عشرا وسبح عشرا وهلل عشرا واستغفر عشرا ، وقال : « اللهم اغفر لي واهدني وارزقني وعافني » ، ويتعوذ من ضيق المقام يوم القيامة . قال أبو داود : ورواه خالد بن معدان عن ربيعة الجرشي عن عائشة نحوه .**",
+      "grading": "صحيح لغيره",
+      "takhrij": "قلت : وحديث عاصم بن حميد عن عائشة أخرجه النسائيّ في الاستعاذة باب التعوذ من ضيق المقام يوم القيامة ٨ / ٢٨٤ ، وابن ماجه في الصلاة حديث رقم ١٣٥٦ ، وابن حبان ٦٤٩ . أما حديث ربيعة الجرشي عن عائشة فعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [
+        "(٦٨) **تنبيه** : رواية ابن حبان فيها : فيكبر عشرا ويسبح عشرا ويحمد عشرا ويهلل عشرا ويستغفر عشرا ، وقال : « اللهم اغفر لي واهدني وارزقني » عشرا ويتعوذ بالله من ضيق المقام يوم القيامة عشرا ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Abu Dawud's remark «قال أبو داود : ورواه خالد بن معدان …» is printed in bold inside the entry; kept in `text` as printed.",
+        "Footnote (٦٨) has a further paragraph starting with a bold «تنبيه» about Ibn Hibban's wording; it is its own item in `footnotes`, per the rules."
+      ]
+    },
+    {
+      "number": 69,
+      "book_page": 55,
+      "heading": "افتتاح الصلاة بالحمد لله رب العالمين",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٢٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 226
+      },
+      "text": "حدثنا حفص بن عمر قال : حدثنا شعبة عن قتادة **عن أنس أن النبي ﷺ وأبا بكر وعمرَ رضي الله عنهما كانوا يفتتحون الصلاة بالحمد لله رب العالمين .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٥ ص٩٦ ، وابن ماجه رقم ٨١٣ ، والنسائيّ ج٢ ص١٣٣ ، والترمذي ج٢ ص٥٨ تحفة وقال : حديث حسن صحيح . وابن الجارود رقم ١٨٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 55 onto p. 56. «وعمرَ» has a fatha over the ra (zoomed at 327 dpi)."
+      ]
+    },
+    {
+      "number": 70,
+      "book_page": 56,
+      "heading": "افتتاح الصلاة بالحمد لله رب العالمين",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٤ ص١١٠ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 110
+      },
+      "text": "حدثنا شعبة قال : سمعت قتادة يحدث **عن أنس قال : صليت مع رسول الله ﷺ وأبي بكر وعمر وعثمان فلم أسمع أحدا منهم يقرأ بسم الله الرحمن الرحيم .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه ابن الجارود في المنتقى ١٨١ ، والنسائيّ ٢ / ١٣٥ .",
+      "footnotes": [
+        "(٧٠) وقد استفاض الحافظ ابن حجر رحمه الله في الكلام على هذا الحديث ، وهذه الزيادة في النكت على ابن الصلاح ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain begins «حدثنا شعبة» as printed (the book omits the narrators before Shu'ba).",
+        "Footnote (٧٠) has an unnumbered paragraph on Ibn Hajr's discussion of the hadith; it is its own item in `footnotes`."
+      ]
+    },
+    {
+      "number": 71,
+      "book_page": 56,
+      "heading": "وجوب قراءة الفاتحة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٣٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 236
+      },
+      "text": "حدثنا على بن عبد الله قال : حدثنا سفيان قال : حدثنا الزهري عن محمود بن الربيع **عن عبادة بن الصامت أن رسول الله ﷺ قال : « لا صلاة لمن لم يقرأ بفاتحة الكتاب » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٠٠ ، وأبو داود ج١ ص٥١٤ ، وابن ماجه رقم ٨٣٧ ، والنسائيّ ج٢ ص١٣٧ ، والترمذي ج٢ ص٥٩ تحفة ، ص٢٢٩ ، وأبو عوانة ج٢ ص١٣٧ ، والدارمي ١ / ٢٨٣ ، والبيهقي ٢ / ٣٨ ، ١٦٤ ، ٣٧٤ ، ٣٧٥ ، وأحمد ٥ / ٣١٤ ، ٣٢١ ، ٣٢٢ ، وابن الجارود رقم ١٨٥ ، والدارقطني ج١ ص٣١٨ .",
+      "footnotes": [
+        "(*) [على «الزهري»] قال الحافظ ابن حجر فتح ص ٢٤١ قوله : عن محمود بن الربيع ، في رواية الحميدي : عن سفيان حدثني الزهري سمعت محمود بن الربيع . ولابن أبي عمر عن سفيان بالإسناد عند الإسماعيلي : سمعت عبادة ابن الصامت ، ولمسلم من رواية صالح بن كيسان عن ابن شهاب أن محمود بن الربيع أخبره أن عبادة بن الصامت أخبره . وبهذا التصريح بالإخبار يندفع تعليل من أعله بالانقطاع لكون بعض الرواة أدخل بين محمود وعبادة رجلا ، وهي رواية ضعيفة عند الدارقطني ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«على بن عبد الله» is printed with final «ى» (zoomed at 327 dpi).",
+        "The (*) footnote runs from p. 56 onto p. 57 («=»); joined into one item."
+      ]
+    },
+    {
+      "number": 72,
+      "book_page": 57,
+      "heading": "قول آمين في الصلاة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٦٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 262
+      },
+      "text": "حدثنا عبد الله بن يوسف قال : أخبرنا مالك عن ابن شهاب عن سعيد بن المسيب وأبي سلمة بن عبد الرحمن أنهما أخبراه **عن أبي هريرة أن النبي ﷺ قال : « إذا أمن الإمام فأمّنوا فإنه من وافق تأمينه تأمين الملائكة غفر له ما تقدم من ذنبه » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم ص٣٠٧ فؤاد عبد الباقي ، والبيهقي ٢ / ٥٥ ، وأحمد ٢ / ٢٣٣ ، ٢٧٠ ، ٣١٢ ، ٤٤٠ ، ٤٥٩ ، وابن ماجه ٨٤٦ ، وأبو عوانة ج٢ ص١٤٣ ، وابن الجارود رقم ١٩٠ ، وأبو داود رقم ٩٣٦ ، والترمذي رقم ٢٥٠ ، والنسائيّ رقم ٩٢٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«فأمّنوا» has a shadda over the mim; «أمن» has none."
+      ]
+    },
+    {
+      "number": 73,
+      "book_page": 57,
+      "heading": "قول آمين في الصلاة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص١٥٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 159
+      },
+      "text": "حدثنا عبد الله بن يوسف أخبرنا مالك عن سمي عن أبي صالح **عن أبي هريرة رضي الله عنه أن رسول الله ﷺ قال : « إذا قال الإمام : غير المغضوب عليهم ولا الضالين ، فقولوا : آمين ، فمن وافق قوله قول الملائكة غفر له ما تقدم من ذنبه » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٢ ص١٤٤ ، والترمذي ج٢ ص٧٨ ، وقال : حسن صحيح . والدارمي ١ / ٢٨٤ ، وأحمد ٢ / ٢٣٣ ، ٢٧٠ ، ٤٥٩ ، وأبو داود في الصلاة رقم ٩٣٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verse words «غير المغضوب عليهم ولا الضالين» are printed without Quran brackets; kept as printed."
+      ]
+    },
+    {
+      "number": 74,
+      "book_page": 57,
+      "heading": "القراءة بعد الفاتحة",
+      "label": "أ",
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٤٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 243
+      },
+      "text": "حدثنا أبو نعيم قال : حدثنا شيبان عن يحيى **عن عبد الله بن أبي قتادة عن أبيه قال : كان النبي ﷺ يقرأ في الركعتين الأُولين من صلاة الظهر بفاتحة الكتاب وسورتين يطول في الأولى ويقصر في الثانية ويُسمع الآية أحيانا ، وكان يقرأ في العصر بفاتحة الكتاب وسورتين وكان يطول في الركعة الأولى من صلاة الصبح ويقصر في الثانية .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٧١ ، وأبو داود ج١ ص٥٠٣ ، وابن ماجه رقم ٨١٩ مختصرا ، والنسائيّ ج٢ ص١٦٥ ، وابن الجارود في المنتقى رقم ١٨٧ .",
+      "footnotes": [
+        "(*) [على «يحيى»] يحيى هو ابن كثير - مدلس - وباستقصاء أطراف هذا الحديث من صحيح البخاري لم نجد ليحيى تصريحا بالسماع إلا في رواية الأوزاعي عنه فتح ج٢ ص ٢٦١ لكن بلفظ : **أن النبي ﷺ كان يقرأ بأم الكتاب وسورة معها في الركعتين الأولين من صلاة الظهر وصلاة العصر ويسمعنا الآية أحيانا ، وكان يطيل في الركعة الأولى .** وقال الحافظ ابن حجر ج٢ ص ٢٤٤ : قوله : عن عبد الله بن أبي قتادة عن أبيه . في رواية الجوزقي من طريق عبيد الله بن موسى عن شيبان التصريح بالإخبار ليحيى من عبد الله ولعبد الله من أبيه ، وهكذا النسائيّ من رواية الأوزاعي عن يحيى لكن بلفظ التحديث فيهما ، وكذا عنده من رواية أبي إبراهيم القناد عن يحيى حدثني عبد الله ، فأمن بذلك تدليس يحيى ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 57 onto p. 58, where its text and grading are printed; its takhrij is on p. 57.",
+        "«الأُولين» in the text has a damma over the hamza: its mark has the same two-part shape as «فأُقيم» on p. 74 and is about twice the height of a plain hamza (compared at 1600 dpi in the review round). «الأولين» in the footnote has a plain hamza. Both are printed with one ya, against the databases' «الأوليين» (a check-scan line, checked on p. 58); taken as the book's spelling, kept as printed. «ويُسمع» has a damma over the ya.",
+        "The (*) footnote runs from p. 57 onto p. 58 («=») and has a second, indented paragraph (Ibn Hajr's remark); joined into one item. The narration it quotes is printed in bold; marked so."
+      ]
+    },
+    {
+      "number": 75,
+      "book_page": 58,
+      "heading": "القراءة بعد الفاتحة",
+      "label": "ب",
+      "citation": "قال الإمام مسلم ج٤ ص١٧٢",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 172
+      },
+      "text": "حدثنا شيبان بن فروخ حدثنا أبو عوانة عن الوليد أبي بشر عن أبي الصديق الناجي **عن أبي سعيد الخدري أن النبي ﷺ كان يقرأ في صلاة الظهر في الركعتين الأُولين في كل ركعة قدر ثلاثين آية وفي الأخريين قدر خمس عشرة آية ، أو قال : نصف ذلك ، وفي العصر في الركعتين الأولين في كل ركعة قدر قراءة خمس عشرة آية وفي الأخريين قدر نصف ذلك .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٥٠٦ ، وابن ماجه رقم ٨٢٨ ، والنسائيّ في الصلاة باب ١٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The first «الأُولين» has a damma over the hamza, the second a plain hamza (compared with «فأُقيم» on p. 74 at 1600 dpi in the review round). Both are printed with one ya, against the databases' «الأوليين» (check-scan lines, checked on p. 58); taken as the book's spelling, kept as printed."
+      ]
+    },
+    {
+      "number": 76,
+      "book_page": 58,
+      "heading": "القراءة بعد الفاتحة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٠٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 200
+      },
+      "text": "حدثنا آدم بن أبي إياس قال : حدثنا شعبة قال : حدثنا محارب بن دثار قال : **سمعت جابر ابن عبد الله الأنصاري قال : أقبل رجل بناضحين - وقد جنح الليل - فوافق معاذا يصلي فترك ناضحه وأقبل إلى معاذ فقرأ بسورة البقرة - أو النساء - فانطلق الرجل وبلغه أن معاذا نال منه فأتى النبي ﷺ فشكا إليه معاذا فقال النبي ﷺ : « يا معاذ ، أفتان أنت - أو أفاتن أنت - ( ثلاث مرار ) فلولا صليت بسبح اسم ربك والشمس وضحاها والليل إذا يغشى فإنه يصلي وراءك الكبير والضعيف وذو الحاجة ... » أحسب هذا في الحديث .** قال أبو عبد الله : وتابعه سعيد بن مسروق ومسعر والشيباني ، قال عمرو وعبيد الله ابن مقسم وأبو الزبير عن جابر : قرأ معاذ في العشاء بالبقرة . وتابعه الأعمش عن محارب .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٨١ ، وابن ماجه رقم ٨٣٦ ، ٩٨٦ ، والنسائيّ ج٢ ص١٦٨ ، وأحمد ٣ / ٣٠٨ ، ٣٦٩ ، وأبو عوانة ، وابن الجارود في المنتقى رقم ٣٢٧ ، وأحمد ٣ / ٣٠٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 58 onto p. 59, where its text, al-Bukhari's remark and grading are printed; its takhrij is on p. 59.",
+        "Al-Bukhari's remark «قال أبو عبد الله : وتابعه …» is printed in regular type after the hadith; kept in `text` as printed.",
+        "No sub-heading letter is printed before this entry; `label` is null. The surah names are printed without Quran brackets; kept as printed."
+      ]
+    },
+    {
+      "number": 77,
+      "book_page": 59,
+      "heading": "ما يقرأ في الركعتين قبل الفجر",
+      "label": null,
+      "citation": "قال الإمام أحمد رحمه الله ( في مسنده ٢ / ٩٤ )",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 94
+      },
+      "text": "حدثنا أبو أحمد الزبيري حدثنا سفيان عن أبي إسحاق عن مجاهد **عن ابن عمر قال : رمقت النبي ﷺ شهرًا فكان يقرأ في الركعتين قبل الفجر ﴿ قل ياأيها الكافرون ﴾ و ﴿ قل هو الله أحد ﴾ .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد أيضا ٢ / ٩٥ ، ٩٩ ، وأخرجه الترمذي والنسائيّ وابن ماجه كلهم في الصلاة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«شهرًا» has tanween fatha; «ياأيها» is printed joined."
+      ]
+    },
+    {
+      "number": 78,
+      "book_page": 59,
+      "heading": "ما يقرأ في الركعتين قبل الفجر",
+      "label": null,
+      "citation": "قال الإمام مسلم رحمه الله ص٥٠٢",
+      "source": {
+        "collection": "muslim",
+        "page": 502
+      },
+      "text": "حدثني محمد بن عباد وابن أبي عمر قالا : حدثنا مروان بن معاوية عن يزيد ( هو ابن كيسان ) عن أبي حازم **عن أبي هريرة أن رسول الله ﷺ قرأ في ركعتي الفجر ﴿ قل ياأيها الكافرون ﴾ و ﴿ قل هو الله أحد ﴾ .**",
+      "grading": null,
+      "takhrij": "وأخرجه أبو داود حديث رقم ١٢٥٦ ، والنسائيّ في الافتتاح باب القراءة في ركعتي الفجر ، وابن ماجه في الصلاة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No grading is printed after the entry: p. 59 ends with the text and p. 60 begins with the heading «ما يقال في الركوع والسجود».",
+        "The citation gives only a page, «ص٥٠٢», with no volume; kept as printed."
+      ]
+    },
+    {
+      "number": 79,
+      "book_page": 60,
+      "heading": "ما يقال في الركوع والسجود",
+      "label": "أ",
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٨١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 281
+      },
+      "text": "حدثنا حفص بن عمر قال : حدثنا شعبة عن منصور عن أبي الضحى عن مسروق **عن عائشة رضى الله عنها قالت : كان النبي ﷺ يقول في ركوعه وسجوده : « سبحانك اللهم ربنا وبحمدك اللهم اغفر لي » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص٢٠١ ، وأبو داود ج١ ص٥٤٦ ، وابن ماجه رقم ٨٨٩ ، والنسائيّ ج٢ ص١٩٠ ، وأحمد ٦ / ٤٣ ، ٤٩ ، ١٠٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«رضى» is printed with final «ى» (zoomed at 1600 dpi)."
+      ]
+    },
+    {
+      "number": 80,
+      "book_page": 60,
+      "heading": "ما يقال في الركوع والسجود",
+      "label": "ب",
+      "citation": "قال الإمام مسلم ج٤ ص٢٠٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 203
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا محمد بن بشر العبدي حدثنا سعيد بن أبي عروبة عن قتادة عن مطرف بن عبد الله بن الشخير **أن عائشة نبأته أن رسول الله ﷺ كان يقول في ركوعه وسجوده : « سبوح قدوس رب الملائكة والروح » .** حدثنا محمد بن المثنى حدثنا أبو داود حدثنا شعبة أخبرني قتادة قال : سمعت مطرف ابن عبد الله بن الشخير ، قال أبو داود : وحدثني هشام عن قتادة عن مطرف عن عائشة عن النبي ﷺ بهذا الحديث .",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٥٤٣ ، والنسائيّ ج٢ ص١٩٠ ، وأبو عوانة ج٢ ص١٨٣ ، وأحمد ٦ / ٩٤ ، ١٩٣ ، ٢٦٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "A further chain («حدثنا محمد بن المثنى …») is printed in regular type without an entry number of its own; kept in `text` as printed."
+      ]
+    },
+    {
+      "number": 81,
+      "book_page": 60,
+      "heading": "ما يقال في الركوع والسجود",
+      "label": "ج",
+      "citation": "قال أبو داود ج١ ص٥٤٣",
+      "source": {
+        "collection": "abudawud",
+        "volume": 1,
+        "page": 543
+      },
+      "text": "حدثنا حفص بن عمر حدثنا شعبة قال : قلت لسليمان : أدعو في الصلاة إذا مررت بآية تخوف ؟ فحدثني عن سعد بن عبيدة عن مستورد عن صلة بن زفر **عن حذيفة أنه صلى مع النبي ﷺ فكان يقول في ركوعه : « سبحان ربي العظيم » وفي سجوده : « سبحان ربي الأعلى » وما مر بآية رحمة إلا وقف عندها فسأل ، ولا بآية عذاب إلا وقف عندها فتعوذ .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٢ ص١٧٦ ، والترمذي ج٢ ص١٢٢ تحفة وقال : حسن صحيح . وأحمد ٥ / ٣٨٢ ، ٣٩٤ ، والدارمي ١ / ٢٩٩ ، وأبو عوانة ج٢ ص٢٠٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 60 onto p. 61, where its text and grading are printed; its takhrij is on p. 61."
+      ]
+    },
+    {
+      "number": 82,
+      "book_page": 61,
+      "heading": "ما يقال في الركوع والسجود",
+      "label": null,
+      "citation": "قال أبو داود ج١ ص٥٤٢",
+      "source": {
+        "collection": "abudawud",
+        "volume": 1,
+        "page": 542
+      },
+      "text": "حدثنا الربيع بن نافع أبو توبة ، وموسى بن إسماعيل ، المعنى قالا : حدثنا ابن المبارك عن موسى قال أبو سلمة : موسى بن أيوب عن عمه **عن عقبة بن عامر قال : لما نزلت ﴿ فسبح باسم ربك العظيم ﴾ قال رسول الله ﷺ : « اجعلوها في ركوعكم » ، فلما نزلت ﴿ سبح اسم ربك الأعلى ﴾ قال : « اجعلوها في سجودكم » .**",
+      "grading": "حسن لشواهده",
+      "takhrij": "وأخرجه ابن ماجه رقم ٨٨٧ ، وأحمد ٤ / ١٥٥ ، والحاكم ١ / ٢٢٥ ، ٢ / ٤٧٧ ، والبيهقي ٢ / ٨٦ .",
+      "footnotes": [
+        "(*) [على «عن عمه»] في ابن ماجه : سمعت عمي إياس بن عامر ج١ ص٢٨٧ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "No sub-heading letter is printed before this entry; `label` is null."
+      ]
+    },
+    {
+      "number": 83,
+      "book_page": 61,
+      "heading": "النهي عن قراءة القرآن في الركوع والسجود",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٤ ص١٩٦ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 196
+      },
+      "text": "حدثنا سعيد بن منصور وأبو بكر بن أبي شيبة وزهير بن حرب قالوا : حدثنا سفيان بن عيينة أخبرني سليمان بن سحيم عن إبراهيم بن عبد الله بن معبد عن أبيه **عن ابن عباس قال : كشف رسول الله ﷺ الستارة والناس صفوف خلف أبي بكر فقال : « أيها الناس إنه لم يبق من مبشرات النبوة إلا الرؤيا الصالحة يراها المسلم أو تُرى له ألا وإني نهيت أن أقرأ القرآن راكعا أو ساجدا فأما الركوع فعظِّموا فيه الرب عز وجل وأما السجود فاجتهدوا في الدعاء فَقَمِنٌ أن يستجاب لكم » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه النسائيّ ج٢ ص١٨٩ ، وأبو عوانة ج٢ ص١٨٦ ، وأحمد ١ / ٢١٩ ، وأبو داود في الصلاة رقم ٨٧٦ ، وابن ماجه رقم ٣٨٩٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 61 onto p. 62, where its text and grading are printed; its takhrij is on p. 61.",
+        "Zoomed at 327 dpi: «تُرى» has a damma over the ta; «فعظِّموا» a shadda with a kasra on the za; «فَقَمِنٌ» a fatha on the fa and qaf, a kasra under the mim and tanween damma on the nun."
+      ]
+    },
+    {
+      "number": 84,
+      "book_page": 62,
+      "heading": "ما يقال عند الرفع من الركوع",
+      "label": "أ",
+      "citation": "قال الإمام مسلم ج٤ ص١٩٤ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 194
+      },
+      "text": "حدثنا عبد الله بن عبد الرحمن الدارمي أخبرنا مروان بن محمد الدمشقي حدثنا سعيد ابن عبد العزيز عن عطية بن قيس عن قزعة **عن أبي سعيد الخدري قال : كان رسول الله ﷺ إذا رفع رأسه من الركوع قال : « ربنا لك الحمد ملء السموات والأرض وملء ما شئت من شيء بعد أهل الثناء والمجد أحق ما قال العبد وكلنا لك عبد ، اللهم لا مانع لما أعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٥٢٩ ، والنسائيّ ج٢ ص١٩٨ ، وأبو عوانة ج٢ ص١٩٢ مسند .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 85,
+      "book_page": 62,
+      "heading": "ما يقال عند الرفع من الركوع",
+      "label": "ب",
+      "citation": "قال الإمام مسلم ج٤ ص١٩٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 195
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا هشام بن بشير أخبرنا هشام بن حسان عن قيس ابن سعد عن عطاء **عن ابن عباس أن النبي ﷺ كان إذا رفع رأسه من الركوع قال : « اللهم ربنا لك الحمد ملء السموات والأرض وما بينهما وملء ما شئت من شيء بعد أهل الثناء والمجد لا مانع لما أعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٢ ص١٩٨ ، وأبو عوانة مسند ج٢ ص١٩٣ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "حدثنا هشام بن",
+          "corrected": "حدثنا هشيم بن",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The entry runs from p. 62 onto p. 63, where its text and grading are printed; its takhrij is on p. 62.",
+        "«حدثنا هشام بن بشير» is printed so (zoomed at 655 dpi), not «هشيم»; kept as printed."
+      ]
+    },
+    {
+      "number": 86,
+      "book_page": 63,
+      "heading": "ما يقال عند الرفع من الركوع",
+      "label": "ج",
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢١٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 216
+      },
+      "text": "حدثنا أبو اليمان قال : أخبرنا شعيب قال : حدثني أبو الزناد عن الأعرج **عن أبي هريرة قال : قال النبي ﷺ : « إنما جُعل الإمام ليُؤتم به ، فإذا كبَّر فكبروا وإذا ركع فاركعوا ، وإذا قال : سمع الله لمن حمده ، فقولوا : ربنا ولك الحمد ، وإذا سجد فاسجدوا ، وإذا صلى جالسا فصلوا جلوسا أجمعون » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١ ص٤٠٤ ولفظه : « اللهم ربنا لك الحمد » ، وابن ماجه رقم ١٢٣٩ ، والنسائيّ مع اختلاف اللفظ ج٢ ص١٤٢ ، وأحمد ٢ / ٤٢٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«جُعل» has a damma over the jim and «ليُؤتم» a damma over the ya (zoomed at 594 dpi); «كبَّر» has a shadda with a fatha."
+      ]
+    },
+    {
+      "number": 87,
+      "book_page": 63,
+      "heading": "ما يقال عند الرفع من الركوع",
+      "label": "د",
+      "citation": "قال الإمام مسلم ج٤ ص١٩٢ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 192
+      },
+      "text": "حدثنا محمد بن المثنى وابن بشار قالا : حدثنا محمد بن جعفر حدثنا شعبة عن عبيد ابن الحسن قال : **سمعت عبد الله بن أبي أوفى قال : كان رسول الله ﷺ يدعو بهذا الدعاء : « اللهم ربنا لك الحمد ملء السموات وملء الأرض وملء ما شئت من شيء بعد » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٥٢٨ ، وابن ماجه رقم ٨٧٨ ، وأبو عوانة في مسنده ج٢ ص١٩٣ ، وأحمد ٤ / ٣٥٤ ، ٣٨١ .",
+      "footnotes": [
+        "(*) [على «بهذا الدعاء»] ورواه مسلم من رواية الأعمش مقيدا برفع الظهر من الركوع وكذا أبو داود ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«أوفى» is printed with final «ى»."
+      ]
+    },
+    {
+      "number": 88,
+      "book_page": 64,
+      "heading": "ما يقال عند الرفع من الركوع",
+      "label": "هـ",
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٨٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 282
+      },
+      "text": "حدثنا آدم قال : حدثنا ابن أبي ذئب عن سعيد المقبري **عن أبي هريرة قال : كان النبي ﷺ إذا قال : « سمع الله لمن حمده » قال : « اللهم ربنا ولك الحمد » . وكان النبي ﷺ إذا ركع وإذا رفع رأسه يكبر ، وإذا قام من السجدتين قال : « الله أكبر » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٢ / ٣١٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The sub-heading is printed «(هـ)»."
+      ]
+    },
+    {
+      "number": 89,
+      "book_page": 64,
+      "heading": "ما يقال عند الرفع من الركوع",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٨٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 283
+      },
+      "text": "حدثنا عبد الله بن يوسف قال : أخبرنا مالك عن سُمَيّ عن أبى صالح **عن أبي هريرة رضي الله عنه أن رسول الله ﷺ قال : « إذا قال الإمام : سمع الله لمن حمده ، فقولوا : اللهم ربنا لك الحمد ، فإنه من وافق قوله قول الملائكة غُفر له ما تقدم من ذنبه » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٢٨ ، وأبو داود ج١ ص٥٢٨ ، وابن ماجه رقم ٨٧٥ ، والنسائيّ ج٢ ص١٩٦ ، والترمذي ج٢ ص١٣١ تحفة وقال : حسن صحيح . وأبو عوانة مسند ج٢ ص١٩٦ ، وأحمد ٢ / ٤٥٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No sub-heading letter is printed before this entry; `label` is null.",
+        "«سُمَيّ»: a damma over the sin, a fatha over the mim and a shadda over the ya (zoomed at 1600 dpi); a further small mark with the shadda may be a tanween but can't be told. «أبى صالح» is printed with an undotted final «ى».",
+        "«غُفر» has a damma over the ghain."
+      ]
+    },
+    {
+      "number": 90,
+      "book_page": 64,
+      "heading": "ما يقال عند الرفع من الركوع",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٨٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 284
+      },
+      "text": "حدثنا عبد الله بن مسلمة عن مالك عن نعيم بن عبد الله المجمر عن علي بن يحيى ابن خلاد الزرقي عن أبيه **عن رفاعة بن رافع الزرقي قال : كنا يوما نصلي وراء النبي ﷺ فلما رفع رأسه من الركعة قال : « سمع الله لمن حمده » ، قال رجل وراءه : ربنا ولك الحمد حمدا كثيرا طيبا مباركًا فيه . فلما انصرف قال : « من المتكلم ؟ » قال : أنا . قال : « رأيت بضعة وثلاثين ملكا يبتدرونها أيهم يكتبها أول » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٤٨٨ ، والنسائيّ ج٢ ص١٤٥ ، ١٩٦ وروايته « ... صليت خلف النبي ﷺ فعطست فقلت » ، والترمذي ج٢ ص٤٣٧ تحفة وقال : حسن . وأحمد ٤ / ٣٤٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 64 onto p. 65, where its last words and grading are printed; its takhrij is on p. 65.",
+        "«مباركًا» has tanween fatha (zoomed at 327 dpi). No sub-heading letter is printed before this entry; `label` is null."
+      ]
+    },
+    {
+      "number": 91,
+      "book_page": 65,
+      "heading": "حمد الله في الصلاة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص٩٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 97
+      },
+      "text": "حدثني زهير بن حرب حدثنا عفان حدثنا حماد أخبرنا قتادة وثابت وحميد **عن أنس أن رجلا جاء فدخل الصف وقد حفزه النفس فقال : الحمد لله حمدا كثيرا طيبا مباركا فيه . فلما قضى رسول الله ﷺ صلاته قال : « أيكم المتكلم بالكلمات » فأرَمَّ القوم فقال : « أيكم المتكلم بها فإنه لم يقل بأسا » فقال رجل : جئت وقد حفزني النفس فقلتها ، فقال : « لقد رأيت اثني عشر ملكا يبتدرونها أيهم يرفعها » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٤٨٤ ، وابن السني عمل اليوم والليلة رقم ١٠٦ ، وأحمد ٣ / ١٦٧ ، ٢٥٢ ، والنسائيّ في الصلاة ٢٧٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The same hadith as entry 66, printed again here without a question mark after «بالكلمات»; kept as printed.",
+        "«فأرَمَّ» has a fatha over the ra and a shadda with a fatha over the mim (zoomed at 327 dpi)."
+      ]
+    },
+    {
+      "number": 92,
+      "book_page": 65,
+      "heading": "حمد الله في الصلاة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٤ ص١٩٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 193
+      },
+      "text": "حدثنا محمد بن المثنى وابن بشار قال ابن المثنى : حدثنا محمد بن جعفر حدثنا شعبة عن مجزأة بن زاهر قال : **سمعت عبد الله بن أبي أوفى يحدث عن النبي ﷺ أنه كان يقول : « اللهم لك الحمد ملء السموات وملء الأرض وملء ما شئت من شيء بعد اللهم طهرني بالثلج والبرد والماء البارد ، اللهم طهرني من الذنوب والخطايا كما ينقى الثوب الأبيض من الوسخ » .**",
+      "grading": "صحيح",
+      "takhrij": "حدثنا عبيد الله بن معاذ حدثنا أبي ح قال : وحدثني زهير بن حرب حدثنا يزيد بن هارون كلاهما عن شعبة بهذا الإسناد في رواية معاذ « كما ينقى الثوب الأبيض من الدرن » وفي رواية يزيد « من الدنس » ، وأخرج النسائيّ بعضه في الطهارة ٢٤٨ ، وأحمد ٤ / ٣٥٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The takhrij (footnote (٩٢)) runs from p. 65 onto p. 66 («=»); joined. It begins with Muslim's further chains, as printed.",
+        "«أوفى» is printed with final «ى»."
+      ]
+    },
+    {
+      "number": 93,
+      "book_page": 66,
+      "heading": "الحث على الدعاء في السجود",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٤ ص٢٠٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 200
+      },
+      "text": "حدثنا هارون بن معروف وعمرو بن سواد قالا : حدثنا عبد الله بن وهب عن عمرو ابن الحارث عن عمارة بن غزية عن سمي مولى أبي بكر أنه سمع أبا صالح ذكوان يحدث **عن أبي هريرة أن رسول الله ﷺ قال : « أقرب ما يكون العبد من ربه وهو ساجد فأكثروا الدعاء » .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أبو داود ج١ ص٥٤٥ ، ورواه أحمد ٢ / ٤٢١ ، والبيهقي ٢ / ١١٠ ، والنسائيّ ج٢ / ٢٢٦ ، وأبو عوانة ٢ / ١٩٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«مولى» with final «ى» and «سمي» with a dotted ya (zoomed at 1214 dpi). The takhrij prints «النسائيّ ج٢ / ٢٢٦»; kept as printed."
+      ]
+    },
+    {
+      "number": 94,
+      "book_page": 66,
+      "heading": "صفة للدعاء في السجود",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٤ ص٢٠١ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 201
+      },
+      "text": "حدثني أبو الطاهر ويونس بن عبد الأعلى قالا : أخبرنا ابن وهب أخبرني يحيى بن أيوب عن عمارة بن غزية عن سمى مولى أبي بكر عن أبي صالح **عن أبي هريرة أن رسول الله ﷺ كان يقول في سجوده : « اللهم اغفر لي ذنبي كله دقه وجله وأوله وآخره وعلانيته وسره » .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أبو داود ج١ ص٥٤٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«سمى» is printed here with an undotted final «ى», unlike entry 93 (zoomed at 1214 dpi)."
+      ]
+    },
+    {
+      "number": 95,
+      "book_page": 66,
+      "heading": "صفة أخرى للدعاء في السجود",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٤ ص٢٠٣ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 203
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا أبو أسامة حدثني عبيد الله بن عمر عن محمد ابن يحيى بن حيان عن الأعرج عن أبي هريرة **عن عائشة قالت : فقدت رسول الله ﷺ ليلة من الفراش فالتمسته فوقعت يدي على بطن قدميه وهو في المسجد وهما منصوبتان وهو يقول : « اللهم أعوذ برضاك من سخطك وبمعافاتك من عقوبتك وأعوذ بك منك لا أحصي ثناء عليك أنت كما أثنيت على نفسك » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٥٤٧ ، وأخرجه ابن ماجه رقم ١١٧٩ من حديث علي ابن أبي طالب مقيدا بآخر الوتر ، وأيضا أخرجه من حديث عائشة ٣٨٤١ ، والنسائيّ ج١ ص١٠٢ ، ج٢ ص٢١٠ ، والترمذي ج٩ ص٤٦٩ وقال : حسن صحيح . وأبو عوانة ٢ / ١٨٦ ، وأحمد ٦ / ٢٠١ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "حيان",
+          "corrected": "حبان",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 19 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The entry runs from p. 66 onto p. 67, where its text and grading are printed; its takhrij is on p. 67.",
+        "Printed «اللهم أعوذ برضاك» with no «إني» (zoomed at 327 dpi); kept as printed."
+      ]
+    },
+    {
+      "number": 96,
+      "book_page": 67,
+      "heading": "الدعاء بين السجدتين",
+      "label": null,
+      "citation": "قال ابن ماجه ٨٩٧",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 897
+      },
+      "text": "حدثنا علي بن محمد ثنا حفص بن غياث ثنا العلاء بن المسيب عن عمرو بن مرة عن طلحة بن يزيد عن حذيفة ح وحدثنا علي بن محمد ثنا حفص بن غياث عن الأعمش عن سعد بن عبيدة عن المستورد بن الأحنف عن صلة بن زفر **عن حذيفة أن النبي ﷺ كان يقول بين السجدتين : « رب اغفر لي .. رب اغفر لي » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٢ ص٢٣٢ ، والدارمي ١ / ٣٠٣-٣٠٤ ، والحاكم ١ / ٢٧١ وقال : صحيح على شرط الشيخين . ووافقه الذهبي . وأحمد ٥ / ٣٩٨ . وفي رواية الدارمي والحاكم « رب اغفر لي » . مرة واحدة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The two dots in «رب اغفر لي .. رب اغفر لي» are printed so; kept."
+      ]
+    },
+    {
+      "number": 97,
+      "book_page": 67,
+      "heading": "إحدى صفات التشهد في الصلاة ( حديث ابن مسعود )",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٣٢٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 320
+      },
+      "text": "حدثنا مسدد قال : حدثنا يحيى عن الأعمش حدثني شقيق **عن عبد الله قال : كنا إذا كنا مع النبي ﷺ في الصلاة قلنا : السلام على الله من عباده ، السلام على فلان وفلان ، فقال النبي ﷺ : « لا تقولوا : السلام على الله ؛ فإن الله هو السلام ، ولكن قولوا : التحيات لله والصلوات والطيبات ، السلام عليك أيها النبي ورحمة الله وبركاته ، السلام علينا وعلى عباد الله الصالحين - فإنكم إذا قلتم أصاب كل عبد في السماء أو بين السماء والأرض - أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله . ثم يتخير من الدعاء أعجبه إليه فيدعو » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١١٥ ، وأبو داود ج١ ص٥٩١ ، وابن ماجه رقم ٨٩٩ ، والنسائيّ ج٢ ص٢٣٨ ، ج٣ ص٤١ ، والترمذي مختصرا ج٢ ص١٧١ تحفة وقال : وهو أصح حديث عن النبي ﷺ في التشهد ، والبيهقي ٢ / ١٣٨ ، وأبو عوانة ٢ / ٢٥٠ ، وابن الجارود مع اختلاف يسير في اللفظ رقم ٢٠٥ ، وأحمد ١ / ٤٠٨ ، ٤٢٣ ، ٤٣٧ ، ٤٣٩ ، ٤٦٤ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 67 onto p. 68, where its text and grading are printed; its takhrij is on p. 68.",
+        "The heading prints «(حديث ابن مسعود)» after the title the index gives; kept in the heading as printed.",
+        "The page prints «؛» after «السلام على الله» and a dash before «فإنكم» and after «والأرض» (zoomed at 327 dpi); kept, the dashes spaced per the rules."
+      ]
+    },
+    {
+      "number": 98,
+      "book_page": 68,
+      "heading": "صفة أخرى للتشهد في الصلاة",
+      "label": null,
+      "citation": "قال الإمام مسلم رحمه الله (ص ٣٠٢)",
+      "source": {
+        "collection": "muslim",
+        "page": 302
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا ليث ح وحدثنا محمد بن رمح بن المهاجر أخبرنا الليث عن أبي الزبير عن سعيد بن جبير وعن طاوس **عن ابن عباس أنه قال : كان رسول الله ﷺ يعلمنا التشهد كما يعلمنا السورة من القرآن فكان يقول : « التحيات المباركات الصلوات الطيبات لله ، السلام عليك أيها النبي ورحمة الله وبركاته ، السلام علينا وعلى عباد الله الصالحين أشهد ألا إله إلا الله وأشهد أن محمدًا رسول الله » .**",
+      "grading": null,
+      "takhrij": "وأخرجه أبو داود حديث رقم ٩٧٤ ، والترمذي حديث رقم ٢٩٠ وقال : حديث حسن غريب صحيح . وقد روى عبد الرحمن بن حميد الرؤاسي هذا الحديث عن أبي الزبير نحو حديث الليث بن سعد . وروى أيمن بن نابل المكي هذا الحديث عن أبي الزبير عن جابر وهو غير محفوظ ، وذهب الشافعي إلى حديث ابن عباس في التشهد . قال الشيخ أحمد شاكر رحمه الله في تعليقه على سنن الترمذي : قال الشافعي في الرسالة ٧٥٧ : لما رأيته واسعا وسمعته عن ابن عباس صحيحا كان عندي أجمع وأكثر لفظا من غيره ، فأخذت به غير معنف لمن أخذ بغيره مما ثبت عن رسول الله ﷺ . والحديث أخرجه أيضا النسائيّ ، وابن ماجه كلاهما في الصلاة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No grading is printed after the entry: p. 68 ends with the text and p. 69 begins with the heading «ما يستعاذ بالله منه بعد التشهد».",
+        "The citation gives only a page, «(ص ٣٠٢)», in parentheses with no volume; kept as printed.",
+        "«كما» is printed as the ligature «كا» of this font; «ألا إله» is printed joined; «محمدًا» has tanween fatha (zoomed at 327 dpi).",
+        "The takhrij (footnote (٩٨)) runs from p. 68 onto p. 69 («=») and has further indented paragraphs; joined."
+      ]
+    },
+    {
+      "number": 99,
+      "book_page": 69,
+      "heading": "ما يستعاذ بالله منه بعد التشهد",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص٨٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 87
+      },
+      "text": "حدثنا نصر بن علي الجهضمي وابن نمير وأبو كريب وزهير بن حرب جميعا عن وكيع قال أبو كريب : حدثنا وكيع حدثنا الأوزاعي عن حسان بن عطية عن محمد بن أبي عائشة عن أبي هريرة وعن يحيى بن أبي كثير عن أبي سلمة **عن أبي هريرة قال : قال رسول الله ﷺ : « إذا تشهد أحدكم فليستعذ بالله من أربع يقول : اللهم إني أعوذ بك من عذاب جهنم ومن عذاب القبر ومن فتنة المحيا والممات ومن شر فتنة المسيح الدجال » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٦٠ ، وابن ماجه رقم ٩٠٩ ، والنسائي ج٣ ص٥٨ ، والدارمي ١ / ٣١٠ ، وأحمد ٢ / ٢٣٧ ، ٤٧٧ ، والبيهقي ٢ / ١٥٤ ، وأبو عوانة ٢ / ٢٥٦-٢٥٧ ، وابن الجارود رقم ٢٠٧ .",
+      "footnotes": [
+        "(*) [على «فليستعذ»] يصرف هذا الأمر عن الوجوب إلى الاستحباب قوله ﷺ في الحديث السابق حديث ابن مسعود بعد أن ساق صفة التشهد : « ثم يتخير من الدعاء أعجبه إليه فيدعو » . والله أعلم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«النسائي» in the takhrij is printed here without the mark over the ya (zoomed at 327 dpi)."
+      ]
+    },
+    {
+      "number": 100,
+      "book_page": 69,
+      "heading": "الدعاء بعد التشهد",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٣١٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 317
+      },
+      "text": "حدثنا أبو اليمان قال : أخبرنا شعيب عن الزهري قال : أخبرنا عروة بن الزبير **عن عائشة زوج النبي ﷺ أخبرته : أن رسول الله ﷺ كان يدعو في الصلاة : « اللهم إني أعوذ بك من عذاب القبر ، وأعوذ بك من فتنة المسيح الدجال ، وأعوذ بك من فتنة المحيا وفتنة الممات ، اللهم إني أعوذ بك من المأثم والمغرم . فقال له قائل : ما أكثر ما تستعيذ من المغرم ؟ فقال : « إن الرجل إذا غَرِمَ حدث فكذب ووعد فأخلف » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم بلفظ الأمر مقيدا بعد التشهد مع اختلاف لفظي . ج٥ ص٨٧ ، وأبو داود ج١ ص٥٤٨ ، والنسائيّ ج٣ ص٥٦ ، وأحمد ٦ / ٨٩ ، ٢٤٤ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 69 onto p. 70, where its text and grading are printed; its takhrij is on p. 70.",
+        "The quotation opened before «اللهم» is not closed before «فقال له قائل»; a second « opens before «إن الرجل» and only one » is printed at the end. Kept as printed.",
+        "«غَرِمَ» has a fatha over the ghain and a kasra and fatha on the ra and mim (zoomed at 327 dpi)."
+      ]
+    },
+    {
+      "number": 101,
+      "book_page": 70,
+      "heading": "الدعاء بعد التشهد",
+      "label": null,
+      "citation": "قال أبو داود ج١ ص٥٠١",
+      "source": {
+        "collection": "abudawud",
+        "volume": 1,
+        "page": 501
+      },
+      "text": "حدثنا عثمان بن أبي شيبة حدثنا حسين بن علي عن زائدة عن سليمان عن أبي صالح **عن بعض أصحاب النبي ﷺ قال : قال النبي ﷺ : « كيف تقول في الصلاة ؟ » قال : أتشهد وأقول : اللهم إني أسألك الجنة وأعوذ بك من النار ، أما إني لا أحسن دندنتك ولا دندنة معاذ . فقال النبي ﷺ : « حولها ندندن » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه رقم ٩١٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 102,
+      "book_page": 70,
+      "heading": "الدعاء بعد التشهد",
+      "label": null,
+      "citation": "قال أبو داود ج١ ص٥٠١",
+      "source": {
+        "collection": "abudawud",
+        "volume": 1,
+        "page": 501
+      },
+      "text": "حدثنا يحيى بن حبيب حدثنا خالد بن الحارث حدثنا محمد بن عجلان عن عبيد الله ابن مقسم **عن جابر ذكر قصة معاذ قال : وقال يعني النبي ﷺ ( للفتى ) : « كيف تصنع يا ابن أخي إذا صليت ؟ » قال : أقرأ بفاتحة الكتاب وأسأل الله الجنة وأعوذ به من النار وإني لا أدري ما دندنتك ولا دندنة معاذ . فقال رسول الله ﷺ : « إني ومعاذ حول هاتين أو نحو هذا » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry (p. 70 has footnotes (١٠٠) and (١٠١) only).",
+        "«للفتى» is printed in parentheses."
+      ]
+    },
+    {
+      "number": 103,
+      "book_page": 71,
+      "heading": "صفة الدعاء في الصلاة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٣١٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 317
+      },
+      "text": "حدثنا قتيبة بن سعيد قال : حدثنا الليث عن يزيد بن أبي حبيب عن أبي الخير عن عبد الله بن عمرو **عن أبي بكر الصديق أنه قال لرسول الله ﷺ : علمني دعاء أدعو به في صلاتي ، قال : « قل : اللهم إني ظلمت نفسي ظلما كثيرا ولا يغفر الذنوب إلا أنت فاغفر لي مغفرة من عندك وارحمني إنك أنت الغفور الرحيم » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٧ ص٢٨ ، وابن ماجه ٣٨٣٥ ، والنسائيّ ج٣ ص٥٣ ، والترمذي ج٩ ص٥٠٩ وقال : حسن صحيح غريب . وابن السني رقم ١٥٨ عمل اليوم والليلة .",
+      "footnotes": [
+        "(*) [على «صفة الدعاء في الصلاة»] وإن كان البخاري ساقها صفة للدعاء بعد التشهد إلا أننا نرى الإطلاق . والله أعلم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) marker is printed on the heading «صفة الدعاء في الصلاة»; its footnote is kept with this entry."
+      ]
+    },
+    {
+      "number": 104,
+      "book_page": 71,
+      "heading": "صفة الخروج من الصلاة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص٨٢",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 82
+      },
+      "text": "حدثنا إسحاق بن إبراهيم أخبرنا أبو عامر العقدي حدثنا عبد الله بن جعفر عن إسماعيل ابن محمد **عن عامر بن سعد عن أبيه قال : كنت أرى رسول الله ﷺ يسلم عن يمينه وعن يساره حتى أرى بياض خده .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ١ / ١٧٢ و ١٨٠-١٨١ ، وابن ماجه ٩١٥ ، والنسائيّ ، والبيهقي ٢ / ١٧٨ ، وأبو عوانة ص٢٥٩ ج٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The takhrij puts «ج٢» after the page number; kept as printed."
+      ]
+    },
+    {
+      "number": 105,
+      "book_page": 71,
+      "heading": "سجود السهو",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٥٠٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 503
+      },
+      "text": "حدثنا عثمان قال : حدثنا جرير عن منصور عن إبراهيم عن علقمة قال : **قال عبد الله : صلى النبي ﷺ ، قال إبراهيم : لا أدري زاد أم نقص ، فلما سلم قيل له : يا رسول الله أحدث في الصلاة شيء ؟ قال : « وما ذاك ؟ » قالوا : صليت كذا وكذا . فثنى رجليه واستقبل القبلة وسجد سجدتين ثم سلم ، فلما أقبل علينا بوجهه قال : « إنه لو حدث في الصلاة شيء لنبأتكم به ، ولكن إنما أنا بشر مثلكم أنسى كما تنسون فإذا نسيت فذكروني وإذا شك أحدكم في صلاته فليتحرى الصواب فليتم عليه ثم يسلم ثم يسجد سجدتين » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن الجارود في المنتقى رقم ٢٤٤ ، ومسلم ص٤٠٠ ترتيب محمد فؤاد ، وأخرجه البخاري أيضا في الأيمان والنذور ( ١٥ : ٨ ) ، وأبو داود في الصلاة حديث ١٠٢٠ ، والنسائيّ في الصلاة ٣ : ٢٨ ، وابن ماجه في الصلاة ( ١٧٢ : ١ ) ، وأحمد ١ / ٤٣٨ .",
+      "footnotes": [
+        "(*) [على «زاد أم نقص»] في رواية الحكم عن إبراهيم فتح ج١ ص٧٠٥ صلى النبي ﷺ الظهر خمسا ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 71 onto p. 72, where its text and grading are printed; its takhrij is on p. 72.",
+        "«كما» is printed as the ligature «كا»; «فليتحرى» is printed with the final «ى» (zoomed at 327 dpi); kept as printed."
+      ]
+    },
+    {
+      "number": 106,
+      "book_page": 72,
+      "heading": "كيف يرد إذا سُلِّمَ عليه وهو في الصلاة",
+      "label": null,
+      "citation": "قال الترمذي ج٢ ص٢٠٤ رقم ٣٦٨",
+      "source": {
+        "collection": "tirmidhi",
+        "hadith": 368
+      },
+      "text": "حدثنا محمود بن غيلان حدثنا وكيع حدثنا هشام بن سعد عن نافع **عن ابن عمر قال : قلت لبلال : كيف كان النبي ﷺ يرد عليهم حين يسلمون عليه وهو فى الصلاة ؟ قال : كان يشير بيده . وقال : حسن صحيح .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن الجارود رقم ٢١٥ ، وأبو داود رقم ٩٢٧ ، وابن حبان رقم ٥٣١ ، وعنده : فسألت صهيبا .",
+      "footnotes": [
+        "(**) [على «يشير بيده»] وقد أخرج مسلم رحمه الله ( ص ٣٨٣ من صحيحه ) من طريق الليث عن أبي الزبير عن جابر أنه قال : إن رسول الله ﷺ بعثني لحاجة ثم أدركته وهو يسير فسلمت عليه فأشار إليّ . وأخرج مسلم كذلك من طريق زهير حدثني أبو الزبير عن جابر قال : أرسلني رسول الله ﷺ وهو منطلق إلى بني المصطلق فأتيته وهو يصلي على بعيره فكلمته فقال لي بيده هكذا ( وأومأ زهير بيده ) ثم كلمته فقال لي هكذا ( فأومأ زهير بيده نحو الأرض ) . وانظر فتح الباري ٣ / ٨٧ ."
+      ],
+      "corrections": [
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "حين يسلمون",
+          "corrected": "حين كانوا يسلمون",
+          "confidence": 0.68,
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 15 on dorar.net. Approved by the owner on 2026-10-15."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading prints «سُلِّمَ» with a damma over the sin, a shadda with a kasra on the lam and a fatha over the mim (zoomed at 327 dpi).",
+        "«فى الصلاة» is printed with an undotted final «ى».",
+        "Al-Tirmidhi's remark «وقال : حسن صحيح .» is printed in bold at the end of the entry; kept in `text` as printed.",
+        "The citation gives both the volume/page and the hadith number; `source` uses the hadith number."
+      ]
+    },
+    {
+      "number": 107,
+      "book_page": 73,
+      "heading": "كيف يرد إذا سُلِّمَ عليه وهو في الصلاة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص٢٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 26
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا ليث ح وحدثنا محمد بن رمح أخبرنا الليث عن أبي الزبير **عن جابر أنه قال : إن رسول الله ﷺ بعثني لحاجة ثم أدركته وهو يسير ، قال قتيبة : يصلي ، فسلمت عليه فأشار إلي فلما فرغ دعاني فقال : « إنك سلمت آنفا وأنا أصلي » . وهو موجه حينئذ قبل المشرق .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٣ ص٦ ، وابن ماجه في الصلاة ( ٩٨ : ٢ ) ، وأحمد ٣ / ٣٣٤ .",
+      "footnotes": [
+        "(*) [على «عن جابر»] أبو الزبير مدلس وقد عنعن إلا أنه جاء في فتح المغيث ج ١ ص١٧٧ في كلامه على المدلسين الذين إن جاء الحديث من طريقهم معنعنا حمل على السماع جزما وأبو الزبير عن جابر بالنسبة لحديث الليث خاصة .",
+        "(**) [على «فأشار إلي»] قال النووي في شرح مسلم في الكلام على فوائد هذا الحديث : ... وأنه لا تضر الإشارة بل يستحب رد السلام بالإشارة ، وبهذه الجملة قال الشافعي والأَكثرون ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "No new heading on p. 73; the heading of entry 106 is still in effect.",
+        "«إلي» is printed with a dotted ya and no shadda (zoomed at 1600 dpi). «والأَكثرون» in footnote (**) has a fatha over the hamza on the alif (zoomed at 1309 dpi)."
+      ]
+    },
+    {
+      "number": 108,
+      "book_page": 73,
+      "heading": "كيف يرد إذا سُلِّمَ عليه وهو في الصلاة",
+      "label": null,
+      "citation": "وقال الإمام مسلم ج٥ ص٢٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 27
+      },
+      "text": "حدثنا أحمد بن يونس حدثنا زهير حدثني أبو الزبير **عن جابر قال : أرسلني رسول الله ﷺ وهو منطلق إلى بني المصطلق فأتيته وهو يصلي على بعيره فكلمته فقال لي بيده هكذا وأومأ زهير بيده ثم كلمته فقال لي هكذا فأومأ زهير أيضا بيده نحو الأرض وأنا أسمعه يقرأ يومىء برأسه فلما فرغ قال : « ما فعلت في الذي أرسلتك له فإنه لم يمنعني أن أكلمك إلا إني كنت أصلي » . قال زهير وأبو الزبير : جالس مستقبل الكعبة ، فقال بيده أبو الزبير إلى بني المصطلق فقال بيده إلى غير الكعبة .**",
+      "grading": "صحيح لما قبله",
+      "takhrij": "وأخرجه أبو داود في الصلاة ١٩١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation begins «وقال», as printed.",
+        "«يومىء» is printed with an undotted «ى» and a separate hamza (zoomed at 1091 dpi); «إلا إني» is printed with «إني»; kept as printed."
+      ]
+    },
+    {
+      "number": 109,
+      "book_page": 74,
+      "heading": "تذكرة الإمام إذا نسي في الصلاة",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٣ ص٤٠٧",
+      "source": {
+        "collection": "ahmad",
+        "volume": 3,
+        "page": 407
+      },
+      "text": "حدثني يحيى بن سعيد عن سفيان ثنا سلمة بن كهيل عن ذر عن سعيد بن عبد الرحمن ابن أبزى **عن أبيه أن النبي ﷺ صلى في الفجر فترك آية فلما صلى قال : « أفي القوم أُبي ؟ » . قال أبي : يا رسول الله نسخت آية كذا وكذا أو نسيتها ؟ قال : « نسيتها » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود بمعناه ج١ ص٥٥٨ من حديث ابن عمر ، وعزاه المزي في الأطراف إلى النسائيّ في السنن الكبرى في المناقب .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "أُبي ؟",
+          "corrected": "أُبي بن كعب ؟",
+          "confidence": 0.5,
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net. Approved by the owner on 2026-10-15."
+        }
+      ],
+      "transcriber_notes": [
+        "«أبزى» is printed with final «ى».",
+        "«أُبي» in «أفي القوم أُبي ؟» has a damma over the hamza (the same mark as «فأُقيم» on p. 74, zoomed at 1600 dpi); «قال أبي» has a plain hamza. The page prints no «بن كعب» after «أُبي» (checked in the review round)."
+      ]
+    },
+    {
+      "number": 110,
+      "book_page": 74,
+      "heading": "ما يقوله من رابه شيء في صلاته",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص١٦٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 167
+      },
+      "text": "حدثنا عبد الله بن يوسف قال : أخبرنا مالك عن أبي حازم بن دينار **عن سهل ابن سعد الساعدي أن رسول الله ﷺ ذهب إلى بني عمرو بن عوف ليصلح بينهم فحانت الصلاة فجاء المؤذن إلى أبي بكر فقال : أتصلي للناس فأُقيم ؟ قال نعم . فصلى أبو بكر فجاء رسول الله ﷺ والناس في الصلاة فتخلص حتى وقف في الصف فصفق الناس ، وكان أبو بكر لا يلتفت في صلاته ، فلما أكثر الناس التصفيق التفت فرأى رسول الله ﷺ ، فأشار إليه رسول الله ﷺ أن امكث مكانك ، فرفع أبو بكر رضي الله عنه يديه فحمد الله على ما أمره به رسول الله ﷺ من ذلك ثم استأخر أبو بكر حتى استوى في الصف ، وتقدم رسول الله ﷺ ، فصلى ، فلما انصرف قال : « يا أبا بكر ما منعك أن تثبت إذ أمرتك ؟ » فقال أبو بكر : ما كان لابن أبي قحافة أن يصلي بين يدي رسول الله ﷺ . فقال رسول الله ﷺ : « مالي رأيتكم أكثرتم التصفيق ؟ من رابه شيء في صلاته فليسبح ، فإنه إذا سبح التُفِت إليه وإنما التصفيق للنساء » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٤٤ ، وأبو داود ج١ ص٥٧٨ ، والنسائيّ ج٢ ص٣ ، وابن الجارود مختصرا رقم ٢١١ . وانظر الحديث الآتي .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 74 onto p. 75, where its last lines and grading are printed; its takhrij is on p. 74.",
+        "«فأُقيم» has a damma over the hamza (zoomed at 1600 dpi); «التُفِت» a damma over the ta and a kasra under the fa.",
+        "The heading «ما يقوله من رابه شيء في صلاته» is printed on p. 74 but missing from the book's index; kept as printed."
+      ]
+    },
+    {
+      "number": 111,
+      "book_page": 75,
+      "heading": "ما يقوله من رابه شيء في صلاته",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٠٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 107
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا يعقوب بن عبد الرحمن عن أبي حازم **عن سهل بن سعد الساعدي أن رسول الله ﷺ بلغه أن بني عمرو بن عوف كان بينهم شيء ، فخرج رسول الله ﷺ يصلح بينهم في أناس معه ، فجلس رسول الله ﷺ وحانت الصلاة ، فجاء بلال إلى أبي بكر رضي الله عنه فقال : يا أبا بكر ، إن رسول الله ﷺ قد جلس وقد حانت الصلاة ، فهل لك أن تؤم الناس ؟ قال : نعم إن شئت . فأقام بلال وتقدم أبو بكر رضي الله عنه فكبر الناس ، وجاء رسول الله ﷺ يمشي في الصفوف حتى قام في الصف ، فأخذ الناس في التصفيق وكان أبو بكر رضي الله عنه لا يلتفت في صلاته ، فلما أكثر الناس التفت فإذا رسول الله ﷺ ، فأشار إليه رسول الله ﷺ يأمره أن يصلي فرفع أبو بكر يديه فحمد الله ورجع القهقرى وراءه حتى قام في الصف فتقدم رسول الله ﷺ فصلى للناس فلما فرغ أقبل على الناس فقال : « يا أيها الناس ، مالكم حين نابكم شيء في الصلاة أخذتم في التصفيق ؟ إنما التصفيق للنساء ، من نابه شيء في صلاته فليقل : سبحان الله ، فإنه لا يسمعه أحد حين يقول : سبحان الله ، إلا التفت . يا أبا بكر ما منعك أن تصلي للناس حين أشرت إليك ؟ » فقال أبو بكر رضي الله عنه : ما كان ينبغي لابن أبي قحافة أن يصلي بين يدي رسول الله ﷺ .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن الجارود مختصرا رقم ٢١١ ، وأخرجه مسلم والنسائيّ كما في الحديث السابق ، وأحمد ٥ / ٣٣٠ ، ٣٣١ ، ٣٣٢ ، ٣٣٥ ، ٣٣٦ ، ٣٣٨ .",
+      "footnotes": [
+        "(*) [على «فحمد الله»] فيها جواز حمد الله في الصلاة ."
+      ],
+      "corrections": [
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "فجلس",
+          "corrected": "فحبس",
+          "confidence": 0.88,
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it. Approved by the owner on 2026-10-15."
+        },
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "قد جلس وقد",
+          "corrected": "قد حبس وقد",
+          "confidence": 0.88,
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it. Approved by the owner on 2026-10-15."
+        },
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "فكبر الناس ،",
+          "corrected": "فكبر للناس ،",
+          "confidence": 0.88,
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it. Approved by the owner on 2026-10-15."
+        }
+      ],
+      "transcriber_notes": [
+        "The entry runs from p. 75 onto p. 76, where its last words and grading are printed; its takhrij is on p. 75.",
+        "«القهقرى» is printed with final «ى»; «كما» in the takhrij is printed as the ligature «كا».",
+        "«فجلس» and «قد جلس» are printed so (zoomed at 409 dpi), not the well-known «حبس»; kept as printed."
+      ]
+    },
+    {
+      "number": 112,
+      "book_page": 76,
+      "heading": "البكاء في الصلاة",
+      "label": null,
+      "citation": "قال الإمام أبو عيسى الترمذي في كتابه الشمائل ص١٦٥",
+      "source": {
+        "collection": "other",
+        "page": 165
+      },
+      "text": "حدثنا سويد بن نصر حدثنا عبد الله بن المبارك عن حماد بن سلمة عن ثابت عن مطرف وهو ابن عبد الله بن الشخير **عن أبيه قال : أتيت رسول الله ﷺ وهو يصلي ولجوفه أزيز كأزيز المرجل من البكاء .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد في مسنده ج٤ ص٢٥ ، ٢٦ ، والنسائيّ سهو ج٣ ص١٢ ، النسائيّ ج٣ ص١٣ ، وأبو داود في الصلاة باب ١٦٢ .",
+      "footnotes": [
+        "(*) [على «صحيح»] وقال الحافظ في الفتح ج٢ ص٢٠٦ بعد أن ذكر هذا الحديث : رواه أبو داود والنسائيّ والترمذي في الشمائل وإسناده قوي وصححه ابن خزيمة وابن حبان والحاكم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Cited from al-Tirmidhi's al-Shama'il, which is not in the databases; `collection` is `other`.",
+        "The (*) marker is printed on the grading."
+      ]
+    },
+    {
+      "number": 113,
+      "book_page": 76,
+      "heading": "البكاء في الصلاة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٠٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 206
+      },
+      "text": "حدثنا إسماعيل قال : حدثنا مالك بن أنس عن هشام بن عروة عن أبيه **عن عائشة أم المؤمنين أن رسول الله ﷺ قال في مرضه : « مُروا أبا بكر يصلي بالناس » . قالت عائشة : قلت : إن أبا بكر إذا قام في مقامك لم يسمع الناس من البكاء فَمُرْ عمر فليصل . فقال : « مُروا أبا بكر فليصل للناس » . قالت عائشة لحفصة : قولي له : إن أبا بكر إذا قام في مقامك لم يسمع الناس من البكاء فَمُرْ عمر فليصل للناس . ففعلت حفصة ، فقال رسول الله ﷺ : « مه ، إنكن لأنتن صواحب يوسف ، مُروا أبا بكر فليصل للناس » . قالت حفصة لعائشة : ما كنت لأصيب منك خيرا .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٤٠ ، والترمذي ج١٠ ص١٥٦ تحفة وقال : حسن صحيح . وأحمد ٦ / ١٥٩ و ٢٠٢ ، وعزاه المزي في الأطراف إلى النسائيّ في السنن الكبرى في التفسير .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«مُروا» (three times) has a damma over the mim; «فَمُرْ» (twice) a fatha on the fa, a damma on the mim and a sukun on the ra (zoomed at 728 dpi).",
+        "The takhrij (footnote (١١٣)) runs from p. 76 onto p. 77 («=»); joined."
+      ]
+    },
+    {
+      "number": 114,
+      "book_page": 77,
+      "heading": "تأثر الإمام بنقصان وضوء من خلفه",
+      "label": null,
+      "citation": "قال ابن كثير رحمه الله تعالى ج٣ ص٤٤١ من تفسير ( تفسير سورة الروم )",
+      "source": {
+        "collection": "other",
+        "volume": 3,
+        "page": 441
+      },
+      "text": "قال الإمام أحمد ثنا محمد بن جعفر عن شعبة عن عبد الملك بن عمير سمعت شبيب بن روح يحدث **عن رجل من أصحاب النبي ﷺ ، أن رسول الله ﷺ صلى بهم الصبح فقرأ فيها الروم فأوهم فلما انصرف قال : « إنه يلبس علينا القرآن فإن أقواما منكم يصلون معنا لا يحسنون الوضوء فمن شهد منكم الصلاة معنا فليحسن الوضوء » . وقال ابن كثير : هذا إسناد حسن ومتن حسن وفيه سر عجيب ونبأ غريب وهو أنه ﷺ تأثر بنقصان من ائتم به فدل ذلك على أن صلاة المأموم متعلقة بصلاة الإمام .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أحمد ٣ / ٤٧١-٤٧٢ . وقد وقفت عليه في المسند ٥ / ٣٦٣ ، ولكن من طريق سفيان عن عبد الملك عن شبيب ، والنسائيّ ٢ / ١٥٦ ، افتتاح من السنن .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Cited from Ibn Kathir's Tafsir, which quotes Ahmad's chain; `collection` is `other`. The page is printed in a different typeface.",
+        "Ibn Kathir's remark «وقال ابن كثير : …» is printed in bold after the hadith; kept in `text` as printed.",
+        "«ائتم»: the letter after the hamza seat is blurred and its dots can't be seen even at 1600 dpi; read as «ائتم».",
+        "The page ends with «****» after the grading.",
+        "«ومتن» in «إسناد حسن ومتن حسن» (an unknown word to the misprints step: Ibn Kathir's remark is in no collection) is printed so (checked at 1091 dpi in the review round)."
       ]
     }
   ]

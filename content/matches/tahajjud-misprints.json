@@ -25,6 +25,7 @@
       "بن",
       "عباس"
     ],
+    "cited_wins": false,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -62,6 +63,7 @@
       "طاووس",
       "عن"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 3,
@@ -101,6 +103,7 @@
       "بن",
       "عباس"
     ],
+    "cited_wins": false,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,

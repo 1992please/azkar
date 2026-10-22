@@ -26,6 +26,7 @@
       "قال",
       "اخبرني"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 2,
@@ -65,6 +66,7 @@
       "المقيم",
       "يصلون"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -100,6 +102,7 @@
       "وكنتم",
       "خير"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -140,6 +143,7 @@
       "منهن"
     ],
     "right": [],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -149,7 +153,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.48,
     "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it.",
     "printed": "ثلاث وثلاثون",
@@ -183,6 +187,7 @@
       "بن",
       "علي"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -218,6 +223,7 @@
       "هذا",
       "حديث"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -227,9 +233,11 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "kept",
-    "confidence": 0.15,
-    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (tirmidhi 3486) is used.",
+    "printed": "بيده",
+    "corrected": ""
   },
   {
     "entry": 119,
@@ -255,6 +263,7 @@
       "دبر",
       "كل"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -294,6 +303,7 @@
       "وقال",
       "تمام"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -329,6 +339,7 @@
       "بن",
       "عيسي"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 4,
@@ -368,6 +379,7 @@
       "التهليل",
       "فلما"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -377,9 +389,11 @@
       "alternative_on_dorar": 9,
       "ocr_confirms_printed": true
     },
-    "decision": "kept",
-    "confidence": 0.15,
-    "evidence": "Kept: a conjunction or preposition prefix, a usual difference between narrations and editions."
+    "decision": "approve",
+    "confidence": 0.91,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 9 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (nasai 1350) is used.",
+    "printed": "اجعلوا",
+    "corrected": "واجعلوا"
   },
   {
     "entry": 122,
@@ -407,6 +421,7 @@
       "عن",
       "القاسم"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -446,6 +461,7 @@
       "وراد",
       "بهذا"
     ],
+    "cited_wins": false,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -483,6 +499,7 @@
       "بن",
       "عبد"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 643,
@@ -520,6 +537,7 @@
       "والده",
       "يقول"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -529,7 +547,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": false
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.6,
     "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net.",
     "printed": "أنه **سمع",
@@ -559,6 +577,7 @@
       "وكانوا",
       "يتحدثون"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 1,
@@ -598,6 +617,7 @@
       "ابي",
       "كثير"
     ],
+    "cited_wins": false,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -612,45 +632,6 @@
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it.",
     "printed": "حدثنا يحي بن",
     "corrected": "حدثنا يحيى بن"
-  },
-  {
-    "entry": 133,
-    "kind": "substitution",
-    "tokens": [
-      41,
-      42
-    ],
-    "printed_words": [
-      "عمر"
-    ],
-    "alternative_words": [
-      "عمرو"
-    ],
-    "alternative_tokens": [
-      "عمرو"
-    ],
-    "left": [
-      "عبد",
-      "الله",
-      "بن"
-    ],
-    "right": [
-      "رضي",
-      "الله",
-      "عنهما"
-    ],
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 202,
-      "context_words": 3,
-      "alternative_in_collections": 28,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 0,
-      "ocr_confirms_printed": true
-    },
-    "decision": "variant",
-    "confidence": 0.05,
-    "evidence": "The printed wording is attested elsewhere (202 in the collections, 0 on dorar.net), so it is a genuine variant."
   },
   {
     "entry": 134,
@@ -678,6 +659,7 @@
       "فاذا",
       "رايتم"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -717,6 +699,7 @@
       "ودعايه",
       "واستغفاره"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -726,9 +709,9 @@
       "alternative_on_dorar": 7,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.56,
-    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; the OCR confirms the page prints it.",
+    "decision": "owner-decided",
+    "confidence": 0.9,
+    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1059) is used.",
     "printed": "ذكر الله",
     "corrected": "ذكره"
   },
@@ -758,6 +741,7 @@
       "من",
       "الركعه"
     ],
+    "cited_wins": true,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -769,7 +753,7 @@
     },
     "decision": "approve",
     "confidence": 0.95,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 2 on dorar.net.",
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 2 on dorar.net; in the hadith text the wording of the cited source (bukhari 1047) is used.",
     "printed": "وهيى",
     "corrected": "وهى"
   },
@@ -797,6 +781,7 @@
       "فان",
       "لم"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -834,6 +819,7 @@
     "alternative_tokens": [
       "بمنبر"
     ],
+    "cited_wins": false,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -867,6 +853,7 @@
     ],
     "alternative_words": [],
     "alternative_tokens": [],
+    "cited_wins": false,
     "nonword": true,
     "decision": "unknown",
     "confidence": null,
@@ -892,6 +879,7 @@
     ],
     "alternative_words": [],
     "alternative_tokens": [],
+    "cited_wins": false,
     "nonword": true,
     "decision": "unknown",
     "confidence": null,
@@ -917,6 +905,7 @@
     ],
     "alternative_words": [],
     "alternative_tokens": [],
+    "cited_wins": false,
     "nonword": true,
     "decision": "unknown",
     "confidence": null,
@@ -946,6 +935,7 @@
     "alternative_tokens": [
       "لا"
     ],
+    "cited_wins": false,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,

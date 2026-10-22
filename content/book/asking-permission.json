@@ -1,0 +1,504 @@
+{
+  "chapter": "باب الاستئذان",
+  "book_pages": [
+    250,
+    261
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "Zoomed: «لتقيمَن» (entry 401, fatha printed), «أسلِّم» (entry 403, shadda and kasra printed), «ألج» (entry 402, printed with one alif), «هذاً» in entry 400's footnote (tanween printed).",
+    "Review: all 14 OCR flags were misreads of correct transcriptions. Checked on the scan where the OCR didn't confirm the printed word behind an automatic correction: «بينة» (entry 401, one ba), «جحر باب» (entry 408, no «في»), «فاتني النسب» (entry 411, no «من»); all printed so."
+  ],
+  "skipped": [
+    {
+      "pages": "250–251",
+      "what": "The footnote (*) on the heading «استئذان الأجانب من خارج البيوت للدخول»: a tafsir essay on Surat al-Nur 27–29 (Ibn Kathir, Ibn Hajar, Adwa' al-Bayan on the order of «تستأنسوا وتسلموا», and a «تنبيه»), general commentary not about a hadith's wording"
+    },
+    {
+      "pages": "254–255",
+      "what": "The footnote (*) on the verses Surat al-Nur 58–59 under «الاستئذان داخل البيوت»: the Sheikh's explanation of the three times of asking permission and why, general commentary not about a hadith's wording"
+    },
+    {
+      "pages": "259",
+      "what": "The footnote (*) on the heading «أدب الحديث»: «وقال لقمان : ﴿ ... واغضض من صوتك إن أنكر الأصوات لصوت الحمير ﴾ لقمان .», a verse cited on the heading, not about a hadith"
+    },
+    {
+      "pages": "260",
+      "what": "The footnote (*) on the heading «ما جاء في رسول الرجل إلى الرجل»: «وقال الله عز وجل : ﴿ لا تدخلوا بيوتا غير بيوتكم حتى تستأنسوا وتسلموا على أهلها ﴾ .», a verse cited on the heading, not about a hadith"
+    }
+  ],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 250,
+      "heading": "استئذان الأجانب من خارج البيوت للدخول",
+      "kind": "verses",
+      "text": "قال الله تعالى : ﴿ يا أيها الذين آمنوا لا تدخلوا بيوتا غير بيوتكم حتى تستأنسوا وتسلموا على أهلها ذلكم خير لكم لعلكم تذكرون . فإن لم تجدوا فيها أحدًا فلا تدخلوها حتى يؤذن لكم وإن قيل لكم ارجعوا فارجعوا هو أزكى لكم والله بما تعملون عليم . ليس عليكم جناح أن تدخلوا بيوتا غير مسكونة فيها متاع لكم والله يعلم ما تبدون وما تكتمون ﴾ النور ٢٧-٢٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed under the chapter title «باب الاستئذان» and the sub-heading; the verses are bold, the introduction regular. The heading's footnote (*) is skipped, see `skipped`."
+      ]
+    },
+    {
+      "after_entry": 403,
+      "book_page": 254,
+      "heading": "الاستئذان داخل البيوت",
+      "kind": "verses",
+      "text": "قال الله عز وجل : ﴿ يا أيها الذين آمنوا ليستأذنكم الذين ملكت أيمانكم والذين لم يبلغوا الحلم منكم ثلاث مرات من قبل صلاة الفجر وحين تضعون ثيابكم من الظهيرة ومن بعد صلاة العشاء ثلاث عورات لكم ليس عليكم ولا عليهم جناح بعدهن طوافون عليكم بعضكم على بعض كذلك يبين الله لكم الآيات والله عليم حكيم . وإذا بلغ الأطفال منكم الحلم فليستأذنوا كما استأذن الذين من قبلهم كذلك يبين الله لكم آياته والله عليم حكيم ﴾ النور ٥٨ ، ٥٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verses are bold, the introduction regular. Their footnote (*) is skipped, see `skipped`."
+      ]
+    },
+    {
+      "after_entry": 404,
+      "book_page": 255,
+      "heading": "آداب الاستئذان",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ قل للمؤمنين يغضوا من أبصارهم ويحفظوا فروجهم ذلك أزكى لهم إن الله خبير بما يصنعون . وقل للمؤمنات يغضضن من أبصارهن ويحفظن فروجهن ... ﴾ الآية .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verses are bold, the introduction regular. The next sub-heading «لا يستقبل البيت» follows."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 400,
+      "book_page": 251,
+      "heading": "التسليم ثلاثا",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص١٨٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 188
+      },
+      "text": "حدثنا عبدة بن عبد الله حدثنا عبد الصمد قال : حدثنا عبد الله بن المثنى قال : حدثنا ثمامة بن عبد الله **عن أنس عن النبي ﷺ أنه كان إذا تكلم بكلمة أعادها ثلاثا حتى تفهم عنه ، وإذا أتى على قوم فسلم عليهم سلم عليهم ثلاثا .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه الترمذي ج٧ ص٥٠٩ تحفة وقال : حسن صحيح . وأحمد ٣ / ٢٢١ .",
+      "footnotes": [
+        "(*) [على «فسلم عليهم»] قال الحافظ فتح ج١ ص١٨٩ : قوله : ( فسلَّم عليهم ) هو من تتمة الشرط وقوله : ( سلَّم عليهم ) هو الجواب ، قال الإسماعيلي : يشبه أن يكون ذلك كان إذا سلَّم سلام الاستئذان على ما رواه أبو موسى وغيره ، وأما أن يمر المار مسلما فالمعروف عدم التكرار . قلت : وقد فهم المصنف هذاً بعينه فأورد هذا الحديث مقرونا بحديث أبي موسى في قصته مع عمر ، كما سيأتي في الاستئذان ، لكن يحتمل أن يكون ذلك كان أيضا يقع منه إذا خشي أنه لا يسمع سلامه ، وما ادعاه الكرماني من أن الصيغة المذكورة تفيد الاستمرار مما ينازع فيه . والله أعلم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry starts on p. 251 and ends, with its grading and footnotes, on p. 252."
+      ]
+    },
+    {
+      "number": 401,
+      "book_page": 252,
+      "heading": "التسليم ثلاثا",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٢٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 26
+      },
+      "text": "حدثنا علي بن عبد الله حدثنا سفيان حدثنا يزيد بن خصيفة عن بسر بن سعيد **عن أبي سعيد الخدري قال : كنت في مجلس من مجالس الأنصار ، إذ جاء أبو موسى كأنه مذعور ، فقال : استأذنت على عمر ثلاثا فلم يأذن لي فرجعت ، فقال : ما منعك ؟ قلت : استأذنت ثلاثا فلم يؤذن لي فرجعت ، وقال رسول الله ﷺ : « إذا استأذن أحدكم ثلاثا فلم يؤذن له فليرجع » فقال : والله لتقيمَن عليه بينة . أمنكم أحد سمعه من النبي ﷺ ؟ فقال أبي بن كعب : والله لا يقوم معك إلا أصغر القوم ، فكنت أصغر القوم فقمت معه فأخبرت عمر أن النبي ﷺ قال ذلك .** وقال ابن المبارك : أخبرني ابن عيينة حدثني يزيد عن بسر : سمعت أبا سعيد بهذا .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٣٠ ، وأبو داود ج٥ ص٣٧٠ ، وابن ماجه ٣٧٠٦ ، وأحمد ٤ / ٤٠٣ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "يأذن",
+          "corrected": "يؤذن",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 8 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6245) is used."
+        },
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "بينة",
+          "corrected": "ببينة",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 6245) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The further chain «وقال ابن المبارك …» is printed in regular type after the hadith, without a number of its own, and kept in `text`.",
+        "«أمنكم أحد …» starts a new paragraph on the page; joined."
+      ]
+    },
+    {
+      "number": 402,
+      "book_page": 253,
+      "heading": "التسليم ثلاثا",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٦٩",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 369
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا أبو الأحوص عن منصور **عن ربعي قال : حدثنا رجل من بني عامر ( أنه ) استأذن على النبي ﷺ وهو في بيت فقال : ألج ؟ فقال النبي ﷺ لخادمه : « اخرج إلى هذا فعلمه الاستئذان ، فقل له : قل : السلام عليكم أأدخل ؟ فسمعه الرجل فقال : السلام عليكم أأدخل ؟ فأذن له النبي ﷺ فدخل .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه البخاري في الأدب المفرد ١٠٨٤ .",
+      "footnotes": [
+        "(*) [على «أبو الأحوص»] أبو الأحوص هو سلام بن سليم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The book opens « before «اخرج» and prints no closing quotation mark; kept as printed.",
+        "«( أنه )» is printed in parentheses inside the bold text."
+      ]
+    },
+    {
+      "number": 403,
+      "book_page": 253,
+      "heading": "التسليم ثلاثا",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٣ ص٤١٤",
+      "source": {
+        "collection": "ahmad",
+        "volume": 3,
+        "page": 414
+      },
+      "text": "حدثنا روح حدثنا ابن جريج والضحاك بن مخلد قال : أخبرني ابن جريج وعبد الله ابن الحارث قال : عرض علي ابن جريج قال : أخبرني عمرو بن أبي سفيان أن عمرو ابن أبي صفوان أخبره قال : الضحاك وعبد الله بن الحارث أن عمرو بن عبد الله بن صفوان أخبره أن كلدة بن الحنبل أخبره **أن صفوان بن أمية بعثه في الفتح بلبأ وجداية وضغابيس والنبي ﷺ بأعلى الوادي قال فدخلت عليه ولم أسلِّم ولم أستأذن فقال النبي ﷺ : « ارجع فقل السلام عليكم أدخل ؟ » بعدما أسلم صفوان . قال عمرو أخبرني هذا الخبر أمية بن صفوان ولم يقل سمعته من كلدة ، قال الضحاك وابن الحارث وذلك بعدما أسلم وقال الضحاك وعبد الله بن الحارث بلبن وجداية .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٣٦٨ ، والترمذي ج٧ ص٤٩٠ تحفة وقال : حسن غريب . والبخاري في الأدب المفرد ١٠٨١ ، وابن الجارود رقم ٧٩٢ من المنتقى .",
+      "footnotes": [
+        "(**) [على «وضغابيس»] الجداية : من أولاد الظباء ما بلغ ستة أشهر أو سبعة . والضغابيس : صغار القِثَّاء ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«ابن» is printed at the start of a line in «وعبد الله ابن الحارث» and «عمرو ابن أبي صفوان»; kept."
+      ]
+    },
+    {
+      "number": 404,
+      "book_page": 254,
+      "heading": "الاستئذان داخل البيوت",
+      "label": null,
+      "citation": "قال البخاري في الأدب المفرد بإسناد صحيح ( ١٠٦٣ )",
+      "source": {
+        "collection": "bukhari-adab",
+        "hadith": 1063
+      },
+      "text": "ثنا الحميدي قال : ثنا سفيان قال : ثنا عمرو وابن جريج **عن عطاء قال : سألت ابن عباس فقلت : أستأذن على أختي ؟ قال : نعم ، فأعدت فقلت : أختان في حجري ، وأنا أمونهما وأنفق عليهما ، أستأذن عليهما ؟! قال : نعم ، أتحب أن تراهما عريانتين ، ثم قرأ النور ٥٨ : ﴿ يا أيها الذين آمنوا ليستأذنكم الذين ملكت أيمانكم والذين لم يبلغوا الحلم منكم ثلاث مرات من قبل صلاة الفجر وحين تضعون ثيابكم من الظهيرة ومن بعد صلاة العشاء ثلاث عورات لكم ﴾ قال : فلم يؤمر هؤلاء بالإذن إلا في هذه العورات الثلاث ، قال تعالى النور الآية ٥٩ : ﴿ وإذا بلغ الأطفال منكم الحلم فليستأذنوا كما استأذن الذين من قبلهم ﴾ . قال ابن عباس : فالإذن واجب ، وزاد ابن جريج : على الناس كلهم .**",
+      "grading": null,
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "فالإذن",
+          "corrected": "فاستاذن",
+          "confidence": 0.83,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
+        }
+      ],
+      "transcriber_notes": [
+        "No grading is printed after the entry; the citation line says «بإسناد صحيح». No source-reference footnote is printed.",
+        "«قال ابن عباس : …» starts a new paragraph on the page; joined. The Quran quotations are bold like the rest of the report.",
+        "Review: «أمونهما», «عريانتين», «الأطفال», «فليستأذنوا» (reported as found in no collection) and «فالإذن» checked on the scan; all printed so. Question 3 («فالإذن» → «فاستاذن») is left for the owner: «فالإذن واجب» reads grammatically, and the tool's alternative is attested nowhere."
+      ]
+    },
+    {
+      "number": 405,
+      "book_page": 255,
+      "heading": "لا يستقبل البيت",
+      "label": null,
+      "citation": "قال البخاري في الأدب المفرد ج٢ ص٥١٣ رقم ١٠٧٨",
+      "source": {
+        "collection": "bukhari-adab",
+        "hadith": 1078
+      },
+      "text": "حدثنا محمد بن عبد العزيز قال : حدثنا بقية قال : حدثني محمد بن عبد الرحمن اليحصبي قال : **حدثني عبد الله بن بسر صاحب النبي ﷺ ، أن النبي ﷺ إذا أتى بابا يريد أن يستأذن ، لم يستقبله جاء يمينا وشمالا ، فإن أذن له وإلا انصرف .**",
+      "grading": "صحيح لشاهده",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٣٦٧ ثنا عثمان بن أبي شيبة ثنا جرير ح وحدثنا أبو بكر بن أبي شيبة ثنا حفص عن الأعمش عن طلحة **عن هزيل قال : جاء رجل - قال عثمان : سعد - فوقف على باب النبي ﷺ يستأذن ، فقام على الباب - قال عثمان : مستقبل الباب - فقال له النبي ﷺ : « هكذا عنك أو هكذا ، فإنما الاستئذان من النظر »** . وقال : ثنا هارون بن عبد الله ثنا أبو داود الحفري عن سفيان عن الأعمش عن طلحة بن مصرف عن رجل عن سعد نحوه عن النبي ﷺ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "In the takhrij, «عن هزيل قال : …» up to «من النظر »» is printed in bold, the second chain «وقال : ثنا هارون …» in regular type.",
+        "The dashes around «قال عثمان : سعد» and «قال عثمان : مستقبل الباب» are printed attached to the words; spaced per the rules."
+      ]
+    },
+    {
+      "number": 406,
+      "book_page": 256,
+      "heading": "كراهية قول أنا لمن يستأذن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٣٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 35
+      },
+      "text": "حدثنا أبو الوليد هشام بن عبد الملك حدثنا شعبة عن محمد بن المنكدر قال : **سمعت جابرا رضي الله عنه يقول : أتيت النبي ﷺ في دين كان على أبي . فدققت الباب ، فقال : « من ذا ؟ » فقلت : أنا . فقال : « أنا أنا » . كأنه كرهها .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٣٥ ، وأبو داود ج٥ ص٣٧٤ ، وابن ماجه ٣٧٠٩ ، والترمذي ج٧ ص٤٩١ تحفة وقال : حسن صحيح . وأحمد ٣ / ٣٢٠ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: the mark over «للنسائيّ» in the takhrij is the nisba mark, written as a shadda per the rules."
+      ]
+    },
+    {
+      "number": 407,
+      "book_page": 256,
+      "heading": "كراهية قول أنا لمن يستأذن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٢ ص٢٤٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 243
+      },
+      "text": "حدثنا على بن عبد الله حدثنا سفيان حدثنا أبو الزناد عن الأعرج **عن أبي هريرة رضي الله عنه قال : قال أبو القاسم ﷺ : « لو أن امرأً اطلع عليك بغير إذن ، فحذفته بحصاة ، ففقأت عينه ، لم يكن عليك جناح » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٣٨ ، وأبو داود بمعناه ج٥ ص٣٦٦ ، وأحمد ٢ / ٢٦٦ ، ٤١٤ ، ٥٢٧ من طريق سهيل بن أبي صالح عن أبيه عن أبي هريرة مرفوعا ، وكذا البيهقي ٨ / ٣٣٨ ، وأحمد ٢ / ٢٤٣ ، والبيهقي ٨ / ٣٣٨ من حديث الأعرج عن أبي هريرة مرفوعا ، وابن الجارود رقم ٧٩٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: «على بن عبد الله» is printed with final «ى»; «امرأً» has its tanween printed."
+      ]
+    },
+    {
+      "number": 408,
+      "book_page": 256,
+      "heading": "كراهية قول أنا لمن يستأذن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٢ ص٢٤٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 243
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا ليث عن ابن شهاب **أن سهل بن سعد الساعدي أخبره أن رجلا اطلع في جحر باب رسول الله ﷺ - ومع رسول الله ﷺ مِدرَى يحك بها رأسه - فلما رآه رسول الله ﷺ قال : « لو أعلم أنك تنتظرني ، لطعنت به في عينيك » قال رسول الله ﷺ : « إنما جعل الإذن من قِبَل البصر » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٣٦ ، والترمذي ج٧ ص٤٨٨ تحفة وقال : حسن صحيح . وابن الجارود في المنتقى رقم ٧٩١ ، والنسائيّ في الديات ٤١ : ٧ ، وأحمد ٥ / ٣٣٠ ، ٣٣٥ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "جحر باب",
+          "corrected": "جحر في باب",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; in the hadith text the wording of the cited source (bukhari 6901) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The entry starts on p. 256 and ends on p. 257. Zoomed: «مِدرَى» (kasra and fatha printed), «قِبَل» (kasra and fatha printed), «تنتظرني» (printed so). The dashes around «ومع رسول الله ﷺ مدرى يحك بها رأسه» are printed attached to the words; spaced per the rules."
+      ]
+    },
+    {
+      "number": 409,
+      "book_page": 257,
+      "heading": "كراهية قول أنا لمن يستأذن",
+      "label": null,
+      "citation": "قال البخاري ج٢ ص٥٢٣ الأدب المفرد رقم ١٠٨٩",
+      "source": {
+        "collection": "bukhari-adab",
+        "hadith": 1089
+      },
+      "text": "حدثنا أيوب بن سليمان قال : حدثني أبو بكر بن أوس عن سليمان عن كثير بن زيد عن الوليد بن رباح **أن أبا هريرة قال : قال رسول الله ﷺ : « إذا دخل البصر فلا إذن » .**",
+      "grading": "حسن",
+      "takhrij": "وأحمد ٢ / ٣٦٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 410,
+      "book_page": 257,
+      "heading": "نظر الفجاءة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٣٨",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 138
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا يزيد بن زريع ح وحدثنا أبو بكر بن أبي شيبة حدثنا إسماعيل بن علية كلاهما عن يونس ح وحدثني زهير بن حرب حدثنا هشيم أخبرنا يونس عن عمرو بن سعيد عن أبي زرعة **عن جرير بن عبد الله قال : سألت رسول الله ﷺ عن نظر الفجاءة ، فأمرني أن أصرف بصري .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٢ ص٦٠٩ ، والترمذي ج٨ ص٦٠ تحفة وقال : حسن صحيح . وأحمد ٤ / ٣٥٨ ، والبيهقي ٧ / ٩٠ ، والدارمي ٢ / ٢٧٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 411,
+      "book_page": 258,
+      "heading": "جواز الاطلاع على خطاب الغير إذا خيفت مفسدة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٦٣٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 633
+      },
+      "text": "حدثنا الحميدي حدثنا سفيان حدثنا عمرو بن دينار قال : حدثني الحسن بن محمد ابن علي أنه سمع عبيد الله بن أبي رافع كاتب علي يقول : **سمعت عليّا رضي الله عنه يقول : بعثني رسول الله ﷺ أنا والزبير والمقداد ، قال : « انطلقوا حتى تأتوا روضة خاخ ، فإن بها ظعينة معها كتاب ، فخذوه منها » ، فذهبنا تعادَى بنا خيلنا ، حتى أتينا الروضة ، فإذا نحن بالظعينة ، فقلنا : أخرجي الكتاب . قالت : ما معي من كتاب . فقلنا : لتخرجن الكتاب أو لنلقين الثياب ، فأخرجته من عِقاصها ، فأتينا به النبي ﷺ فإذا فيه : من حاطب بن أبي بلتعة إلى أناس من المشركين ممن بمكة ، يخبرهم ببعض أمر النبي ﷺ ، فقال النبي ﷺ « ما هذا يا حاطب ؟ » قال : لا تعجل عليَّ يا رسول الله ، إني كنت امرأً من قريش ولم أكن من أنفسهم ، وكان من معك من المهاجرين لهم قرابات يحمون بها أهليهم وأموالهم بمكة ، فأحببت إذ فاتني النسب فيهم أن أصطنع إليهم يدا يحمون قرابتي ، وما فعلت ذلك كفرا ولا ارتدادا عن ديني . فقال النبي ﷺ : « إنه قد صدقكم » . فقال عمر : دعني يا رسول الله ﷺ أضرب عنقه فقال : « إنه شهد بدرًا ، وما يدريك لعل الله عز وجل اطلع على أهل بدر ، فقال : اعملوا ما شئتم فقد غفرت لكم » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٦ ص٥٤ ، والترمذي ج٩ ص١٩٨ وقال : حسن صحيح . وأبو داود في الجهاد باب ١٠٨ : ١ ، وأحمد ١ / ٧٩ ، ١٠٥ ، ١٣٠ ، ١٣١ ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى في التفسير .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "فاتني النسب",
+          "corrected": "فاتني من النسب",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 4890) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«ابن» is printed at the start of a line in «الحسن بن محمد ابن علي»; kept.",
+        "Zoomed: «عليّا» (shadda printed, with what may be a small fatha), «تعادَى» (fatha printed; a speck over the first letter is not clearly a mark), «عِقاصها», «عليَّ», «امرأً», «بدرًا». After «كاتب علي» a small dash-like speck touches «يقول»; read as noise, not a dash. «فقال النبي ﷺ « ما هذا» is printed with no colon before the quotation."
+      ]
+    },
+    {
+      "number": 412,
+      "book_page": 259,
+      "heading": "أدب الحديث",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٢ ص٣١٨",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 318
+      },
+      "text": "حدثنا عبد الرزاق بن همام ثنا معمر عن همام **عن أبي هريرة قال : قال رسول الله ﷺ : « إذا قلت للناس : أنصتوا وهم يتكلمون ، فقد ألغيت على نفسك » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote numbered (٤١٢) is printed; the page's footnote (*) belongs to the heading and is logged in `skipped`."
+      ]
+    },
+    {
+      "number": 413,
+      "book_page": 259,
+      "heading": "حمد الله بين يدي الكلام",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٥١٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 513
+      },
+      "text": "حدثنا عمر بن حفص حدثنا أبي حدثنا الأعمش حدثنا مسلم عن مسروق **قالت عائشة : صنع النبي ﷺ شيئا فرخص فيه ، فتنزه عنه قوم ، فبلغ ذلك النبي ﷺ ، فخطب فحمد الله ثم قال : « ما بال أقوام يتنزهون عن الشيء أصنعه ، فوالله إني لأعلمهم بالله وأشدهم له خشية » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم في فضائل النبي ﷺ ٣٥ : ٢ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: the mark over «للنسائيّ» in the takhrij is the nisba mark, written as a shadda per the rules."
+      ]
+    },
+    {
+      "number": 414,
+      "book_page": 259,
+      "heading": "عقوبة من يستمع إلى قوم يفرون منه",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٢ ص٤٢٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 427
+      },
+      "text": "حدثنا علي بن عبد الله حدثنا سفيان عن أيوب عن عكرمة **عن ابن عباس عن النبي ﷺ قال : « من تحلم بحُلْم لم يره ، كلف أن يعقد بين شعيرتين ولن يفعل ، ومن استمع إلى حديث قوم وهم له كارهون ، أو يفرون منه ، صبَّ في أذنيه الآنك يوم القيامة ، ومن صوَّر صورة ، عذب وكلف أن ينفخ فيها وليس بنافخ »** قال سفيان : وصله لنا أيوب .",
+      "grading": "صحيح",
+      "takhrij": "وأبو داود ج٥ ص٢٨٥ ، والترمذي في اللباس ١٩ ، وفي الرؤيا ٨ ، والنسائيّ في الزينة ١١١ : ٢ ، وابن ماجه في الرؤيا ٨ ، وأحمد ١ / ٢١٦ ، ٢٤٦ . وأشار البخاري - رحمه الله - إلى اختلاف وقع في سند الحديث ، فبعضهم جعله من حديث ابن عباس ، وبعضهم جعله من حديث أبي هريرة . انظر المنتخب لعبد بن حميد بتحقيقنا حديث رقم ٥٩٩ .",
+      "footnotes": [
+        "(**) [على «عن أيوب»] **قال الحافظ فتح ج١٢ ص٤٢٨ : قوله : عن أيوب في رواية الحميدي عن سفيان ( حدثنا أيوب ) وقد وقع في الأصل ما يدل على ذلك وهو قوله في آخره : ( قال سفيان : وصله لنا أيوب ) .**"
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry starts on p. 259 and ends on p. 260; its takhrij starts on p. 259 and continues («=») on p. 260, joined. The remark «قال سفيان : وصله لنا أيوب .» is printed in regular type after the hadith and kept in `text`.",
+        "Zoomed: «بحُلْم» (damma and sukun printed), «صبَّ» and «صوَّر» (shadda and fatha printed), «والنسائيّ» (nisba mark, written as a shadda). The footnote (**) is printed in bold throughout. The dashes around «رحمه الله» are printed attached; spaced per the rules."
+      ]
+    },
+    {
+      "number": 415,
+      "book_page": 260,
+      "heading": "ما جاء في رسول الرجل إلى الرجل",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٧٦",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 376
+      },
+      "text": "حدثنا موسى بن إسماعيل حدثنا حماد عن حبيب وهشام عن محمد **عن أبي هريرة أن النبي ﷺ قال : « رسول الرجل إلى الرجل إذنه » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote numbered (٤١٥) is printed on pp. 260–261; the page's footnote (*) belongs to the heading and is logged in `skipped`."
+      ]
+    },
+    {
+      "number": 416,
+      "book_page": 260,
+      "heading": "ما جاء في رسول الرجل إلى الرجل",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٣١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 31
+      },
+      "text": "حدثنا أبو نعيم حدثنا عمر بن ذر وحدثني محمد بن مقاتل أخبرنا عبد الله أخبرنا عمر ابن ذر أخبرنا مجاهد **عن أبي هريرة رضي الله عنه قال : دخلت مع رسول الله ﷺ فوجد لبنا في قدح فقال : « أبا هر ، الحق أهل الصفة فادعهم إليَّ » . قال : فأتيتهم فدعوتهم . فأقبلوا فاستأذنوا فأذن لهم فدخلوا .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٢ / ٥١٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry starts on p. 260 and ends on p. 261. «ابن» is printed at the start of a line in «عمر ابن ذر»; kept. Zoomed: «إليَّ» (shadda and fatha printed)."
+      ]
+    },
+    {
+      "number": 417,
+      "book_page": 261,
+      "heading": "النهي عن تناجي اثنين دون الثالث",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٨٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 82
+      },
+      "text": "حدثني عثمان حدثنا جرير عن منصور عن أبي وائل **عن عبد الله رضي الله عنه قال : قال النبي ﷺ : « إذا كنتم ثلاثة ، فلا يتناجى رجلان دون الآخر حتى تختلطوا بالناس ، أجلَ أن ذلك يحزنه » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٦٧ ، وأبو داود ج٥ ص١٧٩ ، وابن ماجه ٣٧٧٥ ، والترمذي ج٨ ص١١٦ وقال : حسن صحيح . وأحمد ١ / ٤٤٠ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "ذلك",
+          "corrected": "",
+          "confidence": 0.63,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "Zoomed: «أجلَ» (fatha printed). The chapter ends after this entry with a «****» line; p. 262 starts «باب أذكار النكاح».",
+        "Review: question 6 (drop «ذلك») is left for the owner: «أجلَ أن ذلك يحزنه» is grammatical as printed (with «أنّ»), so this is not a clear grammar mistake."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "chapter": "باب في المرض والطب والرقي",
+  "book_pages": [
+    270,
+    285
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "Review: the book drops a final «ى» after «ق» throughout this chapter (headings «الرق», «يرق», «بالرق»; texts «استرق», «يسترق», «بالرق»; entry 455's footnote «الرق»), while «ترى», «اكتوى» etc. keep it. Transcribed as printed; the corrections are stored separately (correction 14 for «الرق» is left for the owner, as protections correction 11). The OCR flags were otherwise misreads of words read correctly (memory flags on «خواتيم», «قتيبة», «جئناه», «واثكْلياه», «أتت», «سقيمنا», «أتوا», «بالمعوذات» etc. checked on the sheets)."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": 436,
+      "book_page": 274,
+      "heading": "ما يجوز أن يقوله المريض",
+      "kind": "note",
+      "text": "",
+      "footnotes": [
+        "(*) [على «ما يجوز أن يقوله المريض»] وقال أيوب عليه السلام : ﴿ رب أنى مسنى الضر وأنت أرحم الراحمين ﴾ ، وقال أيضا : ﴿ أنى مسنى الشيطان بنصب وعذاب ﴾ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The Sheikh's footnote on the sub-heading itself (Quran verses), kept here because it belongs to no entry. «أنى» and «مسنى» are printed with final alif maqsura."
+      ]
+    },
+    {
+      "after_entry": 438,
+      "book_page": 275,
+      "heading": "ما لا يجوز أن يقوله المريض",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading printed above the sub-heading «النهي عن تمني الموت», with no text of its own."
+      ]
+    },
+    {
+      "after_entry": 440,
+      "book_page": 275,
+      "heading": "العلاج بالدعاء",
+      "kind": "verses",
+      "text": "وقال تعالى : ﴿ وقال ربكم ادعونى استجب لكم ﴾ غافر .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«ادعونى» printed with final alif maqsura; «استجب» printed without hamza."
+      ]
+    },
+    {
+      "after_entry": 445,
+      "book_page": 279,
+      "heading": "العلاج بالرق",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 14,
+          "field": "heading",
+          "printed": "الرق",
+          "corrected": "الرقى",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "The same printing as in entry 448's heading: «الرق» (slavery) for «الرقى» (incantations), the final «ى» after «ق» dropped as throughout this chapter. Left for the owner because it depends on meaning."
+        }
+      ],
+      "transcriber_notes": [
+        "Section heading printed above the sub-heading «أولا : فضل من ترك الرق», with no text of its own."
+      ]
+    },
+    {
+      "after_entry": 454,
+      "book_page": 284,
+      "heading": "ما يرق منه",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 15,
+          "field": "heading",
+          "printed": "يرق",
+          "corrected": "يرقى",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «يرق» is a jussive form of «يرقى» with no particle governing it (the section is about incantations, so it isn't «يرقّ»); the book drops the final «ى» after «ق» throughout this chapter. The same correction as in entry 452's heading."
+        }
+      ],
+      "transcriber_notes": [
+        "Section heading printed above the sub-heading «١ - الرقية من كل ذي حمة», with no text of its own."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 430,
+      "book_page": 270,
+      "heading": "وجوب عيادة المريض",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٩٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 96
+      },
+      "text": "حدثنا موسى بن إسماعيل حدثنا أبو عوانة عن الأشعث بن سليم عن معاوية بن سويد ابن مقرن **عن البراء بن عازب قال : أمرنا رسول الله ﷺ بسبع ونهانا عن سبع : أمرنا بعيادة المريض ، واتباع الجنائز ، وتشميت العاطس ، وإجابة الداعي ، وإفشاء السلام ، ونصر المظلوم ، وإبرار القسم ، ونهانا عن خواتيم الذهب ، وعن الشرب في الفضة ، - أو قال في آنية الفضة - وعن المياثر ، والقسي ، وعن لبس الحرير والديباج والاستبرق .**",
+      "grading": "صحيح",
+      "takhrij": "الأطراف ج٣ ص١١٢ فتح .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "القسم",
+          "corrected": "المقسم",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5635) is used."
+        },
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "قال في آنية",
+          "corrected": "قال آنية",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5635) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«المياثر»: zoomed; the dots read as tha."
+      ]
+    },
+    {
+      "number": 431,
+      "book_page": 270,
+      "heading": "وجوب عيادة المريض",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص١١٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 112
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا أبو عوانة عن منصور عن أبي وائل **عن أبي موسى الأشعري قال : قال رسول الله ﷺ : « أطعموا الجائع وعودوا المريض وفكوا العاني » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٤٧٩ ، وأحمد ٤ / ٣٩٤ ، ٤٠٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 432,
+      "book_page": 270,
+      "heading": "كيف يسأل عن المريض",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٢٢٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 226
+      },
+      "text": "حدثنا محمد بن المثنى العنزي حدثنا محمد بن جهضم حدثنا إسماعيل وهو ابن جعفر عن عمارة - يعني ابن غزية - عن سعيد بن الحارث بن المعلى **عن عبد الله بن عمر أنه قال : كنا جلوسا مع رسول الله ﷺ ، إذ جاءه رجل من الأنصار فسلم عليه ، ثم أدبر الأنصاري فقال رسول الله ﷺ : « يا أخا الأنصار كيف أخي سعد بن عبادة ؟ » فقال : صالح فقال رسول الله ﷺ : « من يعوده منكم ؟ » فقام وقمنا معه ، ونحن بضعة عشر ، ما علينا نعال ولا خفاف ولا قلانس ولا قمص ، نمشي في تلك السباخ ، حتى جئناه ، فاستأخر قومه من حوله ، حتى دنا رسول الله ﷺ وأصحابه الذين معه .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه البخاري في الجنائز باب ٤٤ البكاء عند المريض .",
+      "footnotes": [
+        "(*) [على «صالح»] يكنى عن المريض بلفظ صالح كما في هذا الحديث ، وبلفظ سليم كما في حديث العلاج بالرقية مسلم ص١٧٢٨ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 433,
+      "book_page": 271,
+      "heading": "الترويح عن المريض",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص٦٢٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 624
+      },
+      "text": "حدثنا معلى بن أسد حدثنا عبد العزيز بن مختار حدثنا خالد عن عكرمة **عن ابن عباس رضي الله عنهما « أن النبي ﷺ دخل على أعرابي يعوده . قال : وكان النبي ﷺ إذا دخل على مريض يعوده قال : « لا بأس طهور إن شاء الله » فقال له : « لا بأس طهور إن شاء الله » قال : قلت : طهور ؟ كلا بل هي حمى تفور - أو تثور - على شيخ كبير تزيره القبور . فقال النبي ﷺ : « فنعم إذا » .**",
+      "grading": "صحيح",
+      "takhrij": "وعزاه المزي في الأطراف للنسائيّ في الطب السنن الكبرى .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The opening « « » before «أن النبي» has no matching closing mark on the page; kept as printed."
+      ]
+    },
+    {
+      "number": 434,
+      "book_page": 271,
+      "heading": "ما يقال عند رؤية المبتلى",
+      "label": null,
+      "citation": "قال أبو نعيم في الحلية ج٥ ص١٣",
+      "source": {
+        "collection": "other",
+        "volume": 5,
+        "page": 13
+      },
+      "text": "حدثنا سليمان بن أحمد ثنا الحسن بن علي المعمري ثنا هارون بن محمد بن بكار ح وحدثنا الحسن بن سعيد بن جعفر ثنا جعفر بن محمد الفريابي ثنا محمد بن عبد الله بن بكار ح وحدثنا عبد الله بن محمد حدثنا إبراهيم بن محمد بن الحسن ثنا بكار بن عبد الله القرشي قالوا : ثنا مروان بن محمد الطاطري ثنا الوليد بن عتبة عن محمد بن سوقة عن نافع **عن ابن عمر قال : سمعت رسول الله ﷺ يقول : « من رأى مبتلى فقال : الحمد لله الذي عافاني مما ابتلى به هذا ، وفضلني عليه وعلى كثير مما خلق تفضيلا ، عافاه الله من ذلك البلاء كائنا ما كان » .**",
+      "grading": "حسن",
+      "takhrij": "وقال : غريب .",
+      "footnotes": [
+        "* [على «حسن»] الحدبث رجاله من مروان بن محمد ثقات ما عدا الوليد بن عتبة ، قال الحافظ تهذيب ج١١ ص١٤٢ : إنه دمشقي قال : وروى مروان بن محمد الطاطري ، عن الوليد بن عتبة ، عن محمد بن سوقة ، فالظاهر أنه هو هذا . وقال الحافظ : قال البخاري في تاريخه : معروف الحديث . وقال أبو حاتم : مجهول . لكن للحديث شاهدًا آخر رواه الترمذي تحفة ج٩ ص٣٩١ ثنا أبو جعفر السمناني - هنا سقط - عن أبيه ، عن أبي هريرة قال : قال رسول الله ﷺ : « من رأى مبتلى فقال : الحمد لله الذي عافاني مما ابتلاك به ، وفضلني على كثير مما خلق تفضيلا ، لم يصبه ذلك البلاء » . وقال الترمذي : هذا حديث حسن غريب من هذا الوجه ، الحديث حسن ما عدا عبد الله بن عمر العمري ضعيف ، لكنه يصلح شاهدا للأول . وقال المباركفوري : وأخرجه البزار ، والطبراني في الصغير ، وقال فيه : « فإذا شكر ذلك شكر تلك النعمة » . وإسناده حسن كذا في الترغيب ، وروى الترمذي له شاهدا آخر ج٩ ص٣٩٠ تحفة ."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "footnotes.0",
+          "printed": "الحدبث رجاله",
+          "corrected": "الحديث رجاله",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «الحدبث» is a misprint of «الحديث» (dot under the wrong tooth); the same footnote spells «الحديث» correctly elsewhere."
+        }
+      ],
+      "transcriber_notes": [
+        "The grading is printed «حسن*», the asterisk marking the footnote; the footnote's two paragraphs are joined.",
+        "«وفضلنيعلى» and «ابتلاكبه» are printed without a space in the footnote; written as two words.",
+        "Source is Abu Nu'aym's Hilyat al-Awliya', not in the databases, so collection «other»."
+      ]
+    },
+    {
+      "number": 435,
+      "book_page": 272,
+      "heading": "الدعاء للمريض",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص١٢٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 120
+      },
+      "text": "حدثنا المكي بن إبراهيم أخبرنا الجعيد **عن عائشة بنت سعد أن أباها قال : تشكيت بمكة شكوى شديدة ، فجاءني النبي ﷺ يعودني ، فقلت : يا نبي الله إني أترك مالا ، وإني لم أترك إلا بنتا واحدة ، فأوصي بثلثى مالي وأترك الثلث ؟ فقال : « لا » . قلت : فأوصي بالنصف وأترك النصف ؟ قال : « لا » . قلت : فأوصي بالثلث وأترك لها الثلثين ؟ قال : « الثلث والثلث كثير » . ثم وضع يده على جبهته ، ثم مسح يده على وجهي وبطني ، ثم قال : « اللهم اشفِ سعدا ، وأتمم له هجرته » ، فما زلت أجد برده على كبدي فيما يخال إليَّ حتى الساعة .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١١ ص٧٦ نووي ، وأبو داود ج٣ ص٢٨٤ ، وابن ماجه ٢٧٠٨ ، والنسائيّ ج٦ ص٢٤٢ ، والترمذي ج٤ ص٤٨ تحفة وقال : حسن صحيح . والبيهقي ٦ / ٢٦٨ ، وابن الجارود رقم ٩٤٧ ، وأحمد ١ / ١٧٢ من طريق عامر بن سعد عن أبيه ، ٣ / ١٣٠ ، ١٧٣ ، ١٧٨ ، ٢٥١ ، ٢٧٦ ، ٢٧٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "شكوى شديدة",
+          "corrected": "شكوا شديدا",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 5659) is used."
+        },
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "بنتا",
+          "corrected": "ابنة",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5659) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The sub-heading «الدعاء للمريض» is followed by a centred «(١)», and the next entry by «(٢)»; `label` takes only abjad letters (check.py), so it is null and the numbers are recorded here.",
+        "«بثلثى» printed with final alif maqsura; «إليَّ» with the book's shadda."
+      ]
+    },
+    {
+      "number": 436,
+      "book_page": 273,
+      "heading": "الدعاء للمريض",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص١٣١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 131
+      },
+      "text": "حدثنا موسى بن إسماعيل حدثنا أبو عوانة عن منصور عن إبراهيم عن مسروق **عن عائشة رضي الله عنها أن رسول الله ﷺ إذا أتى مريضا ، أو أُتيَ به إليه قال عليه الصلاة والسلام : « أذهِبِ الباس ربّ الناس ، اشف وأنت الشافي ، لا شفاء إلا شفاؤك ، شفاء لا يغادر سقما » .** ورواه البخاري أيضا فتح ج١٠ ص٢٠٦ بزيادة يمسح بيده اليمنى ويقول : … .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٨٠ ، وأحمد ٦ / ٤٥ ، ١٠٩ ، ١١٤ ، ١٢٠ ، ١٢٦ ، ١٣١ ، ٢٧٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "إليه",
+          "corrected": "",
+          "confidence": 0.66,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 347 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "عليه الصلاة والسلام",
+          "corrected": "",
+          "confidence": 0.56,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 104 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The Sheikh's line «ورواه البخاري أيضا … بزيادة …», printed in regular type before the grading, is kept in `text` as printed.",
+        "Marks zoomed: «أُتيَ», «أذهِبِ», «ربّ» (shadda only, no vowel)."
+      ]
+    },
+    {
+      "number": 437,
+      "book_page": 274,
+      "heading": "ما يجوز أن يقوله المريض",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص١٢٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 123
+      },
+      "text": "حدثنا يحيى بن يحيى أبو زكريا أخبرنا سليمان بن بلال عن يحيى بن سعيد قال : سمعت القاسم بن محمد قال : **قالت عائشة : وارأساه ، فقال رسول الله ﷺ : « ذاك لو كان وأنا حي فأستغفر لك وأدعو لك » . فقالت عائشة : واثكْلياه ، والله إني لأظنك تحب موتي ، ولو كان ذلك لظللت آخر يومك معرّسا ببعض أزواجك . فقال النبي ﷺ : « بل أنا وارأساه ، لقد هممت - أو أردت - أن أرسل إلى أبي بكر وابنه ، فأعهد أن يقول القائلون ، أو يتمنى المتمنون ، ثم قلت : يأبى الله ويدفع المؤمنون ، أو يدفع الله ويأبى المؤمنون » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No numbered source footnote is printed for this entry, so `takhrij` is null.",
+        "Zoomed at 1600 dpi: «واثكْلياه» has a sukun on the kaf; «معرّسا» has a shadda on the ra (a small extra stroke on it may be a vowel, but too unclear to transcribe)."
+      ]
+    },
+    {
+      "number": 438,
+      "book_page": 274,
+      "heading": "ما جاء في الفأل",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٢٤٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 244
+      },
+      "text": "حدثني محمد بن بشار حدثنا محمد بن جعفر حدثنا شعبة قال : سمعت قتادة **عن أنس بن مالك رضي الله عنه عن النبي ﷺ قال : « لا عدوى ولا طيرة ، ويعجبني الفأل » ، قالوا : وما الفأل ؟ قال : « كلمة طيبة » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص٢١٩ ، وأبو داود ج٤ ص٢٣٤ ، وابن ماجه ٣٥٣٧ ، والترمذي ج٥ ص٢٤٠ تحفة وقال : حسن صحيح . وأحمد ٣ / ١٣٠ ، ١٧٣ ، ١٧٨ ، ٢٥١ ، ٢٧٦ ، ٢٧٨ .",
+      "footnotes": [
+        "(**) [على «كلمة طيبة»] وجاء مفسرا أيضا ص٢١٤ قالوا : وما الفأل يا رسول الله ؟ قال : « الكلمة الصالحة يسمعها أحدكم » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 439,
+      "book_page": 275,
+      "heading": "النهي عن تمني الموت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٥٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 150
+      },
+      "text": "حدثني مسدد حدثنا يحيى عن إسماعيل **عن قيس قال : أتيت خبابا وقد اكتوى سبعا قال : لولا أن رسول الله ﷺ** نهانا **أن ندعو بالموت لدعوت به .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٧ ص٨ ، والنسائيّ ج٤ ص٤٥ تحفة وقال : حسن صحيح . والترمذي ج٧ ص١٨٥ تحفة وقال : صحيح . وقد تقدم بعد قوله … وقال : صحيح . يكتب وقد تقدم .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«نهانا» is printed in regular type inside the bold run.",
+        "The takhrij is printed as shown, including the broken phrase «وقد تقدم بعد قوله … وقال : صحيح . يكتب وقد تقدم .»; «اكتوى» with final alif maqsura."
+      ]
+    },
+    {
+      "number": 440,
+      "book_page": 275,
+      "heading": "النهي عن سب الحمى",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٦ ص١٣٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 16,
+        "page": 130
+      },
+      "text": "حدثني عبيد الله بن عمر القواريري حدثنا يزيد بن زريع حدثنا الحجاج الصواف حدثني أبو الزبير **حدثنا جابر بن عبد الله أن رسول الله ﷺ دخل على أم السائب أو أم المسيب فقال : « مالك يا أم السائب ، أو يا أم المسيب تزفزفين ؟ » قالت : الحمى ، لا بارك الله فيها . فقال : « لا تسبي الحمى ، فإنها تذهب خطايا بني آدم ، كما يذهب الكير خبث الحديد » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No numbered source footnote is printed for this entry, so `takhrij` is null.",
+        "«الحمى» printed with final alif maqsura; «مالك» written joined as printed."
+      ]
+    },
+    {
+      "number": 441,
+      "book_page": 276,
+      "heading": "العلاج بالدعاء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص١١٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 114
+      },
+      "text": "حدثنا مسدد حدثنا يحيى عن عمران أبي بكر قال : حدثني عطاء ابن أبي رباح قال : **قال لي ابن عباس : ألا أريك امرأة من أهل الجنة ؟ قلت : بلى ، قال : هذه المرأة السوداء أتت النبي ﷺ فقالت : إني أصرع ، وإني أتكشف ، فادع الله لي . قال : « إن شئت صبرت ولك الجنة ، وإن شئت دعوت الله أن يعافيك » . فقالت : أصبر . فقالت : فإني أتكشف ، فادع الله لي أن لا أتكشف ، فدعا لها .**",
+      "grading": "حسن",
+      "takhrij": "ورواه مسلم ج١٦ ص١٣١ ، وأحمد ١ / ٣٤٧ ، وعزاه المزي في الأطراف للنسائيّ في الطب .",
+      "footnotes": [
+        "* [على «حسن»] قال الحافظ في الفتح ج١٠ ص١١٥ : … وفيه أن علاج الأمراض كلها بالدعاء والالتجاء إلى الله ، أنجع وأنفع من العلاج بالعقاقير ، وأن تأثير ذلك وانفعال البدن عنه ، أعظم من تأثير الأدوية البدنية ، ولكن إنما ينجح بأمرين : أحدهما من جهة العليل وهو صدق القصد . والآخر من جهة المداوي وهو قوة توجهه وقوة قلبه بالتقوى والتوكل على الله ، والله أعلم . أ . ه . وقال تعالى حكاية عن إبراهيم عليه السلام : ﴿ وإذا مرضت فهو يشفين ﴾ الشعراء ."
+      ],
+      "corrections": [
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "فإني",
+          "corrected": "إني",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5652) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The grading is printed «حسن*»; the footnote's lines (including the closing verse line) are joined into one item. The printed «أ .هـ .» is written «أ . ه .», since check.py rejects the tatweel.",
+        "«بلى» printed with final alif maqsura."
+      ]
+    },
+    {
+      "number": 442,
+      "book_page": 276,
+      "heading": "العلاج بالدعاء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص١٢٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 127
+      },
+      "text": "حدثنا إبراهيم بن حمزة حدثنا حاتم - وهو ابن إسماعيل - عن الجعيد قال : **سمعت السائب يقول : ذهبت بي خالتي إلى رسول الله ﷺ فقالت : يا رسول الله إن ابن أختي وَجِع ، فمسح رأسي ، ودعا لي بالبركة ، ثم توضأ فشربت من وضوئه ، وقمت خلف ظهره ، فنظرت إلى خاتم النبوة بين كتفيه مثل زِرّ الحجَلة**",
+      "grading": "حسن",
+      "takhrij": "ورواه مسلم ج١٥ ص٩٨ ، والترمذي ج١٠ ص١٢٧ وقال : حسن صحيح غريب . وعزاه المزي في الأطراف للنسائيّ في الطب .",
+      "footnotes": [
+        "** [على «الحجَلة»] قال الحافظ في الفتح ج٦ ص٥٦٢ : … وجزم الترمذي بأن المراد بالحجلة الطير المعروف ، وأن المراد بزرها بيضها ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Marks zoomed: «وَجِع», «زِرّ» (kasra and shadda), «الحجَلة»; «توضأ» with hamza on alif. No full stop is printed after the hadith."
+      ]
+    },
+    {
+      "number": 443,
+      "book_page": 277,
+      "heading": "ما يقال للمريض",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٢٠٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 206
+      },
+      "text": "حدثنا علي بن عبد الله حدثنا سفيان قال : حدثني عبد ربه بن سعيد عن عمرة **عن عائشة رضي الله عنها أن النبي ﷺ كان يقول للمريض : « بسم الله ، تربة أرضنا ، بريقة بعضنا ، يشفى سقيمنا بإذن ربنا » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٨٤ ، وأبو داود ج٤ ص٢١٩ ، وابن ماجه ٣٥٢١ ، وابن السني في عمل اليوم والليلة ٥٨١ ، وأحمد ٦ / ٩٣ .",
+      "footnotes": [
+        "(*) [على «تربة أرضنا»] قال الحافظ فتح ج١٠ ص٢٠٨ : قوله : « تربة أرضنا » خبر مبتدأ محذوف أي هذه تربة ، وقوله : « بريقة بعضنا » يدل على أنه يتفل عند الرقية ، قال النووي : معنى الحديث أنه أخذ من ريق نفسه على إصبعه السبابة ، ثم وضعها على التراب فعلق به شيء منه ، ثم مسح به الموضع العليل أو الجريح ، قائلا الكلام المذكور في حالة المسح . قلت : وهو كما قال النووي حيث إن في حديث مسلم … عن عائشة أن رسول الله ﷺ كان إذا اشتكى الإنسان الشيء منه ، أو كانت به قرحة أو جرح ، قال النبي ﷺ بإصبعه هكذا ووضع سفيان سبابته بالأرض ثم رفعها . . وقال محمد فؤاد عبد الباقي ص١٧٢٤ مسلم : قال جمهور العلماء : المراد بأرضنا هنا جملة الأرض ، وقيل : أرض المدينة خاصة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The marker (*) is printed twice in the text, after «أرضنا» and after «ربنا», for the one footnote; its paragraphs are joined.",
+        "«يشفى» printed with final alif maqsura. «رفعها . .» printed with two dots, kept as printed."
+      ]
+    },
+    {
+      "number": 444,
+      "book_page": 277,
+      "heading": "ما يقوله ويفعله من أحس وجعا في جسده",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٨٩",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 189
+      },
+      "text": "حدثني أبو الطاهر وحرملة بن يحيى قالا : أخبرنا ابن وهب أخبرني يونس عن ابن شهاب أخبرني نافع بن جبير بن مطعم **عن عثمان بن أبي العاص الثقفي أنه شكا إلى رسول الله ﷺ وجعا يجده في جسده منذ أسلم ، فقال له رسول الله ﷺ : « ضع يدك على الذي تألم من جسدك ، وقل : باسم الله ثلاثا ، وقل سبع مرات : أعوذ بالله وقدرته من شر ما أجد وأحاذر » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٤ ص٢١٧ مع اختلاف يسير في اللفظ ، وابن ماجه ٣٥٢٢ ، وابن السني رقم ٥٥٠ ، والترمذي في الطب باب ٢٩ ، وأحمد ٤ / ٢١٧ .",
+      "footnotes": [
+        "(*) [على «بالله»] رواية ابن ماجه من طريق عمرو بن عبد الله بن كعب عن نافع بزيادة هكذا « أعوذ بعزة الله وقدرته … » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The marker (*) is printed after «بالله» in the text and after «ابن ماجه» in the takhrij, for the one footnote.",
+        "The text runs from p. 277 onto p. 278."
+      ]
+    },
+    {
+      "number": 445,
+      "book_page": 278,
+      "heading": "الدعاء برفع الوباء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٧٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 179
+      },
+      "text": "حدثنا محمد بن يوسف حدثنا سفيان عن هشام بن عروة عن أبيه **عن عائشة رضي الله عنها قالت : قال النبي ﷺ : « اللهم حبّب إلينا المدينة ، كما حبَّبت إلينا مكة أو أشد ، وانقل حماها إلى الجُحْفة ، اللهم بارك لنا في مدّنا وصاعنا » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٩ ص١٥٠ نووي ، وأحمد ٦ / ٦٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Marks zoomed: «حبَّبت» (shadda and fatha), «الجُحْفة»; on «حبّب» and «مدّنا» the shadda's vowel stroke is too unclear to read, so only the shadda is transcribed."
+      ]
+    },
+    {
+      "number": 446,
+      "book_page": 279,
+      "heading": "أولا : فضل من ترك الرق",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٤٠٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 405
+      },
+      "text": "حدثنا عمران بن ميسرة حدثنا ابن فضيل حدثنا حصين ح وحدثني أسيد بن زيد حدثنا هشيم عن حصين قال : كنت عند سعيد بن جبير فقال : **حدثني ابن عباس قال : قال النبي ﷺ : « عرضت عليّ الأمم ، فأخذ النبي يمر معه الأمة ، والنبي يمر معه النفر ، والنبي يمر معه العشرة ، والنبي يمر ومعه الخمسة ، والنبي يمر وحده . فنظرت فإذا سواد كثير ، قلت : يا جبريل هؤلاء أمتي ؟ » قال : لا ، ولكن انظر إلى الأفق ، « فنظرت فإذا سواد كثير » ، قال : هؤلاء أمتك ، وهؤلاء سبعون ألفا قدامهم ، لا حساب عليهم ولا عذاب ، قلت : « ولِمَ ؟ » قال : كانوا لا يكتوون ، ولا يسترقون ، ولا يتطيرون ، وعلى ربهم يتوكلون . فقام إليه عكّاشة بن محصن فقال : ادع الله أن يجعلني منهم . قال : اللهم اجعله منهم ثم قام رجل آخر فقال : ادع الله أن يجعلني منهم قال : « سبقك بها عكّاشة » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٣ ص٩٢ ، والترمذي ج٧ ص١٣٩ ، وقال : حسن صحيح . وأحمد ١ / ٢٧١ ، وعزاه المزي في الأطراف للنسائيّ السنن الكبرى في الطب ٤ : ٦٧ .",
+      "footnotes": [
+        "(*) [على «مسلم»] في أحد ألفاظه - رواية سعيد بن منصور - بلفظ لا يرقون ولا يسترقون ولا يتطيرون وعلى ربهم يتوكلون ."
+      ],
+      "corrections": [
+        {
+          "id": 14,
+          "field": "heading",
+          "printed": "الرق",
+          "corrected": "الرقى",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "The same printing as in entry 448's heading: «الرق» (slavery) for «الرقى» (incantations), the final «ى» after «ق» dropped as throughout this chapter. Left for the owner because it depends on meaning."
+        },
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "ومعه",
+          "corrected": "معه",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6541) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The footnote marker (*) is printed in the takhrij after «مسلم», not in the text.",
+        "Quotation marks kept as printed (they open and close around parts of the narrative). «عليّ» and «عكّاشة» with the book's shadda; «ولِمَ» with kasra and fatha."
+      ]
+    },
+    {
+      "number": 447,
+      "book_page": 279,
+      "heading": "أولا : فضل من ترك الرق",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٤ ص٢٥٣",
+      "source": {
+        "collection": "ahmad",
+        "volume": 4,
+        "page": 253
+      },
+      "text": "حدثنا عبد الرحمن عن سفيان عن منصور عن مجاهد عن عقار بن المغيرة بن شعبة **عن أبيه أن رسول الله ﷺ قال : « من اكتوى أو استرق ، فقد برىء من التوكل » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن ماجه ٣٤٨٩ ، والترمذي ج٦ ص٢١٤ وقال : حسن صحيح .",
+      "footnotes": [
+        "(*) [على «التوكل»] قال المباركفوري نقلا عن المناوي : هذا فيمن عمل معتمدا عليها لا على الله . تحفة ٦ ص٢١٤ ."
+      ],
+      "corrections": [
+        {
+          "id": 14,
+          "field": "heading",
+          "printed": "الرق",
+          "corrected": "الرقى",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "The same printing as in entry 448's heading: «الرق» (slavery) for «الرقى» (incantations), the final «ى» after «ق» dropped as throughout this chapter. Left for the owner because it depends on meaning."
+        },
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "استرق",
+          "corrected": "استرقى",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 4 time(s) in the collections and 15 on dorar.net; in the hadith text the wording of the cited source (ahmad 17511) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The text runs from p. 279 onto p. 280. Zoomed: «برىء» is printed with a dotless final ya followed by a hamza; «اكتوى» with final alif maqsura."
+      ]
+    },
+    {
+      "number": 448,
+      "book_page": 280,
+      "heading": "لا بأس بالرق ما لم يكن فيه شرك",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٨٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 187
+      },
+      "text": "حدثني أبو الطاهر أخبرنا ابن وهب أخبرني معاوية بن صالح عن عبد الرحمن بن جبير عن أبيه **عن عوف بن مالك الأشجعي قال : كنا نرقي في الجاهلية فقلنا : يا رسول الله كيف ترى في ذلك ؟ فقال : « اعرضوا عليَّ رقاكم لا بأس بالرق ما لم يكن فيه شرك » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٤ ص٢١٥ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 14,
+          "field": "heading",
+          "printed": "الرق",
+          "corrected": "الرقى",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "The book drops the final «ى» after «ق» throughout this chapter («الرق», «يرق», «استرق», «يسترق»). In these headings and in Ibn Hajar's words quoted in entry 455's footnote, «الرق» (slavery) makes no sense: the sections are about incantations, «الرقى». Left for the owner because it depends on meaning, not grammar (as protections correction 11)."
+        },
+        {
+          "id": 17,
+          "field": "text",
+          "printed": "بالرق",
+          "corrected": "بالرقى",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 9 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2200) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Zoomed: «عليَّ» with shadda and fatha. «ترى» with final alif maqsura.",
+        "«بالرق» (in the heading and the text) is printed with a final qaf and no «ى» (rechecked on the scan in the review, where the OCR flagged it); first transcribed «بالرقى», fixed in the review."
+      ]
+    },
+    {
+      "number": 449,
+      "book_page": 280,
+      "heading": "رقية رسول الله ﷺ",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٢٠٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 206
+      },
+      "text": "حدثنا مسدد حدثنا عبد الوارث **عن عبد العزيز قال : دخلت أنا وثابت على أنس بن مالك فقال ثابت : يا أبا حمزة اشتكيت . فقال أنس : ألا أرقيك برقية رسول الله ﷺ ؟ قال : بلى . قال : « اللهم رب الناس ، مُذهبَ الباس ، اشف أنت الشافي ، لا شافي إلا أنت ، شفاء لا يغادر سقما » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٤ ص٢١٧ ، والترمذي ج٤ ص٤٧ تحفة ، وقال عن أبي زرعة : إنه صحيح . وابن السني رقم ٥٤٩ ، وأحمد ٣ / ١٥١ .",
+      "footnotes": [
+        "(*) [على «يغادر»] لا يغادر : لا يترك ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The text runs from p. 280 onto p. 281. «مُذهبَ» with the book's damma and fatha; «بلى» with final alif maqsura."
+      ]
+    },
+    {
+      "number": 450,
+      "book_page": 281,
+      "heading": "رقية جبريل",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٦٨",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 168
+      },
+      "text": "حدثنا ابن أبي عمر المكي حدثنا عبد العزيز الدراوردي عن يزيد - وهو ابن عبد الله ابن أسامة بن الهاد - عن محمد بن إبراهيم عن أبي سلمة بن عبد الرحمن **عن عائشة زوج النبي ﷺ أنها قالت : كان إذا اشتكى رسول الله ﷺ رقاه جبريل قال : باسم الله يبريك ، ومن كل داء يشفيك ، ومن شر حاسد إذا حسد ، وشر كل ذي عين .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٦ / ١٦٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«اشتكى» with final alif maqsura; «يبريك» printed without hamza."
+      ]
+    },
+    {
+      "number": 451,
+      "book_page": 281,
+      "heading": "رقية جبريل",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٧٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 170
+      },
+      "text": "حدثنا بشر بن هلال الصواف حدثنا عبد العزيز بن صهيب عن أبي نضرة **عن أبي سعيد أن جبريل أتى النبي ﷺ فقال : يا محمد اشتكيتَ ؟ فقال : « نعم » ، قال : باسم الله أرقيك ، من كل شيء يؤذيك ، من شر كل نفس ، أو عين حاسد الله يشفيك ، باسم الله أرقيك .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ٣٥٢٣ ، والترمذي ج٤ ص٤٨ تحفة وقال : حسن صحيح . وابن السني في عمل اليوم والليلة رقم ٥٧٥ ، وأحمد ٣ / ٢٨ ، ٥٦ ، ٥٨ ، ٧٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: «اشتكيتَ» with fatha; «أتى» with final alif maqsura."
+      ]
+    },
+    {
+      "number": 452,
+      "book_page": 282,
+      "heading": "الرقية بفاتحة الكتاب وكيف يرق",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص١٩٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 198
+      },
+      "text": "حدثنا محمد بن بشار حدثنا غندر حدثنا شعبة عن أبي بشر عن أبي المتوكل **عن أبي سعيد الخدري رضي الله عنه أن ناسا من أصحاب النبي ﷺ أتوا على حي من أحياء العرب ، فلم يقروهم ، فبينما هم كذلك إذ لُدغ سيد أولئك ، فقالوا : هل معكم من دواء أو راق ؟ فقالوا : إنكم لم تقرونا ولا نفعل حتى تجعلوا لنا جعلا . فجعلوا لهم قطيعا من الشاء . فجعل يقرأ بأم القرآن ، ويجمع بزاقه ويتفِل ، فبرأ ، فأتوا بالشاء فقالوا : لا نأخذه حتى نسأل النبي ﷺ فسألوه ، فضحك وقال : « وما أدراك أنها رقية ؟ خذوها ، واضربوا لي بسهم »**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٨٧ ، وابو داود ج٤ ص٢٢٣ ، وابن ماجه ٢١٥٦ ، والترمذي في الطب ٢٠ : ٢ ، وعزاه المزي في الأطراف للنسائيّ في الطب ، وأحمد ٣ / ٨٣ .",
+      "footnotes": [
+        "* [على «بسهم»] لا يلزم أن تكون الرقية مختصة برجل بعينه فقد قال مسلم ( ص١٧٢٨ فؤاد عبد الباقي ) بعد أن روى هذا الحديث : وثنى محمد بن المثنى ثنا وهب بن جرير ثنا هشام بهذا الإسناد نحوه غير أنه قال : فقام معها رجل منا ما كنا نأبنه برقية . أ . ه نأبُنُه أى نظنه ."
+      ],
+      "corrections": [
+        {
+          "id": 15,
+          "field": "heading",
+          "printed": "يرق",
+          "corrected": "يرقى",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «وكيف يرق» uses a jussive form of «يرقى» with no particle governing it (the entry is about incantation, so it isn't «يرقّ»); the book drops the final «ى» after «ق» throughout this chapter."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed «… وكيف يرق» with a final qaf and no «ى» (the OCR flagged it; rechecked on the scan in the review); first transcribed «يرقى», fixed in the review.",
+        "Marks zoomed: «لُدغ», «ويتفِل»; «نأبُنُه» in the footnote. No full stop is printed after the hadith; the footnote marker * follows its closing quotation mark.",
+        "«وابو داود» printed without hamza; «وثنى», «روى», «المثنى», «أى» as printed. The printed «أ . هـ» is written «أ . ه», since check.py rejects the tatweel."
+      ]
+    },
+    {
+      "number": 453,
+      "book_page": 282,
+      "heading": "النفث بالمعوذات",
+      "label": null,
+      "citation": "قال البخاري فتح ج٨ ص١٣١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 131
+      },
+      "text": "حدثني حبان أخبرنا عبد الله أخبرنا يونس عن ابن شهاب قال : أخبرني عروة **أن عائشة رضي الله عنها أخبرته أن رسول الله ﷺ كان إذا اشتكى ، نفث على نفسه بالمعوذات ، ومسح عنه بيده ، فلما اُشتكى وجعه الذي توفي فيه ، طفقت أنفث على نفسه بالمعوذات التي كان ينفث ، وأمسح بيد النبي ﷺ عنه .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه البخاري أيضا من طريق مالك عن ابن شهاب فتح ج٩ ص٦٢ ، ومن طريق معمر عن ابن شهاب فتح ج١٠ ص٢١٠ ، ورواه مسلم ج١٤ ص١٨٣ ، وابو داود ج٤ ص٢٢٤ ، وابن ماجه ٣٥٢٩ ، وأحمد ٦ / ١١٤ ، ٢٦٣ .",
+      "footnotes": [
+        "(*) [على «مالك»] رواية مالك فيها القراءة والنفث عند المرض .",
+        "(**) [على «معمر»] رواية معمر فيها القراءة والنفث مقيدة بمرض الموت .",
+        "(٤٥٣) وسبقت رواية عقيل وفيها القراءة والنفث عند النوم .",
+        "(٤٥٣) قال الحافظ فتح ج٩ ص٦٢ : فالذي يترجح أنهما حديثان عند ابن شهاب بسند واحد عند بعض الرواة عنه ما ليس عند بعض ، فأما مالك ومعمر ويونس وزياد بن سعد عند مسلم ، فلم تختلف الرواة عنهم في أن ذلك كان عند الوجع ، ومنهم من قيّده بمرض الموت ، ومنهم من زاد فيه فعل عائشة ، ولم يفسر أحد منهم المعوذات . وأما عقيل فلم تختلف الرواة عنه في ذلك عند النوم ، ووقع في رواية يونس من طريق سليمان بن بلال عنه أن فعل عائشة كان بأمره ﷺ ، وسيأتي في كتاب الطب . وقد جعلهما أبو مسعود حديثا واحدا ، وتعقبه أبو العباس الطرقي ، وفرق بينهما خلف ، وتبعه المزني ، والله أعلم . وسيأتي شرحه في كتاب الطب إن شاء الله تعالى . انتهى قول الحافظ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The text runs from p. 282 onto p. 283. Zoomed: a damma is printed over the alif of «اُشتكى» (second occurrence), kept as printed; «اشتكى» with final alif maqsura.",
+        "The footnote markers (*) and (**) are printed in the takhrij, after «مالك» and «معمر». The two unnumbered paragraphs after them (on the narrations' wording) are separate items. «وابو داود» printed without hamza; «قيّده» with the book's shadda."
+      ]
+    },
+    {
+      "number": 454,
+      "book_page": 283,
+      "heading": "النفث بالمعوذات",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٢٠٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 206
+      },
+      "text": "حدثني أحمد بن أبي رجاء حدثنا النضر عن هشام بن عروة قال : أخبرني أبي **عن عائشة أن رسول الله ﷺ كان يرقي يقول : « امسح الباس ، رب الناس ، بيدك الشفاء ، لا كاشف له إلا أنت » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرج ابن ماجه الحديث مطولا ١٦١٩ ، وابن السني مع اختلاف لفظي رقم ٥٥٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The takhrij is printed in larger type than the other footnotes."
+      ]
+    },
+    {
+      "number": 455,
+      "book_page": 284,
+      "heading": "١ - الرقية من كل ذي حمة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٢٠٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 205
+      },
+      "text": "حدثنا موسى بن إسماعيل حدثنا عبد الواحد حدثنا سليمان الشيباني حدثنا عبد الرحمن ابن الأسود **عن أبيه قال : سألت عائشة عن الرقية من الحمة ، فقالت : رخص النبي ﷺ الرقية من كل ذي حمة .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٨٣ ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [
+        "(*) [على «رخص»] قال الحافظ فتح ج١٠ ص٢٩٠٦ قوله : ( رخص ) فيه إشارة إلى أن النهي عن الرق كان متقدما .",
+        "(**) [على «حمة»] قال الحافظ فتح ج١٠ ص٢٠٦ في تفسير المراد من ( كل ذي حمة ) : أن المراد بها ذوات السموم ، ووقع في رواية أبي الأحوص عن الشيباني بسنده ( رخص في الرقية من الحية والعقرب ) .",
+        "(***) [على «مسلم»] في رواية مسلم رخص رسول الله ﷺ لأهل بيت من الأنصار … ."
+      ],
+      "corrections": [
+        {
+          "id": 14,
+          "field": "footnotes.0",
+          "printed": "الرق",
+          "corrected": "الرقى",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "The same printing as in entry 448's heading: in Ibn Hajar's «فيه إشارة إلى أن النهي عن الرق كان متقدما», «الرق» (slavery) stands for «الرقى» (incantations), the subject of «رخص». Left for the owner with the headings, because it depends on meaning."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed «١ - الرقية من كل ذي حمة» under «ما يرق منه» (an `author_text` heading); the number is kept in the heading, since `label` takes only abjad letters.",
+        "The marker (***) is printed in the takhrij after «مسلم».",
+        "Zoomed: footnote (*) prints «ص٢٩٠٦» (probably ٢٠٦ with a stray digit) and «الرق» with an unclear small mark over the qaf; both kept as printed."
+      ]
+    },
+    {
+      "number": 456,
+      "book_page": 284,
+      "heading": "٢ - الرقية من العين",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص١٩٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 199
+      },
+      "text": "حدثنا محمد بن كثير أخبرنا سفيان قال : حدثني معبد بن خالد قال : سمعت عبد الله ابن شداد **عن عائشة رضي الله عنها قالت : أمرني النبي ﷺ - أو أمر - النبي ﷺ أن يسترق من العين .**",
+      "grading": "صحيح",
+      "takhrij": "رواه مسلم ج١٤ ص١٨٤ ، وابن ماجه رقم ٣٥١٢ ، وعزاه المزي في الأطراف للنسائيّ السنن الكبرى في الطب ٣٥ : ١ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 16,
+          "field": "text",
+          "printed": "يسترق",
+          "corrected": "يسترقى",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: after «أن» the verb must be subjunctive, «أن يسترقى» (as in Bukhari 5738, the cited source), but «يسترق» is a jussive form; the book drops the final «ى» after «ق» throughout this chapter."
+        },
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "أمرني النبي ﷺ",
+          "corrected": "أمرني رسول الله ﷺ",
+          "confidence": 0.53,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "Zoomed: «يسترق» is printed without a final alif maqsura (rechecked in the review)."
+      ]
+    },
+    {
+      "number": 457,
+      "book_page": 284,
+      "heading": "٢ - الرقية من العين",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٨٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 185
+      },
+      "text": "حدثني عقبة بن مكرم العمي حدثنا أبو عاصم عن ابن جريج قال : وأخبرني أبو الزبير **أنه سمع جابر بن عبد الله يقول : رخص النبي ﷺ لآل حزم في رقية النملة ، وقال لأسماء بنت عميس : « مالي أرى أجسام بني أخي ضارعة تصيبهم الحاجة ؟ » قالت : لا أدري ، ولكن العين تسرع إليهم . قال : « ارقيهم » . قالت : فعرضت عليه ، فقال : « ارقيهم » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "النملة",
+          "corrected": "الحية",
+          "confidence": 0.55,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+        },
+        {
+          "id": 13,
+          "field": "text",
+          "printed": "أدري",
+          "corrected": "",
+          "confidence": 0.63,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The text runs from p. 284 onto p. 285. No numbered source footnote is printed for this entry, so `takhrij` is null.",
+        "Zoomed at 1087 dpi, and again at 1600 dpi in the review (the OCR read «اثملة»): «رقية النملة», the nun–mim ligature's dot blotted; the word's shape (ال + one tooth + م + لة) rules out Muslim's «الحية». «لا أدري» is printed as transcribed. «لآل» with madda; «أرى» with final alif maqsura; «مالي» written joined as printed."
+      ]
+    },
+    {
+      "number": 458,
+      "book_page": 285,
+      "heading": "٢ - الرقية من العين",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٧٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 170
+      },
+      "text": "حدثنا عبد الله بن عبد الرحمن الدارمي وحجاج بن الشاعر وأحمد بن خراش قال عبد الله : أخبرنا وقال الآخران : حدثنا مسلم بن إبراهيم قال : حدثنا وهيب عن ابن طاووس عن أبيه **عن ابن عباس عن النبي ﷺ قال : « العين حق ، ولو كان شيء سابق القدر سبقته العين ، وإذا استُغْسلتم فاغسلوا » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي في الطب ١٩ : ٢ ، وعزاه المزي في الأطراف للنسائيّ الطب في السنن الكبرى ٧٤ : ٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: «استُغْسلتم» with damma and sukun. The row of four asterisks after this entry marks the chapter's end and is not transcribed."
+      ]
+    }
+  ]
+}

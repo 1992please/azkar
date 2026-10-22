@@ -25,6 +25,7 @@
       "بن",
       "كعب"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -37,47 +38,6 @@
     "decision": "kept",
     "confidence": 0.15,
     "evidence": "Kept: a different transmission verb, a usual difference between editions."
-  },
-  {
-    "entry": 142,
-    "kind": "substitution",
-    "tokens": [
-      35,
-      36
-    ],
-    "printed_words": [
-      "يقول"
-    ],
-    "alternative_words": [
-      "تقول"
-    ],
-    "alternative_tokens": [
-      "تقول"
-    ],
-    "left": [
-      "سيد",
-      "الاستغفار",
-      "ان"
-    ],
-    "right": [
-      "اللهم",
-      "انت",
-      "ربي"
-    ],
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 4,
-      "ocr_confirms_printed": true
-    },
-    "decision": "ask",
-    "confidence": 0.88,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it.",
-    "printed": "يقول",
-    "corrected": "تقول"
   },
   {
     "entry": 147,
@@ -105,6 +65,7 @@
       "داود",
       "قال"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -146,6 +107,7 @@
       "قال",
       "ابو"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 18,
@@ -187,6 +149,7 @@
       "حديث",
       "حسن"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -226,6 +189,7 @@
       "مسلم",
       "الفزاري"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -240,47 +204,6 @@
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it.",
     "printed": "عيادة",
     "corrected": "عبادة"
-  },
-  {
-    "entry": 150,
-    "kind": "substitution",
-    "tokens": [
-      90,
-      91
-    ],
-    "printed_words": [
-      "عمل"
-    ],
-    "alternative_words": [
-      "عملا"
-    ],
-    "alternative_tokens": [
-      "عملا"
-    ],
-    "left": [
-      "ولم",
-      "يعمل",
-      "يوميذ"
-    ],
-    "right": [
-      "يقهرهن",
-      "فان",
-      "قال"
-    ],
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 9,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.88,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 9 on dorar.net.",
-    "printed": "يومئذ عمل يقهرهن",
-    "corrected": "يومئذ عملا يقهرهن"
   },
   {
     "entry": 152,
@@ -310,6 +233,7 @@
       "الحال",
       "التي"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -345,6 +269,7 @@
       "بن",
       "معروف"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 94,
@@ -384,6 +309,7 @@
       "يعقوب",
       "بن"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 14,
@@ -423,6 +349,7 @@
       "حكيم",
       "عن"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 1,
@@ -435,44 +362,5 @@
     "decision": "variant",
     "confidence": 0.05,
     "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
-  },
-  {
-    "entry": 154,
-    "kind": "missing",
-    "tokens": [
-      56,
-      56
-    ],
-    "printed_words": [],
-    "alternative_words": [
-      "فبايعه"
-    ],
-    "alternative_tokens": [
-      "فبايعه"
-    ],
-    "left": [
-      "فادخل",
-      "يده",
-      "فقطعها"
-    ],
-    "right": [
-      "وقال",
-      "من",
-      "علق"
-    ],
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 6,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.65,
-    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 6 on dorar.net.",
-    "printed": "فقطعها وقال",
-    "corrected": "فقطعها فبايعه وقال"
   }
 ]

@@ -1,0 +1,414 @@
+{
+  "chapter": "باب الصلاة على النبي ﷺ",
+  "book_pages": [
+    117,
+    124
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "Under «صيغ الصلاة على النبي ﷺ» the forms are numbered «(١)», «(٢)» … on a line of their own; `label` takes only abjad letters (check.py), so `label` is null and the number is noted in each entry's `transcriber_notes`.",
+    "Zoomed: «هانيء» (twice, p. 119, printed with the hamza after a dotless ya), «ولم يصلّ» (p. 119, shadda only), «أَرَمْتَ» and «بَلِيت» (p. 119), «عُجرة», «علَّمنا», «فاهدها» (no hamza) on p. 120.",
+    "Review: all 26 OCR flags (sheets 1–4) are OCR misreads of words transcribed correctly. Checked on the scans the words behind the corrections: no «مقعدا» (p. 118), «ألا أهدي هدية ؟» (p. 121), «الطفيل بن / أبي كعب» and «أخبرنا قبيصة» (p. 123), «فهو خير » . قلت : فالثلثين» (p. 124). Entry 182's match is «check» only because Abu Dawud's narration is kept in its text; the matched Ahmad hadith covers it fully."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 117,
+      "heading": "وجوب الصلاة على النبي ﷺ",
+      "kind": "verses",
+      "text": "قال الله تعالى : ﴿ إن الله وملائكته يصلون على النبي يا أيها الذين آمنوا صلوا عليه وسلموا تسليما ﴾ . الأحزاب .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chapter title «باب الصلاة على النبي ﷺ» is followed by the heading «وجوب الصلاة على النبي ﷺ», under which only this verse is printed, in bold."
+      ]
+    },
+    {
+      "after_entry": null,
+      "book_page": 117,
+      "heading": "بعض مواطن الصلاة على النبي ﷺ",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading printed above the sub-heading «١ - الصلاة على النبي ﷺ عند ذكره»."
+      ]
+    },
+    {
+      "after_entry": 176,
+      "book_page": 117,
+      "heading": "١ - الصلاة على النبي ﷺ عند ذكره",
+      "kind": "note",
+      "text": "وقال الترمذي : هذا حديث حسن صحيح .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed in regular type after the grading of entry 176, before entry 177's citation."
+      ]
+    },
+    {
+      "after_entry": 182,
+      "book_page": 120,
+      "heading": "صيغ الصلاة على النبي ﷺ",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading; the numbered forms «(١)», «(٢)» … follow it."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 176,
+      "book_page": 117,
+      "heading": "١ - الصلاة على النبي ﷺ عند ذكره",
+      "label": null,
+      "citation": "قال الترمذي حديث رقم ٣٥٤٦",
+      "source": {
+        "collection": "tirmidhi",
+        "hadith": 3546
+      },
+      "text": "حدثنا يحيى بن موسى وزياد بن أيوب قالا : حدثنا أبو عامر العقدي عن سليمان ابن بلال عن عمارة بن غزية عن عبد الله بن علي بن حسين بن علي بن أبي طالب عن أبيه **عن حسين بن علي بن أبي طالب قال : قال رسول الله ﷺ : « البخيل الذي من ذكرت عنده فلم يصل عليَّ » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أحمد ١ / ٢٠١ ، وابن السني رقم ٣٨٤ في عمل اليوم والليلة ، والحاكم ١ / ٥٩٤ وقال : صحيح الإسناد ولم يخرجاه . ووافقه الذهبي . والطبراني في الكبير ٢٨٨٥ ، وعزاه المزي في الأطراف إلى النسائيّ . وهناك اختلاف يسير في إسناده ، انظر تحفة الأشراف ٣ / ٦٦ ، ٧ / ٣٦٤ ، وانظر النكت الظراف أيضا .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Al-Tirmidhi's verdict «وقال الترمذي : هذا حديث حسن صحيح .» is printed after the grading; it is kept as an author_text note after this entry."
+      ]
+    },
+    {
+      "number": 177,
+      "book_page": 117,
+      "heading": "١ - الصلاة على النبي ﷺ عند ذكره",
+      "label": null,
+      "citation": "قال الترمذي تحفة ج٩ ص٥٣٠",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 9,
+        "page": 530
+      },
+      "text": "حدثنا أحمد بن إبراهيم الدورقي أخبرنا ربعي بن إبراهيم عن عبد الرحمن بن إسحاق عن سعيد بن أبي سعيد المقبري **عن أبي هريرة قال : رسول الله ﷺ : « رغم أنف رجل ذكرت عنده فلم يصلِّ عليَّ ورغم أنف رجل دخل عليه رمضان ثم انسلخ قبل أن يغفر له ورغم أنف رجل أدرك عنده أبواه الكبر فلم يدخلاه الجنة »** . **قال عبد الرحمن وأظنه قال : أو أحدهما** . وفي الباب عن جابر وأنس . هذا حديث حسن غريب من هذا الوجه ، وربعي بن إبراهيم هو أخو إسماعيل بن إبراهيم وهو ثقة وهو ابن علية . ويُروى عن بعض أهل العلم قال : إذا صلى الرجل على النبي ﷺ مرة في المجلس أجزأ عنه ما كان في ذلك المجلس .",
+      "grading": "صحيح لغيره",
+      "takhrij": "وأخرج الحاكم الجزء الأول منه « رغم أنف رجل ذكرت عنده فلم يصل علي » . ج١ ص٥٤٩ ، وأحمد ٢ / ٢٥٤ .",
+      "footnotes": [
+        "(*) [على «حسن»] قال المباركفوري : وأخرجه ابن حبان في صحيحه والحاكم في مستدركه وقال : صحيح . والبزار في مسنده .",
+        "(**) [على «صحيح لغيره»] حيث إن له شاهدا من حديث كعب بن عجرة أخرجه الحاكم ج٤ ص١٥٣ وقال : صحيح الإسناد . ووافقه على تصحيحه الذهبي . إلا أن فيه إسحاق بن كعب بن عجرة قال فيه الحافظ : مجهول الحال . وقال الذهبي في الميزان : تابعي مستور . فيصلح شاهدا للأول ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«قال : رسول الله ﷺ» is printed without a second «قال»; kept as printed.",
+        "Al-Tirmidhi's remarks after the hadith («وفي الباب … في ذلك المجلس .») are printed in regular type before the grading and kept in the text; footnote (*) is on «حسن» in them."
+      ]
+    },
+    {
+      "number": 178,
+      "book_page": 118,
+      "heading": "٢ - الصلاة على النبي ﷺ في كل مجلس",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٢ ص٤٦٣ مسند",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 463
+      },
+      "text": "حدثنا عبد الرحمن عن شعبة عن الأعمش عن أبي صالح **عن أبي هريرة عن النبي ﷺ قال : « ما قعد قوم لا يذكرون الله عز وجل ويصلون على النبي ﷺ إلا كان عليهم حسرة يوم القيامة وإن دخلوا الجنة للثواب » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "قوم لا",
+          "corrected": "قوم مقعدا لا",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 9 on dorar.net; in the hadith text the wording of the cited source (ahmad 9586) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry."
+      ]
+    },
+    {
+      "number": 179,
+      "book_page": 118,
+      "heading": "٢ - الصلاة على النبي ﷺ في كل مجلس",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٢ ص٥٢٧ مسند",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 527
+      },
+      "text": "حدثنا عبد الصمد ثنا حماد عن سهيل عن أبيه **عن أبي هريرة أن رسول الله ﷺ قال : « ما جلس قوم مجلسًا فتفرقوا عن غير ذكر الله إلا تفرقوا عن مثل جيفة حمار وكان ذلك المجلس حسرة عليهم يوم القيامة » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص١٨١ ، وابن السني في عمل اليوم والليلة رقم ٤٤٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 180,
+      "book_page": 119,
+      "heading": "٣ - بين يدي الدعاء",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٦ ص١٨",
+      "source": {
+        "collection": "ahmad",
+        "volume": 6,
+        "page": 18
+      },
+      "text": "ثنا أبو عبد الرحمن المقري ثنا حيوة قال : أخبرني أبو هانيء حميد بن هانيء عن عمرو ابن مالك الجنبي حدثني أنه **سمع فضالة بن عبيد صاحب رسول الله ﷺ يقول : سمع رسول الله ﷺ رجلا يدعو في الصلاة ولم يذكر الله عز وجل ولم يصلّ على النبي ﷺ فقال رسول الله ﷺ : « عجل هذا » ثم دعاه وقال له ولغيره : « إذا صلى أحدكم فليبدأ بتحميد ربه والثناء عليه ثم ليصل على النبي ﷺ ثم ليدع بعد بما شاء » .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أبو داود ج٢ ص١٦٢ ، والنسائيّ ج٣ ص٤٤ ، والترمذي ج٩ ص٤٤٩ تحفة ، وقال : حديث حسن . وابن السني عمل اليوم والليلة رقم ١١١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 181,
+      "book_page": 119,
+      "heading": "٤ - يوم الجمعة",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٤ ص٨",
+      "source": {
+        "collection": "ahmad",
+        "volume": 4,
+        "page": 8
+      },
+      "text": "حدثنا حسين بن علي الجعفي عن عبد الرحمن بن يزيد بن جابر عن أبي الأشعث الصنعاني **عن أوس بن أبي أوس قال : قال رسول الله ﷺ : « من أفضل أيامكم يوم الجمعة فيه خلق آدم وفيه قبض وفيه النفخة وفيه الصعقة فأكثروا علي من الصلاة فإن صلاتكم معروضة عليَّ » ، فقالوا : يا رسول الله وكيف تعرض عليك صلاتنا وقد أَرَمْتَ ؟ يعني وقد بَلِيت . قال : « إن الله حرم على الأرض أن تأكل أجساد الأنبياء صلوات الله عليهم » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٢ ص١٨٤ ، ج١ ص٦٣٥ ، وابن ماجه ١٦٣٦ ، والنسائيّ ج٣ ص٩١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 182,
+      "book_page": 120,
+      "heading": "٥ - الصلاة على النبي ﷺ في كل مكان",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٢ ص٣٦٧",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 367
+      },
+      "text": "ثنا سريج قال ثنا عبد الله بن نافع عن ابن أبي ذئب عن سعيد المقبري **عن أبي هريرة قال : قال رسول الله ﷺ : « لا تتخذوا قبري عيدا ولا تجعلوا بيوتكم قبورا وحيثما كنتم فصلوا عليَّ فإن صلاتكم تبلغني » .** قال أبو داود ج٢ ص٥٣٤ : حدثنا أحمد بن صالح قرأت على عبد الله بن نافع أخبرني ابن أبي ذئب عن سعيد المقبري **عن أبي هريرة قال : قال رسول الله ﷺ : « لا تجعلوا بيوتكم قبورا ولا تجعلوا قبري عيدا ، وصلوا عليَّ فإن صلاتكم تبلغني حيث كنتم » .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أبو داود ج٢ ص٥٣٤ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Abu Dawud's narration («قال أبو داود ج٢ ص٥٣٤ : …») is printed without an entry number after the grading «حسن», with its own regular-type citation line and no grading of its own; kept in the text."
+      ]
+    },
+    {
+      "number": 183,
+      "book_page": 120,
+      "heading": "صيغ الصلاة على النبي ﷺ",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص٤٠٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 408
+      },
+      "text": "حدثنا قيس بن حفص وموسى بن إسماعيل قالا : حدثنا عبد الواحد بن زياد حدثنا أبو قرة مسلم بن سالم الهمداني قال : حدثني عبد الله بن عيسى **سمع عبد الرحمن بن أبي ليلى قال : لقيني كعب بن عُجرة فقال : ألا أهدي لك هدية سمعتها من النبي ﷺ ؟ فقلت : بلى فاهدها لي ، فقال : سألنا رسول الله ﷺ فقلنا : يا رسول الله كيف الصلاة عليكم أهل البيت ، فإن الله قد علَّمنا كيف نسلم . قال : « قولوا : اللهم صلِّ على محمد وعلى آل محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد ، اللهم بارك على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه النسائيّ ج٣ ص٤٥ ، والطحاوي في مشكل الآثار ص٧٢ ، والبيهقي ٢ / ١٤٧ ، وابن السني في عمل اليوم والليلة رقم ٩٢ .",
+      "footnotes": [
+        "(*) [على «وعلى آل إبراهيم»] ذكر ابن القيم في كتابه « جلاء الأفهام في الصلاة على خير الأنام » الفصل السابع ص ١٧١-١٧٢ ما نصه : ( أن أكثر الأحاديث الصحاح والحسان - بل كلها - صريحة بذكر النبي ﷺ وذكر آله وأما في حق المشبه به وهو إبراهيم وآله فإنما جاءت بذكر آل إبراهيم أو بذكره فقط دون ذكر آله ولم يجيء حديث صحيح فيه لفظ إبراهيم وآل إبراهيم كما تظاهرت على ذلك لفظ محمد وآل محمد ) وجعل - رحمه الله - هذا نكتة . قلت : قد رأيت في متن الحديث ذكر إبراهيم وآل إبراهيم فلا وجه لما قاله ابن القيم وسبحان الله الذي لا تخفى عليه خافية ولا يعزب عنه مثقال ذرة في السموات ولا في الأرض !!! ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed under the number «(١)» above the citation.",
+        "The grading of this Bukhari entry is printed «حسن»; kept as printed.",
+        "Footnote (*) is on the first «وعلى آل إبراهيم» (at the top of p. 121); the footnote is in the bottom part of p. 121."
+      ]
+    },
+    {
+      "number": 184,
+      "book_page": 121,
+      "heading": "صيغ الصلاة على النبي ﷺ",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٥٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 152
+      },
+      "text": "حدثنا آدم ثنا شعبة حدثنا الحكم قال **سمعت عبد الرحمن بن أبي ليلى قال : لقيني كعب بن عجرة فقال : ألا أهدي هدية ؟ إن النبي ﷺ خرج علينا فقلنا : يا رسول الله قد علمنا كيف نسلم عليك ، فكيف نصلي عليك ؟ قال : « قولوا : اللهم صلِّ على محمد وعلى آل محمد كما صليت على آل إبراهيم إنك حميد مجيد ، اللهم بارك على محمد وعلى آل محمد كما باركت على آل إبراهيم إنك حميد مجيد » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٢٥ ، وأبو داود ج١ ص٥٩٩ ، وابن ماجه رقم ٩٠٤ ، وأخرجه النسائيّ ج٣ ص٤٥ ، والترمذي ج٢ ص٦٠٣ تحفة ، وقال : صحيح . والدارمي ١ / ٣٠٩ ، وابن الجارود رقم الحديث ٢٠٦ ، وأحمد ٤ / ٢٤١ ، ٢٤٣ ، والطحاوي في مشكل الآثار ص٧٢ ، والبيهقي ٢ / ١٤٧ .",
+      "footnotes": [
+        "(**) [على «والدارمي ١ / ٣٠٩»] رواية الدارمي كما صليت على إبراهيم ، وكذلك في إحدى روايات أحمد ، والطحاوي ، والبيهقي ."
+      ],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "أهدي هدية",
+          "corrected": "أهدي لك هدية",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 6357) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Printed under the number «(٢)» above the citation.",
+        "«ألا أهدي هدية ؟» is printed without «لك»; kept as printed.",
+        "Footnote (**) is attached to «٣٠٩» in the takhrij, not to the hadith."
+      ]
+    },
+    {
+      "number": 185,
+      "book_page": 122,
+      "heading": "صيغ الصلاة على النبي ﷺ",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص٤٠٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 407
+      },
+      "text": "حدثنا عبد الله بن يوسف أخبرنا مالك بن أنس عن عبد الله بن أبي بكر بن محمد ابن عمرو بن حزم عن أبيه عن عمرو بن سليم الزرقي **أخبرني أبو حميد الساعدي رضي الله عنه : أنهم قالوا : يا رسول الله كيف نصلي عليك ؟ فقال رسول الله ﷺ : « قولوا : اللهم صلِّ على محمد وأزواجه وذريته كما صليت على آل إبراهيم ، وبارك على محمد وأزواجه وذريته كما باركت على آل إبراهيم ، إنك حميد مجيد » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٢٧ ، وأبو داود ج١ ص٦٠٠ ، وابن ماجه رقم ٩٠٥ ، والنسائيّ ج٣ ص٤٩ ، والطحاوي في مشكل الآثار ٧٤ ، وابن السني في عمل اليوم والليلة رقم ٣٨٦ مع اختلاف ، وأحمد ٥ / ٤٢٤ .",
+      "footnotes": [
+        "(*) [على «اللهم صلِّ على محمد»] في مسلم اللهم صل على محمد وعلى أزواجه بزيادة لفظ على .",
+        "(**) [على «كما صليت»] لفظ الطحاوي كما صليت على إبراهيم .",
+        "(****) [على «ورواه مسلم»] في مسلم اللهم صل على محمد وعلى أزواجه بزيادة لفظ على .",
+        "(*****) [على «مشكل الآثار ٧٤»] لفظ الطحاوي كما صليت على إبراهيم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed under the number «(٣)» above the citation.",
+        "Footnotes (****) and (*****) on the takhrij repeat (*) and (**) word for word; all four are kept. Footnote (***) on p. 122 belongs to entry 186.",
+        "Zoomed on the p. 122 footnotes: the specks near «صل», «بن» and «٣٨٦» are print noise, not marks."
+      ]
+    },
+    {
+      "number": 186,
+      "book_page": 122,
+      "heading": "صيغ الصلاة على النبي ﷺ",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٥٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 152
+      },
+      "text": "حدثنا إبراهيم بن حمزة حدثنا ابن أبي حازم والدراوردي عن يزيد عن عبد الله ابن خباب **عن أبي سعيد الخدري قال : قلنا : يا رسول الله ، هذا السلام عليك فكيف نصلي ؟ قال : « قولوا : اللهم صلِّ على محمد عبدك ورسولك كما صليت على إبراهيم وبارك على محمد وآل محمد كما باركت على إبراهيم وآل إبراهيم » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه رقم ٩٠٣ بدون آل إبراهيم ، والنسائيّ ج٣ ص٤٩ ، وابن السني ٣٨٥ ، وأحمد ٣ / ٤٧ .",
+      "footnotes": [
+        "(***) [على «والدراوردي»] يزيد بن عبد الله بن الهاد قاله الحافظ فتح ج١١ ص١٦٥ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed under the number «(٤)» above the citation.",
+        "«قولوا :اللهم» is printed with no space after the colon; spaced per the punctuation rule.",
+        "Footnote (***) is printed at the foot of p. 122, where the entry begins."
+      ]
+    },
+    {
+      "number": 187,
+      "book_page": 123,
+      "heading": "فضل الصلاة على النبي ﷺ",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٤ ص١٢٧ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 127
+      },
+      "text": "حدثنا يحيى بن أيوب وقتيبة وابن حُجْر قالوا : حدثنا إسماعيل وهو ابن جعفر عن العلاء عن أبيه **عن أبي هريرة أن رسول الله ﷺ قال : « من صلى عليَّ واحدة صلى الله عليه عشرا » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٢ ص١٨٤ ، والنسائيّ ج٣ ص٥٠ ، والترمذي ج٢ ص٦٠٨ تحفة وقال : حسن صحيح . وأحمد ٢ / ٣٧٢ ، ٣٧٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The grading of this Muslim entry is printed «حسن»; kept as printed."
+      ]
+    },
+    {
+      "number": 188,
+      "book_page": 123,
+      "heading": "فضل الصلاة على النبي ﷺ",
+      "label": null,
+      "citation": "قال الترمذي ج٧ ص١٥٢ تحفة",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 7,
+        "page": 152
+      },
+      "text": "حدثنا هَنّاد أخبرنا قبيصة عن سفيان عن عبد الله بن محمد بن عقيل عن الطفيل بن أبي كعب **عن أبيه قال : كان رسول الله ﷺ إذا ذهب ثلثا الليل قام فقال : « يا أيها الناس اذكروا الله اذكروا الله جاءت الراجفة تتبعها الرادفة جاء الموت بما فيه جاء الموت بما فيه » قال أبي فقلت : يا رسول الله إني أكثر الصلاة عليك فكم أجعل لك من صلاتي ؟ قال : « ما شئت » . قلت : الربع ؟ قال : « ما شئت فإن زدت فهو خير لك » . قلت : فالنصف ؟ قال : « ما شئت وإن زدت فهو خير » . قلت : فالثلثين ؟ قال : « ما شئت فإن زدت فهو خير » ، قلت : أجعل لك صلاتي كلها ؟ قال : « إذا تكفي همك ويغفر لك ذنبك » هذا حديث حسن .**",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «من صلاتي»] قال المباركفوري : أي بدل دعائي الذي أدعو به لنفسي . وقال المنذري في الترغيب : معناه أكثر الدعاء فكم أجعل لك من دعائي صلاة عليك .",
+        "(*) [على «هذا حديث حسن»] قال المباركفوري : وأخرجه أحمد ، والحاكم . وقال المنذري عن رواية في معنى الحديث : وإسناد هذه جيد ."
+      ],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "أبي كعب",
+          "corrected": "أبي بن كعب",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator is al-Tufayl ibn Ubayy ibn Ka'b, who narrates from his father Ubayy («عن أبيه»); «الطفيل بن أبي كعب» is a spelling of his name no narration uses, and «أبي بن كعب» is attested 17 times in the collections (the owner approved the same «بن كعب» after «أُبي» on 2026-10-15). Scan p. 123 checked: «بن» ends one line and «أبي كعب» begins the next."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "فهو خير » .",
+          "corrected": "فهو خير لك » .",
+          "confidence": 0.5,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "Missing «لك» after the answer to «فالنصف»: Tirmidhi 2457 has «فهو خير لك»; the printed «فهو خير» here occurs nowhere with its context (the same words after «فالثلثين» are attested on dorar.net). Narrowed by the transcriber from the tool's «فهو خير لك قال » .», which put the narrator's «قال» (before «قلت : فالثلثين») inside the Prophet's quoted words. Scan p. 124 checked: printed without «لك». Not ungrammatical, so left for the owner."
+        }
+      ],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry.",
+        "Al-Tirmidhi's verdict «هذا حديث حسن» is printed in bold at the end of the hadith, before the grading; kept in the text.",
+        "Both footnotes are marked (*): the first at the foot of p. 123, the second at the foot of p. 124.",
+        "«دعائي» (twice, footnote 0) is printed as «دعا» plus a final dotless ya with a hamza above (one letter); written «دعائي»."
+      ]
+    },
+    {
+      "number": 189,
+      "book_page": 124,
+      "heading": "فضل الصلاة على النبي ﷺ",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص٥٣٤",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 534
+      },
+      "text": "حدثنا محمد بن عوف حدثنا المقريء حدثنا حيوة عن أبي صخر حميد بن زياد عن يزيد بن عبدالله بن قسيط **عن أبي هريرة أن رسول الله ﷺ قال : « ما من أحد يسلم عليَّ إلا رد الله عليَّ روحي حتى أرد عليه السلام » .**",
+      "grading": "حسن",
+      "takhrij": "وأحمد ٤ / ١٤٤ ، ١٥٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«المقريء» is printed with the hamza after a dotless ya, as «هانيء» on p. 119; «عبدالله» is printed joined.",
+        "The takhrij is printed «(١٨٩) وأحمد ٤ / ١٤٤ ، ١٥٣ .» in full."
+      ]
+    }
+  ]
+}

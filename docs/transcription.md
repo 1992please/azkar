@@ -16,7 +16,7 @@ These rules apply to every chapter. They were agreed with the project owner; cha
 2. **Render** the pages as zoomed strips and read every strip:
    `.venv/bin/python tools/render_pages.py FROM TO --dpi 220 --strips 2`
    Zoom further on small marks, digits in citations, names, and any doubtful word:
-   `.venv/bin/python tools/zoom.py PAGE TOP BOTTOM [--left L --right R]` (fractions of the page; a line is about 0.03 high).
+   `.venv/bin/python tools/zoom.py PAGE TOP BOTTOM [--left L --right R]` (fractions of the page; a line is about 0.03 high). It moves a crop's top and bottom out to the gaps between lines, so a crop shows whole lines with their marks; it prints the edges it used.
    - **Zoom in batches.** Every step re-reads the whole session so far, so many one-crop steps add up to most of a session's cost. While reading a page's strips, note its doubtful spots. Then render them all in one command, `.venv/bin/python tools/zoom.py PAGE --crop TOP BOTTOM [LEFT RIGHT] --crop TOP BOTTOM [LEFT RIGHT] …`, and read all the crops in one step (several Reads at once). Zoom again only on what is still unclear.
    - **Crop narrower for more detail; don't raise the dpi.** The Read tool shows an image at most 2000 px on its longer side, so a wide crop above about 330 dpi is scaled back down and shows nothing more. `zoom.py` picks the highest dpi that is shown in full, so leave out `--dpi`. A crop of one or two words is magnified up to 1600 dpi.
 3. **Write** `content/book/<slug>.json` (format below).
@@ -97,6 +97,7 @@ A correction never changes the printed field; it is stored next to it and applie
 - **score ≥ 0.90** → approved automatically (`decided_by: "auto"`);
 - **score < 0.90** → `proposed`, and the owner is asked.
 - **always asked, whatever the score:** the alternative is attested nowhere in that context; the entry has no matched hadith (its source isn't in the databases, so its chain can't be compared); an attached pronoun is added or dropped outside a name («تطحنه» / «تطحن»), since either form can be grammatical.
+- **in the hadith text, the cited source's wording wins** (the owner's decision, 2026-10-15): when the entry is matched, unambiguously and at least 90%, in the collection the book cites, every difference strictly inside the hadith text that isn't attested elsewhere or a spelling difference is approved automatically, whatever its score and the cases above. Not at the hadith text's start or end, nor next to a quotation mark, Quran bracket, bracket or dash, where the book may shorten the hadith or add an aside, nor when a difference within two words of it doesn't qualify (applied to half a change, it would leave a wording in neither the book nor the source); and the chain of narrators keeps the rules above, since the book shortens chains.
 
 ```json
 { "id": 4, "field": "text", "printed": "ثم استأذن عني", "corrected": "ثم استأخر عني",
@@ -114,5 +115,7 @@ A correction never changes the printed field; it is stored next to it and applie
 **A correction changes only the misprinted word.** If the tool's correction of a name also rewrites the words around it, narrow it to the name and approve it under the names rule with `source: transcriber`, so the tool keeps it; on the rerun the tool classes the rest as variants.
 
 **The owner's answers so far** (the reference for this judgement): all five Adhan questions, scored 68–88%, were approved. They were a pronoun missing from the end of a sentence («أنا» → «أنا هو»), a word cut short that is quoted in full in the same hadith («وأن» → «وأنا»), a narrator's nisba no narration uses, «عن» printed for «بن» inside a chain, and a Companion's kunya missing its first letter («أبي سيد» → «أبي أسيد»). The owner noted that names and grammar mistakes are the easiest to recognise. The scoring now adds +0.10 for names and +0.05 for cut-off words.
+
+Answers of 2026-10-15 (after-prayer, morning-evening, prayer; 11 approved, 4 rejected). **Approved:** one- or two-letter slips even where the printed word can be read grammatically («يقول» → «تقول», «عمل» → «عملا», «جلس» → «حبس», «الناس» → «للناس»); missing words that many narrations have (a repeated «أنت», «كانوا», «بن كعب» after «أُبي», «فبايعه»); a passage printed twice at a page turn; «عبد الله بن عمر» → «عمرو» where the matched hadith is Ibn Amr's. **Rejected:** a missing «كان», a missing second «بين», «ثلاث وثلاثون» → «كلهن ثلاثا وثلاثين» and «ذكر الله» → «ذكره». The owner then decided that the cited source's wording wins in the hadith text (see above); these four stay rejected as answered.
 
 **The review page** lets the owner tick Approve / Reject / Undo and copy the decisions as one line (e.g. `adhan: approve 5 · undo 3`). Apply such a line by setting each correction's `status`, with `decided_by: owner` and the date in `reason`. "Undo" means `status: rejected`.

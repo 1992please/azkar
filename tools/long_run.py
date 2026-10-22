@@ -1,6 +1,6 @@
 """Helpers for tools/long_run.sh: read the Claude usage limits, and sum up a round for the log.
 
-Usage: python tools/long_run.py wait PROBE FIVE_HOUR_START
+Usage: python tools/long_run.py wait PROBE START
        python tools/long_run.py next [PROGRESS]
        python tools/long_run.py report ROUND PROBE PROGRESS_BEFORE
 
@@ -9,9 +9,10 @@ Its rate_limit_event lines give the account's use of the 5-hour and the weekly l
 (0 to 1) and when each resets.
 
 wait prints "SECONDS REASON": how long to wait before the next round may start (0: start now).
-A round doesn't start while the 5-hour window is at FIVE_HOUR_START percent or more, because
-a round cut off by the limit loses the page it was working on. When a limit is reached (the
-5-hour or the weekly one), the next round waits until it resets.
+A round doesn't start while the 5-hour window is at START percent or more, because a round
+cut off by the limit loses the page it was working on (tools/long_run.sh gives transcription
+and review rounds different STARTs). When a limit is reached (the 5-hour or the weekly one),
+the next round waits until it resets.
 
 next prints what the next round will do and on which chapter: "transcribe SLUG", "review SLUG"
 or "none". It picks the chapter as docs/long-run.md tells the round to: the first in the table
@@ -71,8 +72,8 @@ def wait(args: argparse.Namespace) -> None:
     if refused and refused[1] > now:
         waits.append((refused[1], f"the {NAMES.get(refused[0], refused[0])} limit is reached"))
     use, reset = windows.get("five_hour", (None, None))
-    if use is not None and reset and reset > now and use * 100 >= args.five_hour_start:
-        waits.append((reset, f"the 5-hour limit is at {use:.0%} (rounds start below {args.five_hour_start:g}%)"))
+    if use is not None and reset and reset > now and use * 100 >= args.start:
+        waits.append((reset, f"the 5-hour limit is at {use:.0%} (this round starts below {args.start:g}%)"))
     if not waits:
         print("0 go")
         return
@@ -133,7 +134,7 @@ def main() -> None:
     commands = parser.add_subparsers(dest="command", required=True)
     w = commands.add_parser("wait")
     w.add_argument("probe")
-    w.add_argument("five_hour_start", type=float)
+    w.add_argument("start", type=float)
     n = commands.add_parser("next")
     n.add_argument("progress", nargs="?", default=str(PROGRESS))
     r = commands.add_parser("report")

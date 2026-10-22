@@ -16,10 +16,17 @@ For each one:
    asking, as long as the printed word is a real word: a conjunction or
    preposition prefix (و ف ل ب ك), a missing or extra particle (في، من، ثم …),
    a different transmission verb (حدثنا / أخبرني …, or the abbreviation ثنا),
-   a spelling-only difference (إسحاق / إسحق, طاووس / طاوس), or swapped word
+   a spelling-only difference (إسحاق / إسحق, طاووس / طاوس, ألا / أن لا), or swapped word
    order. So is any difference whose alternative has no support beyond the one
    matched database text. Transmission verbs and spelling-only differences are
    kept even when the printed form occurs in no collection.
+   The hadith text is the exception (the owner's decision of 2026-10-15): when
+   the entry is matched, unambiguously and at least 90%, in the collection the
+   book cites, any other difference strictly inside the hadith text is corrected
+   to the cited source's wording, whatever its score and the always-asked cases
+   of step 4. Not at the hadith text's start or end, nor next to a quotation
+   mark, Quran bracket, bracket or dash: there the book may have shortened the
+   hadith or added an aside on purpose.
 3. Otherwise a score estimates how likely the printed wording is a slip. It
    starts from the kind of difference (a slip of one or two letters in one
    word is the typical printing error; a missing, extra or reordered word is
@@ -65,6 +72,8 @@ NAME_BEFORE = {"بن", "ابي", "ابو", "ام", "بنت"}  # a word after the
 TRANSMISSION = {"حدثنا", "حدثني", "اخبرنا", "اخبرني", "انبانا", "انباني", "سمعت", "عن", "قال", "ثنا"}
 SALUTATION_WORDS = [normalize_word(w) for w in "صلى الله عليه وسلم".split()]
 ASK_CAP = 0.85  # the highest score of a correction that is always asked
+CITED_MATCH = 0.90  # the cited source's wording wins only in entries matched at least this closely
+EDGE_MARKS = ("«", "»", "﴿", "﴾", "**", "(", ")", "[", "]", "-")
 DORAR_RETRY = 10  # seconds to wait before trying a failed dorar.net request again
 
 
@@ -105,6 +114,27 @@ def bold_tokens(toks: list[str]) -> set[int]:
         if t.endswith("**"):
             bold = False
     return out
+
+
+def neighbours(cands: list[dict]) -> list[list[dict]]:
+    """The candidates grouped into changes: those at most two tokens apart go together."""
+    groups = []
+    for c in sorted(cands, key=lambda c: c["tokens"]):
+        if groups and c["tokens"][0] - groups[-1][-1]["tokens"][1] <= 2:
+            groups[-1].append(c)
+        else:
+            groups.append([c])
+    return groups
+
+
+def inside_hadith_text(toks: list[str], bold: set[int], t1: int, t2: int) -> bool:
+    """The tokens t1..t2 (empty for a missing word) lie strictly inside the hadith text: bold on both
+    sides, and no quotation mark, Quran bracket, bracket or dash on or next to them. At those edges
+    the book may have shortened the hadith or added an aside, and a missing word's place is unsure
+    (the database marks neither quotations nor Quran verses)."""
+    if t1 < 1 or t2 >= len(toks) or t1 - 1 not in bold or t2 not in bold:
+        return False
+    return not any(mark in toks[t] for t in range(t1 - 1, t2 + 1) for mark in EDGE_MARKS)
 
 
 class Evidence:
@@ -163,6 +193,11 @@ def transmission(w: str) -> bool:
     return w in TRANSMISSION or (w[:1] in ("و", "ف") and w[1:] in TRANSMISSION)
 
 
+def joined(ws: list[str]) -> str:
+    """The words written as one; «أن لا» is written joined as «ألا», its nun assimilated."""
+    return re.sub(r"(?<!\S)ان لا(?!\S)", "الا", " ".join(ws)).replace(" ", "")
+
+
 def form_variant(kind: str, p: list[str], a: list[str]) -> str | None:
     """A short description if both sides are the same word written differently.
 
@@ -170,7 +205,7 @@ def form_variant(kind: str, p: list[str], a: list[str]) -> str | None:
     one edition's spelling, and the chain's abbreviations (ثنا) are rarely in it."""
     if kind == "substitution" and transmission(p[0]) and transmission(a[0]):
         return "a different transmission verb"
-    x, y = "".join(p), "".join(a)
+    x, y = joined(p), joined(a)
     middle = lambda w: w[1:-1].replace("ا", "").replace("وو", "و")
     if x and y and x[0] == y[0] and x[-1] == y[-1] and middle(x) == middle(y):
         return "a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined)"
@@ -178,11 +213,23 @@ def form_variant(kind: str, p: list[str], a: list[str]) -> str | None:
 
 
 def pronoun_suffix(kind: str, p: list[str], a: list[str]) -> bool:
-    """One side is the other with an attached pronoun (تطحنه / تطحن)."""
+    """One side is the other with an attached pronoun (تطحنه / تطحن, يراني / يرى)."""
     if kind != "substitution":
         return False
     x, y = p[0], a[0]
-    return any(x == y + s or y == x + s for s in PRONOUN_SUFFIXES)
+    return any(x in {stem + s for stem in stems(y)} or y in {stem + s for stem in stems(x)}
+               for s in PRONOUN_SUFFIXES)
+
+
+def stems(w: str) -> set[str]:
+    """A normalized word as written before an attached pronoun: a final ى (normalized ي) turns
+    into ا (يرى / يراني) and a final ة (normalized ه) into ت (صلاة / صلاته)."""
+    out = {w}
+    if w.endswith("ي"):
+        out.add(w[:-1] + "ا")
+    if w.endswith("ه"):
+        out.add(w[:-1] + "ت")
+    return out
 
 
 def typical_variant(kind: str, p: list[str], a: list[str]) -> str | None:
@@ -316,7 +363,10 @@ def candidates_for_unmatched(entry: dict, text: str, corpus: Corpus) -> list[dic
 
 
 def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, entry_words: list[str],
-             matched: bool = True) -> None:
+             matched: bool = True, source: str | None = None) -> None:
+    """Decide one candidate. source names the matched hadith (e.g. "bukhari 843") when the entry is
+    matched, unambiguously, in the collection the book cites."""
+    c["cited_wins"] = False
     p, a, left, right = c["printed_words"], c["alternative_words"], c["left"], c["right"]
     t1, t2 = c["tokens"]
     c["nonword"] = any(ev.corpus.freq(w) == 0 for w in p)
@@ -366,12 +416,17 @@ def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, 
         c.update(decision="kept", confidence=0.15,
                  evidence=f"Kept: {form}, a usual difference between editions.")
         return
+    # The owner's decision (2026-10-15): in the hadith text of an entry matched in the collection the book
+    # cites, the cited source's wording is used. The book's wording is attested in no narration (checked
+    # above), so it is most likely a printing slip. Not when dorar.net couldn't be searched, as it might
+    # attest the book's wording. The chain of narrators keeps the rules below: the book shortens chains.
+    cited_wins = bool(source) and inside_hadith_text(toks, bold, t1, t2) and not c.get("dorar_skipped") and strength > 0
     variant = typical_variant(c["kind"], p, a)
-    if not c["nonword"] and variant:
+    if not c["nonword"] and variant and not cited_wins:
         c.update(decision="kept", confidence=0.15,
                  evidence=f"Kept: {variant}, a usual difference between narrations and editions.")
         return
-    if not c["nonword"] and strength <= 1:
+    if not c["nonword"] and strength <= 1 and not cited_wins:
         c.update(decision="kept", confidence=0.15,
                  evidence="Kept: the alternative has no support beyond the one matched database text.")
         return
@@ -379,7 +434,7 @@ def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, 
     in_name = c["kind"] == "substitution" and not transmission(p[0]) and not transmission(a[0]) and \
         (not in_hadith_text or (left and left[-1] in NAME_BEFORE))
     conf = score(c["kind"], p, a, c["nonword"], strength, ocr_confirms, in_name, bool(internal))
-    # Always asked, whatever the score.
+    # Always asked, whatever the score (except where the cited source's wording is used).
     always_ask = []
     if strength == 0:
         always_ask.append("the alternative is attested nowhere in this context")
@@ -387,7 +442,10 @@ def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, 
         always_ask.append("the entry's source isn't in the databases, so its wording can't be compared")
     if pronoun_suffix(c["kind"], p, a) and not in_name:  # a name's ة is normalized to ه
         always_ask.append("an attached pronoun is added or dropped, and either form can be grammatical")
-    if always_ask:
+    if cited_wins:
+        always_ask = []
+        conf = max(conf, THRESHOLD)
+    elif always_ask:
         conf = min(conf, ASK_CAP)
     parts = [f"the printed wording occurs nowhere ({'with ' + str(k) + ' word(s) of context' if k else 'in context'})"]
     if c["nonword"]:
@@ -404,6 +462,9 @@ def evaluate(c: dict, ev: Evidence, toks: list[str], bold: set[int], ocr: dict, 
         parts.append("the OCR confirms the page prints it")
     if always_ask:
         parts.append("asked rather than corrected automatically, because " + " and ".join(always_ask))
+    if cited_wins:
+        parts.append(f"in the hadith text the wording of the cited source ({source}) is used")
+    c["cited_wins"] = cited_wins
     c.update(decision="approve" if conf >= THRESHOLD else "ask", confidence=conf,
              evidence=f"{c['kind'].capitalize()}: " + "; ".join(parts) + ".")
 
@@ -452,11 +513,26 @@ def main() -> None:
         toks = text.split()
         bold = bold_tokens(toks)
         m = matches[e["number"]]["match"]
+        entry_words = words(text)
+        # How closely the matched hadith covers the text without this tool's own corrections (the
+        # match file's containment is measured with them, so it would justify them in a circle).
+        own_pairs, db_words = set(zip(entry_words, entry_words[1:])), words(m["text"]) if m else []
+        containment = len(own_pairs & set(zip(db_words, db_words[1:]))) / len(own_pairs) if m and own_pairs else 0
+        source = f"{m['collection']} {m['number']}" if m and matches[e["number"]]["status"] == "matched" \
+            and containment >= CITED_MATCH else None
         cands = candidates_for_match(e, text, m["text"]) if m else candidates_for_unmatched(e, text, ev.corpus)
         new = []
-        entry_words = words(text)
         for c in cands:
-            evaluate(c, ev, toks, bold, ocr, entry_words, matched=bool(m))
+            evaluate(c, ev, toks, bold, ocr, entry_words, matched=bool(m), source=source)
+        # Differences at most two words apart are one change. The cited source's wording is used only
+        # if it decided every part: applied to part of a change, it would leave a wording that is in
+        # neither the book nor the source (e.g. «لك الحمد ربنا» → «لك الحمد لله ربنا»).
+        for group in neighbours(cands):
+            if any(c.get("cited_wins") for c in group) and not all(c.get("cited_wins") for c in group):
+                for c in group:
+                    if c.get("cited_wins"):
+                        evaluate(c, ev, toks, bold, ocr, entry_words, matched=bool(m), source=None)
+        for c in cands:
             if c["decision"] in ("approve", "ask"):
                 c["printed"], c["corrected"] = correction_strings(c, toks, text)
                 if any(o["field"] == "text" and (c["printed"] in o["printed"] or o["printed"] in c["printed"])

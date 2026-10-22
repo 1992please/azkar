@@ -1,0 +1,82 @@
+[
+  {
+    "entry": 25,
+    "kind": "substitution",
+    "tokens": [
+      34,
+      35
+    ],
+    "printed_words": [
+      "الكلب"
+    ],
+    "alternative_words": [
+      "الكلاب"
+    ],
+    "alternative_tokens": [
+      "الكلاب"
+    ],
+    "left": [
+      "اذا",
+      "سمعتم",
+      "نباح"
+    ],
+    "right": [
+      "ونهيق",
+      "الحمار",
+      "بالليل"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 3,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
+  },
+  {
+    "entry": 25,
+    "kind": "substitution",
+    "tokens": [
+      36,
+      37
+    ],
+    "printed_words": [
+      "الحمار"
+    ],
+    "alternative_words": [
+      "الحمر"
+    ],
+    "alternative_tokens": [
+      "الحمر"
+    ],
+    "left": [
+      "نباح",
+      "الكلب",
+      "ونهيق"
+    ],
+    "right": [
+      "بالليل",
+      "فتعوذوا",
+      "بالله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
+  }
+]

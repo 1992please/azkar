@@ -1,0 +1,4792 @@
+[
+  {
+    "entry": 460,
+    "kind": "extra",
+    "tokens": [
+      4,
+      6
+    ],
+    "printed_words": [
+      "بن",
+      "عيينه"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "قتيبه",
+      "حدثنا",
+      "سفيان"
+    ],
+    "right": [
+      "عن",
+      "سليمان",
+      "الاحول"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 460,
+    "kind": "substitution",
+    "tokens": [
+      47,
+      48
+    ],
+    "printed_words": [
+      "نزاع"
+    ],
+    "alternative_words": [
+      "تنازع"
+    ],
+    "alternative_tokens": [
+      "تنازع"
+    ],
+    "left": [
+      "ينبغي",
+      "عند",
+      "نبي"
+    ],
+    "right": [
+      "فقالوا",
+      "ما",
+      "شانه"
+    ],
+    "cited_wins": false,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 4,
+      "ocr_confirms_printed": true
+    },
+    "decision": "ask",
+    "confidence": 0.73,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "نزاع",
+    "corrected": "تنازع"
+  },
+  {
+    "entry": 460,
+    "kind": "other",
+    "tokens": [
+      67,
+      70
+    ],
+    "printed_words": [
+      "من",
+      "الذي",
+      "تدعونني"
+    ],
+    "alternative_words": [
+      "مما",
+      "تدعوني"
+    ],
+    "alternative_tokens": [
+      "مما",
+      "تدعوني"
+    ],
+    "left": [
+      "انا",
+      "فيه",
+      "خير"
+    ],
+    "right": [
+      "اليه",
+      "واوصاهم",
+      "بثلاث"
+    ],
+    "cited_wins": false,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "ask",
+    "confidence": 0.63,
+    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "من الذي تدعونني",
+    "corrected": "مما تدعوني"
+  },
+  {
+    "entry": 461,
+    "kind": "other",
+    "tokens": [
+      35,
+      38
+    ],
+    "printed_words": [
+      "ولا",
+      "والله",
+      "ولا"
+    ],
+    "alternative_words": [
+      "لا"
+    ],
+    "alternative_tokens": [
+      "لا"
+    ],
+    "left": [
+      "عليها",
+      "السلام",
+      "تمشي"
+    ],
+    "right": [
+      "والله",
+      "ما",
+      "تخفي"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6285) is used.",
+    "printed": "ولا والله ولا",
+    "corrected": "لا"
+  },
+  {
+    "entry": 461,
+    "kind": "substitution",
+    "tokens": [
+      50,
+      51
+    ],
+    "printed_words": [
+      "وقال"
+    ],
+    "alternative_words": [
+      "قال"
+    ],
+    "alternative_tokens": [
+      "قال"
+    ],
+    "left": [
+      "فلما",
+      "راها",
+      "رحب"
+    ],
+    "right": [
+      "مرحبا",
+      "بابنتي",
+      "ثم"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
+  },
+  {
+    "entry": 461,
+    "kind": "substitution",
+    "tokens": [
+      67,
+      68
+    ],
+    "printed_words": [
+      "بكاا"
+    ],
+    "alternative_words": [
+      "بكا"
+    ],
+    "alternative_tokens": [
+      "بكاء"
+    ],
+    "left": [
+      "ثم",
+      "سارها",
+      "فبكت"
+    ],
+    "right": [
+      "شديدا",
+      "فلما",
+      "راي"
+    ],
+    "cited_wins": false,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
+  },
+  {
+    "entry": 461,
+    "kind": "other",
+    "tokens": [
+      74,
+      76
+    ],
+    "printed_words": [
+      "ثانيه",
+      "فاذا"
+    ],
+    "alternative_words": [
+      "الثانيه",
+      "اذا"
+    ],
+    "alternative_tokens": [
+      "الثانية",
+      "إذا"
+    ],
+    "left": [
+      "راي",
+      "حزنها",
+      "سارها"
+    ],
+    "right": [
+      "هي",
+      "تضحك",
+      "فقلت"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6285) is used.",
+    "printed": "ثانية فإذا",
+    "corrected": "الثانية إذا"
+  },
+  {
+    "entry": 461,
+    "kind": "substitution",
+    "tokens": [
+      140,
+      141
+    ],
+    "printed_words": [
+      "فقالت"
+    ],
+    "alternative_words": [
+      "قالت"
+    ],
+    "alternative_tokens": [
+      "قالت"
+    ],
+    "left": [
+      "الان",
+      "فنعم",
+      "فاخبرتني"
+    ],
+    "right": [
+      "اما",
+      "حين",
+      "سارني"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6285) is used.",
+    "printed": "فقالت",
+    "corrected": "قالت"
+  },
+  {
+    "entry": 461,
+    "kind": "substitution",
+    "tokens": [
+      169,
+      170
+    ],
+    "printed_words": [
+      "وقد"
+    ],
+    "alternative_words": [
+      "قد"
+    ],
+    "alternative_tokens": [
+      "قد"
+    ],
+    "left": [
+      "اري",
+      "الاجل",
+      "الا"
+    ],
+    "right": [
+      "اقترب",
+      "فاتقي",
+      "الله"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6285) is used.",
+    "printed": "وقد",
+    "corrected": "قد"
+  },
+  {
+    "entry": 461,
+    "kind": "missing",
+    "tokens": [
+      180,
+      180
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "قالت"
+    ],
+    "alternative_tokens": [
+      "قالت"
+    ],
+    "left": [
+      "السلف",
+      "انا",
+      "لك"
+    ],
+    "right": [
+      "فبكيت",
+      "بكايي",
+      "الذي"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": false
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 2 on dorar.net; in the hadith text the wording of the cited source (bukhari 6285) is used.",
+    "printed": "لك فبكيت",
+    "corrected": "لك قالت فبكيت"
+  },
+  {
+    "entry": 462,
+    "kind": "substitution",
+    "tokens": [
+      35,
+      36
+    ],
+    "printed_words": [
+      "يقول"
+    ],
+    "alternative_words": [
+      "يقولا"
+    ],
+    "alternative_tokens": [
+      "يقولا"
+    ],
+    "left": [
+      "ابا",
+      "سعيد",
+      "الخدري"
+    ],
+    "right": [
+      "قال",
+      "رسول",
+      "الله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 29,
+      "context_words": 1,
+      "alternative_in_collections": 0,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (29 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 462,
+    "kind": "other",
+    "tokens": [
+      51,
+      52
+    ],
+    "printed_words": [
+      "وحدثناه"
+    ],
+    "alternative_words": [
+      "و",
+      "حدثناه"
+    ],
+    "alternative_tokens": [
+      "و",
+      "حدثناه"
+    ],
+    "left": [
+      "اله",
+      "الا",
+      "الله"
+    ],
+    "right": [
+      "قتيبه",
+      "بن",
+      "سعيد"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 0,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
+  },
+  {
+    "entry": 462,
+    "kind": "other",
+    "tokens": [
+      61,
+      62
+    ],
+    "printed_words": [
+      "وحدثنا"
+    ],
+    "alternative_words": [
+      "و",
+      "حدثنا"
+    ],
+    "alternative_tokens": [
+      "و",
+      "حدثنا"
+    ],
+    "left": [
+      "يعني",
+      "الدراوردي",
+      "ح"
+    ],
+    "right": [
+      "ابو",
+      "بكر",
+      "بن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 277,
+      "context_words": 1,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (277 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 463,
+    "kind": "substitution",
+    "tokens": [
+      0,
+      1
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "وحدثنا"
+    ],
+    "alternative_tokens": [
+      "وحدثنا"
+    ],
+    "left": [],
+    "right": [
+      "ابو",
+      "بكر",
+      "وعثمان"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 5,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (5 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 464,
+    "kind": "missing",
+    "tokens": [
+      39,
+      39
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "لا"
+    ],
+    "alternative_tokens": [
+      "لا"
+    ],
+    "left": [
+      "ام",
+      "عم",
+      "فقال"
+    ],
+    "right": [
+      "بل",
+      "خال",
+      "قال"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 1,
+      "alternative_on_dorar": 3,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 1 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 464,
+    "kind": "substitution",
+    "tokens": [
+      55,
+      56
+    ],
+    "printed_words": [
+      "قال"
+    ],
+    "alternative_words": [
+      "فقال"
+    ],
+    "alternative_tokens": [
+      "فقال"
+    ],
+    "left": [
+      "اله",
+      "الا",
+      "الله"
+    ],
+    "right": [
+      "النبي",
+      "صلي",
+      "الله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 4,
+      "alternative_on_dorar": 11,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 4 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 465,
+    "kind": "missing",
+    "tokens": [
+      32,
+      32
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "ابي"
+    ],
+    "alternative_tokens": [
+      "أبي"
+    ],
+    "left": [
+      "وعبد",
+      "الله",
+      "بن"
+    ],
+    "right": [
+      "اميه",
+      "بن",
+      "المغيره"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 12,
+      "ocr_confirms_printed": false
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 12 on dorar.net; in the hadith text the wording of the cited source (bukhari 4772) is used.",
+    "printed": "الله بن أمية بن",
+    "corrected": "الله بن أبي أمية بن"
+  },
+  {
+    "entry": 465,
+    "kind": "missing",
+    "tokens": [
+      60,
+      60
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "ابي"
+    ],
+    "alternative_tokens": [
+      "أبي"
+    ],
+    "left": [
+      "وعبد",
+      "الله",
+      "بن"
+    ],
+    "right": [
+      "اميه",
+      "اترغب",
+      "عن"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 4,
+      "ocr_confirms_printed": false
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; in the hadith text the wording of the cited source (bukhari 4772) is used.",
+    "printed": "الله بن أمية :",
+    "corrected": "الله بن أبي أمية :"
+  },
+  {
+    "entry": 465,
+    "kind": "missing",
+    "tokens": [
+      102,
+      102
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "والله"
+    ],
+    "alternative_tokens": [
+      "والله"
+    ],
+    "left": [
+      "الله",
+      "عليه",
+      "وسلم"
+    ],
+    "right": [
+      "لاستغفرن",
+      "لك",
+      "ما"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 4,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (4 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 466,
+    "kind": "substitution",
+    "tokens": [
+      56,
+      57
+    ],
+    "printed_words": [
+      "الله"
+    ],
+    "alternative_words": [
+      "له"
+    ],
+    "alternative_tokens": [
+      "له"
+    ],
+    "left": [
+      "وجه",
+      "الله",
+      "ختم"
+    ],
+    "right": [
+      "بها",
+      "دخل",
+      "الجنه"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 11,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.91,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 11 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 22235) is used.",
+    "printed": "ختم الله بها",
+    "corrected": "ختم له بها"
+  },
+  {
+    "entry": 467,
+    "kind": "substitution",
+    "tokens": [
+      45,
+      46
+    ],
+    "printed_words": [
+      "وعليه"
+    ],
+    "alternative_words": [
+      "عليه"
+    ],
+    "alternative_tokens": [
+      "عليه"
+    ],
+    "left": [
+      "وسلم",
+      "وهو",
+      "نايم"
+    ],
+    "right": [
+      "ثوب",
+      "ابيض",
+      "ثم"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 94.02) is used.",
+    "printed": "وعليه",
+    "corrected": "عليه"
+  },
+  {
+    "entry": 467,
+    "kind": "substitution",
+    "tokens": [
+      130,
+      131
+    ],
+    "printed_words": [
+      "قلت"
+    ],
+    "alternative_words": [
+      "قال"
+    ],
+    "alternative_tokens": [
+      "قال"
+    ],
+    "left": [
+      "انف",
+      "ابي",
+      "ذر"
+    ],
+    "right": [
+      "فخرج",
+      "ابو",
+      "ذر"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 5,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 94.02) is used.",
+    "printed": "» . قلت : فخرج",
+    "corrected": "» . قال : فخرج"
+  },
+  {
+    "entry": 468,
+    "kind": "substitution",
+    "tokens": [
+      20,
+      21
+    ],
+    "printed_words": [
+      "عمر"
+    ],
+    "alternative_words": [
+      "عمرو"
+    ],
+    "alternative_tokens": [
+      "عمرو"
+    ],
+    "left": [
+      "مليكه",
+      "ان",
+      "ابا"
+    ],
+    "right": [
+      "ذكوان",
+      "مولي",
+      "عايشه"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.93,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it.",
+    "printed": "أبا عمر ذكوان",
+    "corrected": "أبا عمرو ذكوان"
+  },
+  {
+    "entry": 468,
+    "kind": "substitution",
+    "tokens": [
+      45,
+      46
+    ],
+    "printed_words": [
+      "بين"
+    ],
+    "alternative_words": [
+      "وبين"
+    ],
+    "alternative_tokens": [
+      "وبين"
+    ],
+    "left": [
+      "بيتي",
+      "وفي",
+      "يومي"
+    ],
+    "right": [
+      "سحري",
+      "ونحري",
+      "وان"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 6,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.96,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 6 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4449) is used.",
+    "printed": "يومي بين سحري",
+    "corrected": "يومي وبين سحري"
+  },
+  {
+    "entry": 468,
+    "kind": "extra",
+    "tokens": [
+      107,
+      108
+    ],
+    "printed_words": [
+      "فامره"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "ان",
+      "نعم",
+      "فلينته"
+    ],
+    "right": [
+      "وبين",
+      "يديه",
+      "ركوه"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 1,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 1 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 468,
+    "kind": "substitution",
+    "tokens": [
+      128,
+      129
+    ],
+    "printed_words": [
+      "بها"
+    ],
+    "alternative_words": [
+      "بهما"
+    ],
+    "alternative_tokens": [
+      "بهما"
+    ],
+    "left": [
+      "في",
+      "الما",
+      "فيمسح"
+    ],
+    "right": [
+      "وجهه",
+      "يقول",
+      "لا"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4449) is used.",
+    "printed": "بها",
+    "corrected": "بهما"
+  },
+  {
+    "entry": 470,
+    "kind": "extra",
+    "tokens": [
+      122,
+      123
+    ],
+    "printed_words": [
+      "له"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "يخطبني",
+      "له",
+      "فقلت"
+    ],
+    "right": [
+      "ان",
+      "لي",
+      "بنتا"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 918.01) is used.",
+    "printed": "فقلت له :",
+    "corrected": "فقلت :"
+  },
+  {
+    "entry": 470,
+    "kind": "substitution",
+    "tokens": [
+      145,
+      146
+    ],
+    "printed_words": [
+      "الغيره"
+    ],
+    "alternative_words": [
+      "بالغيره"
+    ],
+    "alternative_tokens": [
+      "بالغيرة"
+    ],
+    "left": [
+      "الله",
+      "ان",
+      "يذهب"
+    ],
+    "right": [],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a conjunction or preposition prefix, a usual difference between narrations and editions."
+  },
+  {
+    "entry": 471,
+    "kind": "missing",
+    "tokens": [
+      30,
+      30
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "المريض",
+      "او"
+    ],
+    "alternative_tokens": [
+      "المريض",
+      "أو"
+    ],
+    "left": [
+      "وسلم",
+      "اذا",
+      "حضرتم"
+    ],
+    "right": [
+      "الميت",
+      "فقولوا",
+      "خيرا"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 471,
+    "kind": "substitution",
+    "tokens": [
+      62,
+      63
+    ],
+    "printed_words": [
+      "فقولي"
+    ],
+    "alternative_words": [
+      "قولي"
+    ],
+    "alternative_tokens": [
+      "قولي"
+    ],
+    "left": [
+      "قد",
+      "مات",
+      "قال"
+    ],
+    "right": [
+      "اللهم",
+      "اغفر",
+      "لي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 1,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 1 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 471,
+    "kind": "substitution",
+    "tokens": [
+      71,
+      72
+    ],
+    "printed_words": [
+      "عقبه"
+    ],
+    "alternative_words": [
+      "عقبي"
+    ],
+    "alternative_tokens": [
+      "عقبى"
+    ],
+    "left": [
+      "وله",
+      "واعقبني",
+      "منه"
+    ],
+    "right": [
+      "حسنه",
+      "قالت",
+      "فقلت"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 4,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.91,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "عقبة",
+    "corrected": "عقبى"
+  },
+  {
+    "entry": 471,
+    "kind": "missing",
+    "tokens": [
+      80,
+      80
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "الله"
+    ],
+    "alternative_tokens": [
+      "الله"
+    ],
+    "left": [
+      "قالت",
+      "فقلت",
+      "فاعقبني"
+    ],
+    "right": [
+      "من",
+      "هو",
+      "خير"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": false
+    },
+    "decision": "ask",
+    "confidence": 0.65,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net.",
+    "printed": "فأعقبني من",
+    "corrected": "فأعقبني الله من"
+  },
+  {
+    "entry": 471,
+    "kind": "substitution",
+    "tokens": [
+      85,
+      86
+    ],
+    "printed_words": [
+      "محمد"
+    ],
+    "alternative_words": [
+      "محمدا"
+    ],
+    "alternative_tokens": [
+      "محمدا"
+    ],
+    "left": [
+      "خير",
+      "لي",
+      "منه"
+    ],
+    "right": [
+      "صلي",
+      "الله",
+      "عليه"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "ask",
+    "confidence": 0.88,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "محمد",
+    "corrected": "محمدا"
+  },
+  {
+    "entry": 472,
+    "kind": "substitution",
+    "tokens": [
+      0,
+      1
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "حدثني"
+    ],
+    "alternative_tokens": [
+      "حدثني"
+    ],
+    "left": [],
+    "right": [
+      "زهير",
+      "بن",
+      "حرب"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 148,
+      "context_words": 3,
+      "alternative_in_collections": 126,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (148 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 474,
+    "kind": "substitution",
+    "tokens": [
+      37,
+      38
+    ],
+    "printed_words": [
+      "فاتنا"
+    ],
+    "alternative_words": [
+      "فايتنا"
+    ],
+    "alternative_tokens": [
+      "فائتنا"
+    ],
+    "left": [
+      "ابنا",
+      "لي",
+      "قبض"
+    ],
+    "right": [
+      "فارسل",
+      "يقري",
+      "السلام"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 1,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 1 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 474,
+    "kind": "substitution",
+    "tokens": [
+      87,
+      88
+    ],
+    "printed_words": [
+      "ورجاله"
+    ],
+    "alternative_words": [
+      "ورجال"
+    ],
+    "alternative_tokens": [
+      "ورجال"
+    ],
+    "left": [
+      "وزيد",
+      "بن",
+      "ثابت"
+    ],
+    "right": [
+      "فرفع",
+      "الي",
+      "رسول"
+    ],
+    "cited_wins": true,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.98,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1284) is used.",
+    "printed": "ورجاله",
+    "corrected": "ورجال"
+  },
+  {
+    "entry": 474,
+    "kind": "substitution",
+    "tokens": [
+      105,
+      106
+    ],
+    "printed_words": [
+      "كانه"
+    ],
+    "alternative_words": [
+      "كانها"
+    ],
+    "alternative_tokens": [
+      "كأنها"
+    ],
+    "left": [
+      "حسبته",
+      "انه",
+      "قال"
+    ],
+    "right": [
+      "شن",
+      "ففاضت",
+      "عيناه"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1284) is used.",
+    "printed": "كأنه",
+    "corrected": "كأنها"
+  },
+  {
+    "entry": 475,
+    "kind": "other",
+    "tokens": [
+      36,
+      37
+    ],
+    "printed_words": [
+      "وان"
+    ],
+    "alternative_words": [
+      "وقال",
+      "فان"
+    ],
+    "alternative_tokens": [
+      "وقال",
+      "فإن"
+    ],
+    "left": [
+      "زيد",
+      "بن",
+      "حارثه"
+    ],
+    "right": [
+      "قتل",
+      "زيد",
+      "او"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 2,
+      "alternative_on_dorar": 5,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 475,
+    "kind": "other",
+    "tokens": [
+      190,
+      191
+    ],
+    "printed_words": [
+      "الي"
+    ],
+    "alternative_words": [
+      "ادعوا",
+      "لي"
+    ],
+    "alternative_tokens": [
+      "ادعوا",
+      "لي"
+    ],
+    "left": [
+      "اليوم",
+      "او",
+      "غد"
+    ],
+    "right": [
+      "ابني",
+      "اخي",
+      "قال"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 1,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 1 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 475,
+    "kind": "substitution",
+    "tokens": [
+      202,
+      203
+    ],
+    "printed_words": [
+      "ادعو"
+    ],
+    "alternative_words": [
+      "ادعوا"
+    ],
+    "alternative_tokens": [
+      "ادعوا"
+    ],
+    "left": [
+      "كانا",
+      "افرخ",
+      "فقال"
+    ],
+    "right": [
+      "الي",
+      "الحلاق",
+      "فجي"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 1659) is used.",
+    "printed": "ادعو",
+    "corrected": "ادعوا"
+  },
+  {
+    "entry": 475,
+    "kind": "substitution",
+    "tokens": [
+      210,
+      211
+    ],
+    "printed_words": [
+      "رووسنا"
+    ],
+    "alternative_words": [
+      "روسنا"
+    ],
+    "alternative_tokens": [
+      "رءوسنا"
+    ],
+    "left": [
+      "فجي",
+      "بالحلاق",
+      "فحلق"
+    ],
+    "right": [
+      "ثم",
+      "قال",
+      "اما"
+    ],
+    "cited_wins": false,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 9,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 9 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 475,
+    "kind": "substitution",
+    "tokens": [
+      252,
+      253
+    ],
+    "printed_words": [
+      "مرات"
+    ],
+    "alternative_words": [
+      "مرار"
+    ],
+    "alternative_tokens": [
+      "مرار"
+    ],
+    "left": [
+      "يمينه",
+      "قالها",
+      "ثلاث"
+    ],
+    "right": [
+      "قال",
+      "فجات",
+      "امنا"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 1659) is used.",
+    "printed": "مرات",
+    "corrected": "مرار"
+  },
+  {
+    "entry": 476,
+    "kind": "missing",
+    "tokens": [
+      51,
+      51
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "باب"
+    ],
+    "alternative_tokens": [
+      "باب"
+    ],
+    "left": [
+      "عليه",
+      "وسلم",
+      "فاتت"
+    ],
+    "right": [
+      "النبي",
+      "صلي",
+      "الله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 2,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 478,
+    "kind": "missing",
+    "tokens": [
+      76,
+      76
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "وانت"
+    ],
+    "alternative_tokens": [
+      "وأنت"
+    ],
+    "left": [
+      "رضي",
+      "الله",
+      "عنه"
+    ],
+    "right": [
+      "يا",
+      "رسول",
+      "الله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 8,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (8 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 478,
+    "kind": "substitution",
+    "tokens": [
+      87,
+      88
+    ],
+    "printed_words": [
+      "انه"
+    ],
+    "alternative_words": [
+      "انها"
+    ],
+    "alternative_tokens": [
+      "إنها"
+    ],
+    "left": [
+      "يا",
+      "بن",
+      "عوف"
+    ],
+    "right": [
+      "رحمه",
+      "ثم",
+      "اتبعها"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1303) is used.",
+    "printed": "إنه",
+    "corrected": "إنها"
+  },
+  {
+    "entry": 480,
+    "kind": "substitution",
+    "tokens": [
+      57,
+      58
+    ],
+    "printed_words": [
+      "وجده"
+    ],
+    "alternative_words": [
+      "فوجده"
+    ],
+    "alternative_tokens": [
+      "فوجده"
+    ],
+    "left": [
+      "فلما",
+      "دخل",
+      "عليه"
+    ],
+    "right": [
+      "في",
+      "غاشيه",
+      "اهله"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1304) is used.",
+    "printed": "وجده",
+    "corrected": "فوجده"
+  },
+  {
+    "entry": 480,
+    "kind": "other",
+    "tokens": [
+      109,
+      110
+    ],
+    "printed_words": [
+      "بلسانه"
+    ],
+    "alternative_words": [
+      "الي",
+      "لسانه"
+    ],
+    "alternative_tokens": [
+      "إلى",
+      "لسانه"
+    ],
+    "left": [
+      "يعذب",
+      "بهذا",
+      "واشار"
+    ],
+    "right": [
+      "او",
+      "يرحم",
+      "وان"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 5,
+      "ocr_confirms_printed": true
+    },
+    "decision": "ask",
+    "confidence": 0.53,
+    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "بلسانه",
+    "corrected": "إلى لسانه"
+  },
+  {
+    "entry": 481,
+    "kind": "substitution",
+    "tokens": [
+      161,
+      162
+    ],
+    "printed_words": [
+      "بامير"
+    ],
+    "alternative_words": [
+      "امير"
+    ],
+    "alternative_tokens": [
+      "أمير"
+    ],
+    "left": [
+      "فقلت",
+      "ارتحل",
+      "فالحق"
+    ],
+    "right": [
+      "المومنين",
+      "فلما",
+      "اصيب"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 3,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1286) is used.",
+    "printed": "بأمير",
+    "corrected": "أمير"
+  },
+  {
+    "entry": 481,
+    "kind": "substitution",
+    "tokens": [
+      277,
+      278
+    ],
+    "printed_words": [
+      "عنه"
+    ],
+    "alternative_words": [
+      "عنهما"
+    ],
+    "alternative_tokens": [
+      "عنهما"
+    ],
+    "left": [
+      "عباس",
+      "رضي",
+      "الله"
+    ],
+    "right": [
+      "عند",
+      "ذلك",
+      "والله"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.96,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1286) is used.",
+    "printed": "الله عنه عند",
+    "corrected": "الله عنهما عند"
+  },
+  {
+    "entry": 482,
+    "kind": "missing",
+    "tokens": [
+      32,
+      32
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "انما"
+    ],
+    "alternative_tokens": [
+      "إنما"
+    ],
+    "left": [
+      "عليه",
+      "وسلم",
+      "قالت"
+    ],
+    "right": [
+      "مر",
+      "رسول",
+      "الله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 482,
+    "kind": "substitution",
+    "tokens": [
+      47,
+      48
+    ],
+    "printed_words": [
+      "يكون"
+    ],
+    "alternative_words": [
+      "ليبكون"
+    ],
+    "alternative_tokens": [
+      "ليبكون"
+    ],
+    "left": [
+      "اهلها",
+      "فقال",
+      "انهم"
+    ],
+    "right": [
+      "عليها",
+      "وانها",
+      "لتعذب"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 10,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.91,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 10 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1289) is used.",
+    "printed": "يكون",
+    "corrected": "ليبكون"
+  },
+  {
+    "entry": 483,
+    "kind": "extra",
+    "tokens": [
+      4,
+      5
+    ],
+    "printed_words": [
+      "قال"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "بشر",
+      "بن",
+      "محمد"
+    ],
+    "right": [
+      "اخبرنا",
+      "عبد",
+      "الله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 3,
+      "context_words": 3,
+      "alternative_in_collections": 17,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (3 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 483,
+    "kind": "missing",
+    "tokens": [
+      21,
+      21
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "رضي",
+      "الله",
+      "عنها"
+    ],
+    "alternative_tokens": [
+      "رضى",
+      "الله",
+      "عنها"
+    ],
+    "left": [
+      "سلمه",
+      "ان",
+      "عايشه"
+    ],
+    "right": [
+      "زوج",
+      "النبي",
+      "صلي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "ask",
+    "confidence": 0.45,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net.",
+    "printed": "**عائشة زوج",
+    "corrected": "**عائشة رضى الله عنها زوج"
+  },
+  {
+    "entry": 483,
+    "kind": "other",
+    "tokens": [
+      48,
+      49
+    ],
+    "printed_words": [
+      "دخل"
+    ],
+    "alternative_words": [
+      "نزل",
+      "فدخل"
+    ],
+    "alternative_tokens": [
+      "نزل",
+      "فدخل"
+    ],
+    "left": [
+      "يكلم",
+      "الناس",
+      "حتي"
+    ],
+    "right": [
+      "علي",
+      "عايشه",
+      "رضي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 3,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 3 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 483,
+    "kind": "extra",
+    "tokens": [
+      79,
+      80
+    ],
+    "printed_words": [
+      "وامي"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "فقال",
+      "بابي",
+      "انت"
+    ],
+    "right": [
+      "يا",
+      "نبي",
+      "الله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 2,
+      "alternative_on_dorar": 4,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 483,
+    "kind": "extra",
+    "tokens": [
+      123,
+      124
+    ],
+    "printed_words": [
+      "له"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "يكلم",
+      "الناس",
+      "فقال"
+    ],
+    "right": [
+      "اجلس",
+      "فابي",
+      "فقال"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "ask",
+    "confidence": 0.63,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "فقال له :",
+    "corrected": "فقال :"
+  },
+  {
+    "entry": 483,
+    "kind": "other",
+    "tokens": [
+      207,
+      212
+    ],
+    "printed_words": [
+      "ال",
+      "عمران",
+      "فوالله"
+    ],
+    "alternative_words": [
+      "والله"
+    ],
+    "alternative_tokens": [
+      "والله"
+    ],
+    "left": [
+      "وسيجزي",
+      "الله",
+      "الشاكرين"
+    ],
+    "right": [
+      "لكان",
+      "الناس",
+      "لم"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "ask",
+    "confidence": 0.45,
+    "evidence": "Other: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net.",
+    "printed": "آل عمران ١٤٤ ، فوالله",
+    "corrected": "والله"
+  },
+  {
+    "entry": 484,
+    "kind": "missing",
+    "tokens": [
+      45,
+      45
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "سعيد",
+      "حدثنا"
+    ],
+    "alternative_tokens": [
+      "سعيد",
+      "حدثنا"
+    ],
+    "left": [
+      "بن",
+      "زريع",
+      "حدثنا"
+    ],
+    "right": [
+      "قتاده",
+      "وقال",
+      "ادم"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 485,
+    "kind": "other",
+    "tokens": [
+      19,
+      21
+    ],
+    "printed_words": [
+      "رسول",
+      "الله"
+    ],
+    "alternative_words": [
+      "النبي"
+    ],
+    "alternative_tokens": [
+      "النبي"
+    ],
+    "left": [
+      "عنه",
+      "قال",
+      "سمعت"
+    ],
+    "right": [
+      "صلي",
+      "الله",
+      "عليه"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 42,
+      "context_words": 3,
+      "alternative_in_collections": 28,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (42 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 485,
+    "kind": "extra",
+    "tokens": [
+      36,
+      37
+    ],
+    "printed_words": [
+      "عامدا"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "من",
+      "كذب",
+      "علي"
+    ],
+    "right": [
+      "متعمدا",
+      "فليتبوا",
+      "مقعده"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 45,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 15,
+      "ocr_confirms_printed": true
+    },
+    "decision": "ask",
+    "confidence": 0.66,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 45 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "عامدا",
+    "corrected": ""
+  },
+  {
+    "entry": 486,
+    "kind": "missing",
+    "tokens": [
+      38,
+      38
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "عنه"
+    ],
+    "alternative_tokens": [
+      "عنه"
+    ],
+    "left": [
+      "وجهه",
+      "ابكي",
+      "وينهوني"
+    ],
+    "right": [
+      "والنبي",
+      "صلي",
+      "الله"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": false
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 1244) is used.",
+    "printed": "وينهوني ،",
+    "corrected": "وينهوني عنه ،"
+  },
+  {
+    "entry": 486,
+    "kind": "substitution",
+    "tokens": [
+      62,
+      63
+    ],
+    "printed_words": [
+      "تظلله"
+    ],
+    "alternative_words": [
+      "تظله"
+    ],
+    "alternative_tokens": [
+      "تظله"
+    ],
+    "left": [
+      "ما",
+      "زالت",
+      "الملايكه"
+    ],
+    "right": [
+      "باجنحتها",
+      "حتي",
+      "رفعتموه"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 10,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.91,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 10 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1244) is used.",
+    "printed": "تظلله",
+    "corrected": "تظله"
+  },
+  {
+    "entry": 489,
+    "kind": "other",
+    "tokens": [
+      68,
+      69
+    ],
+    "printed_words": [
+      "والنايحه"
+    ],
+    "alternative_words": [
+      "وقال",
+      "النايحه"
+    ],
+    "alternative_tokens": [
+      "وقال",
+      "النائحة"
+    ],
+    "left": [
+      "والاستسقا",
+      "بالنجوم",
+      "والنياحه"
+    ],
+    "right": [
+      "اذا",
+      "لم",
+      "تتب"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 490,
+    "kind": "substitution",
+    "tokens": [
+      37,
+      38
+    ],
+    "printed_words": [
+      "خمسه"
+    ],
+    "alternative_words": [
+      "خمس"
+    ],
+    "alternative_tokens": [
+      "خمس"
+    ],
+    "left": [
+      "منا",
+      "امراه",
+      "غير"
+    ],
+    "right": [
+      "نسوه",
+      "ام",
+      "سليم"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1306) is used.",
+    "printed": "خمسة",
+    "corrected": "خمس"
+  },
+  {
+    "entry": 492,
+    "kind": "substitution",
+    "tokens": [
+      37,
+      38
+    ],
+    "printed_words": [
+      "به"
+    ],
+    "alternative_words": [
+      "بهم"
+    ],
+    "alternative_tokens": [
+      "بهم"
+    ],
+    "left": [
+      "الله",
+      "عنه",
+      "فمرت"
+    ],
+    "right": [
+      "جنازه",
+      "فاثني",
+      "علي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 3,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (3 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 493,
+    "kind": "missing",
+    "tokens": [
+      38,
+      38
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "عن",
+      "الاعمش"
+    ],
+    "alternative_tokens": [
+      "عن",
+      "الأعمش"
+    ],
+    "left": [
+      "بن",
+      "عبد",
+      "القدوس"
+    ],
+    "right": [
+      "ومحمد",
+      "بن",
+      "انس"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 494,
+    "kind": "missing",
+    "tokens": [
+      10,
+      10
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "قال"
+    ],
+    "alternative_tokens": [
+      "قال"
+    ],
+    "left": [
+      "ابي",
+      "حدثنا",
+      "الاعمش"
+    ],
+    "right": [
+      "حدثني",
+      "عمرو",
+      "بن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 2,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (2 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 497,
+    "kind": "missing",
+    "tokens": [
+      3,
+      3
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "حدثنا",
+      "عبد",
+      "الوارث"
+    ],
+    "alternative_tokens": [
+      "حدثنا",
+      "عبد",
+      "الوارث"
+    ],
+    "left": [
+      "حدثنا",
+      "ابو",
+      "معمر"
+    ],
+    "right": [
+      "حدثنا",
+      "ايوب",
+      "عن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 10,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "ask",
+    "confidence": 0.53,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 10 time(s) in the collections.",
+    "printed": "معمر حدثنا",
+    "corrected": "معمر حدثنا عبد الوارث حدثنا"
+  },
+  {
+    "entry": 498,
+    "kind": "substitution",
+    "tokens": [
+      12,
+      13
+    ],
+    "printed_words": [
+      "شمير"
+    ],
+    "alternative_words": [
+      "سمير"
+    ],
+    "alternative_tokens": [
+      "سمير"
+    ],
+    "left": [
+      "عن",
+      "خالد",
+      "بن"
+    ],
+    "right": [
+      "قال",
+      "قدم",
+      "علينا"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.98,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it.",
+    "printed": "شمير",
+    "corrected": "سمير"
+  },
+  {
+    "entry": 498,
+    "kind": "extra",
+    "tokens": [
+      237,
+      238
+    ],
+    "printed_words": [
+      "ثانيه"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "عبد",
+      "الرحمن",
+      "مره"
+    ],
+    "right": [
+      "فانتصر",
+      "به",
+      "فيوميذ"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 3,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 21509) is used.",
+    "printed": "ثانية",
+    "corrected": ""
+  },
+  {
+    "entry": 499,
+    "kind": "substitution",
+    "tokens": [
+      0,
+      1
+    ],
+    "printed_words": [
+      "حدثني"
+    ],
+    "alternative_words": [
+      "وحدثني"
+    ],
+    "alternative_tokens": [
+      "وحدثني"
+    ],
+    "left": [],
+    "right": [
+      "ابو",
+      "الطاهر",
+      "وحرمله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 19,
+      "context_words": 3,
+      "alternative_in_collections": 41,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (19 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 500,
+    "kind": "substitution",
+    "tokens": [
+      35,
+      36
+    ],
+    "printed_words": [
+      "تصلي"
+    ],
+    "alternative_words": [
+      "يصلي"
+    ],
+    "alternative_tokens": [
+      "يصلي"
+    ],
+    "left": [
+      "ما",
+      "من",
+      "ميت"
+    ],
+    "right": [
+      "عليه",
+      "امه",
+      "من"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 5,
+      "printed_on_dorar": 1,
+      "alternative_on_dorar": 13,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 1 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 501,
+    "kind": "extra",
+    "tokens": [
+      109,
+      110
+    ],
+    "printed_words": [
+      "عن"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "معروف",
+      "عن",
+      "شريك"
+    ],
+    "right": [
+      "بن",
+      "ابي",
+      "نمر"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a extra particle, a usual difference between narrations and editions."
+  },
+  {
+    "entry": 504,
+    "kind": "substitution",
+    "tokens": [
+      11,
+      12
+    ],
+    "printed_words": [
+      "قال"
+    ],
+    "alternative_words": [
+      "قالا"
+    ],
+    "alternative_tokens": [
+      "قالا"
+    ],
+    "left": [
+      "عباد",
+      "واللفظ",
+      "ليحيي"
+    ],
+    "right": [
+      "حدثنا",
+      "مروان",
+      "بن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 505,
+    "kind": "missing",
+    "tokens": [
+      10,
+      10
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "حدثني",
+      "الليث"
+    ],
+    "alternative_tokens": [
+      "حدثني",
+      "الليث"
+    ],
+    "left": [
+      "عقيل",
+      "وقال",
+      "غيره"
+    ],
+    "right": [
+      "حدثني",
+      "عقيل",
+      "عن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 505,
+    "kind": "substitution",
+    "tokens": [
+      109,
+      110
+    ],
+    "printed_words": [
+      "بها"
+    ],
+    "alternative_words": [
+      "عليها"
+    ],
+    "alternative_tokens": [
+      "عليها"
+    ],
+    "left": [
+      "يغفر",
+      "له",
+      "لزدت"
+    ],
+    "right": [
+      "قال",
+      "فصلي",
+      "عليه"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "ask",
+    "confidence": 0.63,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "بها",
+    "corrected": "عليها"
+  },
+  {
+    "entry": 506,
+    "kind": "substitution",
+    "tokens": [
+      0,
+      1
+    ],
+    "printed_words": [
+      "حدثني"
+    ],
+    "alternative_words": [
+      "حدثنا"
+    ],
+    "alternative_tokens": [
+      "حدثنا"
+    ],
+    "left": [],
+    "right": [
+      "عبيد",
+      "بن",
+      "اسماعيل"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 14,
+      "context_words": 3,
+      "alternative_in_collections": 37,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (14 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 506,
+    "kind": "extra",
+    "tokens": [
+      24,
+      26
+    ],
+    "printed_words": [
+      "بن",
+      "ابي"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "توفي",
+      "عبد",
+      "الله"
+    ],
+    "right": [
+      "جا",
+      "ابنه",
+      "عبد"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 506,
+    "kind": "extra",
+    "tokens": [
+      55,
+      56
+    ],
+    "printed_words": [
+      "عليه"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "عليه",
+      "وسلم",
+      "ليصلي"
+    ],
+    "right": [
+      "فقام",
+      "عمر",
+      "فاخذ"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 2,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (2 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 506,
+    "kind": "substitution",
+    "tokens": [
+      68,
+      69
+    ],
+    "printed_words": [
+      "اتصلي"
+    ],
+    "alternative_words": [
+      "تصلي"
+    ],
+    "alternative_tokens": [
+      "تصلي"
+    ],
+    "left": [
+      "يا",
+      "رسول",
+      "الله"
+    ],
+    "right": [
+      "عليه",
+      "وقد",
+      "نهاك"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 2,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (2 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 507,
+    "kind": "extra",
+    "tokens": [
+      14,
+      15
+    ],
+    "printed_words": [
+      "قال"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "قتاده",
+      "عن",
+      "ابيه"
+    ],
+    "right": [
+      "كان",
+      "رسول",
+      "الله"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 8,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (8 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 507,
+    "kind": "substitution",
+    "tokens": [
+      45,
+      46
+    ],
+    "printed_words": [
+      "وحدثناه"
+    ],
+    "alternative_words": [
+      "حدثنا"
+    ],
+    "alternative_tokens": [
+      "حدثنا"
+    ],
+    "left": [
+      "ولم",
+      "يصل",
+      "عليها"
+    ],
+    "right": [
+      "ابو",
+      "النضر",
+      "حدثنا"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 508,
+    "kind": "substitution",
+    "tokens": [
+      101,
+      102
+    ],
+    "printed_words": [
+      "فقال"
+    ],
+    "alternative_words": [
+      "قال"
+    ],
+    "alternative_tokens": [
+      "قال"
+    ],
+    "left": [
+      "فقالوا",
+      "صل",
+      "عليها"
+    ],
+    "right": [
+      "هل",
+      "ترك",
+      "شييا"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 5,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
+  },
+  {
+    "entry": 508,
+    "kind": "substitution",
+    "tokens": [
+      109,
+      110
+    ],
+    "printed_words": [
+      "قالو"
+    ],
+    "alternative_words": [
+      "قالوا"
+    ],
+    "alternative_tokens": [
+      "قالوا"
+    ],
+    "left": [
+      "هل",
+      "ترك",
+      "شييا"
+    ],
+    "right": [
+      "لا",
+      "فقال",
+      "هل"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 10,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.96,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 10 time(s) in the collections and 0 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it.",
+    "printed": "» قالو :",
+    "corrected": "» قالوا :"
+  },
+  {
+    "entry": 508,
+    "kind": "other",
+    "tokens": [
+      112,
+      116
+    ],
+    "printed_words": [
+      "فقال",
+      "هل"
+    ],
+    "alternative_words": [
+      "قال",
+      "فهل"
+    ],
+    "alternative_tokens": [
+      "قال",
+      "فهل"
+    ],
+    "left": [
+      "شييا",
+      "قالو",
+      "لا"
+    ],
+    "right": [
+      "عليه",
+      "دين",
+      "قالوا"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 509,
+    "kind": "substitution",
+    "tokens": [
+      10,
+      11
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "عن"
+    ],
+    "alternative_tokens": [
+      "عن"
+    ],
+    "left": [
+      "قالا",
+      "حدثنا",
+      "زايده"
+    ],
+    "right": [
+      "عبد",
+      "الله",
+      "بن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 2,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (2 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 509,
+    "kind": "extra",
+    "tokens": [
+      19,
+      22
+    ],
+    "printed_words": [
+      "بن",
+      "عبد",
+      "الله"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "عقيل",
+      "عن",
+      "جابر"
+    ],
+    "right": [
+      "قال",
+      "توفي",
+      "رجل"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 14009) is used.",
+    "printed": "ابن عبد الله",
+    "corrected": ""
+  },
+  {
+    "entry": 509,
+    "kind": "substitution",
+    "tokens": [
+      41,
+      42
+    ],
+    "printed_words": [
+      "خطوه"
+    ],
+    "alternative_words": [
+      "خطي"
+    ],
+    "alternative_tokens": [
+      "خطى"
+    ],
+    "left": [
+      "تصلي",
+      "عليه",
+      "فخطا"
+    ],
+    "right": [
+      "ثم",
+      "قال",
+      "اعليه"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 6,
+      "alternative_on_dorar": 4,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 6 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 512,
+    "kind": "substitution",
+    "tokens": [
+      83,
+      84
+    ],
+    "printed_words": [
+      "يعم"
+    ],
+    "alternative_words": [
+      "يقم"
+    ],
+    "alternative_tokens": [
+      "يقم"
+    ],
+    "left": [
+      "بقيع",
+      "الغرقد",
+      "ولم"
+    ],
+    "right": [
+      "قتيبه",
+      "قوله",
+      "واتاكم"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 3,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 974.01) is used.",
+    "printed": "يُعم",
+    "corrected": "يقم"
+  },
+  {
+    "entry": 513,
+    "kind": "substitution",
+    "tokens": [
+      52,
+      53
+    ],
+    "printed_words": [
+      "ان"
+    ],
+    "alternative_words": [
+      "انا"
+    ],
+    "alternative_tokens": [
+      "أنا"
+    ],
+    "left": [
+      "بكم",
+      "لاحقون",
+      "وددت"
+    ],
+    "right": [
+      "قد",
+      "راينا",
+      "اخواننا"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 5,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 249.01) is used.",
+    "printed": "وددت أن قد",
+    "corrected": "وددت أنا قد"
+  },
+  {
+    "entry": 513,
+    "kind": "other",
+    "tokens": [
+      59,
+      61
+    ],
+    "printed_words": [
+      "او",
+      "لسنا"
+    ],
+    "alternative_words": [
+      "اولسنا"
+    ],
+    "alternative_tokens": [
+      "أولسنا"
+    ],
+    "left": [
+      "راينا",
+      "اخواننا",
+      "قالوا"
+    ],
+    "right": [
+      "اخوانك",
+      "يا",
+      "رسول"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 2,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
+  },
+  {
+    "entry": 513,
+    "kind": "missing",
+    "tokens": [
+      147,
+      147
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "قد"
+    ],
+    "alternative_tokens": [
+      "قد"
+    ],
+    "left": [
+      "هلم",
+      "فيقال",
+      "انهم"
+    ],
+    "right": [
+      "بدلوا",
+      "بعدك",
+      "فاقول"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 515,
+    "kind": "missing",
+    "tokens": [
+      37,
+      37
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "لاصحاب",
+      "الحجر"
+    ],
+    "alternative_tokens": [
+      "لأصحاب",
+      "الحجر"
+    ],
+    "left": [
+      "الله",
+      "عليه",
+      "وسلم"
+    ],
+    "right": [
+      "لا",
+      "تدخلوا",
+      "علي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 5,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (5 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 516,
+    "kind": "substitution",
+    "tokens": [
+      72,
+      73
+    ],
+    "printed_words": [
+      "مشرك"
+    ],
+    "alternative_words": [
+      "كافر"
+    ],
+    "alternative_tokens": [
+      "كافر"
+    ],
+    "left": [
+      "حيثما",
+      "مررت",
+      "بقبر"
+    ],
+    "right": [
+      "فبشره",
+      "بالنار",
+      "قال"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 2,
+      "alternative_on_dorar": 13,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 517,
+    "kind": "substitution",
+    "tokens": [
+      38,
+      39
+    ],
+    "printed_words": [
+      "ينكث"
+    ],
+    "alternative_words": [
+      "ينكت"
+    ],
+    "alternative_tokens": [
+      "ينكت"
+    ],
+    "left": [
+      "مخصره",
+      "فنكس",
+      "فجعل"
+    ],
+    "right": [
+      "بمخصرته",
+      "ثم",
+      "قال"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 3,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 3,
+      "ocr_confirms_printed": false
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 3 on dorar.net; in the hadith text the wording of the cited source (bukhari 1362) is used.",
+    "printed": "ينكث",
+    "corrected": "ينكت"
+  },
+  {
+    "entry": 517,
+    "kind": "substitution",
+    "tokens": [
+      61,
+      62
+    ],
+    "printed_words": [
+      "كتبت"
+    ],
+    "alternative_words": [
+      "كتب"
+    ],
+    "alternative_tokens": [
+      "كتب"
+    ],
+    "left": [
+      "والنار",
+      "والا",
+      "قد"
+    ],
+    "right": [
+      "شقيه",
+      "او",
+      "سعيده"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 518,
+    "kind": "substitution",
+    "tokens": [
+      21,
+      22
+    ],
+    "printed_words": [
+      "وحدثنا"
+    ],
+    "alternative_words": [
+      "حدثنا"
+    ],
+    "alternative_tokens": [
+      "حدثنا"
+    ],
+    "left": [
+      "رضي",
+      "الله",
+      "عنهما"
+    ],
+    "right": [
+      "محمد",
+      "بن",
+      "كثير"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
+  },
+  {
+    "entry": 518,
+    "kind": "substitution",
+    "tokens": [
+      55,
+      56
+    ],
+    "printed_words": [
+      "لتعلموا"
+    ],
+    "alternative_words": [
+      "ليعلموا"
+    ],
+    "alternative_tokens": [
+      "ليعلموا"
+    ],
+    "left": [
+      "بفاتحه",
+      "الكتاب",
+      "قال"
+    ],
+    "right": [
+      "انها",
+      "سنه"
+    ],
+    "cited_wins": true,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.93,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1335) is used.",
+    "printed": "لتعلموا",
+    "corrected": "ليعلموا"
+  },
+  {
+    "entry": 519,
+    "kind": "substitution",
+    "tokens": [
+      0,
+      1
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "حدثني"
+    ],
+    "alternative_tokens": [
+      "حدثني"
+    ],
+    "left": [],
+    "right": [
+      "عبد",
+      "الله",
+      "بن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 3184,
+      "context_words": 3,
+      "alternative_in_collections": 453,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (3184 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 519,
+    "kind": "extra",
+    "tokens": [
+      8,
+      10
+    ],
+    "printed_words": [
+      "بن",
+      "هارون"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "شيبه",
+      "حدثنا",
+      "يزيد"
+    ],
+    "right": [
+      "عن",
+      "سليم",
+      "بن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 521,
+    "kind": "substitution",
+    "tokens": [
+      0,
+      1
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "وحدثنا"
+    ],
+    "alternative_tokens": [
+      "وحدثنا"
+    ],
+    "left": [],
+    "right": [
+      "ابو",
+      "بكر",
+      "بن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1908,
+      "context_words": 3,
+      "alternative_in_collections": 487,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1908 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 522,
+    "kind": "unknown",
+    "tokens": [
+      50,
+      51
+    ],
+    "printed_words": [
+      "التكبيرات"
+    ],
+    "left": [
+      "للميت",
+      "في"
+    ],
+    "right": [
+      "لا",
+      "يقرا"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 523,
+    "kind": "substitution",
+    "tokens": [
+      0,
+      1
+    ],
+    "printed_words": [
+      "حدثني"
+    ],
+    "alternative_words": [
+      "وحدثني"
+    ],
+    "alternative_tokens": [
+      "وحدثني"
+    ],
+    "left": [],
+    "right": [
+      "هارون",
+      "بن",
+      "سعيد"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 22,
+      "context_words": 3,
+      "alternative_in_collections": 37,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (22 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 523,
+    "kind": "missing",
+    "tokens": [
+      79,
+      79
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "وادخله",
+      "الجنه"
+    ],
+    "alternative_tokens": [
+      "وأدخله",
+      "الجنة"
+    ],
+    "left": [
+      "خيرا",
+      "من",
+      "زوجه"
+    ],
+    "right": [
+      "واعذه",
+      "من",
+      "عذاب"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": false
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (muslim 2232) is used.",
+    "printed": "زوجه وأعذه",
+    "corrected": "زوجه وأدخله الجنة وأعذه"
+  },
+  {
+    "entry": 523,
+    "kind": "missing",
+    "tokens": [
+      95,
+      95
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "انا"
+    ],
+    "alternative_tokens": [
+      "أنا"
+    ],
+    "left": [
+      "تمنيت",
+      "ان",
+      "اكون"
+    ],
+    "right": [
+      "ذلك",
+      "الميت",
+      "قال"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 2,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 524,
+    "kind": "substitution",
+    "tokens": [
+      4,
+      5
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "اخبرنا"
+    ],
+    "alternative_tokens": [
+      "أخبرنا"
+    ],
+    "left": [
+      "علي",
+      "بن",
+      "حجر"
+    ],
+    "right": [
+      "هقل",
+      "بن",
+      "زياد"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
+  },
+  {
+    "entry": 524,
+    "kind": "substitution",
+    "tokens": [
+      8,
+      9
+    ],
+    "printed_words": [
+      "اخبرنا"
+    ],
+    "alternative_words": [
+      "حدثنا"
+    ],
+    "alternative_tokens": [
+      "حدثنا"
+    ],
+    "left": [
+      "هقل",
+      "بن",
+      "زياد"
+    ],
+    "right": [
+      "الاوزاعي",
+      "عن",
+      "يحيي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
+  },
+  {
+    "entry": 524,
+    "kind": "extra",
+    "tokens": [
+      15,
+      16
+    ],
+    "printed_words": [
+      "قال"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "بن",
+      "ابي",
+      "كثير"
+    ],
+    "right": [
+      "حدثني",
+      "ابو",
+      "ابراهيم"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 525,
+    "kind": "substitution",
+    "tokens": [
+      2,
+      3
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "اخبرنا"
+    ],
+    "alternative_tokens": [
+      "أخبرنا"
+    ],
+    "left": [
+      "حدثنا",
+      "يزيد"
+    ],
+    "right": [
+      "همام",
+      "بن",
+      "يحيي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 3,
+      "context_words": 3,
+      "alternative_in_collections": 14,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (3 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 525,
+    "kind": "missing",
+    "tokens": [
+      11,
+      11
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "هو"
+    ],
+    "alternative_tokens": [
+      "هو"
+    ],
+    "left": [
+      "عن",
+      "ابي",
+      "الصديق"
+    ],
+    "right": [
+      "الناجي",
+      "عن",
+      "بن"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 6,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (6 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 526,
+    "kind": "substitution",
+    "tokens": [
+      11,
+      12
+    ],
+    "printed_words": [
+      "بجير"
+    ],
+    "alternative_words": [
+      "بحير"
+    ],
+    "alternative_tokens": [
+      "بحير"
+    ],
+    "left": [
+      "عبد",
+      "الله",
+      "بن"
+    ],
+    "right": [
+      "عن",
+      "هاني",
+      "مولي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "owner-decided",
+    "confidence": 0.93,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it.",
+    "printed": "بجير",
+    "corrected": "بحير"
+  },
+  {
+    "entry": 526,
+    "kind": "missing",
+    "tokens": [
+      15,
+      15
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "عثمان",
+      "عن"
+    ],
+    "alternative_tokens": [
+      "عثمان",
+      "عن"
+    ],
+    "left": [
+      "عن",
+      "هاني",
+      "مولي"
+    ],
+    "right": [
+      "عثمان",
+      "بن",
+      "عفان"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; in the hadith text the wording of the cited source (abudawud 3221) is used.",
+    "printed": "مولى عثمان",
+    "corrected": "مولى عثمان عن عثمان"
+  },
+  {
+    "entry": 526,
+    "kind": "extra",
+    "tokens": [
+      49,
+      50
+    ],
+    "printed_words": [
+      "هو"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "ابو",
+      "داود",
+      "بحير"
+    ],
+    "right": [
+      "بن",
+      "ريسان"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 527,
+    "kind": "extra",
+    "tokens": [
+      38,
+      39
+    ],
+    "printed_words": [
+      "من"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "عليه",
+      "وسلم",
+      "اكثروا"
+    ],
+    "right": [
+      "ذكر",
+      "هاذم",
+      "اللذات"
+    ],
+    "cited_wins": true,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 4,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 4 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (nasai 1824) is used.",
+    "printed": "من",
+    "corrected": ""
+  },
+  {
+    "entry": 530,
+    "kind": "other",
+    "tokens": [
+      8,
+      9
+    ],
+    "printed_words": [
+      "قال"
+    ],
+    "alternative_words": [
+      "المعني",
+      "قالا"
+    ],
+    "alternative_tokens": [
+      "المعنى",
+      "قالا"
+    ],
+    "left": [
+      "بن",
+      "مكي",
+      "المروزي"
+    ],
+    "right": [
+      "حدثنا",
+      "بن",
+      "المبارك"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 531,
+    "kind": "unknown",
+    "tokens": [
+      59,
+      60
+    ],
+    "printed_words": [
+      "بموتانا"
+    ],
+    "left": [
+      "ان",
+      "نصنع"
+    ],
+    "right": [
+      "امرنا",
+      "رسول"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 531,
+    "kind": "unknown",
+    "tokens": [
+      73,
+      74
+    ],
+    "printed_words": [
+      "فسويتم"
+    ],
+    "left": [
+      "من",
+      "اخوانكم"
+    ],
+    "right": [
+      "التراب",
+      "علي"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 531,
+    "kind": "unknown",
+    "tokens": [
+      109,
+      110
+    ],
+    "printed_words": [
+      "ارشدنا"
+    ],
+    "left": [
+      "فانه",
+      "يقول"
+    ],
+    "right": [
+      "رحمك",
+      "الله"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 531,
+    "kind": "unknown",
+    "tokens": [
+      140,
+      141
+    ],
+    "printed_words": [
+      "وبالقران"
+    ],
+    "left": [
+      "وبمحمد",
+      "نبيا"
+    ],
+    "right": [
+      "اماما",
+      "فان"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 531,
+    "kind": "unknown",
+    "tokens": [
+      144,
+      145
+    ],
+    "printed_words": [
+      "ونكير"
+    ],
+    "left": [
+      "فان",
+      "منكر"
+    ],
+    "right": [
+      "ياخذ",
+      "واحد"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 531,
+    "kind": "unknown",
+    "tokens": [
+      179,
+      180
+    ],
+    "printed_words": [
+      "فينسبه"
+    ],
+    "left": [
+      "امه",
+      "قال"
+    ],
+    "right": [
+      "الي",
+      "حوا"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 532,
+    "kind": "missing",
+    "tokens": [
+      23,
+      23
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "عنه"
+    ],
+    "alternative_tokens": [
+      "عنه"
+    ],
+    "left": [
+      "مات",
+      "الانسان",
+      "انقطع"
+    ],
+    "right": [
+      "عمله",
+      "الا",
+      "من"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 2,
+      "context_words": 3,
+      "alternative_in_collections": 4,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (2 in the collections, 0 on dorar.net), so it is a genuine variant."
+  }
+]

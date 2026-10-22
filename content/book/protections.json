@@ -124,40 +124,40 @@
           "field": "text",
           "printed": "وقلت له :",
           "corrected": "وقلت :",
-          "confidence": 0.63,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it."
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used."
         },
         {
           "id": 2,
           "field": "text",
           "printed": "فرصدته فجعل يحثو",
           "corrected": "فرصدته فجاء يحثو",
-          "confidence": 0.88,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it."
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used."
         },
         {
           "id": 3,
           "field": "text",
           "printed": "الثالثة فجعل يحثو",
           "corrected": "الثالثة فجاء يحثو",
-          "confidence": 0.88,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it."
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used."
         },
         {
           "id": 4,
           "field": "text",
           "printed": "فقلت له :",
           "corrected": "فقلت :",
-          "confidence": 0.66,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 4 time(s) in the collections and 8 on dorar.net; the OCR confirms the page prints it."
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 4 time(s) in the collections and 8 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used."
         },
         {
           "id": 5,
@@ -170,14 +170,24 @@
           "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net."
         },
         {
+          "id": 12,
+          "field": "text",
+          "printed": "بها الله",
+          "corrected": "الله بها",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Order: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used."
+        },
+        {
           "id": 6,
           "field": "text",
           "printed": "مذ",
           "corrected": "منذ",
-          "confidence": 0.88,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it."
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used."
         }
       ],
       "transcriber_notes": [
@@ -224,7 +234,18 @@
       "grading": "حسن",
       "takhrij": "وأخرجه الترمذي ج٨ ص١٨٠ وقال : حسن صحيح . وأحمد ٢ / ٢٨٤ ، ٣٣٧ ، ٣٦٧ ، ٣٧٨ ، ٣٨٨ ، وعزاه المزي للنسائيّ .",
       "footnotes": [],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 13,
+          "field": "text",
+          "printed": "بسورة",
+          "corrected": "سورة",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 12 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 780) is used."
+        }
+      ],
       "transcriber_notes": [
         "Runs over pp. 106–107. «تقرأ فيه بسورة البقرة» is printed with «بسورة» (dot under the «ب», checked at 1200 dpi), kept as printed."
       ]
@@ -405,10 +426,10 @@
           "field": "text",
           "printed": "بين",
           "corrected": "بيني وبين",
-          "confidence": 0.53,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2203.01) is used."
         }
       ],
       "transcriber_notes": [
@@ -451,7 +472,18 @@
       "grading": "صحيح",
       "takhrij": "ورواه مسلم ج١٤ ص١٥٦ ، ج٢ ص٨٣٥ ، وأبو داود ج٥ ص٢٦٧ ، وابن ماجه ١٧٧٩ ، وأحمد ٦ / ٣٣٧ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
       "footnotes": [],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 14,
+          "field": "text",
+          "printed": "إلى",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2035) is used."
+        }
+      ],
       "transcriber_notes": [
         "«حتى إذا بلغت باب المسجد مر رجلان» is printed so, with nothing between «المسجد» and «مر» (checked at 500 dpi); kept as printed.",
         "«رضي الله عنهما» after «علي بن الحسين» is printed in the regular type of the chain; the bold starts at «أن صفية».",

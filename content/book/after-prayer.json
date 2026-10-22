@@ -104,9 +104,9 @@
           "printed": "ثلاث وثلاثون",
           "corrected": "كلهن ثلاثا وثلاثين",
           "confidence": 0.48,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it. Rejected by the owner on 2026-10-15."
         }
       ],
       "transcriber_notes": [
@@ -141,6 +141,16 @@
           "decided_by": "auto",
           "source": "transcriber",
           "reason": "Transcriber's judgment: a narrator's name. «عتام» (two dots, checked at 800 dpi) exists nowhere in the collections; the narrator is «عثام بن علي», as in the matched Tirmidhi 3486. The tool proposed «أخبرنا عتام» → «بصري حدثنا عثام», which also adds the previous narrator's nisba and changes the transmission verb, both usual narration variants; narrowed to the name."
+        },
+        {
+          "id": 14,
+          "field": "text",
+          "printed": "بيده",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (tirmidhi 3486) is used."
         }
       ],
       "transcriber_notes": [
@@ -208,7 +218,18 @@
       "grading": "صحيح",
       "takhrij": "وأخرجه أحمد ٤ / ٢٥١ ، وابن حبان في موارد الظمآن رقم ٢٣٤٠ .",
       "footnotes": [],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 15,
+          "field": "text",
+          "printed": "اجعلوا",
+          "corrected": "واجعلوا",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 9 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (nasai 1350) is used."
+        }
+      ],
       "transcriber_notes": [
         "The heading is printed «٥ -حديث زيد بن ثابت», the dash attached to «حديث»; written with spaces.",
         "«أُمروا» has a damma over the hamza and «يُسبحوا» a damma on the «ي» (checked at 470–940 dpi); the other verbs have no marks.",
@@ -278,10 +299,10 @@
           "printed": "الحسن لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير لا حول ولا قوة إلا بالله لا إله إلا الله ولا نعبد إلا إياه له النعمة وله الفضل وله الثناء الحسن لا إله إلا الله مخلصين",
           "corrected": "الحسن لا إله إلا الله مخلصين",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "Repeated at the page turn: p. 82 ends «… وله الثناء الحسن لا إله إلا الله» and p. 83 starts again from «وحده لا شريك له», so the dhikr from «وحده» to «لا إله إلا الله» is printed twice. The matched Muslim 594 has it once: vocalize.py finds no database match for 39 of the entry's words, almost all of them the 38 repeated ones. The repetition is grammatical, so it is left for the owner."
+          "reason": "Repeated at the page turn: p. 82 ends «… وله الثناء الحسن لا إله إلا الله» and p. 83 starts again from «وحده لا شريك له», so the dhikr from «وحده» to «لا إله إلا الله» is printed twice. The matched Muslim 594 has it once: vocalize.py finds no database match for 39 of the entry's words, almost all of them the 38 repeated ones. The repetition is grammatical, so it is left for the owner. Approved by the owner on 2026-10-15."
         }
       ],
       "transcriber_notes": [
@@ -442,9 +463,9 @@
           "printed": "أنه **سمع",
           "corrected": "أنه كان **سمع",
           "confidence": 0.6,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net. Rejected by the owner on 2026-10-15."
         }
       ],
       "transcriber_notes": [
@@ -551,10 +572,10 @@
           "printed": "عبد الله بن عمر رضي",
           "corrected": "عبد الله بن عمرو رضي",
           "confidence": 0.75,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "The page prints «عبد الله بن عمر» (no final «و», checked at 1600 dpi), but the matched Bukhari 1045 (93%) narrates this hadith from «عبد الله بن عمرو». misprints.py keeps the book because «عبد الله بن عمر» (Ibn Umar) is a common name, but this changes which Companion narrates, so it is left for the owner. The same final «و» is missing from «عمرو» in entries 115 and 128."
+          "reason": "The page prints «عبد الله بن عمر» (no final «و», checked at 1600 dpi), but the matched Bukhari 1045 (93%) narrates this hadith from «عبد الله بن عمرو». misprints.py keeps the book because «عبد الله بن عمر» (Ibn Umar) is a common name, but this changes which Companion narrates, so it is left for the owner. The same final «و» is missing from «عمرو» in entries 115 and 128. Approved by the owner on 2026-10-15."
         },
         {
           "id": 7,
@@ -596,9 +617,9 @@
           "printed": "ذكر الله",
           "corrected": "ذكره",
           "confidence": 0.56,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; the OCR confirms the page prints it. Rejected by the owner on 2026-10-15."
         }
       ],
       "transcriber_notes": [
@@ -650,7 +671,7 @@
           "confidence": 0.95,
           "status": "approved",
           "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 2 on dorar.net."
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 2 on dorar.net; in the hadith text the wording of the cited source (bukhari 1047) is used."
         }
       ],
       "transcriber_notes": [

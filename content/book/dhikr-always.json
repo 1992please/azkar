@@ -1,0 +1,54 @@
+{
+  "chapter": "باب الذكر على كل حال",
+  "book_pages": [
+    9,
+    10
+  ],
+  "notes": [
+    "The footnote text at the foot of p. 9 («= وكذلك القولان …» to «… مدارك السالكين أيضا ج٢ ص٢٨٣ .») continues a footnote of the previous chapter (urging-dhikr) and is transcribed there.",
+    "p. 9: the first verse prints «السمٰوات» with a small upright alif, the second «السموات» without; kept as printed. Zoomed on the verses, the citation line, the chain and the footnotes of p. 10.",
+    "p. 11 begins the next chapter (باب فضل الذكر), so this chapter ends on p. 10.",
+    "Review: both OCR flags are OCR misreads, checked on the scan: «البهي» (entry 1, p. 10) is printed so, and «النساء ١٠٣ .» (p. 9) is printed so (the OCR matched it to «لسان» in the previous chapter's footnote). Misprints: no candidates."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 9,
+      "heading": "باب الذكر على كل حال",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **إن فى خلق السمٰوات والأرض واختلاف الليل والنهار لآيات لأولى الألباب . الذين يذكرون الله قياما وقعودا وعلى جنوبهم ويتفكرون فى خلق السموات والأرض ربنا ما خلقت هذا باطلا سبحانك فقنا عذاب النار** ﴾ آل عمران ١٩٠-١٩١ .\n\nوقال سبحانه : ﴿ **فإذا قضيتم الصلاة فاذكروا الله قياما وقعودا وعلى جنوبكم فإذا اطمأننتم فأقيموا الصلاة إن الصلاة كانت على المؤمنين كتابا موقوتا** ﴾ النساء ١٠٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verse-end mark between verses 190 and 191 is written as « . »."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 1,
+      "book_page": 10,
+      "heading": "باب الذكر على كل حال",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٤ ص٦٨ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 68,
+        "edition": "نووي"
+      },
+      "text": "حدثنا أبو كريب محمد بن العلاء وإبراهيم بن موسى قالا : حدثنا ابن أبي زائدة عن أبيه عن خالد بن سلمة عن البهي عن عروة **عن عائشة قالت : كان النبي ﷺ يذكر الله على كل أحيانه .**",
+      "grading": "حسن",
+      "takhrij": "ورواه البخاري معلقا ج١ ص٤٠٧ ، ج٢ ص١١٤ فتح ، وأبو داود ج١ ص٢٤ ، وابن ماجه رقم ٣٠٢ ، والترمذي ج٩ ص٣٢٥ وقال : حسن غريب ، وأبو عوانة ج١ ص٢١٧ ، وأحمد ٦ / ٧٠ ، ١٥٣ ، والبيهقي ١ / ٩٠ . وابن أبي زائدة هنا هو يحيى بن زكريا ابن أبي زائدة وهو ثقة متقن ، وأبوه ثقة مدلس لكنه قد صرح بالتحديث عند أحمد ٦ / ٢٧٨ . والبهي هو عبد الله وهو صدوق يخطىء . والحديث ذكره ابن أبي حاتم فى العلل ١ / ٥١ حديث رقم ١٢٤ ، فقال : سألت أبا زرعة عن حديث خالد بن سلمة عن البهي عن عروة عن عائشة قالت : كان النبي ﷺ يذكر الله على كل أحيانه . فقال ليس بذاك هو حديث لا يروى إلا من ذا الوجه . فذكرت قول أبي زرعة لأبي رحمه الله ، فقال : الذي أرى أن يذكر الله على كل حال على الكنيف وغيره على هذا الحديث .",
+      "footnotes": [
+        "(*) [على «عن أبيه» و«حسن»] على رأي من يقبل عنعنات الصحيحين وهما ابن الصلاح والنووي ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The page prints the marker (*) twice, after «أبيه» in the chain and after the grading «حسن», but only one (*) footnote; it is anchored to both.",
+        "The Muslim citation is Nawawi's commentary, volume 4 page 68."
+      ]
+    }
+  ]
+}

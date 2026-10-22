@@ -1,0 +1,255 @@
+{
+  "chapter": "باب الدعوات",
+  "book_pages": [
+    188,
+    193
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "p. 193 holds the end of entry 299, then the next chapter «باب تعميم الدعاء» (entry 300 onwards), which is not part of this chapter.",
+    "p. 188: the small verse-end circle printed after «المعتدين» inside the A'raf quotation is not transcribed (no character for it in the conventions).",
+    "Review: all 17 OCR flags checked on the sheets; every one is an OCR misreading («النبدي», «حي», «عبادق», «أني», «سألم», «لاتطيقه», «مولقا», «فا», «هم», «النبي» for «النهي», …), and the transcription stands. The nine `unknown` words of entry 297 (Hakim, not in the databases) were checked on the p. 191 scan and are printed as transcribed: «وأوحينا», «متبعون», «كعجوز», «حكمي» twice, «حكمها» twice, «مستنقعة», «أنضبوا» twice."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 188,
+      "heading": "الحث على الدعاء والأمر به وبيان أنه من العبادة",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **وقال ربكم ادعونى أستجب لكم إن الذين يستكبرون عن عبادتى سيدخلون جهنم داخرين** ﴾ غافر . قال تعالى : ﴿ **وإذا سألك عبادى عنى فإنى قريب أجيب دعوة الداع إذا دعان فليستجيبوا لى وليؤمنوا بى لعلهم يرشدون** ﴾ البقرة . قال الله تعالى : ﴿ **ادعوا ربكم تضرعا وخفية إنه لا يحب المعتدين ولا تفسدوا فى الأرض بعد إصلاحها وادعوه خوفا وطمعا إن رحمت الله قريب من المحسنين** ﴾ الأعراف .",
+      "footnotes": [
+        "(*) [على «من المحسنين»] قال ابن القيم رحمه الله تعالى في تفسيره القيم ص ٢٤٠ عند تفسيره لهاتين الآيتين : هاتان الآيتان مشتملتان على آداب نوعي الدعاء : دعاء العبادة ودعاء المسألة ، فإن الدعاء في القرآن يراد به هذا تارة وهذا تارة ويراد به مجموعهما وهما متلازمان . فإن دعاء المسألة هو طلب ما ينفع الداعي ، وطلب كشف ما يضره أو دفعه ومن يملك الضر والنفع فإنه هو المعبود حقا ، والمعبود لابد أن يكون مالكا للنفع والضر ، ثم شرع رحمه الله في الكلام على هذين النوعين - دعاء المسألة ودعاء العبادة - كلاما قيما جدا وفي غاية الأهمية وكذلك تكلم على الخوف والطمع في الآيتين بما فيه الكفاية فليراجعهما من شاء فإنه رحمه الله جمع فيها أكثر آيات الدعاء في القرآن عند هاتين الآيتين وتعرض لشرحهما فجزاه الله خيرا وأكرم مثواه . فعلى هذا فالمؤمن يؤجر عند دعائه ربه فإن الدعاء في نفسه عبادة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) marker is printed after «المحسنين», before the closing bracket."
+      ]
+    },
+    {
+      "after_entry": 293,
+      "book_page": 189,
+      "heading": "طرف من آداب الدعاء",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading printed above the sub-heading of entry 294."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 292,
+      "book_page": 188,
+      "heading": "الحث على الدعاء والأمر به وبيان أنه من العبادة",
+      "label": null,
+      "citation": "قال الترمذي ج٩ ص٥٤٤ تحفة",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 9,
+        "page": 544
+      },
+      "text": "حدثنا محمد بن بشار أخبرنا ابن أبي عدي قال : أنبأنا جعفر بن ميمون - صاحب الأنماط - عن أبي عثمان النهدي **عن سلمان الفارسي عن النبي ﷺ قال : « إن الله حيي كريم يستحي إذا رفع الرجل إليه يديه أن يردهما صفرا خائبتين » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أحمد في المسند ٥ / ٤٣٨ ، وابن ماجه رقم ٣٨٦٥ ، وأبو داود رقم ١٤٨٨ ، والحاكم في المستدرك ج١ ص٥٣٥ وقال : حديث صحيح على شرط الشيخين ولم يخرجاه ، ووافقه الذهبي .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The takhrij runs from p. 188 onto p. 189 («=»). «و لم» is printed with a gap, written «ولم»."
+      ]
+    },
+    {
+      "number": 293,
+      "book_page": 189,
+      "heading": "الدعاء هو العبادة",
+      "label": null,
+      "citation": "قال الترمذي ج٥ ص٣٧٤",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 5,
+        "page": 374
+      },
+      "text": "**بسم الله الرحمن الرحيم** حدثنا محمد بن بشار ثنا عبد الرحمن بن مهدي ثنا سفيان عن منصور والأعمش عن يسيع الحضرمي **عن النعمان بن بشير قال : سمعت النبي ﷺ يقول : « الدعاء هو العبادة ثم قرأ ﴿ وقال ربكم ادعونى أستجب لكم إن الذين يستكبرون عن عبادتى سيدخلون جهنم داخرين ﴾ » .**",
+      "grading": "صحيح",
+      "takhrij": "وقال الترمذي : حسن صحيح . وأبو داود في الصلاة ٣٥٩ ، وابن ماجه في الدعاء ١ : ٢ ، وعزاه المزي في الأطراف إلى النسائيّ في التفسير ( الكبرى ) ، وأحمد ٤ / ٢٧١ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "والأعمش عن",
+          "corrected": "والأعمش عن ذر عن",
+          "confidence": 0.45,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections."
+        }
+      ],
+      "transcriber_notes": [
+        "«بسم الله الرحمن الرحيم» is printed centred, in bold, on its own line between the citation and the chain (the opening of the Tirmidhi section quoted); kept in the text as printed.",
+        "Review: checked on the p. 189 scan, the chain reads «عن منصور والأعمش عن يسيع الحضرمي», without the «عن ذر» of Tirmidhi 3247. A narrator missing from the chain is neither a grammar slip nor a misspelt name, so correction 2 is left for the owner."
+      ]
+    },
+    {
+      "number": 294,
+      "book_page": 189,
+      "heading": "ما يقوله من يريد أن يجتهد في الدعاء",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٢ ص٢٩٩ مسند",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 299
+      },
+      "text": "قرأت على أبي قرة الزبيدي موسى بن طارق عن موسى يعني ابن عتبة عن أبي صالح السمان وعطاء بن يسار أو عن أحدهما **عن أبي هريرة عن النبي ﷺ قال : « أتحبون أن تجتهدوا في الدعاء ؟ ، قولوا : اللهم أعنا على شكرك وذكرك وحسن عبادتك » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو نعيم في الحلية ٩ / ٢٢٣ ، والحاكم ١ / ٤٩٩ .",
+      "footnotes": [
+        "(*) [على «ابن عتبة»] هنا تصحيف فموسى هو ابن عقبة وليس ابن عتبة ."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "ابن عتبة",
+          "corrected": "ابن عقبة",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the Sheikh's own footnote (*) on p. 189 says «ابن عتبة» is a misprint and the narrator is Musa ibn Uqba."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 295,
+      "book_page": 190,
+      "heading": "ارتفاع الهمم في الدعاء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص١١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 11
+      },
+      "text": "حدثنا يحيى بن صالح حدثنا فليح عن هلال بن علي عن عطاء بن يسار **عن أبي هريرة رضي الله عنه قال : قال رسول الله ﷺ : « من آمن بالله وبرسوله وأقام الصلاة وصام رمضان كان حقا على الله أن يدخله الجنة ، جاهد في سبيل الله أو جلس في أرضه التي ولد فيها » . فقالوا : يا رسول الله ، أفلا نبشر الناس ؟ قال : « إن في الجنة مائة درجة أعدها الله للمجاهدين في سبيل الله ما بين الدرجتين كما بين السماء والأرض فإذا سألتم الله فاسألوه الفردوس فإنه أوسط الجنة وأعلى الجنة » - أراه قال : « وفوقه عرش الرحمن - ومنه تفجر أنهار الجنة »** قال محمد بن فليح : عن أبيه **« وفوقه عرش الرحمن »** .",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أحمد ٢ / ٣٣٥ ، ٣٣٩ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "قال : « وفوقه",
+          "corrected": "فوقه",
+          "confidence": 0.45,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "The closing remark «قال محمد بن فليح : عن أبيه « وفوقه عرش الرحمن »» is kept in the text as printed (a further chain without an entry number). «يحيى بن» is printed run together («يحيىبن»), written apart. The heading is printed «ارتفاع» (the index has «إرتفاع»).",
+        "Review: checked on the p. 190 scan, the book prints «- أراه قال : « وفوقه عرش الرحمن - ومنه تفجر أنهار الجنة »», where Bukhari 2790 has «- أراه - فوقه عرش الرحمن». Both differences are of kinds the rules class as variants (an added «قال», a prefix «و»), and «وفوقه» is printed in the same entry in Muhammad ibn Fulayh's narration. Approving correction 3 as written would also drop the opening «« » and leave the one after «أنهار الجنة» unmatched. Left for the owner."
+      ]
+    },
+    {
+      "number": 296,
+      "book_page": 190,
+      "heading": "ارتفاع الهمم في الدعاء",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٦ ص٢١٢",
+      "source": {
+        "collection": "muslim",
+        "volume": 16,
+        "page": 212
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة وأبو كريب - واللفظ لأبي بكر - قالا : حدثنا وكيع عن مسعر عن علقمة بن مرثد عن المغيرة بن عبد الله اليشكري عن المعرور بن سويد عن عبد الله قال : **قالت أم حبيبة زوج النبي ﷺ : اللهم أمتعني بزوجي رسول الله ﷺ وبأبي أبي سفيان وبأخي معاوية . قال : فقال النبي ﷺ : « قد سألت الله لآجال مضروبة وأيام معدودة وأرزاق مقسومة لن يعجل شيئا قبل حله أو يؤخر شيئا عن حله ولو كنت سألت الله أن يعيذك من عذاب في النار أو عذاب في القبر كان خيرا وأفضل » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ١ / ٣٩٠ ، ٤١٣ ، ٤٣٣ ، ٤٤٥ ، ٤٦٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 297,
+      "book_page": 191,
+      "heading": "ارتفاع الهمم في الدعاء",
+      "label": null,
+      "citation": "قال الحاكم في مستدركه ج٢ ص٤٠٤",
+      "source": {
+        "collection": "hakim",
+        "volume": 2,
+        "page": 404
+      },
+      "text": "حدثنا أبو الحسن علي بن محمد بن عقبة الشيباني بالكوفة ثنا إبراهيم بن إسحاق الزهري ثنا أبو نعيم ثنا يوسف بن أبي إسحاق أنه تلا قول الله عز وجل : ﴿ **وأوحينا إلى موسى أن أسر بعبادى إنكم متبعون ...** ﴾ **الآيات** فقال أبو بردة بن أبي موسى الأشعري : **عن أبيه قال : نزل رسول الله ﷺ بأعرابي فأكرمه ، فقال له رسول الله ﷺ : « تعهدنا ائتنا » ، فأتاه الأعرابي ، فقال له رسول الله ﷺ : « ما حاجتك ؟ » ، فقال : ناقة برحلها وبحر لبنها أهلي . فقال رسول الله ﷺ : « عجز هذا أن يكون كعجوز بني إسرائيل » . فقال له أصحابه : ما عجوز بني إسرائيل يا رسول الله ؟ فقال : « إن موسى حين أراد أن يسير ببني إسرائيل ضل عنه الطريق ، فقال لبني إسرائيل : ما هذا ؟ قال : فقال له علماء بني إسرائيل : إنّ يوسف عليه السلام حين حضره الموت أخذ علينا موثقا من الله أن لا نخرج من مصر حتى تنقل عظامه معنا ، فقال موسى : أيكم يدري قبر يوسف ؟ فقال علماء بني إسرائيل : ما يعلم أحد مكان قبره إلا عجوز لبني إسرائيل ، فأرسل إليها موسى فقال : دلّينا على قبر يوسف ، قالت : لا والله حتى تعطيني حكمي ، فقال لها : ما حكمك ؟ قالت : حكمي أن أكون معك في الجنة فكأنه كره ذلك ، قال : فقيل له : اعطها حكمها فأعطاها حكمها ، فانطلقت بهم إلى بحيرة مستنقعة ماء ، فقالت لهم : أنضبوا هذا الماء فلما أنضبوا قالت لهم : احفروا فحفروا ، فاستخرجوا عظام يوسف ، فلما أن أقلوه من الأرض إذ الطريق مثل ضوء النهار » .**",
+      "grading": "حسن",
+      "takhrij": "وقال : صحيح على شرط الشيخين ولم يخرجاه ، وأخرجه الحاكم أيضا ج٢ ص٥٧١ ، وعزاه الشيخ ناصر - سلسلة صحيحة ٣١٣ - إلى أبي يعلى في مسنده ٣٤٤ / ١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«الآيات» after the Quran bracket is printed bold, like the verse. «لا نخرج» is printed run together («لانخرج»); «و لم» in the takhrij is printed with a gap, written «ولم».",
+        "Zoomed at 936 dpi: the page prints «وبحر لبنها» (one dot below, then «حر»), transcribed as printed."
+      ]
+    },
+    {
+      "number": 298,
+      "book_page": 192,
+      "heading": "النهي عن الاعتداء في الدعاء",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٥ ص٥٥",
+      "source": {
+        "collection": "ahmad",
+        "volume": 5,
+        "page": 55
+      },
+      "text": "حدثنا عبد الصمد وعفان قالا : ثنا حماد بن سلمة عن الجريري وقال عفان في حديثه : أن الجريري عن أبي نعامة **أن عبد الله بن مغفل سمع ابنه يقول : اللهم إني أسألك القصر الأبيض عن يمين الجنة إذا دخلتها . فقال : يا بني سل الله تبارك وتعالى الجنة وعذ به من النار ، فإني سمعت رسول الله ﷺ يقول : « يكون قوم يعتدون في الدعاء والطهور » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود الطهارة ٤٥ ، ج٢ ص١٦٢ ، وابن ماجه ٣٨٦٤ .",
+      "footnotes": [
+        "(*) [على «صحيح»] بالنسبة لرجال هذا الحديث : - حماد بن سلمة : ثقة تغير حفظه بأخرة ولكن قال يحيى بن معين : من أراد أن يكتب حديث حماد بن سلمة فعليه بعفان بن مسلم وذلك كما في الكواكب النيرات في معرفة من اختلط من الرواة الثقات ص ٤٦١ . - الجريري : هو سعيد بن إياس ثقة اختلط بأخرة وقال الأبناس - كما في الكواكب ص١٨٣ - في ترجمة سعيد بن إياس : ( وممن سمع منه قبل التغيير شعبة والحمادان ) . - أبو نعامة : وهو قيس بن عباية الحنفي البصري كما أفاد بذلك ابن كثير في تفسير سورة الأعراف عند قوله تعالى : ﴿ ادعوا ربكم تضرعا وخفية إنه لا يحب المعتدين ﴾ وبمراجعة ترجمته في تهذيب التهذيب وجد أنه قيس بن عباية وهو ثقة . فالحديث صحيح ثم إن له شواهد أخرى كثيرة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) marker is printed on the grading «صحيح». In the footnote each narrator's paragraph starts with a dash, kept as « - ». «الأبناس» is as printed (perhaps for «الأبناسي»); the Quran words in the footnote are printed bold, not marked since footnotes carry no bold."
+      ]
+    },
+    {
+      "number": 299,
+      "book_page": 192,
+      "heading": "النهي عن تعجيل العقوبة في الدنيا",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٧ ص١٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 17,
+        "page": 13
+      },
+      "text": "حدثنا أبو الخطاب زياد بن يحيى الحساني حدثنا محمد بن أبي عدي عن حميد عن ثابت **عن أنس أن رسول الله ﷺ عاد رجلا من المسلمين قد خفت فصار مثل الفرخ فقال له رسول الله ﷺ : « هل كنت تدعو بشيء أو تسأله إياه ؟ » قال : نعم ، كنت أقول : اللهم ما كنت معاقبي به في الآخرة فعجله لي في الدنيا . فقال رسول الله ﷺ : « سبحان الله لا تطيقه أو لا تستطيعه أفلا قلت : اللهم آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار » ، فدعا الله له فشفاه .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي ج٩ ص٤٦٠ تحفة وقال : حسن صحيح غريب . وابن السني في عمل اليوم والليلة رقم ٥٦٠ ، وأحمد ٣ / ١٠٧ .",
+      "footnotes": [
+        "(**) [على «حميد»] وقد تابع حماد حميدا في روايته عن أنس ."
+      ],
+      "corrections": [
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "النار »",
+          "corrected": "النار قال »",
+          "confidence": 0.65,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "The entry runs from p. 192 onto p. 193; its takhrij too («=»). «لا تطيقه» is printed run together («لاتطيقه»).",
+        "Review: checked on the p. 193 scan, the book prints «وقنا عذاب النار » ، فدعا الله له فشفاه», without the narrator's «قال» of Muslim 2688 before «فدعا». The printed text is grammatical, so correction 4 is left for the owner. As written it puts «قال» inside the closing quotation mark, as if it were the Prophet's words; Muslim's «قال» belongs after it («… النار » ، قال فدعا …»)."
+      ]
+    }
+  ]
+}

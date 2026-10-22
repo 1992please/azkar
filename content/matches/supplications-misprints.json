@@ -1,0 +1,593 @@
+[
+  {
+    "entry": 292,
+    "kind": "substitution",
+    "tokens": [
+      4,
+      5
+    ],
+    "printed_words": [
+      "اخبرنا"
+    ],
+    "alternative_words": [
+      "حدثنا"
+    ],
+    "alternative_tokens": [
+      "حدثنا"
+    ],
+    "left": [
+      "محمد",
+      "بن",
+      "بشار"
+    ],
+    "right": [
+      "بن",
+      "ابي",
+      "عدي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 54,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a different transmission verb, a usual difference between editions."
+  },
+  {
+    "entry": 293,
+    "kind": "missing",
+    "tokens": [
+      18,
+      18
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "عن",
+      "ذر"
+    ],
+    "alternative_tokens": [
+      "عن",
+      "ذر"
+    ],
+    "left": [
+      "عن",
+      "منصور",
+      "والاعمش"
+    ],
+    "right": [
+      "عن",
+      "يسيع",
+      "الحضرمي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
+    },
+    "decision": "ask",
+    "confidence": 0.45,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections.",
+    "printed": "والأعمش عن",
+    "corrected": "والأعمش عن ذر عن"
+  },
+  {
+    "entry": 295,
+    "kind": "other",
+    "tokens": [
+      101,
+      105
+    ],
+    "printed_words": [
+      "قال",
+      "وفوقه"
+    ],
+    "alternative_words": [
+      "فوقه"
+    ],
+    "alternative_tokens": [
+      "فوقه"
+    ],
+    "left": [
+      "واعلي",
+      "الجنه",
+      "اراه"
+    ],
+    "right": [
+      "عرش",
+      "الرحمن",
+      "ومنه"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": false
+    },
+    "decision": "ask",
+    "confidence": 0.45,
+    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net.",
+    "printed": "قال : « وفوقه",
+    "corrected": "فوقه"
+  },
+  {
+    "entry": 297,
+    "kind": "unknown",
+    "tokens": [
+      31,
+      32
+    ],
+    "printed_words": [
+      "واوحينا"
+    ],
+    "left": [
+      "عز",
+      "وجل"
+    ],
+    "right": [
+      "الي",
+      "موسي"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 297,
+    "kind": "unknown",
+    "tokens": [
+      38,
+      39
+    ],
+    "printed_words": [
+      "متبعون"
+    ],
+    "left": [
+      "بعبادي",
+      "انكم"
+    ],
+    "right": [
+      "الايات",
+      "فقال"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 297,
+    "kind": "substitution",
+    "tokens": [
+      58,
+      59
+    ],
+    "printed_words": [
+      "باعرابي"
+    ],
+    "left": [
+      "عليه",
+      "وسلم"
+    ],
+    "right": [
+      "فاكرمه",
+      "فقال"
+    ],
+    "alternative_words": [
+      "اعرابي"
+    ],
+    "alternative_tokens": [
+      "اعرابي"
+    ],
+    "cited_wins": false,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 0,
+      "printed_on_dorar": 3,
+      "alternative_on_dorar": 1,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 3 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 297,
+    "kind": "substitution",
+    "tokens": [
+      68,
+      69
+    ],
+    "printed_words": [
+      "تعهدنا"
+    ],
+    "left": [
+      "عليه",
+      "وسلم"
+    ],
+    "right": [
+      "ايتنا",
+      "فاتاه"
+    ],
+    "alternative_words": [
+      "عهدا"
+    ],
+    "alternative_tokens": [
+      "عهدا"
+    ],
+    "cited_wins": false,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 0,
+      "printed_on_dorar": 2,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 297,
+    "kind": "unknown",
+    "tokens": [
+      105,
+      106
+    ],
+    "printed_words": [
+      "كعجوز"
+    ],
+    "left": [
+      "ان",
+      "يكون"
+    ],
+    "right": [
+      "بني",
+      "اسراييل"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 297,
+    "kind": "substitution",
+    "tokens": [
+      202,
+      203
+    ],
+    "printed_words": [
+      "دلينا"
+    ],
+    "left": [
+      "موسي",
+      "فقال"
+    ],
+    "right": [
+      "علي",
+      "قبر"
+    ],
+    "alternative_words": [
+      "دلني"
+    ],
+    "alternative_tokens": [
+      "دلني"
+    ],
+    "cited_wins": false,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 4,
+      "printed_on_dorar": 2,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 297,
+    "kind": "substitution",
+    "tokens": [
+      213,
+      214
+    ],
+    "printed_words": [
+      "حكمي"
+    ],
+    "left": [
+      "حتي",
+      "تعطيني"
+    ],
+    "right": [
+      "فقال",
+      "لها"
+    ],
+    "alternative_words": [
+      "حامل"
+    ],
+    "alternative_tokens": [
+      "حامل"
+    ],
+    "cited_wins": false,
+    "nonword": true,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 0,
+      "printed_on_dorar": 2,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 297,
+    "kind": "unknown",
+    "tokens": [
+      223,
+      224
+    ],
+    "printed_words": [
+      "حكمي"
+    ],
+    "left": [
+      "حكمك",
+      "قالت"
+    ],
+    "right": [
+      "ان",
+      "اكون"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 297,
+    "kind": "unknown",
+    "tokens": [
+      239,
+      240
+    ],
+    "printed_words": [
+      "حكمها"
+    ],
+    "left": [
+      "له",
+      "اعطها"
+    ],
+    "right": [
+      "فاعطاها",
+      "حكمها"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 297,
+    "kind": "unknown",
+    "tokens": [
+      241,
+      242
+    ],
+    "printed_words": [
+      "حكمها"
+    ],
+    "left": [
+      "حكمها",
+      "فاعطاها"
+    ],
+    "right": [
+      "فانطلقت",
+      "بهم"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 297,
+    "kind": "unknown",
+    "tokens": [
+      247,
+      248
+    ],
+    "printed_words": [
+      "مستنقعه"
+    ],
+    "left": [
+      "الي",
+      "بحيره"
+    ],
+    "right": [
+      "ما",
+      "فقالت"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 297,
+    "kind": "unknown",
+    "tokens": [
+      253,
+      254
+    ],
+    "printed_words": [
+      "انضبوا"
+    ],
+    "left": [
+      "فقالت",
+      "لهم"
+    ],
+    "right": [
+      "هذا",
+      "الما"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 297,
+    "kind": "unknown",
+    "tokens": [
+      257,
+      258
+    ],
+    "printed_words": [
+      "انضبوا"
+    ],
+    "left": [
+      "الما",
+      "فلما"
+    ],
+    "right": [
+      "قالت",
+      "لهم"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "cited_wins": false,
+    "nonword": true,
+    "decision": "unknown",
+    "confidence": null,
+    "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
+  },
+  {
+    "entry": 298,
+    "kind": "substitution",
+    "tokens": [
+      17,
+      18
+    ],
+    "printed_words": [
+      "ان"
+    ],
+    "alternative_words": [
+      "اخبرنا"
+    ],
+    "alternative_tokens": [
+      "أخبرنا"
+    ],
+    "left": [
+      "عفان",
+      "في",
+      "حديثه"
+    ],
+    "right": [
+      "الجريري",
+      "عن",
+      "ابي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+  },
+  {
+    "entry": 299,
+    "kind": "missing",
+    "tokens": [
+      93,
+      93
+    ],
+    "printed_words": [],
+    "alternative_words": [
+      "قال"
+    ],
+    "alternative_tokens": [
+      "قال"
+    ],
+    "left": [
+      "وقنا",
+      "عذاب",
+      "النار"
+    ],
+    "right": [
+      "فدعا",
+      "الله",
+      "له"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 4,
+      "ocr_confirms_printed": false
+    },
+    "decision": "ask",
+    "confidence": 0.65,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net.",
+    "printed": "النار »",
+    "corrected": "النار قال »"
+  }
+]

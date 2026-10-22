@@ -1,0 +1,73 @@
+[
+  {
+    "entry": 662,
+    "kind": "extra",
+    "tokens": [
+      36,
+      37
+    ],
+    "printed_words": [
+      "ما"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "شا",
+      "الله",
+      "ثم"
+    ],
+    "right": [
+      "شا",
+      "فلان"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 3,
+      "alternative_in_collections": 4,
+      "printed_on_dorar": 3,
+      "alternative_on_dorar": 6,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 3 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 664,
+    "kind": "substitution",
+    "tokens": [
+      0,
+      1
+    ],
+    "printed_words": [
+      "حدثنا"
+    ],
+    "alternative_words": [
+      "وحدثنا"
+    ],
+    "alternative_tokens": [
+      "وحدثنا"
+    ],
+    "left": [],
+    "right": [
+      "محمد",
+      "بن",
+      "رافع"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 86,
+      "context_words": 3,
+      "alternative_in_collections": 65,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (86 in the collections, 0 on dorar.net), so it is a genuine variant."
+  }
+]

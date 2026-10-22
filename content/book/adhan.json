@@ -31,7 +31,18 @@
       "grading": "صحيح",
       "takhrij": "وأخرجه مسلم رقم ٧٣٩ ترتيب محمد فؤاد عبد الباقي ، والنسائيّ في الصلاة ، والترمذي في الشمائل ، وأحمد ٦ / ٢١٤ ، وابن ماجه في الصلاة ٢٢١ .",
       "footnotes": [],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "كانت",
+          "corrected": "كان",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1146) is used."
+        }
+      ],
       "transcriber_notes": []
     },
     {
@@ -58,7 +69,7 @@
           "confidence": 0.91,
           "status": "approved",
           "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 14 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it."
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 14 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 437) is used."
         }
       ],
       "transcriber_notes": []
@@ -135,6 +146,16 @@
           "status": "approved",
           "decided_by": "owner",
           "reason": "Same heading misprint as entry 40."
+        },
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "أو في باديتك",
+          "corrected": "أو باديتك",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 5 time(s) in the collections and 7 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 609) is used."
         }
       ],
       "transcriber_notes": [
@@ -168,6 +189,16 @@
           "reason": "Same heading misprint as entry 40."
         },
         {
+          "id": 12,
+          "field": "text",
+          "printed": "تمس",
+          "corrected": "لتمس",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 610) is used."
+        },
+        {
           "id": 3,
           "field": "text",
           "printed": "بمكائلهم",
@@ -175,7 +206,7 @@
           "confidence": 0.93,
           "status": "approved",
           "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 610) is used."
         }
       ],
       "transcriber_notes": []
@@ -250,6 +281,16 @@
       "footnotes": [],
       "corrections": [
         {
+          "id": 13,
+          "field": "text",
+          "printed": "؟ قلت له",
+          "corrected": "؟ فقلت له",
+          "confidence": 0.96,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 11 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (abudawud 499) is used."
+        },
+        {
           "id": 4,
           "field": "text",
           "printed": "استأذن",
@@ -257,7 +298,7 @@
           "confidence": 0.91,
           "status": "approved",
           "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it."
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (abudawud 499) is used."
         }
       ],
       "transcriber_notes": []
@@ -327,6 +368,16 @@
           "status": "approved",
           "decided_by": "owner",
           "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 12 on dorar.net. Approved by the owner on 2026-10-09."
+        },
+        {
+          "id": 14,
+          "field": "text",
+          "printed": "بها عليه",
+          "corrected": "عليه بها",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Order: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 4 time(s) in the collections and 8 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 384) is used."
         }
       ],
       "transcriber_notes": []

@@ -50,9 +50,9 @@
           "printed": "يقول",
           "corrected": "تقول",
           "confidence": 0.88,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it. Approved by the owner on 2026-10-15."
         }
       ],
       "transcriber_notes": [
@@ -248,9 +248,9 @@
           "printed": "يومئذ عمل يقهرهن",
           "corrected": "يومئذ عملا يقهرهن",
           "confidence": 0.88,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 9 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 9 on dorar.net. Approved by the owner on 2026-10-15."
         }
       ],
       "transcriber_notes": [
@@ -340,9 +340,9 @@
           "printed": "فقطعها وقال",
           "corrected": "فقطعها فبايعه وقال",
           "confidence": 0.65,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 6 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 6 on dorar.net. Approved by the owner on 2026-10-15."
         }
       ],
       "transcriber_notes": [

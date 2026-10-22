@@ -1,0 +1,249 @@
+{
+  "chapter": "الرؤيا وآدابها",
+  "book_pages": [
+    350,
+    354
+  ],
+  "notes": [
+    "Page 355 starts the next chapter (باب الجمعة); this chapter ends on p. 354 with a «****» separator.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "Zoomed on: the chains of 562 («محمد بن عمر المكي», printed so), 565 («ابن رمح»), 568 and 569; the footnote markers on pp. 351–352; the footnotes on pp. 350–352.",
+    "Review: the six OCR 'memory' flags (562 «أبي», «النبوة»; 564 «فتمرضني»; 566 «مسدد»; 567 «جريج», «ريح») are OCR misreads; the flag crops show the transcribed words. No misprint line was check-scan or unknown. Question 1 («بن عمر» → «بن أبي عمر», a narrator's name) approved under the names rule."
+  ],
+  "skipped": [],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 562,
+      "book_page": 350,
+      "heading": "أقسام الرؤيا والصلاة عند رؤية ما يكره",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٥ ص٢٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 15,
+        "page": 20
+      },
+      "text": "حدثنا محمد بن عمر المكي حدثنا عبد الوهاب الثقفي عن أيوب السختياني عن محمد ابن سيرين **عن أبي هريرة عن النبي ﷺ قال : « إذا اقترب الزمان لم تكد رؤيا المؤمن تكذب وأصدقكم رؤيا أصدقكم حديثا ورؤيا المسلم جزء من خمس وأربعين جزءا من النبوة ، والرؤيا ثلاثة فرؤيا الصالحة بشرى من الله ورؤيا تحزين من الشيطان ورؤيا مما يحدث المرء نفسه . فإن رأى أحدكم ما يكره فليقم إلى الصلاة ولا يحدث بها الناس » . قال وأحب القيد وأكره الغل والقيد ثبات في الدين فلا أدري أهو في الحديث أم قال ابن سيرين .** وحدثني محمد بن رافع حدثنا عبد الرزاق أخبرنا معمر عن أيوب بهذا الإسناد وقال في الحديث : **قال أبو هريرة : فيعجبني القيد وأكره الغل والقيد ثبات في الدين وقال النبي ﷺ : « رؤيا المؤمن جزء من ستة وأربعين جزءا من النبوة » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٢٨٢ ، وابن ماجه مختصرا ٣٩٠٦ ، وباقي الحديث « وأكره الغل .. » . أخرجه ابن ماجه ٣٩٢٦ ، والترمذي ج٦ ص٥٦٠ مع اختلاف لفظي وزيادة وقال : حسن صحيح . و ج١ ص٥٧١ تحفة ، وأحمد ٢ / ٥٧٠ .",
+      "footnotes": [
+        "(*) [على «أصدقكم»] الحديث يوضح العلاقة بين صدق الرؤيا وصدق الحديث وهكذا المؤمن دائما من الممكن أن يقف على حقيقة نفسه ، وأيضا قال تعالى : ﴿ **إنما المؤمنون الذين إذا ذكر الله وجلت قلوبهم وإذا تليت عليهم آياته زادتهم إيمانا وعلى ربهم يتوكلون** ﴾ . الأنفال . ومن قوله تعالى : ﴿ **الله نزَّل أحسن الحديث كتابا متشابها مثانى تقشعر منه جلود الذين يخشون ربهم ثم تلين جلودهم وقلوبهم إلى ذكر الله ذلك هدى الله يهدى به من يشاء ومن يضلل الله فما له من هاد** ﴾ . الزمر . ومن قوله تعالى : ﴿ **وإذا ذكر الله وحده اشمأزت قلوب الذين لا يؤمنون بالآخرة وإذا ذكر الذين من دونه إذا هم يستبشرون** ﴾ . الزمر . وأيضا يختبر نفسه إذا حدث له أمر مصيبة أو فرح هل هو مطمئن راض لقضاء الله أم لا ، وبصفة عامة يعرض حالته وأعماله على كتاب الله وسنة نبيه ﷺ فإن كانت موافقة فهو على خير وإلا فليراجع حساباته ولا داعي للمكاشفات الليلية والطير في الهواء ."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "بن عمر",
+          "corrected": "بن أبي عمر",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: a narrator's name no narration uses. Muslim's shaykh here is Muhammad ibn Abi Umar al-Makki (al-Adani); the form «محمد بن أبي عمر المكي» is attested 9 times in the collections, «محمد بن عمر المكي» nowhere. The page prints «بن عمر» (zoomed)."
+        },
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "رؤيا المؤمن تكذب",
+          "corrected": "رؤيا المسلم تكذب",
+          "confidence": 0.55,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+        },
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "إلى الصلاة",
+          "corrected": "فليصل",
+          "confidence": 0.5,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "أم قال ابن",
+          "corrected": "أم قاله ابن",
+          "confidence": 0.8,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; asked rather than corrected automatically, because an attached pronoun is added or dropped, and either form can be grammatical."
+        }
+      ],
+      "transcriber_notes": [
+        "The second chain («وحدثني محمد بن رافع …») is printed without an entry number of its own and kept in text as printed.",
+        "The chain prints «محمد بن عمر المكي» (zoomed); Muslim has «محمد بن أبي عمر المكي». Left for the misprints tool.",
+        "The footnote (*) runs from p. 350 onto p. 351 (marked «=»), joined into one item. Its Quran verses are printed bold."
+      ]
+    },
+    {
+      "number": 563,
+      "book_page": 351,
+      "heading": "حمد الله عند رؤية ما يحب والتحديث بها لمن يحب وترك التحديث عند رؤية ما يكره",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٢ ص٣٦٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 369
+      },
+      "text": "حدثنا عبد الله بن يوسف حدثنا الليث حدثني ابن الهاد عن عبد الله بن خباب **عن أبي سعيد الخدري أنه سمع النبي ﷺ يقول : « إذا رأى أحدكم رؤيا يحبها فإنما هي من الله فليحمد الله عليها وليحدث بها وإذا رأى غير ذلك مما يكره فإنما هي من الشيطان فليستعذ من شرها ولا يذكرها لأحد فإنها لا تضره » .**",
+      "grading": "صحيح",
+      "takhrij": "والترمذي ج٩ ص٤١٧ تحفة وقال : حسن صحيح غريب . وأحمد ٢ / ٨ ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى الرؤيا .",
+      "footnotes": [
+        "(*) [على «وليحدث بها»] جاء تقييد الحديث بها لمن يحب فقط كما في الحديث التالي لهذا إن شاء الله ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is one title printed on two lines, joined with a space."
+      ]
+    },
+    {
+      "number": 564,
+      "book_page": 351,
+      "heading": "ما يفعل عند رؤية ما يكره",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٢ ص٤٣٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 430
+      },
+      "text": "حدثنا سعيد بن الربيع حدثنا شعبة عن عبد ربه بن سعيد قال : **سمعت أبا سلمة يقول : لقد كنت أرى الرؤيا فتمرضني حتى سمعت أبا قتادة يقول : وأنا كنت أرى الرؤيا فتمرضني حتى سمعت النبي ﷺ يقول : « الرؤيا الحسنة من الله فإذا رأى أحدكم ما يحب فلا يحدث به إلا من يحب وإذا رأى ما يكره فليتعوذ بالله من شرها ومن شر الشيطان وليتفل ثلاثا ولا يحدث بها أحدًا فإنها لن تضره » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٥٥٧ تحفة وقال : حديث حسن صحيح . وأبو داود في الأدب ٩٦ : ٥ ، وابن ماجه في الديات ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى ، وأحمد ٥ / ٣٠٣ .",
+      "footnotes": [
+        "(**) [على العنوان «ما يفعل عند رؤية ما يكره»] سبق أنه يصلي - أيضا - عند رؤية ما يكره ويأتي - إن شاء الله - أنه يتحول عن جنبه الذي كان عليه .",
+        "(**) [على «وليتفل ثلاثا»] التفل يكون على اليسار كما جاء موضحا في الرواية التالية لهذا الحديث .",
+        "(***) [على «مسلم» في التخريج] في بعض روايات مسلم ... فإذا رأى رؤيا حسنة فليبشر ولا يخبر إلا من يحب ، قال النووي فليبشر من الإبشار والبشرى ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Footnote markers: the heading carries (**) (footnote on p. 351); in the text «ثلاثا» carries (***) and in the takhrij «مسلم» also carries (***), while p. 352 prints the footnote on spitting as (**) and the one on Muslim's narrations as (***). By content, the (**) on p. 352 belongs to «ثلاثا»; the text's (***) looks like a misprint for (**). Footnotes kept with their printed markers.",
+        "The takhrij starts on p. 351 and continues on p. 352 («=»), joined. It reads «ورواه مسلم ج٦ ص٥٥٧ تحفة وقال : حديث حسن صحيح», which looks like al-Tirmidhi (Tuhfa) with the name misprinted; kept as printed."
+      ]
+    },
+    {
+      "number": 565,
+      "book_page": 352,
+      "heading": "التحول عن الجنب عند رؤية ما يكره",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٥ ص٢٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 15,
+        "page": 20
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا ليث ح وحدثنا ابن رمح أخبرنا الليث عن أبي الزبير **عن جابر عن رسول الله ﷺ أنه قال : « إذا رأى أحدكم الرؤيا يكرهها فليبصق عن يساره ثلاثا وليستعذ بالله من الشيطان ثلاثا وليتحول عن جنبه الذي كان عليه » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٢٨٤ ، وابن ماجه ٣٩٠٨ ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى الرؤيا .",
+      "footnotes": [
+        "(*) [على «ليث»] تقدم التنبيه على أن رواية الليث عن أبي الزبير عن جابر ."
+      ],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 566,
+      "book_page": 352,
+      "heading": "التحول عن الجنب عند رؤية ما يكره",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٢ ص٣٧٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 373
+      },
+      "text": "حدثنا مسدد حدثنا عبد الله بن يحيى بن أبي كثير - وأثنى عليه خيرا - عن أبيه حدثنا أبو سلمة **عن أبي قتادة عن النبي ﷺ قال : « الرؤيا الصالحة من الله والحلم من الشيطان فإذا حلم أحدكم فليتعوذ منه وليبصق عن شماله فإنها لا تضره » . وعن أبيه قال : حدثنا عبد الله بن أبي قتادة عن أبيه عن النبي ﷺ مثله .**",
+      "grading": "صحيح",
+      "takhrij": "الأطراف ج٦ ص٣٣٨ فتح ، ورواه مسلم ج١٥ ص١٧ ، وأبو داود ج٥ ص٢٨٤ ، وابن ماجه ٣٩٠٩ ، وأحمد ٥ / ٣٠٣ ، انظر حديث ٥٥٣ .",
+      "footnotes": [
+        "(١) [على «وابن ماجه» في التخريج] زاد ابن ماجه « وليتحول عن جنبه الذي كان عليه » ."
+      ],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "أحدكم",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6986) is used."
+        },
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "أبيه قال :",
+          "corrected": "أبيه :",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6986) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The further chain «وعن أبيه قال : حدثنا عبد الله بن أبي قتادة …» is printed bold without an entry number and kept in text as printed."
+      ]
+    },
+    {
+      "number": 567,
+      "book_page": 353,
+      "heading": "ما يقوله الصائم إذا سابه أحد أو قاتله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٤ ص١١٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 4,
+        "page": 118
+      },
+      "text": "حدثنا إبراهيم بن موسى أخبرنا هشام بن يوسف عن ابن جريج قال : أخبرني عطاء عن أبي صالح الزيات **أنه سمع أبا هريرة رضي الله عنه يقول : قال رسول الله ﷺ : « قال الله كل عمل ابن آدم له إلا الصيام فإنه لي وأنا أجزي به والصيام جنة وإذا كان يوم صوم أحدكم فلا يرفث ولا يصخب فإن سابه أحد أو قاتله فليقل إني امرؤ صائم والذي نفس محمد بيده لخلوف فم الصائم أطيب عند الله من ريح المسك للصائم فرحتان يفرحهما إذا أفطر فرح وإذا لقي ربه فرح بصومه » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٨ ص٣٠ ، وأبو داود ج٢ ص٧٦٨ مختصرا ، والنسائيّ ج٤ ص١٦٣ ، وأحمد ٢ / ٢٨١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 568,
+      "book_page": 353,
+      "heading": "ما يقوله الصائم إذا سابه أحد أو قاتله",
+      "label": null,
+      "citation": "قال ابن ماجه ١٧٥٣",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 1753
+      },
+      "text": "حدثنا هشام بن عمار ثنا الوليد بن مسلم ثنا إسحاق بن عبيد الله المدني قال : سمعت عبد الله بن أبي مليكة يقول : **سمعت عبد الله بن عمرو بن العاص يقول : قال رسول الله ﷺ : « إن للصائم عند فطره لدعوة ما ترد » .**",
+      "grading": "صحيح لغيره",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry (p. 353 has only 567's)."
+      ]
+    },
+    {
+      "number": 569,
+      "book_page": 353,
+      "heading": "ما يدعى به في ليلة القدر",
+      "label": null,
+      "citation": "قال ابن ماجه ٣٨٥٠",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 3850
+      },
+      "text": "حدثنا علي بن محمد ثنا وكيع عن كهمس بن الحسن عن عبد الله بن بريدة **عن عائشة أنها قالت : يا رسول الله ! ، أرأيت إن وافقت ليلة القدر ما أدعو ؟ قال : « تقولين : اللهم إنك عفو تحب العفو فاعف عني » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي ج٩ ص٤٩٥ وقال : حسن صحيح . وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة ، وأحمد ٦ / ١٧١-٢٠٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The entry runs from p. 353 onto p. 354; its takhrij is on p. 354."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1860 @@
+{
+  "chapter": "باب فضائل القرآن",
+  "book_pages": [
+    140,
+    177
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "p. 140: the Fatir verses (35:29–30) are printed with a small star between the two verses; it is left out of the text, which has no character for it.",
+    "Review: the 84 OCR flags were all OCR misreads (checked on the flag sheets). p. 154 is blank, so the OCR finds no words there. Zoomed and confirmed as printed: the five words of entry 244 found in no collection («تزدد», «بطالتكم», «ذريني», «أتعبد», «يتفكر»), and the words behind every question and every automatic correction the OCR didn't confirm (entries 213, 215, 219, 220, 222, 234, 235, 249, 250, 252–255, 264, 269). Corrections 9, 19, 23 and 26 (narrators' names in chains) were approved under the names rule; the other questions are left for the owner."
+  ],
+  "skipped": [
+    {
+      "pages": "165–166",
+      "what": "The two footnotes printed on entry 256's own (*) footnote: (*) on «عمر بن الخطاب» (the Sheikh's rejection of Umar's rulings on the triple divorce and tamattu') and (**) on «أبو موسى» (on Abu Musa leaving his fatwa). General commentary, not about the hadith or its wording."
+    }
+  ],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 140,
+      "heading": "باب فضائل القرآن",
+      "kind": "verses",
+      "text": "قال الله عز وجل : ﴿ **إن الذين يتلون كتاب الله وأقاموا الصلاة وأنفقوا مما رزقناهم سرا وعلانية يرجون تجارة لن تبور ليوفيهم أجورهم ويزيدهم من فضله إنه غفور شكور** ﴾ فاطر . وقال سبحانه : ﴿ **اتل ما أوحى إليك من الكتاب وأقم الصلاة إن الصلاة تنهى عن الفحشاء والمنكر ولذكر الله أكبر والله يعلم ما تصنعون** ﴾ العنكبوت . وقال جل شأنه : ﴿ **ليسوا سوآء من أهل الكتاب أمة قائمة يتلون آيات الله آناء الليل وهم يسجدون** ﴾ آل عمران .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verse texts are bold, the surah names regular. «أوحى» and «سوآء» are printed so (zoomed)."
+      ]
+    },
+    {
+      "after_entry": 224,
+      "book_page": 147,
+      "heading": "فضيلة ترتيل القرآن وحفظه عن ظهر قلب",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **أو زد عليه ورتِّل القرآن ترتيلا** ﴾ المزمل .",
+      "footnotes": [
+        "(*) [على «ترتيلا»] قال الحافظ في الفتح في قوله تعالى : ﴿ **ورتل القرآن ترتيلا** ﴾ قال : بعضه إثر بعض على تؤدة ، وعن قتادة بيّنهُ بيانا والأمر بذلك إذا لم يكن للوجوب يَكون مستحبا ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«ورتِّل» prints a shadda and a kasra; the footnote prints «بيّنهُ» with a shadda and a damma and «يَكون» with a fatha (zoomed)."
+      ]
+    },
+    {
+      "after_entry": 237,
+      "book_page": 155,
+      "heading": "فضائل بعض السور والآيات",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading printed above the sub-heading «فضيلة الحمد لله رب العالمين»."
+      ]
+    },
+    {
+      "after_entry": 248,
+      "book_page": 161,
+      "heading": "آداب قراءة القرآن",
+      "kind": "verses",
+      "text": "قال الله عز وجل : ﴿ **وإذا قرئ القرآن فاستمعوا له وأنصتوا لعلكم ترحمون** ﴾ . وقال سبحانه : ﴿ **فإذا قرأت القرآن فاستعذ بالله من الشيطان الرجيم** ﴾ . وقال سبحانه : ﴿ **الله نزَّل أحسن الحديث كتابا متشابها مثانى تقشعُّر منه جلود الذين يخشون ربهم ثم تلين جلودهم وقلوبهم إلى ذكر الله ذلك هدى الله يهدى به من يشاء ومن يضلل الله فما له من هاد** ﴾ . وقال عز وجل : ﴿ **وإذا سمعوا ما أنزل إلى الرسول ترى أعينهم تفيض من الدمع مما عرفوا من الحق يقولون ربنا آمنا فاكتبنا مع الشاهدين** ﴾ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading with verses, before entry 249's sub-heading «النهي عن قراءة القرآن عند الاختلاف». The verse texts are bold. Printed so (zoomed): «قرئ» (ya seat without dots), «نزَّل», «تقشعُّر» (shadda and damma), «مثانى», «هدى», «يهدى»."
+      ]
+    },
+    {
+      "after_entry": 267,
+      "book_page": 174,
+      "heading": "سجود القرآن",
+      "kind": "verses",
+      "text": "﴿ **إن الذين أوتوا العلم من قبله إذا يتلى عليهم يخرون للأذقان سجدا** ﴾ الإسراء .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading with a verse, above entry 268's sub-heading «سجدة الانشقاق». The verse is bold, the surah name regular."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 212,
+      "book_page": 140,
+      "heading": "الوَصَاة بكتاب الله عز وجل",
+      "label": null,
+      "citation": "قال الإمام البخاري ج٩ ص٦٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 67
+      },
+      "text": "حدثنا محمد بن يوسف حدثنا مالك بن مغول **حدثنا طلحة قال : سألت عبد الله ابن أبي أوفى أوصى النبي ﷺ بشيء ؟ فقال لا ، فقلت : كيف كتب على الناس الوصية ؟ أمروا بها ولم يوص ، قال : أوصى بكتاب الله .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم في الوصايا ( ٦ : ١ ) ، والترمذي في الوصايا ٤ ، والنسائيّ في الوصايا ، وابن ماجه في الوصايا ، وأحمد ٤ / ٣٥٥ ، ٣٨١ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "بشيء",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5022) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading prints fathas on the waw and the sad of «الوَصَاة» (zoomed). «أوفى» is printed with the فى ligature (zoomed)."
+      ]
+    },
+    {
+      "number": 213,
+      "book_page": 141,
+      "heading": "نزول السكينة عند قراءة القرآن",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٨٢",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 82
+      },
+      "text": "حدثنا ابن المثنى وابن بشار واللفظ لابن المثنى قالا : حدثنا محمد بن جعفر حدثنا شعبة عن أبي إسحاق قال : **سمعت البراء يقول : قرأ رجل الكهف وفي الدار دابة فجعلت تنفر فإذا ضبابة أو سحابة قد غشيته قال : فذكر ذلك للنبي ﷺ فقال : « اقرأ فلان فإنها السكينة تنزلت عند القرآن أو تنزلت للقرآن » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه البخاري فتح ج٩ ص٦٣ ، والترمذي في فضائل القرآن ٦ : ١ ، وأحمد ٤ / ٢٨١ ، ٢٨٤ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "تنفر فإذا",
+          "corrected": "تنفر فنظر فإذا",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; in the hadith text the wording of the cited source (muslim 795.02) is used."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 214,
+      "book_page": 141,
+      "heading": "نزول السكينة عند قراءة القرآن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٥٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 57
+      },
+      "text": "حدثنا عمرو بن خالد حدثنا زهير حدثنا أبو إسحاق **عن البراء قال : كان رجل يقرأ سورة الكهف وإلى جانبه حصان مربوط بشَطَنين فتغشته سحابة فجعلت تدنو وتدنو ، وجعل فرسه ينفر فلما أصبح أتى النبي ﷺ فذكر ذلك له فقال : « تلك السكينة تنزلت بالقرآن » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم ، وأحمد ٤ / ٢٩٣ ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [
+        "(*) [على «أبو إسحاق»] قال الحافظ فتح ج٩ ص٥٧ قوله : ( عن البراء ) في رواية الترمذي من طريق شعبة غن أبي إسحاق ( سمعت البراء ) . قلت : وقد رواه مسلم ج٦ ص٨٢ نووي من طريق محمد بن جعفر ثنا شعبة عن أبي إسحاق سمعت البراء ...."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "footnotes.0",
+          "printed": "غن",
+          "corrected": "عن",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «غن» (dotted ghain, zoomed) is a misprint of the preposition «عن» in the chain «شعبة عن أبي إسحاق»; the same chain is printed with «عن» two lines below."
+        }
+      ],
+      "transcriber_notes": [
+        "«بشَطَنين» prints fathas on the shin and the ta (zoomed). The footnote's second paragraph («قلت : …») is the Sheikh's, joined into the (*) footnote."
+      ]
+    },
+    {
+      "number": 215,
+      "book_page": 141,
+      "heading": "نزول السكينة عند قراءة القرآن",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٨٢",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 82
+      },
+      "text": "حدثني حسن بن علي الحلواني وحجاج بن الشاعر - وتقاربا باللفظ - قالا : حدثنا يعقوب بن إبراهيم حدثنا أبي حدثنا يزيد بن الهاد أن عبد الله بن خباب حدثه **أن أبا سعيد الخدري حدثه أن أسيد بن حضير بينما هو ليلة يقرأ في مربده إذ جالت فرسه فقرأ ثم جالت أخرى فقرأ ثم جالت أيضا قال أسيد : فخشيت أن تطأ يحيى فقمت إليها فإذا مثل الظلة فوق رأسي فيها أمثال السرج عرجت في الجو حتى ما أراها قال : فغدوت على رسول الله ﷺ فقلت : يا رسول الله بينما أنا البارحة من جوف الليل أقرأ في مربدي إذ جالت فرسي فقال رسول الله ﷺ : « اقرأ ابن حضير » ، فقرأت ثم جالت أيضا فقال : رسول الله ﷺ : « اقرأ ابن حضير » ، قال : فانصرفت وكان يحيى قريبا منها خشيت أن تطأه فرأيت مثل الظلة فيها أمثال السرج عرجت في الجو حتى ما أراها ، فقال رسول الله ﷺ : « تلك الملائكة كانت تستمع لك ولو قرأت لأصبحت يراها الناس ما تستتر منهم » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه البخاري فتح ج٩ ص٦٣ ، وأحمد ٣ / ٨١ .",
+      "footnotes": [
+        "(**) [على «وأخرجه البخاري»] أخرجه البخاري معلقا والطريق الأولى من طريق محمد بن إبراهيم عن أسيد بن حضير وقال الحافظ : محمد بن إبراهيم لم يدرك أسيد بن حضير فروايته عنه منقطعة ولكن الاعتماد في وصل الحديث المذكور على الإسناد الثاني . قلت : الإسناد الثاني رواه البخاري معلقا بقوله : وقال : ابن الهاد ، وحدثني هذا الحديث عبد الله بن خباب .. ثم ذكر إسناد مسلم . والحديث كما رأيت أمامك في رواية مسلم موصولا ."
+      ],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "باللفظ",
+          "corrected": "في اللفظ",
+          "confidence": 0.63,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections."
+        }
+      ],
+      "transcriber_notes": [
+        "The chain starts on p. 141 and the hadith continues on p. 142. «فقال : رسول الله ﷺ :» is printed with the colon after «فقال». The (**) footnote, on the takhrij, runs from p. 141 to p. 142 («=») and is joined; p. 141 prints «معلقاوالطريق» with no space, written as two words."
+      ]
+    },
+    {
+      "number": 216,
+      "book_page": 142,
+      "heading": "فضل الاجتماع على تلاوة القرآن",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٧ ص٢١ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 17,
+        "page": 21
+      },
+      "text": "حدثنا يحيى بن يحيى التميمي وأبو بكر بن أبي شيبة ومحمد بن العلاء الهمداني - واللفظ ليحيى - قال يحيى : أخبرنا ، وقال الآخران : حدثنا أبو معاوية عن الأعمش عن أبي صالح **عن أبي هريرة قال : قال رسول الله ﷺ : « من نفَّس عن مؤمن كربة من كرب الدنيا نفَّس الله عنه كربة من كرب يوم القيامة ، ومن يسَّر على معسر يسَّر الله عليه في الدنيا والآخرة ، ومن ستر مسلما ستره الله في الدنيا والآخرة ، والله في عون العبد ما كان العبد في عون أخيه ، ومن سلك طريقا يطلب فيه علما سهل الله له به طريقا إلى الجنة ، وما اجتمع قوم في بيت من بيوت الله يتلون كتاب الله ويتدارسونه بينهم إلا نزلت عليهم السكينة وغشيتهم الرحمة وحفَّتهم الملائكة وذكرهم الله فيمن عنده ، ومن بطأ به عمله لم يسرع به نسبه » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي ج٨ ص٢٧٠ تحفة ، وقال : هكذا روى غير واحد عن الأعمش عن أبي صالح عن أبي هريرة عن النبي ﷺ ، وروى أسباط بن محمد عن الأعمش قال : حدثت عن أبي صالح عن أبي هريرة عن النبي ﷺ فذكر بعض الحديث ، وأبو داود في الأدب ٦٨ ، وأحمد ٢ / ٢٥٢ ، وابن ماجه في السنة ( المقدمة ) ١٧ : ٦ .",
+      "footnotes": [
+        "(*) [على «صحيح»] قال ابن رجب في جامع العلوم والحكم ص٣١٨ : هذا حديث خرجه مسلم من رواية الأعمش عن أبي صالح عن أبي هريرة واعترض عليه غير واحد من الحفاظ في تخريجه منهم أبو الفضل الهروي والدارقطني فإن أسباط بن محمد رواه عن الأعمش قال : حدثنا عن أبي صالح فتبين أن الأعمش لم يسمعه من أبي صالح ولم يذكر من حدثه عنه ، ورجح الترمذي وغيره هذه الرواية . قلت : لأجزاء الحديث شواهد والذي يعنينا هنا الجزء الأخير قال الترمذي ج٩ ص٣١٨ تحفة : حدثنا محمد بن بشار أخبرنا عبد الرحمن بن مهدي أخبرنا سفيان عن الأغر أبي مسلم أنه شهد على أبي هريرة وأبي سعيد الخدري أنهما شهدا على رسول الله ﷺ أنه قال : « ما من قوم يذكرون الله إلا حفت بهم الملائكة وغشيتهم الرحمة ونزلت عليهم السكينة وذكرهم الله فيمن عنده » وقال : حسن صحيح ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith starts on p. 142 and ends on p. 143, where the grading carries the (*) footnote. Marks as printed: «نفَّس» twice, «يسَّر» twice, «وحفَّتهم» (zoomed)."
+      ]
+    },
+    {
+      "number": 217,
+      "book_page": 143,
+      "heading": "فضيلة من تعلَّم القرآن وعلَّمه",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٧٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 74
+      },
+      "text": "حدثنا حجاج بن منهال حدثنا شعبة قال : أخبرني علقمة بن مرثد سمعت سعد بن عبيدة عن أبي عبد الرحمن السلمي **عن عثمان رضي الله عنه عن النبي ﷺ قال : « خيركم من تعلَّم القرآن وعلَّمه »** قال : وأقرأ أبو عبد الرحمن في إمرة عثمان حتى كان الحجاج ، قال : وذاك الذي أقعدني مقعدي هذا .",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٢ ص١٤٧ ، والترمذي ج٨ ص٢٢٢ ، وقال حسن صحيح . وأحمد ١ / ٥٨ ، ٦٩ ، وابن ماجه في السنة ١٦ : ١ ، وعزاه المزي في الأطراف للنسائي .",
+      "footnotes": [
+        "(**) [على «سعد بن عبيدة»] هناك اختلاف - لا يضر إن شاء الله - يتلخص في إدخال شعبة لسعد بن عبيدة ابن مرثد وأبي عبد الرحمن السلمي في هذا الحديث وعدم إدخال سفيان له في الحديث الآتي قال الحافظ في الفتح ج٩ ص٧٥ : وأما البخاري فأخرج الطريقين فكأنه ترجح عنده أنهما جميعا محفوظان ، فيحمل على أن علقمة سمعه أولا من سعد ويؤيد ذلك ما في رواية سعد ابن عبيدة من الزيادة الموقوفة وهي قول أبي عبد الرحمن : ( فذلك الذي أقعدني هذا المقعد ) .",
+        "(*) [على «عن عثمان»] ذكر الحافظ في الفتح اختلاف أهل التمييز في سماع أبي عبد الرحمن من عثمان ثم حسم الأمر بقوله ج٩ ص٧٦ : لكن ظهر لي أن البخاري اعتمد في وصله وفي ترجيح لقاء أبي عبد الرحمن لعثمان على ما وقع في رواية شعبة عن سعد بن عبيدة من الزيادة ، وهي أن أبا عبد الرحمن أقرأ من زمن عثمان إلى زمن الحجاج ، وأن الذي حمله على ذلك هو الحديث المذكور ، فدل على أنه سمعه في ذلك الزمان ، وإذا سمعه في ذلك الزمان ولم يوصف بالتدليس اقتضى ذلك سماعه ممن عنعنه عنه وهو عثمان رضي الله عنه ولا سيما مع ما اشتهر بين القراء أنه قرأ القرآن على عثمان ، وأسندوا ذلك عنه من رواية عاصم بن أبي النجود وغيره . فكأن هذا أولى من قول من قال : إنه لم يسمع منه ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain is on p. 143 and the hadith on p. 144. Only the Companion's report and the hadith are bold; Abu Abd al-Rahman's remark after it is regular. The (**) footnote is on p. 143, the (*) footnote on p. 144. The heading prints shaddas on «تعلَّم» and «علَّمه»."
+      ]
+    },
+    {
+      "number": 218,
+      "book_page": 144,
+      "heading": "فضيلة من تعلَّم القرآن وعلَّمه",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٧٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 74
+      },
+      "text": "حدثنا أبو نعيم حدثنا سفيان عن علقمة بن مرثد عن أبي عبد الرحمن السلمي **عن عثمان بن عفان رضي الله عنه قال : قال النبي ﷺ : « إن أفضلكم من تعلَّم القرآن وعلَّمه » .**",
+      "grading": "صحيح",
+      "takhrij": "وابن ماجه رقم ٢١٢ ، والترمذي ج٨ ص٢٢٣ ، وقال حسن صحيح . وانظر الحديث المتقدم .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 219,
+      "book_page": 144,
+      "heading": "مثَلُ الذي يقرأ القرآن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٦٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 65
+      },
+      "text": "حدثنا هدبة بن خالد أبو خالد حدثنا همام حدثنا قتادة حدثنا **أنس بن مالك عن أبي موسى الأشعري عن النبي ﷺ قال : « مثَلُ الذي يقرأ القرآن كالأترجة طعمها طيب وريحها طيب ، والذي لا يقرأ القرآن كالتمرة طعمها طيب ولا ريح فيها ، ومثل الفاجر الذي يقرأ القرآن كمثل الريحانة ريحها طيب وطعمها مر ، ومثل الفاجر الذي لا يقرأ القرآن كمثل الحنظلة طعمها مر ولا ريح لها » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٨٣ ، وابن ماجه رقم ٢١٤ ، والنسائيّ ج٨ ص١٢٤ ، والترمذي ج٨ ص١٦٤ تحفة وقال : حسن صحيح . وأبو داود في الأدب ١٩ : ٢ ، وأحمد ٤ / ٣٩٧ ، ٤٠٤ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "بن مالك",
+          "corrected": "",
+          "confidence": 0.48,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "فيها",
+          "corrected": "لها",
+          "confidence": 0.88,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 5 time(s) in the collections and 13 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "The chain is on p. 144 and the hadith on p. 145. The heading and the hadith both print «مثَلُ» with a fatha and a damma (zoomed)."
+      ]
+    },
+    {
+      "number": 220,
+      "book_page": 145,
+      "heading": "مثَلُ المؤمن الذي يقرأ القرآن ويعمل به",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص١٠٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 100
+      },
+      "text": "حدثنا مسدد بن يحيى حدثنا يحيى عن شعبة عن قتادة **عن أنس بن مالك عن أبي موسى الأشعري عن النبي ﷺ قال : « المؤمن الذي يقرأ القرآن ويعمل به كالأترجة طعمها طيب وريحها طيب ، والمؤمن الذي لا يقرأ القرآن ويعمل به كالتمرة طعمها طيب ولا ريح لها ، ومثل المنافق الذي يقرأ القرآن كالريحانة ريحها طيب وطعمها مر ، ومثل المنافق الذي لا يقرأ القرآن كالحنظلة طعمها مر أو خبيث وريحها مر » .**",
+      "grading": "صحيح",
+      "takhrij": "وانظر الحديث المتقدم .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "بن يحيى",
+          "corrected": "",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: al-Bukhari's shaykh here is Musaddad (ibn Musarhad), and «مسدد بن يحيى» is a name no narration uses; «بن يحيى» repeats the next narrator «حدثنا يحيى». The cited source (bukhari 5059) reads «حدثنا مسدد حدثنا يحيى». Printed so (zoomed)."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading prints «مثَلُ» with a fatha and a damma (zoomed). «مسدد بن يحيى» is printed so."
+      ]
+    },
+    {
+      "number": 221,
+      "book_page": 145,
+      "heading": "فضيلة أهل القرآن",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٣ ص١٢٧",
+      "source": {
+        "collection": "ahmad",
+        "volume": 3,
+        "page": 127
+      },
+      "text": "حدثنا أبو عبيدة الحداد ثنا عبد الرحمن بن بديل بن ميسرة قال : حدثني أبي **عن أنس قال : قال رسول الله ﷺ : « إن لله عز وجل أهلين من الناس » ، قال : قيل : من هم يا رسول الله ؟ قال : « أهل القرآن هم أهل الله وخاصته » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن ماجه رقم ٢١٥ ، والحاكم ج١ ص٢٤٢ ، وأحمد أيضا ص٢٤٢ من طريق مؤمل عن عبد الرحمن .. به ، وعزاه المزي في الأطراف للنسائيّ في فضائل القرآن .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain is on p. 145 and the hadith on p. 146."
+      ]
+    },
+    {
+      "number": 222,
+      "book_page": 146,
+      "heading": "جزاء الماهر بالقرآن والذي يتعتع فيه",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٨٤",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 84
+      },
+      "text": "حدثنا قتيبة بن سعيد ومحمد بن عبيد الغبري جميعا عن أبي عوانة قال ابن عبيد : حدثنا أبو عوانة عن قتادة عن زرارة بن أوفى عن سعد بن هشام **عن عائشة قالت : قال رسول الله ﷺ : « الماهر بالقرآن مع السفرة الكرام البررة والذي يقرأ القرآن ويتعتع فيه وهو عليه شاق له أجران » .** وحدثنا محمد بن المثنى حدثنا ابن أبي عدي عن سعيد ح وحدثنا أبو بكر بن أبي شيبة حدثنا وكيع عن هشام الدستوائيّ كلاهما عن قتادة بهذا الإسناد وقال في حديث وكيع : **« والذي يقرأ وهو يشتد عليه له أجران » .**",
+      "grading": "صحيح",
+      "takhrij": "البخاري في التفسير ٨٠ ، ورواه أبو داود ج٢ ص١٤٨ ، وابن ماجه ٣٧٧٩ ، والترمذي ج٨ ص٢١٦ ، وقال حسن صحيح . وعزاه المزي في الأطراف للنسائيّ ، وأخرجه أحمد ٦ / ٩٨ ، ١٧٠ ، ٢٣٩ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "ويتعتع",
+          "corrected": "ويتتعتع",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 2 on dorar.net; in the hadith text the wording of the cited source (muslim 1329) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The second chain («وحدثنا محمد بن المثنى …») is printed without a number of its own and kept in text, regular type with its quoted wording bold. «أوفى» is printed with the فى ligature."
+      ]
+    },
+    {
+      "number": 223,
+      "book_page": 146,
+      "heading": "استذكار القرآن وتعاهده",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٧٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 79
+      },
+      "text": "حدثنا عبد الله بن يوسف أخبرنا مالك عن نافع **عن ابن عمر رضي الله عنهما أن رسول الله ﷺ قال : « إنما مثل صاحب القرآن كمثل صاحب الإبل المعقلة ، إن عاهد عليها أمسكها ، وإن أطلقها ذهبت » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٧٥ ، وابن ماجه ٣٧٨٣ ، والنسائيّ ج٢ ص١٥٤ ، وأحمد ٢ / ١١٢ .",
+      "footnotes": [
+        "(*) [على «مسلم»] وفي إحدى روايات مسلم ص٧٦ زيادة بسند صحيح وهي .. « وإذا قام صاحب القرآن فقرأه بالليل والنهار ذكره وإذا لم يقم به نسيه » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain is on p. 146 and the hadith on p. 147. The (*) footnote marker is on «مسلم» in the takhrij."
+      ]
+    },
+    {
+      "number": 224,
+      "book_page": 147,
+      "heading": "استذكار القرآن وتعاهده",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٧٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 79
+      },
+      "text": "حدثنا محمد بن العلاء حدثنا أبو أسامة عن بريد عن أبي بردة **عن أبي موسى عن النبي ﷺ قال : « تعاهدوا القرآن ، فوالذي نفسي بيده لهو أشد تفصيا من الإبل في عقلها » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٧٨ ، وأحمد ٢ / ٣٩٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 225,
+      "book_page": 147,
+      "heading": "فضيلة ترتيل القرآن وحفظه عن ظهر قلب",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص١٥٣",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 153
+      },
+      "text": "حدثنا مسدد حدثنا يحيى عن سفيان حدثني عاصم بن بهدلة عن ذر **عن عبد الله بن عمرو قال : قال رسول الله ﷺ : « يقال لصاحب القرآن : اقرأ وارتق ورتل كما كنت ترتل في الدنيا فإن منزلتك عند آخر آية تقرؤها » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه الترمذي ج٨ ص٢٣٢ ، وقال حسن صحيح . وعزاه المزي في الأطراف للنسائيّ في فضائل القرآن ٤١ : ١ ، وأحمد ٢ / ١٩٢ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "ذر",
+          "corrected": "زر",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The verse quoted under the heading, with its (*) footnote, is an author_text block after entry 224."
+      ]
+    },
+    {
+      "number": 226,
+      "book_page": 147,
+      "heading": "حفظ الصبيان القرآن عن ظهر قلب",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٨٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 83
+      },
+      "text": "حدثني موسى بن إسماعيل حدثنا أبو عوانة عن أبي بشر عن سعيد بن جبير قال : إن الذي تدعونه بالمفصل هو المحكم . قال : **وقال ابن عباس : توفي رسول الله ﷺ وأنا ابن عشر سنين وقد قرأت المحكم .** حدثنا يعقوب بن إبراهيم حدثنا هشيم أخبرنا أبو بشر عن سعيد بن جبير **عن ابن عباس رضي الله عنهما : جمعت المحكم في عهد الرسول ﷺ ، فقلت له : وما المحكم ؟ قال : المفصل .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain is on p. 147 and the rest on p. 148. The second chain («حدثنا يعقوب بن إبراهيم …») has no number of its own and is kept in text. No source footnote is printed for this entry on p. 147 or p. 148, so takhrij is null."
+      ]
+    },
+    {
+      "number": 227,
+      "book_page": 148,
+      "heading": "القراءة مدًّا",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٩٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 90
+      },
+      "text": "حدثنا مسلم بن إبراهيم حدثنا جرير بن حازم الأسدي حدثنا قتادة **قال : سألت أنس بن مالك عن قراءة النبي ﷺ فقال : كان يمُدُّ مدًّا .** حدثنا عمرو بن عاصم حدثنا همام عن قتادة **قال : سئل أنس : كيف كانت قراءة النبي ﷺ ؟ فقال : كانت مدًّا .** ثم قرأ ﴿ **بسم الله الرحمن الرحيم** ﴾ **يمد ببسم الله ، ويمد بالرحمن ، ويمد بالرحيم .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٢ ص١٥٤ مختصرا ، وابن ماجه مختصرا رقم ١٣٥٣ ، وأخرجه النسائي ج٢ ص١٧٩ ، وأحمد ٣ / ١٣١ ، ١٩٢ ، ٢٨٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The second chain («حدثنا عمرو بن عاصم …») has no number of its own and is kept in text. «ثم قرأ» is printed regular, the rest bold. Marks as printed: «يمُدُّ», «مدًّا» (heading and text, zoomed)."
+      ]
+    },
+    {
+      "number": 228,
+      "book_page": 148,
+      "heading": "الترجيع في القراءة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٣ ص٥١٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 13,
+        "page": 512
+      },
+      "text": "حدثنا أحمد بن أبي سريج أخبرنا شبابة حدثنا شعبة عن معاوية بن قرة المزني **عن عبد الله بن المغفل المزني قال : رأيت رسول الله ﷺ يوم الفتح على ناقة له يقرأ سورة الفتح - أو من سورة الفتح - قال : فرجّع فيها ، قال : ثم قرأ معاوية يحكي قراءة ابن المغفل وقال : لولا أن يجتمع الناس عليكم لرجّعت كما رجّع ابن مغفل يحكي النبي ﷺ . فقلت لمعاوية : كيف كان ترجيعه قال : آ آ آ ثلاث مرات » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٨١ ، وأبو داود ج٢ ص١٥٤ ، وعزاه المزي في الأطراف للنسائيّ في فضائل القرآن .",
+      "footnotes": [
+        "(*) [على «الترجيع»] الترجيع هو تقارب ضروب الحركات في القراءة وأصله الترديد ، وترجيع الصوت ترديده في الحلق . قاله الحافظ ج٩ .",
+        "(*) [على «فرجّع فيها»] قال الحافظ فتح ج١٣ ص٥١٥ : قوله : ( فرجّع فيها ) بتشديد الجيم أي ردد الصوت في الحلق والجهر بالقول مكررا بعد خفائه ."
+      ],
+      "corrections": [
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "بن المغفل المزني",
+          "corrected": "بن مغفل المزني",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7540) is used."
+        },
+        {
+          "id": 13,
+          "field": "text",
+          "printed": "ابن المغفل وقال",
+          "corrected": "ابن مغفل وقال",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7540) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The chain is on p. 148 and the hadith on p. 149. The first (*) footnote is on the heading's «الترجيع» (p. 148), the second on «فرجّع فيها» (p. 149). Shaddas as printed: «فرجّع», «لرجّعت», «رجّع» (zoomed). The closing « » » after «ثلاث مرات» has no opening mark on the page (zoomed); kept as printed. A speck over the dal of «عبد» (zoomed) is not a mark."
+      ]
+    },
+    {
+      "number": 229,
+      "book_page": 149,
+      "heading": "حسن الصوت بالقراءة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج ص",
+      "source": {
+        "collection": "bukhari"
+      },
+      "text": "حدثني إبراهيم بن حمزة حدثني ابن أبي حازم عن يزيد عن محمد بن إبراهيم عن أبي سلمة **عن أبي هريرة أنه سمع النبي ﷺ يقول : « ما أذن الله لشيء ما أذن لنبي حسن الصوت بالقرآن يجهر به » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٧٩ ، وأبو داود ج٢ ص١٥٧ ، والنسائيّ في الصلاة ٣٤٠ : ٣ ، وفي فضائل القرآن السنن الكبرى ، وأحمد ٢ / ٢٧١ ، ٤٥٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation prints «فتح جـ ص» with the volume and page numbers left blank (zoomed), so source has no volume or page."
+      ]
+    },
+    {
+      "number": 230,
+      "book_page": 149,
+      "heading": "حسن الصوت بالقراءة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٦٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 68
+      },
+      "text": "حدثنا يحيى بن بكير قال : حدثني الليث عن عقيل عن ابن شهاب قال : أخبرني أبو سلمة ابن عبد الرحمن **عن أبي هريرة رضي الله عنه أنه كان يقول : قال رسول الله ﷺ : « لم يأذن الله لشيء ما أذن لنبي أن يتغنى بالقرآن » . وقال صاحب له : يريد يجهر به .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٧٩ ، والنسائيّ ج٢ ص١٨٠ .",
+      "footnotes": [
+        "(*) [على «يتغنى»] قال ابن كثير ج٤ ص٣٥ ملحق فضائل القرآن من تفسيره : .. فقد فهم السلف رضي الله عنهم من التغني بالقرآن إنما هو تحسين الصوت به وتحزينه كما قاله الأئمة رضي الله عنهم . وقال : والغرض أن المطلوب شرعا إنما هو التحسين بالصوت الباعث على تدبر القرآن وتفهمه والخشوع والخضوع والانقياد للطاعة ، فأما الأصوات بالنغمات المحدثة المركبة على الأوزان والأوضاع الملهية والقانون الموسيقانيّ فالقرآن ينزه عن هذا ويجل ويعظم أن يسلك في أدائه هذا المسلك ... ، ثم قال : وقد نص الأئمة رحمهم الله على النهي عنه فأما إن خرج به إلى التمطيط الفاحش الذي يزيد بسببه حرفا أو ينقص حرفا فقد اتفق العلماء على تحريمه والله أعلم . قلت : تحسين الصوت بالقراءة مشروع كما جاء في الأحاديث التي سقناها وكذلك التغني ولكن مع هذا الخشوع وتدبر آياته كما أمر الله تعالى في كتاب : ﴿ **كتاب أنزلناه إليك مبارك ليدبروا آياته وليتذكر أولوا الألباب** ﴾ وليتأمل موقف الرسول ﷺ والذين أوتوا العلم مع القرآن في الآيات الواردة في هذا الباب ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain is on p. 149 and the hadith on p. 150. «هريرةرضي» is printed with no space, written as two words. The (*) footnote (p. 150) has a second paragraph («قلت : …»), the Sheikh's, joined into it; «الموسيقانيّ» is printed so, with the nisba mark (zoomed). The hamza on alif in this footnote is drawn with a damma-like stroke, as elsewhere in the book's font, and written as plain «أ»."
+      ]
+    },
+    {
+      "number": 231,
+      "book_page": 150,
+      "heading": "حسن الصوت بالقراءة",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص١٥٥",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 155
+      },
+      "text": "حدثنا أبو الوليد الطيالسي وقتيبة بن سعيد ويزيد بن خالد بن موهب الرملي ، بمعناه أن الليث حدثهم عن عبد الله بن أبي مليكة عن عبد الله بن أبي نهيك ، عن سعد بن أبي وقاص وقال : يزيد عن ابن أبي مليكة عن سعيد بن أبي سعيد ، وقال : قتيبة هو في كتابي **عن سعيد بن أبي سعيد قال : قال رسول الله ﷺ : « ليس منا من لم يتغن بالقرآن » .**",
+      "grading": "صحيح",
+      "takhrij": "وقد أعرضنا عن حديث البخاري من حديث أبي هريرة لكونه من الأحاديث التي انتقدها الدارقطني . وانظر مسند أحمد ١ / ١٧٢ ، ١٧٥ ، ١٧٩ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 14,
+          "field": "text",
+          "printed": "مليكة عن عبد الله بن",
+          "corrected": "مليكة عن عبيد الله بن",
+          "confidence": 0.98,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 5 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The source footnote's two paragraphs are joined."
+      ]
+    },
+    {
+      "number": 232,
+      "book_page": 151,
+      "heading": "حسن الصوت بالقراءة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٩٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 92
+      },
+      "text": "حدثنا محمد بن خلف أبو بكر حدثنا أبو يحيى الحماني حدثنا بريد بن عبد الله بن أبي بردة عن جده أبي بردة **عن أبي موسى رضي الله عنه أن النبي ﷺ قال له : « يا أبا موسى ، لقد أوتيت مزمارا من مزامير آل داود » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٨٠ من طريق أخرى عن أبي بردة ، وابن ماجة بالمعنى ١٣٤١ ، والنسائيّ ج٢ ص١٨٠ ، والترمذي ج١٠ ص٣٥٧ تحفة وقال : حسن صحيح .",
+      "footnotes": [
+        "(*) [على «صحيح»] فقد رواه مسلم من طريق أخرى عن بريد ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The grading carries the (*) footnote. «ابن ماجة» is printed with a final ta marbuta."
+      ]
+    },
+    {
+      "number": 233,
+      "book_page": 151,
+      "heading": "حسن الصوت بالقراءة",
+      "label": null,
+      "citation": "قال الإمام أحمد ٤ / ٢٨٣",
+      "source": {
+        "collection": "ahmad",
+        "volume": 4,
+        "page": 283
+      },
+      "text": "حدثنا حميد بن عبد الرحمن عن الأعمش عن طلحة عن عبد الرحمن بن عوسجة **عن البراء قال : قال رسول الله ﷺ : « زينوا القرآن بأصواتكم » .**",
+      "grading": null,
+      "takhrij": "وأخرجه أحمد أيضا ٤ / ٢٨٥ ، ٢٩٦ ، ٣٠٤ ، وأبو داود في الصلاة ٣٥٦ : ٥ ، والنسائيّ في الصلاة ٣٤٠ : ١ ، وابن ماجه في الصلاة ٢١٥ ، وابن حبان ٦٦٠ ، من طرق عن طلحة بن مصرف عن عبد الرحمن بن عوسجة عن البراء به مرفوعًا . وله طريق أخرى عن البراء عند الحاكم ١ / ٥٧٥ . وله طريق عن أبي هريرة عند ابن حبان رقم ٦٦١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No grading is printed after this entry: entry 234's citation follows directly (p. 151), so grading is null. The source footnote's three paragraphs are joined; «مرفوعًا» prints a tanween fatha (zoomed)."
+      ]
+    },
+    {
+      "number": 234,
+      "book_page": 151,
+      "heading": "حسن الصوت بالقراءة",
+      "label": null,
+      "citation": "قال الإمام البخاريّ فتح ج١٣ ص٥٢٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 13,
+        "page": 520
+      },
+      "text": "حدثنا يحيى بن بكير حدثنا الليث عن عقيل عن ابن شهاب حدثني عروة أن المسور بن مخرمة وعبد الرحمن بن عبد القاري حدثاه **أنهما سمعا عمر بن الخطاب يقول : سمعت هشام بن حكيم يقرأ سورة الفرقان في حياة الرسول ﷺ فاستمعت لقراءته فإذا هو يقرأ على حروف كثيرة لم يقرئنيها رسول الله ﷺ فكدت أساوره في الصلاة فتصبرت حتى سلم فلببته بردائه فقلت : من أقرأك هذه السورة التي سمعتك تقرأ ؟ قال : أقرأنيها رسول الله ﷺ ، فقلت كذبت أقرأنيها على غير ما قرأت ، فانطلقت به أقوده إلى رسول الله ﷺ فقلت إني سمعت هذا يقرأ سورة الفرقان على حروف لم تقرئنيها ، فقال : « أرسله ، اقرأ يا هشام » . فقرأ القراءة التي سمعته ، فقال رسول الله ﷺ : « كذلك أنزلت » ، ثم قال رسول الله ﷺ : « اقرأ يا عمر » . فقرأت فقال : « كذلك أنزلت » ، إن هذا القرآن أنزل على سبعة أحرف فاقرأوا ما تيسر منه »** الأطراف ج٥ ص٧٣ .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٩٨ نووي ، ورواه أبو داود ج٢ ص١٥٨ ، والنسائيّ ج٢ ص١٥٠ ، والترمذي ج٥ ص٢٦٥ تحفة وقال : حديث صحيح . و ج٨ ص٢٦٥ ، وأحمد ١ / ٤٣ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 15,
+          "field": "text",
+          "printed": "الرسول",
+          "corrected": "رسول الله",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 8 time(s) in the collections and 11 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7550) is used."
+        },
+        {
+          "id": 16,
+          "field": "text",
+          "printed": "فقرأت فقال",
+          "corrected": "فقرأت التي أقرأني فقال",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 7550) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith starts on p. 151 and ends on p. 152. The citation prints the nisba mark on «البخاريّ» (zoomed). The quotation marks are as printed: «« كذلك أنزلت » ، إن هذا …» has no opening mark before «إن», only a closing one after «منه». The Sheikh's reference «الأطراف ج٥ ص٧٣» after the hadith is regular type, kept in text."
+      ]
+    },
+    {
+      "number": 235,
+      "book_page": 152,
+      "heading": "فضل من قرأ حرفا من كتاب الله",
+      "label": null,
+      "citation": "قال الترمذي ج٨ ص٢٢٦ تحفة",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 8,
+        "page": 226,
+        "edition": "تحفة الأحوذي"
+      },
+      "text": "حدثنا محمد بن بشار أخبرنا أبو بكر الحنفي أخبرنا الضحاك بن عثمان عن أيوب بن موسى ، قال : سمعت محمد بن كعب القرظي يقول : **سمعت عبد الله بن مسعود يقول : قال رسول الله ﷺ : « من قرأ حرفا من كتاب الله فله به حسنة والحسنة بعشر أمثالها لا أقول آلم حرف ولكن ألف حرف ولام حرف وميم حرف » .**",
+      "grading": "حسن",
+      "takhrij": "وقال حسن صحيح غريب . وهذا الحديث رفعه قوم ، ووقفه آخرون .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 17,
+          "field": "text",
+          "printed": "بشار أخبرنا أبو",
+          "corrected": "بشار قال حدثنا أبو",
+          "confidence": 0.53,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 236,
+      "book_page": 152,
+      "heading": "فضيلة تعلم أو قراءة آية أو آيتين أو ثلاث",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٨٩",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 89
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا الفضل بن دكين عن موسى بن علي قال : سمعت أبي يحدث **عن عقبة بن عامر قال : خرج رسول الله ﷺ ونحن في الصفة فقال : « أيكم يحب أن يغدو كل يوم إلى بطحان أو إلى العقيق فيأتي منه بناقتين كوماوين في غير إثم ولا قطع رحم » ؟ فقلنا : يا رسول الله نحب ذلك . قال : « أفلا يغدو أحدكم إلى المسجد فيَعْلَمَ أو يقرأ آيتين من كتاب الله عز وجل خير له من ناقتين ، وثلاث خير له من ثلاث ، وأربع خير له من أربع ، ومن أعدادهن من الإبل » .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أبو داود ج٢ ص١٤٩ ، وأحمد ٤ / ١٥٤ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain is on p. 152 and the hadith ends on p. 153. «فيَعْلَمَ» prints a fatha on the ya, a sukun on the ain and a fatha on the mim (zoomed)."
+      ]
+    },
+    {
+      "number": 237,
+      "book_page": 153,
+      "heading": "فضيلة تعلم أو قراءة آية أو آيتين أو ثلاث",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٨٩",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 89
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة وأبو سعيد الأشج قالا : حدثنا وكيع عن الأعمش عن أبي صالح **عن أبي هريرة قال : قال رسول الله ﷺ : « أيحب أحدكم إذا رجع إلى أهله أن يجد فيه ثلاث خَلِفات عظام سمان » ؟ قلنا : نعم . قال : « فثلاث آيات يقرأ بهن أحدكم في صلاته خير له من ثلاث خَلِفات عظام سمان » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ٣٧٨٢ ، وأحمد ٢ / ٣٩٧ .",
+      "footnotes": [
+        "(*) [على «خَلِفات»] قال النووي في شروح مسلم : « الخَلِفات » بفتح الخاء المعجمة وكسر اللام الحوامل من الإبل إلى أن يمضي عليها نصف أمدها ثم هي عشار والواحدة خلفة وعشراء ."
+      ],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "footnotes.0",
+          "printed": "شروح مسلم",
+          "corrected": "شرح مسلم",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the book's title is al-Nawawi's «شرح مسلم» (one commentary); «شروح» (zoomed) is a misprint."
+        }
+      ],
+      "transcriber_notes": [
+        "«خَلِفات» prints a fatha on the kha and a kasra on the lam, twice in the text and once in the footnote (zoomed). No heading of its own: the heading of entry 236 is in effect. The page ends with a row of three stars after the grading, left out. p. 154 is blank."
+      ]
+    },
+    {
+      "number": 238,
+      "book_page": 155,
+      "heading": "فضيلة الحمد لله رب العالمين",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٥٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 54
+      },
+      "text": "حدثنا علي بن عبد الله حدثنا يحيى بن سعيد حدثنا شعبة قال : حدثني خبيب بن عبد الرحمن عن حفص بن عاصم **عن أبي سعيد بن المعلى قال : كنت أصلي فدعاني النبي ﷺ فلم أجبه ، قلت : يا رسول الله إني كنت أصلي ، قال : « ألم يقل الله : ﴿ استجيبوا لله وللرسول إذا دعاكم ﴾ ؟ » ، ثم قال : « ألا أعلمك أعظم سورة في القرآن قبل أن تخرج من المسجد ؟ » فأخذ بيدي ، فلما أردنا أن نخرج قلت : يا رسول الله إنك قلت : « لأعلمنك أعظم سورة في القرآن » ، قال : « ﴿ الحمد لله رب العالمين ﴾ هي السبع المثاني والقرآن العظيم الذي أوتيته » .**",
+      "grading": "صحيح",
+      "takhrij": "والنسائيّ ج٢ ص١٣٩ ، وأبو داود في الصلاة ٣٥١ ، وابن ماجه في الأدب ثواب التسبيح ، وأحمد ٣ / ٤٥٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Under the section heading «فضائل بعض السور والآيات» (an author_text heading block after entry 237). The Quran quotations are bold like the hadith around them."
+      ]
+    },
+    {
+      "number": 239,
+      "book_page": 155,
+      "heading": "فضيلة الحمد لله رب العالمين",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٣٨١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 381
+      },
+      "text": "حدثني محمد بن بشار حدثنا غندر حدثنا شعبة عن خبيب بن عبد الرحمن عن حفص ابن عاصم عن **أبي سعيد بن المعلى قال : مرَّ بي النبي ﷺ وأنا أصلي فدعاني فلم آته حتى صليت ، ثم أتيت فقال : « ما منعك أن تأتي ؟ » فقلت : كنت أصلي : فقال : « ألم يقل الله ﴿ يا أيها الذين آمنوا استجيبوا لله وللرسول ﴾ ؟ » ثم قال : « ألا أعلمك أعظم سورة في القرآن قبل أن أخرج من المسجد ؟ » ، فذهب النبي ﷺ ليخرج فذكرته فقال : « ﴿ الحمد لله رب العالمين ﴾ هي السبع المثاني والقرآن العظيم الذي أوتيته » .** وقال حدثنا آدم حدثنا ابن أبي ذئب حدثنا سعيد المقبري **عن أبي هريرة رضي الله عنه قال : قال رسول الله ﷺ : « أم القرآن هي السبع المثاني والقرآن العظيم » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٢ ص١٥٠ ، وابن ماجه ٣٧٨٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith is on p. 155; the further narration («وقال حدثنا آدم …»), printed without a number of its own, runs onto p. 156 and is kept in text, its chain regular. «مرَّ» prints a shadda (zoomed). «كنت أصلي : فقال» is printed with a colon before «فقال»."
+      ]
+    },
+    {
+      "number": 240,
+      "book_page": 156,
+      "heading": "فضيلة فاتحة الكتاب وخواتيم البقرة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٩١",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 91
+      },
+      "text": "حدثنا حسن بن الربيع وأحمد بن جواس الحنفي قالا : حدثنا أبو الأحوص عن عمار ابن رزيق عن عبد الله بن عيسى عن سعيد بن جبير **عن ابن عباس قال : بينما جبريل قاعد عند النبي ﷺ سمع نقيضا من فوقه فرفع رأسه فقال : هذا باب من السماء فتح اليوم لم يفتح قط إلا اليوم فنزل منه ملك فقال : هذا ملك نزل إلى الأرض لم ينزل قط إلا اليوم فسلم وقال : أبشر بنورين أوتيتهما لم يؤتهما نبي قبلك ، فاتحة الكتاب وخواتيم سورة البقرة ، لن تقرأ بحرف منهما إلا أعطيته .**",
+      "grading": "حسن",
+      "takhrij": "والنسائيّ ج٢ ص١٣٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 241,
+      "book_page": 156,
+      "heading": "فضيلة البقرة وآل عمران",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٥ ص٣٤٨ مسند",
+      "source": {
+        "collection": "ahmad",
+        "volume": 5,
+        "page": 348
+      },
+      "text": "حدثنا أبو نعيم حدثنا بشير بن المهاجر **حدثني عبد الله بن بريدة عن أبيه قال : كنت جالسا عند النبي ﷺ فسمعته يقول : « تعلَّموا سورة البقرة فإن أخذها بركة وتركها حسرة ولا يستطيعها البطلة » قال ثم مكث ساعة ، ثم قال : « تعلَّموا سورة البقرة وآل عمران فإنهما الزهراوان يظلان صاحبهما يوم القيامة كأنهما غمامتان أو غيايتان أو فرقان من طير صواف ، وإن القرآن يلقى صاحبه يوم القيامة حين ينشق عنه قبره كالرجل الشاحب فيقول له : هل تعرفني . فيقول : ما أعرفك . فيقول : أنا صاحبك القرآن الذي أظمأتك في الهواجر وأسهرت ليلك وإن كل تاجر من وراء تجارته وإنك اليوم من وراء كل تجارة ، فيعطى الملك بيمينه والخلد بشماله ويوضع على رأسه تاج الوقار ويكسى والداه حلتين لا يقوم لهما أهل الدنيا ، فيقولان : بم كسينا هذه ؟ فيقال : بأخذ ولدكما القرآن ، ثم يقال له : اقرأ واصعد في درجة الجنة وغرفها ، فهو في صعود ما دام يقرأ هذا كان أو ترتيلا » .**",
+      "grading": "حسن",
+      "takhrij": "وابن ماجه مختصرا في الأدب ٥٢ : ٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith starts on p. 156 and ends on p. 157. The chain from «حدثني عبد الله بن بريدة» on is bold. «تعلَّموا» prints a shadda twice (zoomed). «هذا كان أو ترتيلا» is printed so, without marks."
+      ]
+    },
+    {
+      "number": 242,
+      "book_page": 157,
+      "heading": "فضيلة آية الكرسي",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٩٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 93
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا عبد الأعلى بن عبد الأعلى عن الجريري عن أبي السليل عن عبد الله بن رباح الأنصاري **عن أبي بن كعب قال : قال رسول الله ﷺ : « يا أبا المنذر أتدري أي آية من كتاب الله معك أعظم ؟ » قال : قلت : الله ورسوله أعلم . قال : « يا أبا للنذر : أتدري أي آية من كتاب الله معك أعظم ؟ » قال : قلت : ﴿ الله لا إله إلا هو الحى القيوم ﴾ ، قال : فضرب في صدري وقال : « والله ليهنك العلم أبا المنذر » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٢ ص١٥١ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "يا أبا للنذر",
+          "corrected": "يا أبا المنذر",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: Ubayy's kunya is «أبا المنذر», printed correctly twice in the same hadith; «للنذر» (zoomed) drops the alif of the article and is a misprint of the name."
+        }
+      ],
+      "transcriber_notes": [
+        "«يا أبا للنذر» is printed so the second time (zoomed). «الحى» is printed with a final alif maqsura."
+      ]
+    },
+    {
+      "number": 243,
+      "book_page": 157,
+      "heading": "فضيلة آية الكرسي",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٨٩",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 89
+      },
+      "text": "حدثني الحسن بن علي الحلواني حدثنا أبو توبة وهو الربيع بن نافع حدثنا معاوية يعني ابن سلام عن زيد أنه سمع أبا سلام يقول : **حدثني أبو أمامة الباهلي قال : سمعت رسول الله ﷺ يقول : « اقرءوا القرآن فإنه يأتي يوم القيامة شفيعا لأصحابه ، اقرءوا الزهراوين البقرة وسورة آل عمران فإنهما يأتيان يوم القيامة كأنهما غمامتان أو كأنهما غيايتان أو كأنهما فرقان من طير صواف تحاجان عن أصحابهما ، اقرءوا سورة البقرة فإن أخذها بركة وتركها حسرة ولا تستطيعها البطلة »** . قال معاوية : بلغني أن البطلة : السحرة .",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain is on p. 157 and the hadith on p. 158. No heading of its own: the heading of entry 242 is in effect, though the hadith is about al-Baqara and Al Imran. Mu'awiya's remark after the hadith is regular type, kept in text. No source footnote is printed for this entry on p. 157 or p. 158, so takhrij is null."
+      ]
+    },
+    {
+      "number": 244,
+      "book_page": 158,
+      "heading": "العشر الأواخر من آل عمران",
+      "label": null,
+      "citation": "قال ابن حبان - رحمه الله - ( موارد حديث ٥٢٣ )",
+      "source": {
+        "collection": "ibnhibban",
+        "hadith": 523,
+        "edition": "موارد الظمآن"
+      },
+      "text": "أخبرنا عمران بن موسى حدثنا عثمان بن أبي شيبة حدثنا يحيى بن زكريا عن إبراهيم ابن سويد النخعي حدثنا عبد الملك بن أبي سليمان **عن عطاء قال : دخلت أنا وعبيد ابن عمير على عائشة ، فقالت لعبيد بن عمير : قد آن لك أن تزور فقال : أقول يا أمه كما قال الأول : زر غبا تزدد حبا . قال : فقالت : دعونا من بطالتكم هذه . قال ابن عمير : أخبرينا بأعجب شيء رأيته من رسول الله ﷺ ، قال : فسكتت ، ثم قالت ، لما كان ليلة من الليالي قال : يا عائشة ذريني أتعبد الليلة لربي قلت : والله إني لأحب قربك وأحب ما يسرك ، قالت : فقام فتطهر ، ثم قال : يصلي ، قالت ، فلم يزل يبكي حتى بل حجره ، قالت : وكان جالسًا فلم يزل يبكي حتى بل لحيته ، قالت : ثم بكى حتى بل الأرض ، فجاء بلال يؤذنه بالصلاة فلما رآه يبكي قال : يا رسول الله تبكي وقد غفر الله لك ما تقدم من ذنبك وما تأخر ؟ قال : « أفلا أكون عبدًا شكورًا ؟ لقد نزلت عليَّ الليلة آية ويل لمن قرأها ولم يتفكر فيها ﴿ إن فى خلق السموات ... ﴾ الآية كلها .**",
+      "grading": "حسن",
+      "takhrij": "وعزاه ابن كثير في تفسيره ١ / ٤٤١ إلى ابن أبي حاتم . وقد توبع إبراهيم بن سويد متابعة ضعيفة ذكرها ابن كثير ، تابعه يحيى بن حية أبو جناب الكلبي ، عند ابن مردويه وعبد بن حميد ، وذكر له شاهدًا معضلًا من طريق سفيان الثوري رفعه بلفظ « من قرأ آخر آل عمران فلم يتفكر فيها ويله » يعد بأصابعه عشرا . وأخرجه أحمد ٥ / ٢٥٥ ، ٢٥٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation prints «-رحمه الله-» with dashes. Marks as printed: «جالسًا», «عبدًا شكورًا», «عليَّ» (zoomed). «ثم قال : يصلي» is printed so. The Prophet's words open with « but no closing mark is printed after «الآية كلها» (zoomed). The source footnote runs from p. 158 to p. 159 («=») and its paragraphs are joined; «شاهدًا معضلًا» print tanween fathas (zoomed)."
+      ]
+    },
+    {
+      "number": 245,
+      "book_page": 159,
+      "heading": "فضيلة حفظ عشر آيات من أول الكهف",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٩٢",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 92
+      },
+      "text": "حدثنا محمد بن المثنى حدثنا معاذ بن هشام حدثني أبي عن قتادة عن سالم بن أبي الجعد الغطفاني عن معدان بن أبي طلحة **عن أبي الدرداء أن النبي ﷺ قال : « من حفظ عشر آيات من أول سورة الكهف عصم من الدجال » .** وحدثنا محمد بن المثنى وابن بشار قالا : حدثنا محمد بن جعفر حدثنا شعبة ح وحدثني زهير بن حرب حدثنا عبد الرحمن بن مهدي حدثنا همام جميعا عن قتادة بهذا الإسناد قال شعبة : من آخر الكهف وقال همام : من أول الكهف كما قال هشام .",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٤ ص٤٩٧ ، وفي الملاحم ١٤ : ٩ ، وأحمد ٦ / ٤٤٩ ، ٤٥٠ ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The further chains («وحدثنا محمد بن المثنى وابن بشار …») are printed without a number of their own, in regular type, and kept in text."
+      ]
+    },
+    {
+      "number": 246,
+      "book_page": 159,
+      "heading": "فضيلة قل هو الله أحد",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٣ ص٣٤٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 13,
+        "page": 347
+      },
+      "text": "حدثنا أحمد بن صالح حدثنا ابن وهب حدثنا عمرو عن ابن أبي هلال أن أبا الرجال محمد بن عبد الرحمن حدثه عن أمه عمرة بنت عبد الرحمن - وكانت في حجر عائشة زوج النبي ﷺ - **عن عائشة أن النبي ﷺ بعث رجلا على سرية وكان يقرأ على أصحابه في صلاته فيختم بقل هو الله أحد ، فلما رجعوإ ذكروا ذلك للنبي ﷺ فقال : « سلوه لأي شيء يصنع ذلك ؟ » فسألوه فقال : لأنها صفة الرحمن وأنا أحب أن أقرأ بها . فقال النبي ﷺ : « أخبروه أن الله يحبه » .**",
+      "grading": "حسن",
+      "takhrij": "ورواه مسلم ج٦ ص٩٥ نووي ، والنسائيّ ج٢ ص١٧١ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 18,
+          "field": "text",
+          "printed": "على أصحابه",
+          "corrected": "لأصحابه",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7375) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith starts on p. 159 and ends on p. 160. «رجعوإ» is printed with a hamza under the final alif (zoomed), kept as printed. The grading is printed «حسن» although the source is al-Bukhari."
+      ]
+    },
+    {
+      "number": 247,
+      "book_page": 160,
+      "heading": "قل هو الله أحد تعدل ثلث القرآن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٥٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 58
+      },
+      "text": "حدثنا عبد الله بن يوسف أخبرنا مالك عن عبد الرحمن بن عبد الله بن عبد الرحمن ابن أبي صعصعة عن أبيه **عن أبي سعيد الخدري أن رجلا سمع رجلا يقرأ ﴿ قل هو الله أحد ﴾ يرددها ، فلما أصبح جاء إلى رسول الله ﷺ فذكر ذلك له - وكأن الرجل يتقالها - فقال رسول الله ﷺ : « والذي نفسي بيده إنها لتعدل ثلث القرآن » .**",
+      "grading": "صحيح",
+      "takhrij": "وروى له مسلم شاهدا من حديث أبي الدرداء وأبي هريرة ج٦ ص٩٤ ، ٩٥ نووي ، وأبو داود ج٢ ص١٥٢ ، والنسائيّ ج٢ ص١٧١ ، وأحمد ٣ / ٣٥ ، ٤٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 248,
+      "book_page": 160,
+      "heading": "فضيلة المعوذتين",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٩٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 96
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا جرير عن بيان عن قيس بن أبي حازم عن **عقبة بن عامر قال : قال رسول الله ﷺ : « ألم تر آيات أنزلت الليلة لم ير مثلهن قط ﴿ قل أعوذ برب الفلق ﴾ و ﴿ قل أعوذ برب الناس ﴾ .** وحدثني محمد بن عبد الله بن نمير حدثنا أبي حدثنا إسماعيل عن قيس عن **عقبة بن عامر قال : قال لي رسول الله ﷺ : « أنزل أو أنزلت علي آيات لم ير مثلهن قط المعوذتين**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٢ ص١٥٢ مع اختلاف يسير في اللفظ ، والنسائيّ ج٢ ص١٥٨ ، والترمذي ج٨ ص٢١٦ وقال : حسن صحيح . وأحمد ٤ / ١٥١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The second chain («وحدثني محمد بن عبد الله بن نمير …») has no number of its own and is kept in text. No closing « » » is printed after either quotation, and the second ends at «المعوذتين» with no full stop (zoomed)."
+      ]
+    },
+    {
+      "number": 249,
+      "book_page": 161,
+      "heading": "النهي عن قراءة القرآن عند الاختلاف",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٣ ص٣٣٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 13,
+        "page": 335
+      },
+      "text": "حدثنا إسحاق أخبرنا عبد الله بن مهدي عن سلام بن أبي مطيع عن أبي عمران الجوني عن **جندب بن عبد الله بن البجلي قال : قال رسول الله ﷺ : « اقرءوا القرآن ما ائتلفت قلوبكم ، فإذا اختلفتم فقوموا عنه » .** قال أبو عبد الله سمع عبد الرحمن سلاما .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٦ ص٢١٩ ، وأحمد ٤ / ٣١٣ ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [
+        "(*) [على «سمع عبد الرحمن سلاما»] نعم سمع عبد الرحمن سلاما . فقد صرح عبد الرحمن بتحديث سلام له كما في الفتح ج٩ ص١٠١ وقد روى هذا الحديث عن أبي عمران جمع كثير ."
+      ],
+      "corrections": [
+        {
+          "id": 19,
+          "field": "text",
+          "printed": "أخبرنا عبد الله بن مهدي",
+          "corrected": "أخبرنا عبد الرحمن بن مهدي",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator from Sallam ibn Abi Muti' is Abd al-Rahman ibn Mahdi, as the same entry's remark («سمع عبد الرحمن سلاما») and its footnote say; «عبد الله بن مهدي» is a name no narration uses. Printed so (zoomed)."
+        },
+        {
+          "id": 20,
+          "field": "text",
+          "printed": "بن البجلي",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 154 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7364) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Under the section heading «آداب قراءة القرآن» and its verses (an author_text block after entry 248). The «عن» before «جندب» looks regular, the rest bold. «عبد الله بن مهدي» and «جندب بن عبد الله بن البجلي» are printed so. Abu Abd Allah's remark after the hadith is regular type, kept in text. The footnote's «كما» is printed with the ligature that looks like «كا» (zoomed)."
+      ]
+    },
+    {
+      "number": 250,
+      "book_page": 162,
+      "heading": "تلاوة القرآن على غير وضوء",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٤ ص٢٣٧",
+      "source": {
+        "collection": "ahmad",
+        "volume": 4,
+        "page": 237
+      },
+      "text": "حدثنا هشيم أن داود بن عمرو قال : ثنا أبو سلام قال : حدثني من رأى النبي ﷺ بال ثم تلا شيئا من القرآن ، وقال هشيم مرة آيا من القرآن قبل أن يمس ماء .",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 21,
+          "field": "text",
+          "printed": "هشيم أن داود",
+          "corrected": "هشيم أخبرنا داود",
+          "confidence": 0.63,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The whole entry is printed in regular type, with no bold. No source footnote is printed for this entry on p. 162, so takhrij is null."
+      ]
+    },
+    {
+      "number": 251,
+      "book_page": 162,
+      "heading": "النهي عن التشويش بالقراءة على الغير",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص٨٣",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 83
+      },
+      "text": "حدثنا الحسن بن علي حدثنا عبد الرزاق أخبرنا معمر عن إسماعيل بن أمية **عن أبي سلمة عن أبي سعيد قال : اعتكف رسول الله ﷺ في المسجد فسمعهم يجهرون بالقراءة فكشف الستر وقال : « ألا إن كلكم مناج ربه فلا يؤذين بعضكم بعضا ولا يرفع بعضكم على بعض في القراءة » أو قال : « في الصلاة » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٣ / ٩٤ ، وعزاه المزي في الأطراف للنسائيّ في فضائل القرآن .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 252,
+      "book_page": 162,
+      "heading": "ترك القراءة هذًّا كهذِّ الشعر",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٥٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 255
+      },
+      "text": "حدثنا آدم قال : حدثنا شعبة عن عمرو بن مرة قال : **سمعت أبا وائل قال : جاء رجل إلى ابن مسعود فقال : قرأت المفصل الليلة في ركعة : فقال : هذًّا كهذِّ الشعر . لقد عرفت النظائر التي كان النبي ﷺ يقرُنُ بينهن . فذكر عشرين سورة من المفصل ، سورتين من آل حاميم في كل ركعة .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص١٠٦ نووي ، وأبو داود ج٢ ص١١٧ ، والنسائيّ ج٢ ص١٧٦ .",
+      "footnotes": [
+        "(*) [على «من المفصل»] هذا على تأليف ابن مسعود كما جاء في الحديث الذي أخرجه البخاري فتح ج٩ ص٣٩ ."
+      ],
+      "corrections": [
+        {
+          "id": 22,
+          "field": "text",
+          "printed": "من آل حاميم",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 775) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«سمعت أبا وائل قال :» and the text from «جاء» on are bold, with «قال : حدثنا شعبة …» regular. Marks as printed: «هذًّا» and «كهذِّ» (heading and text), «يقرُنُ» (zoomed). «في ركعة : فقال» is printed with a colon. The footnote prints «جـ ٩ ص ٣٩» with spaces, written in the usual form."
+      ]
+    },
+    {
+      "number": 253,
+      "book_page": 163,
+      "heading": "الاقتصاد في قراءة القرآن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٩٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 95
+      },
+      "text": "حدثني إسحاق أخبرني عبيد الله بن موسى عن شيبان عن يحيى بن محمد بن عبد الرحمن مولى بني زهرة عن أبي سلمة - قال : وأحسبني قال : سمعت أنا من أبي سلمة - **عن عبد الله بن عمرو قال : قال لي رسول الله ﷺ : « اقرأ القرآن في شهر » ، قلت : إني أجد قوة ، حتى قال : « فاقرأه في سبع ولا تزد على ذلك » .**",
+      "grading": "صحيح لما بعده",
+      "takhrij": "ورواه مسلم ج٨ ص٤٣ ، وأبو داود ج٢ ص١١٢ ، وأحمد ٢ / ١٥٨ ، ١٦٢ ، ١٩٨ ، ٢٠١ ، والنسائيّ في الصيام باب ٤٥ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 23,
+          "field": "text",
+          "printed": "يحيى بن محمد",
+          "corrected": "يحيى عن محمد",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «بن» printed for «عن» inside the chain joins two narrators, Yahya (ibn Abi Kathir) and Muhammad ibn Abd al-Rahman mawla Bani Zuhra, into a name no narration uses; the cited source (bukhari 5054) reads «عن يحيى عن محمد بن عبد الرحمن». The owner approved the mirror case («عن» for «بن»). Printed so (zoomed)."
+        }
+      ],
+      "transcriber_notes": [
+        "The dashes around «قال : وأحسبني … أبي سلمة» are printed attached to the words (zoomed) and written with a space on each side. The grading «صحيح لما بعده» is printed so (zoomed)."
+      ]
+    },
+    {
+      "number": 254,
+      "book_page": 163,
+      "heading": "الاقتصاد في قراءة القرآن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٩٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 94
+      },
+      "text": "حدثنا موسى حدثنا أبو عوانة عن مغيرة عن مجاهد عن **عبد الله بن عمرو قال : أنكحني أبي امرأة ذات حسب ، فكان يتعاهد كنته فيسألها عن بعلها فتقول : نعم الرجل من رجل لم يطأ لنا فراشا ولم يفتش لنا كنفا منذ أتيناه ، فلما طال ذلك عليه ذكر للنبي ﷺ ، فقال : « ألقني به » فلقيته بعد ، فقال : « كيف تصوم ؟ » قال : أصوم كل يوم ، قال : « وكيف تختم ؟ » قال : كل ليلة ، قال : « صم في كل شهر ثلاثة ، واقرأ القرآن في شهر » ، قال : قلت : أطيق أكثر من ذلك ، قال : « صم ثلاثة أيام في الجمعة » ، قال : قلت : أطيق أكثر من ذلك ، قال : « صم أفضل الصوم صوم داود صيام يوم وإفطار يوم ، واقرأ في كل سبع ليال مرة » . فليتني قبلت رخصة رسول الله ﷺ ، وذاك أني كبرت وضعفت فكان يقرأ على بعض أهله السبع من القرآن بالنهار والذي يقرؤه يعرضه من النهار ليكون أخف عليه بالليل ، وإذا أراد أن يتقوى أفطر أياما وأحصى وصام مثلهن . كراهية أن يترك شيئا فارق النبي ﷺ عليه .** قال أبو عبد الله : وقال بعضهم : في ثلاث أو في سبع وأكثرهم على سبع .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٨ ص٤٢ نووي ، وابن ماجه مختصرا رقم ١٣٤٦ ، وعزاه المزي في الأطراف للنسائيّ في فضائل القرآن السنن الكبرى ٤٨ : ٣ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 24,
+          "field": "text",
+          "printed": "أصوم",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5052) is used."
+        },
+        {
+          "id": 25,
+          "field": "text",
+          "printed": "في شهر",
+          "corrected": "في كل شهر",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; in the hadith text the wording of the cited source (bukhari 5052) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith starts on p. 163 and ends on p. 164. «يطأ» is printed with the hamza on alif (zoomed). «وصام مثلهن . كراهية» is printed with a full stop. Abu Abd Allah's remark after the hadith is regular type, kept in text."
+      ]
+    },
+    {
+      "number": 255,
+      "book_page": 164,
+      "heading": "رفع الصوت بالقراءة في صلاة الليل",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٨٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 85
+      },
+      "text": "حدثنا أحمد بن رجاء حدثنا أبو أسامة عن هشام بن عروة عن أبيه **عن عائشة قالت : سمع رسول الله ﷺ رجلا يقرأ في سورة بالليل ، فقال : « يرحمه الله ، لقد أذكرني آية كذا وكذا كنت أنسيتها من سورة كذا وكذا » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٧٥ ، وأبو داود ج٢ ص٨٣ ، ج٤ ص٢٨٠ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 26,
+          "field": "text",
+          "printed": "بن رجاء",
+          "corrected": "بن أبي رجاء",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: al-Bukhari's shaykh from Abu Usama is Ahmad ibn Abi Raja' (al-Harawi); «أحمد بن رجاء» drops «أبي» from his name, which no narration does. The cited source (bukhari 5038) reads «حدثنا أحمد بن أبي رجاء». Printed so (zoomed)."
+        },
+        {
+          "id": 27,
+          "field": "text",
+          "printed": "آية كذا وكذا",
+          "corrected": "كذا وكذا آية",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Order: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; in the hadith text the wording of the cited source (bukhari 5038) is used."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 256,
+      "book_page": 164,
+      "heading": "القراءة على سبعة أحرف",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٢٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 23
+      },
+      "text": "حدثنا سعيد بن عفير قال : حدثني الليث قال : حدثني عقيل عن ابن شهاب حدثني عبيد الله بن عبد الله **أن ابن عباس رضي الله عنهما حدثه : أن رسول الله ﷺ قال : « أقرأني جبريل على حرف فراجعته فلم أزل أستزيده حتى انتهى إلى سبعة أحرف .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص١٠١ نووي ، وأحمد ١ / ٢٩٩ ، ٣١٣ .",
+      "footnotes": [
+        "(*) [على «سبعة أحرف»] قال ابن كثير رحمه الله تعالى في ملحق فضائل القرآن في الجزء الأخير من تفسيره ص٢٢ : وقد اختلف العلماء في معنى هذه السبعة أحرف وما أريد منها على أقوال ، قال أبو عبد الله محمد ابن أبي بكر بن فرح الأنصاري القرطبي المالكي في مقدمات تفسيره : وقد اختلف العلماء في المراد بالأحرف السبعة على خمس وثلاثين قولا ذكرها أبو حاتم محمد بن حبان البستي ونحن نذكر منها خمسة أقوال ، قال ابن كثير : ( قلت ) ثم سردها القرطبي وحاصلها ما أنا أورده ملخصا : ( فالأول ) وهو قول أكثر أهل العلم منهم سفيان بن عيينة وعبد الله بن وهب وأبو جعفر محمد ابن جرير والطحاوي أن المراد سبعة أوجه من المعاني المتقاربة بألفاظ مختلفة نحو أقبل وتعال وهلم ، وقال الطحاوي : وأبين ما ذكر في ذلك حديث أبي بكرة ، قال : جاء جبريل إلى رسول الله ﷺ فقال : اقرأ على حرف ، فقال ميكائيل : استزده فقال : اقرأ على حرفين فقال ميكائيل : استزده ، حتى بلغ سبعة أحرف فقال : اقرأ فكل كاف شاف إلا أن تخلط آية رحمة بآية عذاب أو آية عذاب بآية رحمة نحو هلم وتعال وأقبل واذهب وأسرع وعجل . وروى ورقاء عن ابن أبي نجيح عن مجاهد عن ابن عباس عن أبي بن كعب أنه كان يقرأ ﴿ **يوم يقول المنافقون والمنافقات للذين آمنوا انظرونا نقتبس من نوركم** ﴾ : للذين آمنوا أمهلونا ، للذين آمنوا أخرونا ، للذين آمنوا ارقبونا ، وكان يقرأ ﴿ **كلما أضاء لهم مشوا فيه** ﴾ مرُّوا فيه ، سعوا فيه قال الطحاوي وغيره : وإنما كان ذلك رخصة أن يقرأ الناس القرآن على سبع لغات وذلك لما كان يتعسر على كثير من الناس التلاوة على لغة قريش وقراءة رسول الله ﷺ لعدم علمهم بالكتابة والضبط وإتقان الحفظ . وقد ادعى الطحاوي والقاضي الباقلاني والشيخ أبو عمر بن عبد البر أن ذلك كان رخصة في أول الأمر ثم نسخ بزوال العذر وتيسر الحفظ وكثرة الضبط وتعلم الكتابة . قال ابن كثير : ( قلت ) وقال بعضهم : إنما كان الذي جمعهم على قراءة واحدة أمير المؤمنين عثمان بن عفان أحد الخلفاء الراشدين المهديين المأمور باتباعهم وإنما جمعهم عليها لما رأى من اختلافهم في القراءة المفضية إلى تفرق الأمة وتكفير بعضهم بعضا . فرتب لهم المصاحف الأئمة . على العرضة الأخيرة التي عارض بها جبريل رسول الله ﷺ في آخر رمضان كان من عمره عليه السلام وعزم عليهم ألا يقرءوا بغيرها ، وأن لا يتعاطوا الرخصة التي كانت لهم فيها سعة ، ولكنها أدت إلى الفرقة والاختلاف ، كما ألزم عمر بن الخطاب الناس بالطلاق الثلاث المجموعة حتى تتابعوا فيها وأكثروا منها ، قال : فلو أنا أمضيناه عليهم وأمضاه عليهم ، وكذلك كان ينهى عن المتعة في أشهر الحج لئلا تقطع زيارة البيت في غير أشهر الحج ، وقد كان أبو موسى يبيح التمتع فترك فتياه اتباعا لأمير المؤمنين وسمعا وطاعة للأئمة المهديين . ( القول الثاني ) نذكره ملخصا وهو أن بعض الكلمات تقرأ على حرف والبعض على حرف آخر وليست كلها على سبعة أحرف . ثم استطرد ابن كثير - رحمه الله - في ذكر باقي الأقوال ص٢٢-٢٣ فضائل القرآن . وقد تكلم الحافظ بن حجر فتح ج٩ ص٢٣ على المراد بالسبعة أحرف كثيرا وذكر مثالا لها سورة الفرقان ج٩ ص٣٣ وما اختلف في القراءات فيها ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "No closing « » » is printed after «سبعة أحرف» (the footnote marker sits there, then the full stop). The (*) footnote runs from p. 164 to p. 165 («=») and its paragraphs are joined. Printed so (zoomed): «كما» in the ligature that looks like «كا», «يقرءوا» with a seatless hamza, «مرُّوا» with shadda and damma. The verses quoted in the footnote are bold. The footnote's own (*) on «عمر بن الخطاب» and (**) on «أبو موسى» are skipped (see skipped)."
+      ]
+    },
+    {
+      "number": 257,
+      "book_page": 166,
+      "heading": "الجهر والإسرار بالقرآن",
+      "label": null,
+      "citation": "قال ابن ماجه رقم ١٣٥٤",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 1354
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة ثنا إسماعيل بن علية عن برد بن سنان عن عبادة بن نسي **عن غضيف بن الحارث قال : أتيت عائشة فقلت : أكان رسول الله ﷺ يجهر بالقرآن أو يخافت به ؟ قالت : ربما جهر وربما خافت . قلت : الله أكبر الحمد لله الذي جعل في الأمر سعة .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود في الطهارة ٩٠ ، والنسائيّ في الطهارة ٢٥١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The source footnote is printed at the foot of p. 166, below the end of entry 256's nested footnotes."
+      ]
+    },
+    {
+      "number": 258,
+      "book_page": 166,
+      "heading": "عقوبة من قرأ القرآن رياءً وسمعة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٣ ص٥٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 13,
+        "page": 50
+      },
+      "text": "حدثنا يحيى بن حبيب الحارثي حدثنا خالد بن الحارث حدثنا ابن جريج حدثني يونس ابن يوسف عن سليمان بن يسار قال : تفرق الناس **عن أبي هريرة فقال له : ناتل أهل الشام أيها الشيخ حدثنا حديثًا سمعته من رسول الله ﷺ قال : نعم سمعت رسول الله ﷺ يقول : « إن أول الناس يوم القيامة يقضى عليه ، رجل استشهد فأتى به فعرَّفه نعمه فعَرَفها قال : فما عملت فيها ؟ قال : قاتلت فيك حتى استشهدت . قال : كذبت ولكنك قاتلت لأن يقال : جريء فقد قيل ، ثم أمر به فسحب على وجهه حتى ألقي في النار ، ورجل تعلّم العلم وعلّمه وقرأ القرآن فأتى به فعرَّفه نعمه فَعَرَفها قال : فما عملت فيها ؟ قال : تعلمت العلم وعلّمته وقرأت فيك القرآن . قال : كذبت ولكنك تعلمت العلم ليقال : عالم ، وقرأت القرآن ليقال : قارئ ، فقد قيل ، ثم أمر به فسحب على وجهه حتى ألقي في النار ، ورجل وسع الله عليه وأعطاه من أصناف المال كله فأتى به فعرَّفه نعمه فَعَرَفها قال : فما عملت فيها ؟ قال : ما تركت من سبيل تحب أن ينفق فيها إلا أنفقت فيها لك . قال : كذبت ولكنك فعلت ليقال : هو جواد ، فقد قيل ، ثم أمر به فسحب على وجهه ثم ألقي في النار » :**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ في الجهاد ٢٢ ، وأحمد ٢ / ٣٢٢ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 28,
+          "field": "text",
+          "printed": "يوم القيامة يقضى",
+          "corrected": "يقضى يوم القيامة",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Order: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 1905.01) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The chain is on p. 166 and the hadith on p. 167. The heading prints a tanween fatha on «رياءً» (zoomed). Marks as printed (zoomed): «فعرَّفه» three times, «فعَرَفها» the first time and «فَعَرَفها» the second and third, «تعلّم», «علّمه», «علّمته», «حديثًا». «ماتركت» is printed joined, written as two words. The hadith ends «» :» with a colon, kept as printed."
+      ]
+    },
+    {
+      "number": 259,
+      "book_page": 167,
+      "heading": "البكاء عند استماع القرآن",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٨٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 86
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة وأبو كريب جميعا عن حفص قال أبو بكر : حدثنا حفص بن غياث عن الأعمش عن إبراهيم عن عبيدة **عن عبد الله قال : قال لي رسول الله ﷺ : « اقرأ عليَّ القرآن قال : فقلت : يا رسول الله أقرأ عليك وعليك أنزل ، قال : « إني أشتهي أن أسمعه من غيري » ، فقرأت النساء حتى إذا بلغت : ﴿ فكيف إذا جئنا من كل أمة بشهيد وجئنا بك على هؤلاء شهيدا ﴾ رفعت رأسي أو غمزني رجل إلى جنبي فرفعت رأسي فرأيت دموعه تسيل .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم ، وأبو داود في العلم ١٣ : ٤ ، والترمذي في تفسير سورة النساء ، وأحمد ١ / ٣٨٠ ، وعزاه المزي في الأطراف للنسائيّ ، وانظر الحديث الآتي .",
+      "footnotes": [
+        "(*) [على «الأعمش»] قال الذهبي في الميزان ص٢٢٤ في ترجمة سليمان بن مهران « الأعمش » : ... قلت وهو يدلس ، وربما دلس عن ضعيف ، ولا يدري به فمتى قال : حدثنا فلا كلام ومتى قال : « عن » تطرق إليه احتمال التدليس إلا في شيوخ له أكثر عنهم : كإبراهيم وأبي وائل وأبي صالح السمان فإن روايته عن هذا الصنف محمولة على الاتصال ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith starts on p. 167 and ends on p. 168. «عليَّ» prints a shadda and a fatha. The opening « before «اقرأ عليَّ القرآن» has no closing mark (as printed). The takhrij's «وأخرجه مسلم» is printed so although the entry is Muslim's. The (*) footnote runs from p. 167 to p. 168 («=») and is joined; «و أبي وائل» is printed with a space after the waw, written joined."
+      ]
+    },
+    {
+      "number": 260,
+      "book_page": 168,
+      "heading": "كيف يوقف قارئ القرآن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٩٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 94
+      },
+      "text": "حدثنا محمد بن يوسف حدثنا سفيان عن الأعمش عن إبراهيم عن عبيدة **عن عبد الله ابن مسعود قال : قال لي النبي ﷺ : « اقرأ عليَّ » ، قلت : يا رسول الله أقرأ عليك وعليك أنزل ؟ قال : « نعم » ، فقرأت سورة النساء حتى أتيت على هذه الآية ﴿ فكيف إذا جئنا من كل أمة بشهيد وجئنا بك على هؤلاء شهيدا ﴾ قال : « حسبك الآن » ، فالتفت إليه فإذا عيناه تذرفان .**",
+      "grading": "صحيح",
+      "takhrij": "وانظر الحديث المتقدم .",
+      "footnotes": [
+        "(*) [على «صحيح»] تنبيه بشأن صدق الله العظيم عند الانتهاء من القراءة : نعم صدق الله ، قال تعالى : ﴿ **قل صدق الله فاتبعوا ملة إبراهيم حنيفا وما كان من المشركين** ﴾ آل عمران ٩٥ ، نعم صدق الله في كل وقت وحين ، ولكننا لم نقف على حديث يوضح أن رسول الله ﷺ كان يختتم قراءته بصدق الله العظيم ، وهناك من يستحسن استحسانا آخر ويقول : صدق الله رب العالمين واستحسانات أخرى ، ولنا في رسول الله أسوة حسنة وكذا لم نقف على أثر لصحابي - رغم اقتصارنا على أحاديث رسول الله ﷺ بعد كتاب الله في الاستدلال لأي مسألة - وقد راجعنا تفسير ابن كثير وأضواء البيان ومختصر ابن كثير وفتح القدير فلم يسق عند هذه الآية أن رسول الله ﷺ كان يختتم قراءته بصدق الله العظيم ."
+      ],
+      "corrections": [
+        {
+          "id": 29,
+          "field": "text",
+          "printed": "أتيت على هذه",
+          "corrected": "أتيت إلى هذه",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5050) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading prints «قارئ» with the hamza over a dotless ya (zoomed). «عليَّ» prints a shadda and a fatha. The grading carries a bare star, with no parentheses, written «(*)» in the footnote; the footnote is the Sheikh's note on ending a recitation with «صدق الله العظيم», kept because it bears on how this hadith's recitation ends. Its verse is bold."
+      ]
+    },
+    {
+      "number": 261,
+      "book_page": 169,
+      "heading": "النهي عن قول نسيت آية كيت وكيت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٧٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 79
+      },
+      "text": "حدثنا محمد بن عرعرة حدثنا شعبة عن منصور عن أبي وائل **عن عبد الله قال : قال النبي ﷺ : « بئس ما لأحدهم أن يقول نسيت آية كيت وكيت بل نُسيَ ، واستذكروا القرآن فإنه أشد تفصيا من صدور الرجال من النعم » .** حدثنا عثمان حدثنا جرير عن منصور مثله . تابعه ابن المبارك عن شعبة وتابعه ابن جريج عن عبدة عن شقيق سمعت عبد الله سمعت النبي ﷺ .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٧٦ ، ٧٨ ، والنسائيّ ج٢ ص١٥٤ ، والترمذي ج٨ ص٢٦٢ تحفة وقال : حسن صحيح . وأحمد ١ / ٤١٧ ، ٤٢٩ ، ٤٣٨ .",
+      "footnotes": [
+        "(*) [على «كيت وكيت»] قال الحافظ فتح ج٩ ص٨٥ بعد أن ذكر ما ترجم له البخاري : كأنه يريد أن ينهى عن قول نسيت آية كذا وكذا ليس للزجر عن هذا اللفظ ، بل للزجر عن تعاطي أسباب النسيان المقتضية لهذا اللفظ ، ويحتمل أن ينزل المنع والإباحة على حالتين : فمن نشأ نسيانه عن اشتغاله بأمر ديني كالجهاد لم يمتنع عليه قول ذلك لأن النسيان لم ينشأ عن إهمال ديني ، وعلى ذلك يحمل ما ورد من ذلك على النبي ﷺ من نسبة النسيان إلى نفسه . ومن نشأ نسيانه عن اشتغاله بأمر دنيوي - ولا سيما إن كان محظورا - أو امتنع عليه لتعاطيه أسباب النسيان .",
+        "(**) [على «نسيت»] قوله : « نسيت » بفتح النون وتخفيف السين اتفاقا ، قاله الحافظ ص٨٠ ج٩ .",
+        "(***) [على «نُسيَ»] « بل هو نسي » قال الحافظ ج٩ ص٨٠ : بضم النون وتشديد المهملة المكسورة قال القرطبي رواه بعض رواة مسلم مخففا . قلت : وكذا هو في مسند أبي يعلى وكذا أخرجه ابن أبي داود في ( كتاب الشريعة ) من طرق متعددة مضبوطة بخط موثوق به على كل سين علامة تخفيف : وقال عياض : كان الكناني - يعني أبا الوليد الوقشي - كان لا يجيز في هذا غير التخفيف . قلت : والتثقيل هو الذي وقع في جميع الروايات في البخاري وكذا في أكثر الروايات في غيره ويؤيده ما وقع في رواية أبي عبيدة في ( الغريب ) بعد قوله : « كيت وكيت » ليس هو نسي ولكنه نسي الأول بفتح النون وتخفيف السين . قال : التثقيل معناه أنه عوقب بوقوع النسيان عليه لتفريطه في معاهدته واستذكاره . قال : ومعنى التخفيف أن الرجل ترك غير ملتفت إليه وهو كقوله تعالى : ﴿ **نسوا الله فنسيهم** ﴾ أي تركهم في العذاب أو تركهم من الرحمة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) footnote is on the heading's «وكيت». «عن عبد الله قال :» and the hadith are bold; the further chains («حدثنا عثمان …»), printed without a number of their own, are regular and kept in text. «نُسيَ» prints a damma on the nun and a fatha on the ya (zoomed). The (**) footnote prints «ص٨٠ ج٩» in that order. The dashes in the (*) and (***) footnotes are printed attached and written with spaces. The verse in the (***) footnote is bold."
+      ]
+    },
+    {
+      "number": 262,
+      "book_page": 170,
+      "heading": "النهي عن قول نسيت آية كيت وكيت",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٤ ص٣٠",
+      "source": {
+        "collection": "ahmad",
+        "volume": 4,
+        "page": 30
+      },
+      "text": "حدثنا عبد الصمد ثنا حرب بن ثابت كان يسكن بني سليم قال : ثنا إسحاق بن عبد الله بن أبي طلحة عن أبيه **عن جده قال : قرأ رجل عند عمر فغير عليه فقال : قرأت عند رسول الله ﷺ فلم يغيِّر عليَّ قال : فاجتمعنا عند النبي ﷺ قال : فقرأ الرجل على النبي ﷺ فقال له : « قد أحسنت » ، قال : فكأن عمر قد وجد من ذلك ، فقال النبي ﷺ : « يا عمر إن القرآن كله صواب مالم يجعل عذاب مغفرة أو مغفرة عذابًا » .** وقال عبد الصمد : مرة أخرى أبو ثابت من كتابه .",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «حسن»] وقال ابن كثير في فضائل القرآن ص٢١ : هذا إسناد حسن ، وحرب بن ثابت هذا يكنى بأبي ثابت لا نعرف أحدا جرحه . قلت : وقد وثقه ابن حبان كما في تعجيل المنفعة ."
+      ],
+      "corrections": [
+        {
+          "id": 30,
+          "field": "text",
+          "printed": "قرأت عند رسول",
+          "corrected": "قرأت على رسول",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 15771) is used."
+        },
+        {
+          "id": 31,
+          "field": "text",
+          "printed": "عمر قد وجد",
+          "corrected": "عمر وجد",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 15771) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "No heading of its own: the heading of entry 261 is in effect. No numbered source footnote is printed for this entry on p. 170, so takhrij is null; the grading's (*) footnote has a second paragraph («قلت : …»), the Sheikh's, joined into it, and its «كما» is in the ligature that looks like «كا». Marks as printed (zoomed): «يغيِّر» (shadda and kasra), «عليَّ», «عذابًا». «مالم» is printed joined. «عن جده قال :» onwards is bold; Abd al-Samad's remark after the hadith is regular, kept in text."
+      ]
+    },
+    {
+      "number": 263,
+      "book_page": 170,
+      "heading": "جواز حسد صاحب القرآن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٧٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 73
+      },
+      "text": "حدثنا أبو اليمان أخبرنا شعيب عن الزهري قال : حدثني سالم بن عبد الله **أن عبد الله ابن عمر رضي الله عنهما قال : سمعت رسول الله ﷺ يقول : « لا حسد إلا على اثنتين : رجل آتاه الله الكتاب وقام به آناء الليل ، ورجل آتاه الله مالا فهو يتصدق به آناء الليل وآناء النهار » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٩٧ ، وابن ماجه ٤٢٠٩ ، وأحمد ٢ / ٩ ، ٣٦ ، ٨٨ ، ١٥٢ .",
+      "footnotes": [
+        "(**) [على «الكتاب»] في مسلم « القرآن » ."
+      ],
+      "corrections": [
+        {
+          "id": 32,
+          "field": "text",
+          "printed": "ورجل آتاه الله",
+          "corrected": "ورجل أعطاه الله",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5025) is used."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 264,
+      "book_page": 171,
+      "heading": "كيفية الحسد",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٧٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 73
+      },
+      "text": "حدثنا علي بن إبراهيم حدثنا روح حدثنا شعبة عن سليمان قال : سمعت ذكوان **عن أبي هريرة أن رسول الله ﷺ قال : « لا حسد إلا في اثنتين : رجل علّمه الله القرآن فهو يتلوه آناء الليل وآناء النهار ، فسمعه جار له فقال : ليتني أوتيت مثل ما أوتي فلان ، فعملت مثل ما يعمل . ورجل آتاه الله مالا فهو يهلكه في الحق فقال رجل : ليتني أوتيت مثل ما أوتي فلان ، فعملت مثل ما يعمل » .**",
+      "grading": "صحيح",
+      "takhrij": "وعزاه المزي في الأطراف إلى النسائيّ في السنن الكبرى في فضائل القرآن .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 33,
+          "field": "text",
+          "printed": "سليمان قال :",
+          "corrected": "سليمان :",
+          "confidence": 0.58,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "«علّمه» prints a shadda (zoomed)."
+      ]
+    },
+    {
+      "number": 265,
+      "book_page": 171,
+      "heading": "تزويج المعسر بما معه من القرآن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص١٣١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 131
+      },
+      "text": "حدثنا قتيبة حدثنا عبد العزيز بن أبي حازم عن أبيه **عن سهل بن سعد الساعدي رضي الله عنه قال : جاءت امرأة إلى رسول الله ﷺ فقالت : يا رسول الله جئت أهب لك نفسي . قال : فنظر إليها رسول الله ﷺ فصعد النظر فيها فصوبه ، ثم طأطأَ رسول الله ﷺ رأسه فلما رأت المرأة أنه لم يقض فيها شيئا جلست ، فقام رجل من أصحابه فقال : يا رسول الله إن لم يكن لك بها حاجة فزوجنيها . فقال : « وِهل عندك من شيء ؟ » قال : لا والله يا رسول الله ، فقال : « اذهب إلى أهلك فانظر هل تجد شيئا » ، فذهب ثم رجع فقال : لا والله ما وجدت شيئا ، فقال رسول الله ﷺ : « انظر ولو خاتما من حديد » ، فذهب ثم رجع فقال : لا والله يا رسول الله ولا خاتما من حديد ، ولكن هذا إزاري - قال سهل : ماله رداء فلها نصفه - فقال رسول الله ﷺ : « ما تصنع بإزارك إن لَبِسته لم يكن عليها منه شيء وإن لبسته لم يكن عليك منه شيء » . فجلس الرجل حتى إذا طال مجلسه قام ، فرآه رسول الله ﷺ موليا فأمر به فدعي . فلما جاء قال : « ماذا معك من القرآن ؟ » قال : معي سورة كذا وسورة كذا - عددها - فقال : « تقرؤهن عن ظهر قلب ؟ » قال : نعم ، قال : « فاذهب فقد ملكتكها بما معك من القرآن » .** أطراف هذا الحديث فتح ج٤ ص٤٨٦ .",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم ج٩ ص٢١١ نووي ، وأبو داود ج٢ ص٥٨٦ ، والنسائيّ ج٦ ص٩١ ، وابن ماجه ١٨٨٩ ، والدارمي ٢ / ١٤٢ ، وابن الجارود في المنتقى ٧١٦ ، وأحمد ٥ / ٣٣٠ ، ٣٣٦ ، والترمذي تحفة ج٤ ص٢٥٤ وقال : حسن صحيح .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 34,
+          "field": "text",
+          "printed": "رضي الله عنه",
+          "corrected": "",
+          "confidence": 0.48,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 35,
+          "field": "text",
+          "printed": "فصوبه",
+          "corrected": "وصوبه",
+          "confidence": 0.98,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith starts on p. 171 and ends on p. 172. Marks as printed (zoomed): «طأطأَ» (fatha on the last hamza), «لَبِسته» the first time only, and a kasra-like stroke under the waw of «وِهل», kept as printed. «ماله» is printed joined. The dashes around «قال سهل : … نصفه» and «عددها» are printed attached and written with spaces. The Sheikh's reference «أطراف هذا الحديث فتح ج٤ ص٤٨٦ .» after the hadith is regular type, kept in text."
+      ]
+    },
+    {
+      "number": 266,
+      "book_page": 172,
+      "heading": "الرقية بأم الكتاب",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٥٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 54
+      },
+      "text": "حدثنا محمد بن المثنى حدثنا وهب حدثنا هشام عن محمد عن معبد **عن أبي سعيد الخدري قال : كنا في مسير لنا ، فنزلنا فجاءت جارية فقالت : إن سيد الحي سليم ، وإن نفرنا غيب ، فهل منكم راق ؟ فقام معها رجل ما كنا نأبنه برقيه ، فرقاه فبرأ ، فأمر لنا بثلاثين شاة وسقانا لبنا ، فلما رجع قلنا له : أكنت تحسن الرقية أو كنت ترق ؟ قال : لا ، ما رقيت إلا بأم الكتاب . قلنا : لا تحدثوا شيئا حتى نأتي أو نسأل النبي ﷺ فلما قدمنا المدينة ذكرناه للنبي ﷺ فقال : « وما كان يدريه أنها رقية ؟ اقسموا واضربوا لي بسهم » .** وقال أبو معمر : حدثنا عبد الوارث حدثنا هشام حدثنا محمد بن سيرين حدثنا معبد بن سيرين عن أبي سعيد الخدري بهذا .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٨٨ ، والترمذي ج٦ ص٢٢٦ وقال : حسن صحيح . وأبو داود في البيوع ٣٨ : ٢ ، وأحمد ٣ / ٨٣ .",
+      "footnotes": [
+        "(*) [على «أبو معمر»] قال الحافظ فتح ج٩ ص٥٤ : قوله : ( وقال أبو معمر : حدثنا عبد الوارث الخ ) أراد بهذا التعليق التصريح بالتحديث من محمد بن سيرين لهشام ومن معبد لمحمد ، فإنه في الإسناد الذي ساقه أولا بالعنعنة في الموضوعين وقد وصله الإسماعيلي من طريق محمد بن يحيى الذهلي عن أبي معمر كذلك ، وذكر أبو علي الجياني أنه وقع عند القابسي عن أبي زيد السند إلى محمد بن سيرين ( وحدثني معبد بن سيرين ) بواو العطف قال : والصواب حذفها ."
+      ],
+      "corrections": [
+        {
+          "id": 36,
+          "field": "text",
+          "printed": "فأمر لنا بثلاثين",
+          "corrected": "فأمر له بثلاثين",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5007) is used."
+        },
+        {
+          "id": 37,
+          "field": "text",
+          "printed": "الرقية",
+          "corrected": "رقية",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5007) is used."
+        },
+        {
+          "id": 38,
+          "field": "text",
+          "printed": "ترق",
+          "corrected": "ترقي",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5007) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The further chain («وقال أبو معمر …»), printed without a number of its own, is regular and kept in text. The (*) footnote runs from p. 172 to p. 173 («=») and is joined; «الموضوعين» is printed so."
+      ]
+    },
+    {
+      "number": 267,
+      "book_page": 173,
+      "heading": "استماع القرآن من الغير",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٩٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 93
+      },
+      "text": "حدثنا عمر بن حفص بن غياث حدثنا أبي عن الأعمش قال : حدثني إبراهيم عن عبيدة **عن عبد الله رضي الله عنه قال : قال لي النبي ﷺ : « اقرأ عليَّ القرآن » . قلت : أقرأ عليك وعليك أنزل ؟ قال : « إني أحب أن أسمعه من غيري » .**",
+      "grading": "صحيح",
+      "takhrij": "انظر حديث ٢٤٤ ، ٢٤٥ ، وأحمد ١ / ٣٨٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«عليَّ» prints a shadda and a fatha (zoomed). The page ends with a row of four stars after the grading, left out. The takhrij's «انظر حديث ٢٤٤ ، ٢٤٥» is printed so (the same hadith is entries 259–260 here)."
+      ]
+    },
+    {
+      "number": 268,
+      "book_page": 174,
+      "heading": "سجدة الانشقاق",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٢٥٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 250
+      },
+      "text": "حدثنا أبو النعمان قال : حدثنا معتمر عن أبيه عن بكر **عن أبي رافع قال : صليت مع أبي هريرة العتمة فقرأ ﴿ إذا السماء انشقت ﴾ فسجد ، فقلت له : فقال : سجدت خلف أبي القاسم ﷺ فلا أزال أسجد بها حتى ألقاه .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٥ ص٧٨ ، وأبو داود ج١ ص١٢٢ ، والنسائيّ ج٢ ص١٦٢ ، وأبو عوانة ٢ / ٢٢٧ ، ص٢٢٨ .",
+      "footnotes": [
+        "(*) [على «صحيح»] بالنسبة للسجود عند قراءة ﴿ **آلم تنزيل** ﴾ في صلاة الفجر يوم الجمعة قال الحافظ ابن حجر ج٢ ص٥٥٢ فتح : قوله : ( باب سجدة تنزيل السجدة ) أجمعوا على السجود فيها وإن اختلفوا في السجود بها في الصلاة ، وقد ناقش المسألة ج٣ ص٣٧٩ فتح مناقشة مستفيضة جزاه الله خيرا حاصلها أنه قال : إنه لم ير في شيء من الطرق التصريح بأنه ﷺ سجد لما قرأ سورة تنزيل السجدة في هذا المحل إلا في كتاب الشريعة لابن أبي داود من طريق أخرى عن سعيد بن جبير عن ابن عباس قال : غدوت على النبي ﷺ يوم الجمعة في صلاة الفجر فقرأ سورة فيها سجدة فسجد الحديث وفي إسناده من ينظر في حاله ، وللطبراني في الصغير من حديث علي أن النبي ﷺ سجد في صلاة الصبح في تنزيل السجدة لكن في إسناده ضعف ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The section heading «سجود القرآن» with its verse is an author_text block after entry 267. «فقلت له : فقال :» is printed so (zoomed). The grading carries the (*) footnote, whose verse words are bold."
+      ]
+    },
+    {
+      "number": 269,
+      "book_page": 174,
+      "heading": "السجود في النجم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٥٥١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 551
+      },
+      "text": "حدثنا محمد بن بشار قال : قال الإمام شعبة : عن أبي إسحاق قال : سمعت الأسود **عن عبد الله رضي الله عنه قال : قرأ النبي ﷺ النجم بمكة فسجد فيها وسجد من معه غير شيخ أخذ كفا من حصى أو تراب وقال : يكفيني هذا . فرأيته بعد ذلك قتل كافرا .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٥ ص٧٤ ، وأبو داود ج٢ ص١٢٢ ، والنسائيّ ج٢ ص١٦٠ ، وأبو عوانة ٢ / ٢٢٦ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 39,
+          "field": "text",
+          "printed": "الإمام",
+          "corrected": "حدثنا",
+          "confidence": 0.66,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 838 time(s) in the collections; the OCR confirms the page prints it."
+        },
+        {
+          "id": 40,
+          "field": "text",
+          "printed": "تراب وقال",
+          "corrected": "تراب فرفعه إلى جبهته وقال",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 6 on dorar.net; in the hadith text the wording of the cited source (bukhari 1067) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The chain is on p. 174 and the hadith ends on p. 175. «قال الإمام شعبة : عن أبي إسحاق» is printed so (zoomed). Correction 39 («الإمام» → «حدثنا») would give «قال : قال حدثنا شعبة :», which is malformed; the cited source reads «حدثنا محمد بن بشار حدثنا غندر حدثنا شعبة»."
+      ]
+    },
+    {
+      "number": 270,
+      "book_page": 175,
+      "heading": "سجدة ص",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٥٤٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 544
+      },
+      "text": "حدثني محمد بن عبد الله حدثنا محمد بن عبيد الطنافسي عن العوام قال : سألت مجاهدا عن سجدة ص فقال : **سألت ابن عباس من أين سجدت فقال : أو تقرأ ﴿ ومن ذريته داود وسليمان ... أولئك الذين هدى الله فبهداهم اقتده ﴾ فكان داود ممن أمر نبيكم ﷺ أن يقتدي به فسجدها داود فسجدها رسول الله ﷺ .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود حديث ابن عباس في سجود الرسول ﷺ في ص ج٢ ص١٢٣ ، والنسائيّ ج٢ ص١٥٩ .",
+      "footnotes": [
+        "(*) [على «اقتده»] إذا أُخِذ كلام ابن عباس على إطلاقه تدخل سجدة مريم ﴿ **أولئك الذين أنعم الله عليهم من النبيين ... إذا تتلى عليهم آيات الرحمن خروا سجدا وبكيا** ﴾ ."
+      ],
+      "corrections": [
+        {
+          "id": 41,
+          "field": "text",
+          "printed": ": أو تقرأ",
+          "corrected": ": أوما تقرأ",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4807) is used."
+        },
+        {
+          "id": 42,
+          "field": "text",
+          "printed": "داود فسجدها",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4807) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«أُخِذ» in the footnote prints a damma and a kasra (zoomed); the footnote's verse is bold."
+      ]
+    },
+    {
+      "number": 271,
+      "book_page": 175,
+      "heading": "سجدة العلق",
+      "label": null,
+      "citation": "قال الإمام مسلم رحمه الله ص٤٠٦",
+      "source": {
+        "collection": "muslim",
+        "page": 406
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة وعمرو الناقد قالا : حدثنا سفيان بن عيينة عن أيوب ابن موسى عن عطاء بن ميناء **عن أبي هريرة قال : سجدنا مع النبي ﷺ في ﴿ إذا السماء انشقت ﴾ و ﴿ اقرأ باسم ربك ﴾ .** وحدثنا محمد بن رمح أخبرنا الليث عن يزيد بن أبي حبيب عن صفوان بن سليم عن عبد الرحمن الأعرج مولى بني مخزوم **عن أبي هريرة أنه قال : سجد رسول الله ﷺ في ﴿ إذا السماء انشقت ﴾ و ﴿ اقرأ باسم ربك ﴾ .**",
+      "grading": "صحيح",
+      "takhrij": "والحديث أخرجه أبو داود رقم ١٤٠٧ ، والترمذي حديث رقم ٥٧٣ ، والنسائيّ في افتتاح الصلاة باب السجود في ﴿ **إذا السماء انشقت** ﴾ حديث ٩٦٤ ، وابن ماجه في إقامة الصلاة باب عدد سجود القرآن ١٠٥٨-١٠٥٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation gives only a page (no volume). The grading is printed on p. 175 beside the end of the first hadith, before the second chain («وحدثنا محمد بن رمح …»), which has no number of its own, runs onto p. 176 and is kept in text. The takhrij prints «سجودالقرآن» joined, written as two words."
+      ]
+    },
+    {
+      "number": 272,
+      "book_page": 176,
+      "heading": "جواز ترك السجود في النجم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٥٥٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 554
+      },
+      "text": "حدثنا آدم ابن أبي إياس قال : حدثنا ابن أبي ذئب قال : حدثنا يزيد بن عبد الله ابن قسيط عن عطاء بن يسار **عن زيد بن ثابت قال : قرأت على النبي ﷺ النجم فلم يسجد فيها .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٥ ص٧٥ ، وأبو داود ج٢ ص١٢١ ، والنسائيّ ج٢ ص١٦٠ ، والترمذي ج٣ ص١٧٠ تحفة وقال : حسن صحيح . وأبو عوانة ٢ / ٢٢٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 273,
+      "book_page": 176,
+      "heading": "بكاء الشيطان عند سجود ابن آدم",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٢ ص٦٩",
+      "source": {
+        "collection": "muslim",
+        "volume": 2,
+        "page": 69
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة وأبو كريب قالا : حدثنا أبو معاوية عن الأعمش عن أبي صالح **عن أبي هريرة قال : قال رسول الله ﷺ : « إذا قرأ ابن آدم السجدة فسجد اعتزل الشيطان يبكي يقول : يا ويله » ، وفي رواية أبي كريب « يا ويلي أُمر ابن آدم بالسجود فسجد فله الجنة وأُمرت بالسجود فأبيت فلي النار » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه رقم ١٠٥٢ ، وأبو عوانة ٢ / ٢٢٤ ، وأحمد ٢ / ٤٤٠ ، ٤٤٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«أُمر» and «وأُمرت» print a damma (zoomed)."
+      ]
+    },
+    {
+      "number": 274,
+      "book_page": 177,
+      "heading": "بكاء الشيطان عند سجود ابن آدم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٥٥٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 556
+      },
+      "text": "حدثنا مسدد قال : حدثنا يحيى عن عبيد الله قال : حدثني نافع **عن ابن عمر رضي الله عنهما قال : كان النبي ﷺ يقرأ علينا السورة فيها السجدة فيسجد ونسجد حتى ما يجد أحدنا موضع جبهته .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم في الصلاة ٧٣ : ١ ، ورواه أبو داود ج٢ ص١٢٥ ، والبيهقي ٢ / ٣٢٣ ، وأحمد ٢ / ٢١٧ ، والحاكم ١ / ٢٢٢ وقال : صحيح على شرط الشيخين ووافقه الذهبي ، وأبو عوانة ٢ / ٢٢٥ ، وأحمد ٢ / ١٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No heading of its own: p. 177 starts with this entry's citation, so the heading of entry 273 is in effect."
+      ]
+    },
+    {
+      "number": 275,
+      "book_page": 177,
+      "heading": "السجود عند السورة التي بها سجدة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص٧٤",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 74
+      },
+      "text": "حدثني زهير بن حرب وعبيد الله بن سعيد ومحمد بن المثنى كلهم عن يحيى القطان قال زهير : حدثنا يحيى بن سعيد عن عبيد الله قال : أخبرني نافع **عن ابن عمر أن النبي ﷺ كان يقرأ القرآن فيقرأ سورة فيها سجدة فيسجد ونسجد معه حتى ما يجد بعضنا موضعا لمكان جبهته .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٢ ص١٢٥ ، وانظر الحديث المتقدم .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 276,
+      "book_page": 177,
+      "heading": "السجود عند السورة التي بها سجدة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٥ ص٧٤",
+      "source": {
+        "collection": "muslim",
+        "volume": 5,
+        "page": 74
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا محمد بن بشر حدثنا عبيد الله بن عمر عن نافع **عن ابن عمر قال : ربما قرأ رسول الله ﷺ القرآن فيمر بالسجدة فيسجد بنا حتى ازدحمنا عنده حتى ما يجد أحدنا مكانا ليسجد فيه في غير صلاة .**",
+      "grading": "صحيح",
+      "takhrij": "وأبو داود ج٢ ص١٢٥ بدون « في غير صلاة » وبلفظ « في غير صلاة » أيضا .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chapter ends here; p. 178 starts the next chapter («باب أذكار الطعام»)."
+      ]
+    }
+  ]
+}

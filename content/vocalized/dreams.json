@@ -1,0 +1,3015 @@
+{
+  "chapter": "الرؤيا وآدابها",
+  "entries": [
+    {
+      "number": 562,
+      "heading": "أقسام الرؤيا والصلاة عند رؤية ما يكره",
+      "match": "muslim 2263.01",
+      "text": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْمَكِّيُّ حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ عَنْ أَيُّوبَ السَّخْتِيَانِيِّ عَنْ مُحَمَّدِ ابْنِ سِيرِينَ **عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ ﷺ قَالَ : « إِذَا اقْتَرَبَ الزَّمَانُ لَمْ تَكَدْ رُؤْيَا المؤمن تَكْذِبُ وَأَصْدَقُكُمْ رُؤْيَا أَصْدَقُكُمْ حَدِيثًا وَرُؤْيَا الْمُسْلِمِ جُزْءٌ مِنْ خَمْسٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ ، وَالرُّؤْيَا ثَلاَثَةٌ فَرُؤْيَا الصَّالِحَةِ بُشْرَى مِنَ اللَّهِ وَرُؤْيَا تَحْزِينٌ مِنَ الشَّيْطَانِ وَرُؤْيَا مِمَّا يُحَدِّثُ الْمَرْءُ نَفْسَهُ . فَإِنْ رَأَى أَحَدُكُمْ مَا يَكْرَهُ فَلْيَقُمْ إلى الصلاة وَلاَ يُحَدِّثْ بِهَا النَّاسَ » . قَالَ وَأُحِبُّ الْقَيْدَ وَأَكْرَهُ الْغُلَّ وَالْقَيْدُ ثَبَاتٌ فِي الدِّينِ فَلاَ أَدْرِي أهو فِي الْحَدِيثِ أَمْ قال ابْنُ سِيرِينَ .** وحدثني محمد بن رافع حدثنا عبد الرزاق أخبرنا معمر عن أيوب بهذا الإسناد وقال في الحديث : **قال أبو هريرة : فيعجبني القيد وأكره الغل والقيد ثبات في الدين وقال النبي ﷺ : « رؤيا المؤمن جزء من ستة وأربعين جزءا من النبوة » .**",
+      "counts": {
+        "database": 85,
+        "near_difference": 9,
+        "none": 43,
+        "no_match": 43
+      },
+      "words": [
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مُحَمَّدُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عُمَرَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْمَكِّيُّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَبْدُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْوَهَّابِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الثَّقَفِيُّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَيُّوبَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "السَّخْتِيَانِيِّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مُحَمَّدِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ابْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سِيرِينَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "**عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "هُرَيْرَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "النَّبِيِّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "«",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "إِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اقْتَرَبَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الزَّمَانُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لَمْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "تَكَدْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رُؤْيَا",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "المؤمن",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "تَكْذِبُ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "وَأَصْدَقُكُمْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رُؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَصْدَقُكُمْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَدِيثًا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَرُؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْمُسْلِمِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "جُزْءٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "خَمْسٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَأَرْبَعِينَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "جُزْءًا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "النُّبُوَّةِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "،",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "وَالرُّؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ثَلاَثَةٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَرُؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الصَّالِحَةِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بُشْرَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَرُؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "تَحْزِينٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الشَّيْطَانِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَرُؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِمَّا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يُحَدِّثُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْمَرْءُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "نَفْسَهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ".",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "فَإِنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَأَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَحَدُكُمْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَكْرَهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلْيَقُمْ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "إلى",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "الصلاة",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "وَلاَ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "يُحَدِّثْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بِهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "النَّاسَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "»",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ".",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَأُحِبُّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْقَيْدَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَأَكْرَهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْغُلَّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَالْقَيْدُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ثَبَاتٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الدِّينِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلاَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَدْرِي",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "أهو",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "فِي",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "الْحَدِيثِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَمْ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "قال",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "ابْنُ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "سِيرِينَ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "وحدثني",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "محمد",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "بن",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "رافع",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "حدثنا",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "عبد",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "الرزاق",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "أخبرنا",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "معمر",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "عن",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "أيوب",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "بهذا",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "الإسناد",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "وقال",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "في",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "الحديث",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "**قال",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "أبو",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "هريرة",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "فيعجبني",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "القيد",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "وأكره",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "الغل",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "والقيد",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "ثبات",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "في",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "الدين",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "وقال",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "النبي",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "«",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "رؤيا",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "المؤمن",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "جزء",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "من",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "ستة",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "وأربعين",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "جزءا",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "من",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "النبوة",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "»",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "number": 563,
+      "heading": "حمد الله عند رؤية ما يحب والتحديث بها لمن يحب وترك التحديث عند رؤية ما يكره",
+      "match": "bukhari 6985",
+      "text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ حَدَّثَنَا اللَّيْثُ حَدَّثَنِي ابْنُ الْهَادِ عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ **عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ أَنَّهُ سَمِعَ النَّبِيَّ ﷺ يَقُولُ : « إِذَا رَأَى أَحَدُكُمْ رُؤْيَا يُحِبُّهَا فَإِنَّمَا هِيَ مِنَ اللَّهِ فَلْيَحْمَدِ اللَّهَ عَلَيْهَا وَلْيُحَدِّثْ بِهَا وَإِذَا رَأَى غَيْرَ ذَلِكَ مِمَّا يَكْرَهُ فَإِنَّمَا هِيَ مِنَ الشَّيْطَانِ فَلْيَسْتَعِذْ مِنْ شَرِّهَا وَلاَ يَذْكُرْهَا لأَحَدٍ فَإِنَّهَا لاَ تَضُرُّهُ » .**",
+      "counts": {
+        "database": 56
+      },
+      "words": [
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَبْدُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يُوسُفَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّيْثُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَدَّثَنِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ابْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْهَادِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَبْدِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "خَبَّابٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "**عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَعِيدٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْخُدْرِيِّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَنَّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَمِعَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "النَّبِيَّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "يَقُولُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "«",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "إِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَأَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَحَدُكُمْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رُؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يُحِبُّهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَإِنَّمَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "هِيَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلْيَحْمَدِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَلَيْهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَلْيُحَدِّثْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بِهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَإِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَأَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "غَيْرَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ذَلِكَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِمَّا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَكْرَهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَإِنَّمَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "هِيَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الشَّيْطَانِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلْيَسْتَعِذْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "شَرِّهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَلاَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَذْكُرْهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لأَحَدٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَإِنَّهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لاَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "تَضُرُّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "»",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "number": 564,
+      "heading": "ما يفعل عند رؤية ما يكره",
+      "match": "bukhari 7044",
+      "text": "حَدَّثَنَا سَعِيدُ بْنُ الرَّبِيعِ حَدَّثَنَا شُعْبَةُ عَنْ عَبْدِ رَبِّهِ بْنِ سَعِيدٍ قَالَ : **سَمِعْتُ أَبَا سَلَمَةَ يَقُولُ : لَقَدْ كُنْتُ أَرَى الرُّؤْيَا فَتُمْرِضُنِي حَتَّى سَمِعْتُ أَبَا قَتَادَةَ يَقُولُ : وَأَنَا كُنْتُ أرى الرُّؤْيَا فتمرضني حَتَّى سَمِعْتُ النَّبِيَّ ﷺ يَقُولُ : « الرُّؤْيَا الْحَسَنَةُ مِنَ اللَّهِ فَإِذَا رَأَى أَحَدُكُمْ مَا يُحِبُّ فَلاَ يُحَدِّثْ بِهِ إِلاَّ مَنْ يُحِبُّ وَإِذَا رَأَى مَا يَكْرَهُ فَلْيَتَعَوَّذْ بِاللَّهِ مِنْ شَرِّهَا وَمِنْ شَرِّ الشَّيْطَانِ وَلْيَتْفِلْ ثَلاَثًا وَلاَ يُحَدِّثْ بِهَا أَحَدًا فَإِنَّهَا لَنْ تَضُرَّهُ » .**",
+      "counts": {
+        "database": 68,
+        "near_difference": 3,
+        "none": 2,
+        "no_match": 2
+      },
+      "words": [
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَعِيدُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الرَّبِيعِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "شُعْبَةُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَبْدِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَبِّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَعِيدٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "**سَمِعْتُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَلَمَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَقُولُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "لَقَدْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "كُنْتُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَرَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الرُّؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَتُمْرِضُنِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَتَّى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَمِعْتُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَتَادَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَقُولُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "وَأَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "كُنْتُ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "أرى",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "الرُّؤْيَا",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "فتمرضني",
+          "tashkeel": "none",
+          "flag": "no_match"
+        },
+        {
+          "text": "حَتَّى",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "سَمِعْتُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "النَّبِيَّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "يَقُولُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "«",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "الرُّؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْحَسَنَةُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَإِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَأَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَحَدُكُمْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يُحِبُّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلاَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يُحَدِّثْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بِهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "إِلاَّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يُحِبُّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَإِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَأَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَكْرَهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلْيَتَعَوَّذْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بِاللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "شَرِّهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَمِنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "شَرِّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الشَّيْطَانِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَلْيَتْفِلْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ثَلاَثًا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَلاَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يُحَدِّثْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بِهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَحَدًا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَإِنَّهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "تَضُرَّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "»",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "number": 565,
+      "heading": "التحول عن الجنب عند رؤية ما يكره",
+      "match": "muslim 2262",
+      "text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ حَدَّثَنَا لَيْثٌ ح وَحَدَّثَنَا ابْنُ رُمْحٍ أَخْبَرَنَا اللَّيْثُ عَنْ أَبِي الزُّبَيْرِ **عَنْ جَابِرٍ عَنْ رَسُولِ اللَّهِ ﷺ أَنَّهُ قَالَ : « إِذَا رَأَى أَحَدُكُمُ الرُّؤْيَا يَكْرَهُهَا فَلْيَبْصُقْ عَنْ يَسَارِهِ ثَلاَثًا وَلْيَسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ ثَلاَثًا وَلْيَتَحَوَّلْ عَنْ جَنْبِهِ الَّذِي كَانَ عَلَيْهِ » .**",
+      "counts": {
+        "database": 42
+      },
+      "words": [
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قُتَيْبَةُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَعِيدٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لَيْثٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ح",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَحَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ابْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رُمْحٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَخْبَرَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّيْثُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الزُّبَيْرِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "**عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "جَابِرٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَسُولِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "أَنَّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "«",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "إِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَأَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَحَدُكُمُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الرُّؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَكْرَهُهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلْيَبْصُقْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَسَارِهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ثَلاَثًا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَلْيَسْتَعِذْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بِاللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الشَّيْطَانِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ثَلاَثًا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَلْيَتَحَوَّلْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "جَنْبِهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الَّذِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "كَانَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَلَيْهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "»",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "number": 566,
+      "heading": "التحول عن الجنب عند رؤية ما يكره",
+      "match": "bukhari 6986",
+      "text": "حَدَّثَنَا مُسَدَّدٌ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَحْيَى بْنِ أَبِي كَثِيرٍ - وَأَثْنَى عَلَيْهِ خَيْرًا - عَنْ أَبِيهِ حَدَّثَنَا أَبُو سَلَمَةَ **عَنْ أَبِي قَتَادَةَ عَنِ النَّبِيِّ ﷺ قَالَ : « الرُّؤْيَا الصَّالِحَةُ مِنَ اللَّهِ وَالْحُلْمُ مِنَ الشَّيْطَانِ فَإِذَا حَلَمَ فَلْيَتَعَوَّذْ مِنْهُ وَلْيَبْصُقْ عَنْ شِمَالِهِ فَإِنَّهَا لاَ تَضُرُّهُ » . وَعَنْ أَبِيهِ : حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي قَتَادَةَ عَنْ أَبِيهِ عَنِ النَّبِيِّ ﷺ مِثْلَهُ .**",
+      "counts": {
+        "database": 54,
+        "near_difference": 2
+      },
+      "words": [
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مُسَدَّدٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَبْدُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَحْيَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "كَثِيرٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "-",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "وَأَثْنَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَلَيْهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "خَيْرًا",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "-",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "أَبِيهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبُو",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَلَمَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "**عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَتَادَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "النَّبِيِّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "«",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "الرُّؤْيَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الصَّالِحَةُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَالْحُلْمُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الشَّيْطَانِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَإِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "حَلَمَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلْيَتَعَوَّذْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنْهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَلْيَبْصُقْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "شِمَالِهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَإِنَّهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لاَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "تَضُرُّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "»",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ".",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "وَعَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِيهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَبْدُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَتَادَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِيهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "النَّبِيِّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "مِثْلَهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "number": 567,
+      "heading": "ما يقوله الصائم إذا سابه أحد أو قاتله",
+      "match": "bukhari 1904",
+      "text": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى أَخْبَرَنَا هِشَامُ بْنُ يُوسُفَ عَنِ ابْنِ جُرَيْجٍ قَالَ : أَخْبَرَنِي عَطَاءٌ عَنْ أَبِي صَالِحٍ الزَّيَّاتِ **أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ رضي الله عنه يَقُولُ : قَالَ رَسُولُ اللَّهِ ﷺ : « قَالَ اللَّهُ كُلُّ عَمَلِ ابْنِ آدَمَ لَهُ إِلاَّ الصِّيَامَ فَإِنَّهُ لِي وَأَنَا أَجْزِي بِهِ وَالصِّيَامُ جُنَّةٌ وَإِذَا كَانَ يَوْمُ صَوْمِ أَحَدِكُمْ فَلاَ يَرْفُثْ وَلاَ يَصْخَبْ فَإِنْ سَابَّهُ أَحَدٌ أَوْ قَاتَلَهُ فَلْيَقُلْ إِنِّي امْرُؤٌ صَائِمٌ وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ لَخُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ مِنْ رِيحِ الْمِسْكِ لِلصَّائِمِ فَرْحَتَانِ يَفْرَحُهُمَا إِذَا أَفْطَرَ فَرِحَ وَإِذَا لَقِيَ رَبَّهُ فَرِحَ بِصَوْمِهِ » .**",
+      "counts": {
+        "database": 87
+      },
+      "words": [
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "إِبْرَاهِيمُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مُوسَى",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَخْبَرَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "هِشَامُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يُوسُفَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ابْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "جُرَيْجٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "أَخْبَرَنِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَطَاءٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "صَالِحٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الزَّيَّاتِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "**أَنَّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَمِعَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "هُرَيْرَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رضي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الله",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عنه",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَقُولُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَسُولُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "«",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "كُلُّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَمَلِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ابْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "آدَمَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لَهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "إِلاَّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الصِّيَامَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَإِنَّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَأَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَجْزِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بِهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَالصِّيَامُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "جُنَّةٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَإِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "كَانَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَوْمُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "صَوْمِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَحَدِكُمْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلاَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَرْفُثْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَلاَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَصْخَبْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَإِنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "سَابَّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَحَدٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَوْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَاتَلَهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَلْيَقُلْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "إِنِّي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "امْرُؤٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "صَائِمٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَالَّذِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "نَفْسُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مُحَمَّدٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بِيَدِهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لَخُلُوفُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَمِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الصَّائِمِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَطْيَبُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عِنْدَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مِنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رِيحِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْمِسْكِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لِلصَّائِمِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَرْحَتَانِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَفْرَحُهُمَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "إِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَفْطَرَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَرِحَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَإِذَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لَقِيَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَبَّهُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَرِحَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بِصَوْمِهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "»",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "number": 568,
+      "heading": "ما يقوله الصائم إذا سابه أحد أو قاتله",
+      "match": "ibnmajah 1753",
+      "text": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ ثنا الْوَلِيدُ بْنُ مُسْلِمٍ ثنا إِسْحَاقُ بْنُ عُبَيْدِ اللَّهِ الْمَدَنِيُّ قَالَ : سَمِعْتُ عَبْدَ اللَّهِ بْنَ أَبِي مُلَيْكَةَ يَقُولُ : **سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ يَقُولُ : قَالَ رَسُولُ اللَّهِ ﷺ : « إِنَّ لِلصَّائِمِ عِنْدَ فِطْرِهِ لَدَعْوَةً مَا تُرَدُّ » .**",
+      "counts": {
+        "database": 38,
+        "none": 2,
+        "letters_differ": 2,
+        "near_difference": 1
+      },
+      "words": [
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "هِشَامُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَمَّارٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ثنا",
+          "tashkeel": "none",
+          "flag": "letters_differ"
+        },
+        {
+          "text": "الْوَلِيدُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مُسْلِمٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ثنا",
+          "tashkeel": "none",
+          "flag": "letters_differ"
+        },
+        {
+          "text": "إِسْحَاقُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عُبَيْدِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْمَدَنِيُّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "سَمِعْتُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَبْدَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَبِي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مُلَيْكَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَقُولُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "**سَمِعْتُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَبْدَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَمْرِو",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْعَاصِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "يَقُولُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَسُولُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ﷺ",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "«",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "إِنَّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لِلصَّائِمِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عِنْدَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فِطْرِهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لَدَعْوَةً",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "تُرَدُّ",
+          "tashkeel": "database",
+          "flag": "near_difference"
+        },
+        {
+          "text": "»",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "number": 569,
+      "heading": "ما يدعى به في ليلة القدر",
+      "match": "ibnmajah 3850",
+      "text": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ ثنا وَكِيعٌ عَنْ كَهْمَسِ بْنِ الْحَسَنِ عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ **عَنْ عَائِشَةَ أَنَّهَا قَالَتْ : يَا رَسُولَ اللَّهِ ! ، أَرَأَيْتَ إِنْ وَافَقْتُ لَيْلَةَ الْقَدْرِ مَا أَدْعُو ؟ قَالَ : « تَقُولِينَ : اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي » .**",
+      "counts": {
+        "database": 37,
+        "none": 1,
+        "letters_differ": 1
+      },
+      "words": [
+        {
+          "text": "حَدَّثَنَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَلِيُّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مُحَمَّدٍ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "ثنا",
+          "tashkeel": "none",
+          "flag": "letters_differ"
+        },
+        {
+          "text": "وَكِيعٌ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "كَهْمَسِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْحَسَنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَبْدِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بْنِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "بُرَيْدَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "**عَنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَائِشَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَنَّهَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "قَالَتْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "يَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "رَسُولَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "اللَّهِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "!",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "،",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "أَرَأَيْتَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "إِنْ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "وَافَقْتُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "لَيْلَةَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْقَدْرِ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "مَا",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "أَدْعُو",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "؟",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "قَالَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "«",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "تَقُولِينَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": ":",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": "اللَّهُمَّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "إِنَّكَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَفُوٌّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "تُحِبُّ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "الْعَفْوَ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "فَاعْفُ",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "عَنِّي",
+          "tashkeel": "database",
+          "flag": null
+        },
+        {
+          "text": "»",
+          "tashkeel": null,
+          "flag": null
+        },
+        {
+          "text": ".**",
+          "tashkeel": null,
+          "flag": null
+        }
+      ]
+    }
+  ]
+}

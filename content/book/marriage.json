@@ -1,0 +1,466 @@
+{
+  "chapter": "باب أذكار النكاح",
+  "book_pages": [
+    262,
+    270
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 262,
+      "heading": "الاستخارة في الأمور كلها",
+      "kind": "note",
+      "text": "من فطنة المؤمن استخارته لله عز وجل في أموره كلها ، ومن أهم هذه الأمور ، الزواج من امرأة صالحة ، وقد علم رسول الله ﷺ أصحابه بالاستخارة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": 420,
+      "book_page": 264,
+      "heading": "صيغة التزويج",
+      "kind": "crossref",
+      "text": "سبق في فضائل القرآن ( باب تزويج المعسر ) كيفية التزويج فقد قال رسول الله ﷺ : « اذهب فقد زوجتكها بما معك من القرآن » وفي بعض الروايات « ملكتكها » .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": 423,
+      "book_page": 266,
+      "heading": "الدعاء بما تقر به الأعين من الزوجة الصالحة والذرية الصالحة",
+      "kind": "verses",
+      "text": "قال تعالى حكاية عن عباد الرحمن : ﴿ والذين يقولون ربنا هب لنا من أزواجنا وذرياتنا قرة أعين واجعلنا للمتقين إماما ﴾ الفرقان . وقال سبحانه : ﴿ هنالك دعا زكريا ربه قال رب هَب لى من لدنك ذرية طيبة إنك سميع الدعاء ﴾ آل عمران ٣٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed on two lines (one title), joined with a space as in the index."
+      ]
+    },
+    {
+      "after_entry": 424,
+      "book_page": 266,
+      "heading": "ما يقوله من وُلِدَ له مولود",
+      "kind": "verses",
+      "text": "﴿ فلما وضعتها قالت ربى إنى وضعتها أنثى والله أعلم بما وضعت وليس الذكر كالأنثى وإنى سميتها مريم وإنى أعيذها بك وذريتها من الشيطان الرجيم ﴾ آل عمران .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verse is printed with final «ى» in «ربى», «إنى», «وإنى»; kept as printed."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 418,
+      "book_page": 262,
+      "heading": "الاستخارة في الأمور كلها",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٨٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 183
+      },
+      "text": "حدثنا مطرف بن عبد الله أبو مصعب حدثنا عبد الرحمن بن أبي الموال عن محمد ابن المنكدر **عن جابر رضي الله عنه قال : كان النبي ﷺ يعلمنا الاستخارة في الأمور كلها ، كالسورة من القرآن : « إذا هم أحدكم بالأمر فليركع ركعتين من غير الفريضة ، ثم يقول : اللهم إني أستخيرك بعلمك ، واستقدرك بقدرتك ، وأسألك من فضلك العظيم ، فإنك تقدر ولا أقدر ، وتعلم ولا أعلم وأنت علام الغيوب ، اللهم إن كنت تعلم أن هذا الأمر خير لي في ديني ومعاشي وعاقبة أمري - أو قال : في عاجل أمري وآجله - فاقدره لي . وإن كنت تعلم أن هذا الأمر شر لي في ديني ومعاشي وعاقبة أمري - أو قال : في عاجل أمري وآجله - فاصرفه عني واصرفني عنه ، واقدر لي الخير حيث كان ، ثم رضني به . ويسمي حاجته » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج٢ ص١٨٧ ، والنسائيّ ج٦ ص٨٠ ، والترمذي ج٢ ص٥٩١ تحفة وقال : حسن صحيح غريب . وابن السني في عمل اليوم والليلة رقم ٦٠١ ، وانظر حديث رقم ٣٢٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«واستقدرك» is printed without hamza on the alif; kept as printed."
+      ]
+    },
+    {
+      "number": 419,
+      "book_page": 262,
+      "heading": "الخطبة بين يدي الحديث",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص١٥٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 156
+      },
+      "text": "حدثنا إسحاق بن إبراهيم ومحمد بن المثنى كلاهما عن عبد الأعلى قال ابن المثنى : حدثني عبد الأعلى وهو أبو همام حدثنا داود عن عمرو بن سعيد عن سعيد بن جبير **عن ابن عباس أن ضِمَادا قدم مكة وكان من أزد شنوءة ، وكان يرق من هذه الريح ، فسمع سفهاء من أهل مكة يقولون : إن محمدا مجنون ، فقال : لو إني رأيت هذا الرجل لعل الله يشفيه على يدي . قال : فلقيه ، فقال : يا محمد إني أرق من هذه الريح ، وإن الله يشفي على يدي من يشاء فهل لك ؟ فقال رسول الله ﷺ : « إن الحمد لله نحمده ونستعينه ، من يهده الله فلا مضل له ، ومن يضلل فلا هادي له ، وأشهد أن لا إله إلا الله وحده لا شريك له ، وأن محمدا عبده ورسوله ، أما بعد » . قال : فقال : أعد علي كلماتك هؤلاء ، فأعادهن عليه رسول الله ﷺ ثلاث مرات ، قال : فقال : لقد سمعت قول الكهنة وقول السحرة وقول الشعراء ، فما سمعت مثل كلماتك هؤلاء ، ولقد بلغن ناعوس البحر . قال : فقال : هات يدك أبايعك على الإسلام . قال : فبايعه رسول الله ﷺ « وعلى قومك » . قال : وعلى قومي . قال : فبعث رسول الله ﷺ سرية فمروا بقومه ، فقال صاحب السرية للجيش : هل أصبتم من هؤلاء شيئا ؟ فقال رجل من القوم : أصبت منهم مطهرة . فقال : ردوها ، فإن هؤلاء قوم ضماد .**",
+      "grading": "صحيح",
+      "takhrij": "أخرجه النسائيّ في النكاح ٣٩ : ٢ ، وابن ماجه في النكاح باب ١٩ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 13,
+          "field": "text",
+          "printed": "يرق",
+          "corrected": "يرقي",
+          "confidence": 0.98,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 868) is used."
+        },
+        {
+          "id": 14,
+          "field": "text",
+          "printed": "أرق",
+          "corrected": "أرقي",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 868) is used."
+        },
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "يشاء",
+          "corrected": "شاء",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 868) is used."
+        },
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "فبايعه رسول",
+          "corrected": "فبايعه فقال رسول",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (muslim 868) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The chain runs from p. 262 onto p. 263.",
+        "Review: the OCR flagged «يرقى» and «أرقى» (OCR «يرق», «أرق»). Zoomed at 1600 dpi on p. 263: both end in a plain final ق, the same shape as the ق of «فتمزق» on p. 265, with no ى; corrected the transcription to «يرق» and «أرق» as printed."
+      ]
+    },
+    {
+      "number": 420,
+      "book_page": 263,
+      "heading": "كيف تأذن البكر",
+      "label": null,
+      "citation": "**قال الإمام البخاري فتح ج١٢ ص٣٤٠**",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 340
+      },
+      "text": "حدثنا أبو عاصم عن ابن جريج عن ابن أبي مليكة عن ذكوان **عن عائشة رضي الله عنها قالت : قال رسول الله ﷺ : « البكر تستأذن » . قلت : إن البكر تستحي . قال : « إذنها صماتها » .** وأخرج البخاري مثله من حديث أبي هريرة .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٩ ص٢٠٣ ، وأبو داود ج٢ ص٥٧٣ ، والنسائيّ ج٦ ص٨٦ ، والبيهقي ١١٩/٧٩ ، وأحمد ٦ / ٤٥ ، ١٦٥ ، ٢٠٣ ، وابن الجارود ٧٠٨ .",
+      "footnotes": [
+        "(*) [على «ابن جريج»] في مسلم سمعت ابن أبي مليكة .",
+        "(**) [على «ذكوان»] ذكوان هو أبو عمرو مولى عائشة كما اتضح من جمع الأطراف .",
+        "(***) [على «من حديث أبي هريرة»] حديث أبي هريرة أخرجه البخاري ، ومسلم ، وأبو داود ٢٠٩٢ ، والنسائيّ ٢ / ٧٨ ، والترمذي ، والدارمي ٢ / ١٣٨ ، وابن ماجه ١٨٧١ ، وابن الجارود ٧٠٧ ، والبيهقي ٧ / ١١٩ ، وأحمد ٢ / ٢٥٠ ، ٢٧٩ ، ٤٢٥ ، ٤٣٤ ، ٤٧٥ ."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "takhrij",
+          "printed": "١١٩/٧٩",
+          "corrected": "٧ / ١١٩",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: a garbled volume/page reference; footnote (***) on the same page cites the same hadith as «البيهقي ٧ / ١١٩»."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "تستحي",
+          "corrected": "تستحيي",
+          "confidence": 0.83,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The citation line is printed in bold.",
+        "The closing remark «وأخرج البخاري مثله من حديث أبي هريرة .» is printed in regular type on its own line before the grading; kept in text as printed.",
+        "The takhrij runs from p. 263 onto p. 264 («=»)."
+      ]
+    },
+    {
+      "number": 421,
+      "book_page": 264,
+      "heading": "اللهو عند النكاح",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٢٢٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 225
+      },
+      "text": "حدثنا الفضل بن يعقوب حدثنا محمد بن سابق حدثنا إسرائيل عن هشام بن عروة عن أبيه **عن عائشة رضي الله عنها ، أنها زفت امرأة إلى رجل من الأنصار ، فقال نبي الله ﷺ : « يا عائشة ما كان معكم لهو ؟ فإن الأنصار يعجبهم اللهو » .**",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "رضي الله عنها",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5162) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "takhrij is null: the book prints no numbered footnote for this entry (the footnotes on p. 264 belong to entry 420)."
+      ]
+    },
+    {
+      "number": 422,
+      "book_page": 265,
+      "heading": "ضرب الدف في النكاح",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٢٠٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 202
+      },
+      "text": "حدثنا مسدد حدثنا بشر بن المفضل حدثنا خالد بن ذكوان قال : **قالت الربيع بنت معوذ بن عفراء : جاء النبي ﷺ حين بُني عليّ ، فجلس على فراشي كمجلسك مني ، فجعلت جويريات لنا يضربن بالدف ويندبن من قتل من آبائي يوم بدر ، إذ قالت إحداهن : وفينا نبي يعلم ما في غد ، فقال : « دعي هذه وقولي بالذي كنت تقولين » .**",
+      "grading": "حسن",
+      "takhrij": "والترمذي ج٤ ص٢١١ وقال : حسن صحيح . وأبو داود في الأدب ٥٩ ، وابن ماجه في النكاح ٢١ ، وعزاه المزي في الأطراف للنسائيّ السنن الكبرى ٨٤ : ٢ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "ﷺ حين",
+          "corrected": "ﷺ فدخل حين",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 5147) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«عليّ» is printed with a shadda only; «آبائي» with hamza on the ya, as printed."
+      ]
+    },
+    {
+      "number": 423,
+      "book_page": 265,
+      "heading": "ما يدعو به النساء الحاضرات",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٧ ص٢٢٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 7,
+        "page": 223
+      },
+      "text": "حدثنا فروة بن أبي المغراء حدثنا علي بن مسهر عن هشام عن أبيه **عن عائشة رضي الله عنها قالت : تزوجني النبي ﷺ وأنا بنت ست سنين ، فقدمنا المدينة فنزلنا في بني الحارث بن الخزرج ، فوعكت ، فتمزق شعري ، فوفى جُمَيمةً ، فأتتني أمي أم رُومان - وإني لفي أرجوحة ومعي صواحب لي - فصرخت بي فأتيتها لا أدري ما تريد بي ، فأخذتْ بيدي حتى أوقفتني على باب الدار ، وإني لأنهج حتى سكن بعض نَفسي ، ثم أخذتْ شيئا من ماء فمسحت به رأسي ووجهي ، ثم أدخلتني الدار فإذا نسوة من الأنصار في البيت ، فقلن : على الخير والبركة ، وعلى خير طائر ، فأسلمتني إليهن ، فأصلحن من شأني ، فلم يرعني إلا رسول الله ﷺ ضحى ، فأسلمتْني إليه وأنا يومئذ بنت تسع سنين » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٩ ص٢٠٧ نووي ، وأبو داود ج٥ ص٢٢٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "فتمزق",
+          "corrected": "فتمرق",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; in the hadith text the wording of the cited source (bukhari 3894) is used."
+        },
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "رأسي ووجهي",
+          "corrected": "وجهي ورأسي",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 3894) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The book prints a closing « » » at the end with no opening one; kept as printed.",
+        "The heading is printed «ما يدعو به النساء الحاضرات»; the index has «يدعوا».",
+        "Review: zoomed at 1600 dpi on p. 265: «فأخذتْ» and «أخذتْ» carry a sukun over the ت (a ring over its two dots, like «فأسلمتْني»); added. «فتمزق» is printed with ز."
+      ]
+    },
+    {
+      "number": 424,
+      "book_page": 266,
+      "heading": "ما يقال عند الجماع",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٢٢٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 228
+      },
+      "text": "حدثنا سعيد بن حفص حدثنا شيبان عن منصور عن سالم بن أبي الجعد عن كريب **عن ابن عباس قال : قال النبي ﷺ : « أما لو أن أحدكم يقول حين يأتي أهله : بسم الله ، اللهم جنبني الشيطان ، وجنب الشيطان ما رزقتنا . ثم قدر بينهما في ذلك أو قضي ولد ، لم يضره شيطان أبدا » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٠ ص٥ نووي ، وأبو داود ج٢ ص٦١٧ ، وابن ماجه ١٩١٩ ، والترمذي ج٤ ص٢١٤ وقال : حديث حسن صحيح . والدارمي ٢ / ١٤٥ ، والبيهقي ٧ / ١٤٩ ، وأحمد ١ / ٢١٦ ، ٢٢٠ ، ٢٤٣ ، ٢٨٣ ، ٢٨٦ ، وعزاه الشيخ ناصر إرواء رقم ٢٠١٢ إلى النسائيّ في الكبرى في العشرة ٧٩ / ١ ، وابن السني في عمل اليوم والليلة ٦١٣ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "سعيد",
+          "corrected": "سعد",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 12 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        },
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "أحدكم",
+          "corrected": "أحدهم",
+          "confidence": 0.8,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 425,
+      "book_page": 267,
+      "heading": "ما يفعله الرجل عند صبيحة بنائه بأهله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٥٢٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 528
+      },
+      "text": "حدثنا إسحاق بن منصور أخبرنا عبد الله بن بكر السهمي حدثنا حميد **عن أنس رضي الله عنه قال : أولم رسول الله ﷺ حين بنى بزينب بنت جحش فأشبع الناس خبزا ولحما ، ثم خرج إلى حُجَر أمهات المؤمنين كما كان يصنع صبيحة بنائه فيسلم عليهن ويدعو لهن ويسلمن عليه ويدعون له ، فلما رجع إلى بيته رأى رجلين جرى بهما الحديث ، فلما رآهما رجع عن بيته ، فلما رأى الرجلان نبيَّ الله ﷺ رجع عن بيته وثبا مسرعين فما أدري أنا أخبرته بخروجهما أم أُخبر فرجع حتى دخل البيت وأرخى الستر بيني وبينه وأنزلت آيةُ الحجاب .**",
+      "grading": "صحيح",
+      "takhrij": "وقال ابن أبي مريم أخبرنا يحيى حدثني حميد سمع أنسا عن النبي ﷺ ، ورواه مسلم ج٩ ص٢٢٨ .",
+      "footnotes": [
+        "(*) [على «وقال ابن أبي مريم»] قال الحافظ ص٥٣١ ج٨ : مراده بذلك أن عنعنة حميد في هذا الحديث غير مؤثرة ؛ لأنه ورد عنه التصريح بالسماع لهذا الحديث منه ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The footnote marker (*) is printed inside the takhrij, on «وقال»; its footnote is kept in footnotes."
+      ]
+    },
+    {
+      "number": 426,
+      "book_page": 267,
+      "heading": "ما يقال لمن تزوج",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٩٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 190
+      },
+      "text": "حدثنا أبو النعمان حدثنا حماد بن زيد عن عمرو **عن جابر رضي الله عنه قال : هلك أبي وترك سبع - أو تسع - فتزوجت امرأة فقال النبي ﷺ : « تزوجت يا جابر ؟ » قلت : نعم قال : « بكرا أم ثيبا ؟ » قلت : ثيب قال : « هلا جارية تلاعبها وتلاعبك أو تضاحكها وتضاحكك ؟ » قلت : هلك أبي فترك سبع أو تسع بنات ، فكرهت أن أجيئهن بمثلهن ، فتزوجت امرأة تقوم عليهن قال : « فبارك الله عليك » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٠ ص٥٣ ، وأبو داود ج٢ ص٥٤٠ مختصرا ، والترمذي ج٤ ص٢٢٥ وقال : حسن صحيح . وابن السني رقم ٦١٦ عمل اليوم والليلة ، والنسائيّ في النكاح باب ٦ : ١ ، وأحمد ٣ / ٣٠٨ ، ٣١٤ .",
+      "footnotes": [
+        "(*) [على «فبارك الله عليك»] قال الحافظ فتح ج١١ ص١٩١ : ومناسبة قوله ﷺ لعبد الرحمن : « بارك الله لك » ولجابر : « بارك الله عليك » أن المراد بالأول اختصاصه بالبركة في زوجته ، وبالثاني شمول البركة له في جودة عقله حيث قدم مصلحة أخواته على حفظ نفسه ، فعدل لأجلهن عن تزوج البكر مع كونها أرفَع رتبة للمتزوج الشاب من الثيب غالبا ."
+      ],
+      "corrections": [
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "تسع -",
+          "corrected": "تسع بنات -",
+          "confidence": 0.65,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net."
+        },
+        {
+          "id": 12,
+          "field": "text",
+          "printed": ": ثيب قال",
+          "corrected": ": ثيبا قال",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6387) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Printed under the number «(١)» above the citation.",
+        "The text runs from p. 267 onto p. 268; the footnote is on p. 268.",
+        "«ثيب» (Jabir's answer) is printed without tanwin alif; kept as printed.",
+        "In the footnote, a small mark under «بالأول» is unclear (possibly a stray kasra) and is not transcribed."
+      ]
+    },
+    {
+      "number": 427,
+      "book_page": 268,
+      "heading": "ما يقال لمن تزوج",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٢٢١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 221
+      },
+      "text": "حدثنا سليمان بن حرب حدثنا حماد - هو ابن زيد - عن ثابت **عن أنس رضي الله عنه أن النبي ﷺ رأى على عبد الرحمن بن عوف أثر صفرة فقال : « ما هذا ؟ » قال : إني تزوجت امرأة على وزن نواة من ذهب قال : « بارك الله لك . أولِم ولو بشاة » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٩ ص٢١٧ ، وأبو داود ج٢ ص٥٨٤ ، والنسائيّ ج٦ ص١٢٨ ، والترمذي ج٤ ص٢١٦ وقال : حسن صحيح . وأحمد ٣ / ١٩٠ ، ٢٧١ ، والبيهقي ٧ / ٢٣٧ ، والدارمي ٢ / ١٠٤ ، وابن الجارود ٧١٥ ، والطحاوي في مشكل الآثار ٤ / ١٤٥ ، وابن السني في عمل اليوم والليلة رقم ٦٠٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed under the number «(٢)» above the citation."
+      ]
+    },
+    {
+      "number": 428,
+      "book_page": 268,
+      "heading": "ما يقال لمن تزوج",
+      "label": null,
+      "citation": "**قال أبو داود ج٢ ص٥٩٨**",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 598
+      },
+      "text": "**حدثنا قتيبة بن سعيد حدثنا عبد العزيز يعني ابن محمد عن سهيل عن أبيه عن أبي هريرة أن النبي ﷺ كان إذا رفأ الإنسان إذا تزوج قال : « بارك الله لك وبارك عليك وجمع بينكما في خير » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن ماجه ١٩٠٥ ، والترمذي ج٤ ص٢١٣ تحفة وقال : حسن صحيح . وابن السني في عمل اليوم والليلة ٦٠٩ ، وأحمد ٢ / ٣٨١ .",
+      "footnotes": [
+        "(*) [على «رفأ»] هنأه ودعا له ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed under the number «(٣)» above the citation.",
+        "The citation line and the whole text, chain included, are printed in bold.",
+        "The text runs from p. 268 onto p. 269; the footnotes are on p. 269."
+      ]
+    },
+    {
+      "number": 429,
+      "book_page": 269,
+      "heading": "ما يقوله من اشترى بعيرا أو خادما أو تزوج",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص٦١٦",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 616
+      },
+      "text": "حدثنا عثمان بن أبي شيبة وعبد الله بن سعيد قالا : حدثنا أبو خالد - يعني سليمان ابن حيان - عن ابن عجلان **عن عمرو بن شعيب عن أبيه عن جده عن النبي ﷺ قال : « إذا تزوج أحدكم امرأة أو اشترى خادما فليقل : اللهم إني أسألك خيرها وخير ما جبلتها عليه وأعوذ بك من شرها ومن شر ما جبلتها عليه » . وإذا اشترى بعيرا فليأخذ بذروة سنامه وليقل مثل ذلك .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن ماجه رقم ١٩١٨ ، وابن السني في عمل اليوم والليلة رقم ٦٠٥ ، تقدم رقم ٣٤٤ ، وأخرجه أحمد ٤ / ٢٨٤ ، ٢٩٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed under the number «(٤)» above the citation.",
+        "p. 270 starts the next chapter (باب في المرض والطب والرقى)."
+      ]
+    }
+  ]
+}

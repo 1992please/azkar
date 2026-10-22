@@ -1,0 +1,42 @@
+{
+  "chapter": "باب ما يقال عند سماع صياح الديكة وما يقال عند سماع نهيق الحمار",
+  "book_pages": [
+    26,
+    26
+  ],
+  "notes": [
+    "The chapter is one page: it ends on p. 26 with the ornament «****», and p. 27 opens with the next chapter (باب ما يقال عند سماع نباح الكلاب). The title is printed on two lines and is one title, joined with a space. It has no sub-headings, so the entry's heading is the chapter title.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "Review: the only OCR flag was an `order` flag on «سماع» in the heading, where the word occurs twice (once on each title line). The OCR read the same word, so nothing was wrong. misprints.py found 0 candidates and no check-scan or unknown words."
+  ],
+  "skipped": [
+    {
+      "pages": "26",
+      "what": "The (*) footnote «تعقيب : يلاحظ أننا نسوق هذا الحديث …», anchored after «شيطانا »: general commentary addressed to unbelievers, not about the hadith or its wording."
+    }
+  ],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 24,
+      "book_page": 26,
+      "heading": "باب ما يقال عند سماع صياح الديكة وما يقال عند سماع نهيق الحمار",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص٣٥٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 350
+      },
+      "text": "حدثنا قتيبة حدثنا الليث عن جعفر بن ربيعة عن الأعرج **عن أبي هريرة رضي الله عنه أن النبي ﷺ قال : « إذا سمعتم صياح الديكة فاسألوا الله من فضله فإنها رأت ملكا ، وإذا سمعتم نهيق الحمار فتعوذوا بالله من الشيطان فإنه رأى شيطانا » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٧ ص٤٦ ، وأبو داود ج٥ ص٣٣١ ، والترمذي ج٩ ص٤٢٦ تحفة وقال : حسن صحيح وابن السني في عمل اليوم والليلة رقم ٣١٢ ، وأحمد ٢ / ٣٦٤ ، ٣٠٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) footnote marker after «شيطانا » » points to a «تعقيب» (general commentary), which is skipped and logged in `skipped`.",
+        "«رأى» is printed with final alif maqsura (zoomed at 597 dpi). The small mark over «بالله» is the font's ligature for the divine name, not a printed tashkeel, so it isn't kept. Citation and takhrij digits checked at 328 dpi."
+      ]
+    }
+  ]
+}

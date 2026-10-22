@@ -1,0 +1,365 @@
+{
+  "chapter": "باب الجمعة",
+  "book_pages": [
+    355,
+    362
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "Footnotes (*) on the headings «النهي» (p. 355) and «النداء» (p. 356) are kept with the block under that heading: the first in entry 571's footnotes, the second in the verses block after entry 571.",
+    "Zoomed p. 357: «فإليَّ وعليَّ» are printed with shadda and fatha. p. 359: the heading reads «القراءة» (the dots of the ta marbuta are faint).",
+    "Review: the OCR flags (عبثر، والطيبات، وأنتم، فصلى، عليّ، كنتم، تعالى، أتاك، مجلز, and «ابن» against «بن» across line breaks) are all OCR misreads; the scan matches the transcription. Zoomed p. 359: the mark over «عليّ» (entry 576) is a single short stroke, like the book's shadda on nisbas, so it was kept as a shadda. Zoomed p. 357: entry 573 prints «من يهدي الله», so automatic correction 1 («يهده») stands."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": 571,
+      "book_page": 356,
+      "heading": "السعي إلى ذكر الله عند النداء يوم الجمعة",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ يا أيها الذين آمنوا إذا نودى للصلاة من يوم الجمعة فاسعوا إلى ذكر الله وذروا البيع ذلكم خير لكم إن كنتم تعلمون ﴾ الجمعة .",
+      "footnotes": [
+        "(*) [على «النداء»] النداء الذي قبل الخطبة بحوالي ساعة أو ما يقاربها ليس من سنة رسول الله ﷺ ولكنه من سنة عثمان كما هو معلوم ، وفي الباب حديث من راح إلى الجمعة في الساعة الأولى ... والثانية .. يوضح أن الذهاب قبل الخطبة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verse is printed in bold, the surah name «الجمعة» after it in regular type."
+      ]
+    },
+    {
+      "after_entry": 576,
+      "book_page": 359,
+      "heading": "ذكر الله بعد الانتهاء من صلاة الجمعة",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ فإذا قضيت الصلاة فانتشروا فى الأرض وابتغوا من فضل الله واذكروا الله كثيرا لعلكم تفلحون ﴾ الجمعة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«فى» is printed without dots."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 570,
+      "book_page": 355,
+      "heading": "ما يقرأ في فجر الجمعة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٣٧٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 377
+      },
+      "text": "حدثنا أبو نعيم قال حدثنا سفيان عن سعد بن إبراهيم عن عبد الرحمن - هو ابن هرمز - **عن أبي هريرة رضي الله عنه قال : كان النبي ﷺ يقرأ في الجمعة في صلاة الفجر : « ألم تنزيل وهل أتى على الإنسان » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص١٦٨ ، وابن ماجه رقم ٨٢٣ ، والنسائيّ ج٢ ص١٥٩ ، والدارمي ١ / ٣٦٢ ، والبيهقي ٣ / ٢٠١ ، وأحمد ٢ / ٤٣٠-٤٧٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 571,
+      "book_page": 355,
+      "heading": "النهي عن الكلام أثناء خطبة الجمعة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٤١٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 414
+      },
+      "text": "حدثنا يحيى بن بكير قال : حدثنا الليث عن عقيل عن ابن شهاب قال : أخبرني سعيد ابن المسيب **أن أبا هريرة أخبره أن رسول الله ﷺ قال : « إذا قلت لصاحبك يوم الجمعة أنصت والإمام يخطب فقد لغوت » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم رقم ٨٥١ عبد الباقي ، وأحمد ٢ / ٢٧٢ ، ٣٩٣ ، ٣٩٦ ، ٤٧٤ ، ٤٨٥ ، ٥١٨ ، ٥٣٢ ، والنسائيّ ٣ / ١٠٤ والبيهقي ٣ / ٢١٨ ، والدارمي ١ / ٣٦٤ ، وابن ماجه رقم ١١١٠ ، والترمذي ، وأبو داود ج١ ص٦٦٥ رقم ١١١٠ ، وابن الجارود رقم ٢٩٩ .",
+      "footnotes": [
+        "(*) [على «النهي» في العنوان] لكن يجوز مخاطبة الخطيب كما في حديث الأعرابي الذي سأل رسول الله ﷺ أن يدعو الله أن يسقيهم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) footnote belongs to the word «النهي» in the heading."
+      ]
+    },
+    {
+      "number": 572,
+      "book_page": 356,
+      "heading": "في صفة الخطبة والصلاة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص١٥٨",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 158
+      },
+      "text": "حدثني سريج بن يونس حدثنا عبد الرحمن بن عبد الملك بن أبجر عن أبيه عن واصل ابن حيان قال : **قال أبو وائل : خطبنا عمار فأوجز وأبلغ فلما نزل قلنا : يا أبا اليقظان لقد أبلغت وأوجزت فلو كنت تنفست . فقال : إني سمعت رسول الله ﷺ يقول : « إن طول صلاة الرجل وقصر خطبته مئنة من فقهه فأطيلوا الصلاة وأقصروا الخطبة وإن من البيان لسحرا » .**",
+      "grading": "صحيح",
+      "takhrij": "وأحمد ٤ / ٢٦٢ ، والبيهقي ٣ / ٢٠٨ ، والحاكم ٣ / ٣٩٣ ، والدارمي ١ / ٣٦٥ . الحديث من الأحاديث التي انتقدها الدارقطني لكن له شاهد من حديث جابر بن سمرة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The takhrij's second line is printed as a continuation in smaller type; joined."
+      ]
+    },
+    {
+      "number": 573,
+      "book_page": 356,
+      "heading": "حالة الخطيب وماذا يقول",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص١٥٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 153
+      },
+      "text": "حدثني محمد بن المثنى حدثنا عبد الوهاب بن عبد المجيد عن جعفر بن محمد عن أبيه **عن جابر بن عبد الله قال : كان رسول الله ﷺ إذا خطب أحمرت عيناه وعلا صوته واشتد غضبه حتى كأنه منذر جيش يقول صبحكم ومساكم ويقول بعثت أنا والساعة كهاتين ويقرن بين إصبعيه السبابة والوسطى ويقول أما بعد فإن خير الحديث كتاب الله وخير الهدي هدي محمد وشر الأمور محدثاتها وكل بدعة ضلالة ثم يقول أنا أولى بكل مؤمن من نفسه من ترك مالا فلأهله ومن ترك دينا أو ضياعا فإليَّ وعليَّ .** وحدثنا عبد بن حميد حدثنا خالد بن مخلد حدثني سليمان بن بلال حدثني جعفر ابن محمد عن أبيه قال : **سمعت جابر بن عبد الله يقول : كانت خطبة النبي ﷺ يوم الجمعة يحمد الله ويثني عليه ثم يقول على إثر ذلك وقد علا صوته ثم ساق الحديث .** وحدثنا أبو بكر بن أبي شيبة حدثنا وكيع عن سفيان عن جعفر عن أبيه **عن جابر قال : كان رسول الله ﷺ يخطب الناس يحمد الله ويثني عليه بما هو أهله ثم يقول من يهدي الله فلا مضل له ومن يضلل فلا هادي له وخير الحديث كتاب الله . ثم ساق الحديث بمثل حديث الثقفي .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن ماجه رقم ٤٥ ، و النسائيّ ج٣ ص١٨٨ ، وأحمد ٣ / ١١٩ ، ٣٧١ ، والبيهقي ٣ / ٢١٤ ، وابن الجارود رقم ٢٩٧ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "يهدي",
+          "corrected": "يهده",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 14 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 1435) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Runs from p. 356 onto p. 357. Two further chains without entry numbers of their own («وحدثنا عبد بن حميد …», «وحدثنا أبو بكر بن أبي شيبة …») are kept in text as printed.",
+        "«أحمرت» is printed with a hamza on the alif."
+      ]
+    },
+    {
+      "number": 574,
+      "book_page": 357,
+      "heading": "التشهد في الخطبة",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص١٧٣",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 173
+      },
+      "text": "حدثنا مسدد وموسى بن إسماعيل قالا : حدثنا عبد الواحد بن زياد حدثنا عاصم بن كليب عن أبيه **عن أبي هريرة عن النبي ﷺ قال : « كل خطبة ليس فيها تشهد فهي كاليد الجذماء » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه الترمذي ج٤ ص٢٣٩ وقال : حسن غريب .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 575,
+      "book_page": 358,
+      "heading": "خطبة الحاجة",
+      "label": null,
+      "citation": "قال الترمذي تحفة ج٤ ص٢٣٧",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 4,
+        "page": 237
+      },
+      "text": "حدثنا قتيبة أخبرنا عبثر بن القاسم عن الأعمش عن أبي إسحاق عن أبي الأحوص **عن عبد الله قال : علمنا رسول الله ﷺ التشهد في الصلاة والتشهد في الحاجة قال : « التشهد في الصلاة : التحيات لله والصلوات والطيبات السلام عليك أيها النبي ورحمة الله وبركاته ، السلام علينا وعلى عباد الله الصالحين ، أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله » . والتشهد في الحاجة : « إن الحمد لله نستعينه ونستغفره ونعوذ بالله من شرور أنفسنا وسيئات أعمالنا من يهد الله فلا مضل له ومن يضلل فلا هادي له وأشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله » . قال : ويقرأ ثلاث آيات . ففسرها سفيان الثوري : ﴿ واتقوا الله حق تقاته ولا تموتن إلا وأنتم مسلمون ﴾ ، ﴿ اتقوا الله الذى تساءلون به والأرحام إن الله كان عليكم رقيبا ﴾ ، ﴿ اتقوا الله وقولوا قولا سديدا ﴾ الآية .**",
+      "grading": "صحيح",
+      "takhrij": "وفي الباب عن عدي بن حاتم . وقال : حديث عبد الله حديث حسن . رواه الأعمش عن أبي إسحاق عن أبي الأحوص عن عبد الله عن النبي ﷺ . وقال أيضا : ورواه شعبة عن أبي إسحاق عن أبي عبيدة عن عبد الله عن النبي ﷺ وكلا الحديثين صحيح ؛ لأن اسرائيل جمعهما فقال : عن أبي إسحاق عن أبي الأحوص وأبي عبيدة عن عبد الله بن مسعود عن النبي ﷺ . وأخرجه ابن ماجه حديث رقم ١٨٩٢ ، والنسائيّ ج٣ ص١٠٤ ، وأبو داود ج٢ ص٥٩١ ، ٥٩٢ ، وأحمد ١ / ٣٩٢ ، ٣٩٣ .",
+      "footnotes": [
+        "(*) [على «سفيان الثوري»] رواية سفيان في أبي داود مفسرة .",
+        "(**) [على «والنسائيّ» في التخريج] طريق النسائيّ من طريق شعبة سمعت أبا إسحاق يحدث عن أبي عبيدة عن عبد الله عن النبي ﷺ وقال أبو عبيدة لم يسمع من أبيه شيئا .",
+        "(***) [على «٥٩٢» في التخريج] رواية أبي داود ص ٥٩٢ من طريق قتادة عن عبد ربه عن أبي عياض عن ابن مسعود أن رسول الله ﷺ كان إذا تشهد فذكر نحوه . بزيادة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (**) and (***) footnotes are attached to words of the takhrij, not of the hadith."
+      ]
+    },
+    {
+      "number": 576,
+      "book_page": 359,
+      "heading": "القراءة في صلاة الجمعة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص١٦٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 166
+      },
+      "text": "حدثنا عبد الله بن مسلمة بن قعنب حدثنا سليمان وهو ابن بلال عن جعفر عن أبيه **عن أبي رافع قال : استخلف مروان أبا هريرة على المدينة وخرج إلى مكة فصلى لنا أبو هريرة الجمعة فقرأ بعد سورة الجمعة في الركعة الآخرة إذا جاءك المنافقون قال : فأدركت أبا هريرة حين انصرف فقلت له إنك قرأت بسورتين كان عليّ بن أبي طالب يقرأ بهما في الكوفة فقال أبو هريرة : إني سمعت رسول الله ﷺ يقرأ بهما يوم الجمعة .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أبو داود ج١ ص٦٧٠ ، وابن ماجه رقم ١١١٨ ، والترمذي ج٣ ص٥٤ تحفة وقال : حسن صحيح . وابن الجارود في المنتقى رقم ٣٠١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 577,
+      "book_page": 359,
+      "heading": "القراءة في صلاة الجمعة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص١٦٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 166
+      },
+      "text": "حدثنا يحيى بن يحيى وأبو بكر بن أبي شيبة وإسحاق جميعا عن جرير قال يحيى : أخبرنا جرير عن إبراهيم بن محمد بن المنتشر عن أبيه **عن حبيب بن سالم مولى النعمان ابن بشير قال : كان رسول الله ﷺ يقرأ في العيدين وفي الجمعة بسبح اسم ربك الأعلى وهل أتاك حديث الغاشية قال : وإذا اجتمع العيد والجمعة في يوم واحد يقرأ بهما أيضا في الصلاتين .** وحدثنا عمرو بن الناقد حدثنا سفيان بن عيينة عن ضمرة بن سعيد **عن عبيد الله ابن عبد الله قال : كتب الضحاك بن قيس إلى النعمان بن بشير يسأله أي شيء قرأ رسول الله ﷺ يوم الجمعة فقال : كان يقرأ هل أتاك .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه أبو داود ج١ ص٦٧٠ ، وأخرج ابن ماجه الحديث الثاني رقم ١١١٩ ، وابن ماجه أيضا رقم ١٢٨١ ، والنسائيّ ج٣ ص١١٢ ، والترمذي ج٣ ص٧٨ تحفة ، وابن أبي شيبة ص١٧٦ ج٢ ، والدارمي ج١ ص٣٧٧ ، وأحمد ٤ / ٢٧١ ، ٢٧٣ ، ٢٧٦ ، ٢٧٧ ، وابن الجارود في المنتقى ص١٠١ رقم ٢٦٥ ورقم ٣٠٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Runs from p. 359 onto p. 360. A further chain without an entry number of its own («وحدثنا عمرو بن الناقد …») is kept in text as printed."
+      ]
+    },
+    {
+      "number": 578,
+      "book_page": 360,
+      "heading": "فضل قراءة سورة الكهف يوم الجمعة",
+      "label": null,
+      "citation": "قال الحاكم ج١ ص٥٦٤",
+      "source": {
+        "collection": "hakim",
+        "volume": 1,
+        "page": 564
+      },
+      "text": "أخبرنا أبو الحسن أحمد بن عثمان المقرىء ببغداد ثنا أبو قلابة عبد الملك بن محمد ثنا يحيى بن كثير حدثنا شعبة عن أبي هاشم عن قيس بن عباد **عن أبي سعيد الخدري رضي الله عنه قال : قال رسول الله ﷺ : « من قرأ سورة الكهف كما أنزلت كانت له نورا يوم القيامة من مقامه إلى مكة ، ومن قرأ عشر آيات من آخرها ثم خرج الدجال لم يسلط عليه ، ومن توضأ ثم قال : سبحانك اللهم وبحمدك لا إله إلا أنت استغفرك وأتوب إليك كتب في رق ثم طبع بطابع فلم يكسر إلى يوم القيامة » .**",
+      "grading": "صحيح بشواهده",
+      "takhrij": "وقال : حديث صحيح على شرط مسلم و لم يخرجاه .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: «المقرىء» is printed with a dotless ya and a hamza after it; «استغفرك» without a hamza on the alif."
+      ]
+    },
+    {
+      "number": 579,
+      "book_page": 360,
+      "heading": "فضل قراءة سورة الكهف يوم الجمعة",
+      "label": null,
+      "citation": "قال الحاكم ج٢ ص٣٦٨",
+      "source": {
+        "collection": "hakim",
+        "volume": 2,
+        "page": 368
+      },
+      "text": "حدثنا أبو بكر محمد بن المؤمل ثنا الفضل بن محمد الشعراني ثنا نعيم بن حماد ثنا هشيم أنبأ أبو هاشم عن أبي مجلز عن قيس بن عباد **عن أبي سعيد الخدري رضي الله عنه أن النبي ﷺ قال : « إن من قرأ سورة الكهف يوم الجمعة أضاء له من النور ما بين الجمعتين » .**",
+      "grading": null,
+      "takhrij": "وقال : هذا إسناده صحيح و لم يخرجاه . وللحديث شاهد من حديث ابن عمر ترغيب ج١ ص٥١٣ عزاه المنذري إلى أبي بكر ابن مردويه في تفسيره بإسناد لا بأس به .",
+      "footnotes": [
+        "(*) [على «يخرجاه» في التخريج] هذا الحديث رفعه أقوام وأوقفه آخرون وها هو كما ترى ."
+      ],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "الشعراني",
+          "corrected": "الزعفراني",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 11 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the entry's source isn't in the databases, so its wording can't be compared."
+        }
+      ],
+      "transcriber_notes": [
+        "Runs from p. 360 onto p. 361. No grading is printed: the next heading follows the hadith directly.",
+        "The (*) footnote is attached to «يخرجاه» in the takhrij.",
+        "Review: zoomed p. 360, «الشعراني» is printed clearly. Al-Fadl ibn Muhammad al-Sha'rani is a known narrator from Nu'aym ibn Hammad and a shaykh of Abu Bakr ibn al-Mu'ammal in al-Mustadrak, so question 2 («الزعفراني») looks like a reject. The tool asks because al-Hakim isn't in the databases."
+      ]
+    },
+    {
+      "number": 580,
+      "book_page": 361,
+      "heading": "القراءة في الأضحى",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص١٨١",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 181
+      },
+      "text": "حدثنا يحيى بن يحيى قال : قرأت على مالك عن ضمرة بن سعيد المازني **عن عبيد الله بن عبد الله بن عمر بن الخطاب سأل أبا واقد الليثي ما كان رسول الله ﷺ يقرأ به في الأضحى فقال : كان يقرأ فيهما بق والقرآن المجيد واقتربت الساعة وانشق القمر .**",
+      "grading": "صحيح",
+      "takhrij": "والنسائيّ ج٣ ص١٨٤ ، والترمذي ج٣ ص٧٩ تحفة وقال : حسن صحيح . وابن أبي شيبة في مصنفه ١٧٦ ، وابن ماجه في الصلاة ١٩٦ ، وأبو داود في الصلاة ٢٥٣ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "بن عمر",
+          "corrected": "أن عمر",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "source": "transcriber",
+          "reason": "Proposed by the transcriber: the page prints «عن عبيد الله بن عبد الله بن عمر بن الخطاب سأل أبا واقد» (zoomed p. 361). That makes Ubaydullah ibn Abdullah ibn Umar the one who asked, and leaves «سأل» with no «أن» or «قال» to link it. Muslim 891, the cited source, has «عن عبيد الله بن عبد الله أن عمر بن الخطاب سأل», so «بن» looks like a misprint of «أن». It is left for the owner because the printed form is a real name, though it belongs to a different narrator."
+        },
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "يقرأ به",
+          "corrected": "",
+          "confidence": 0.53,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 3 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "الأضحى فقال",
+          "corrected": "الأضحى والفطر فقال",
+          "confidence": 0.65,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "Review: zoomed p. 361, the text reads as transcribed.",
+        "Question 3 (deleting «يقرأ به») is only half of a word-order variant: Muslim has «ما كان يقرأ به رسول الله ﷺ», and the book has «ما كان رسول الله ﷺ يقرأ به». Approved on its own, it would leave «ما كان رسول الله ﷺ في الأضحى», so it looks like a reject.",
+        "Question 4 («والفطر»): «فيهما» needs two festivals, but the book names only «الأضحى». Its heading «القراءة في الأضحى» also names only al-Adha, so the Sheikh may have shortened the hadith on purpose. Left for the owner."
+      ]
+    },
+    {
+      "number": 581,
+      "book_page": 361,
+      "heading": "التكبير في صلاة العيد",
+      "label": null,
+      "citation": "قال ابن ماجه ١٢٧٨",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 1278
+      },
+      "text": "حدثنا أبو كريب محمد بن العلاء ثنا عبد الله بن المبارك عن عبد الله بن عبد الرحمن ابن يعلى عن عمرو بن شعيب عن أبيه **عن جده أن النبي ﷺ كبُّر في صلاة العيد سبعا وخمسا .**",
+      "grading": "حسن لما بعد",
+      "takhrij": "وأخرجه أبو داود رقم ١١٥١ ، وابن الجارود في المنتقى ٢٦٢ ، وأحمد ٢ / ١٨٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: «كبُّر» is printed with a shadda and a damma-like mark over the ba.",
+        "The grading reads «حسن لما بعد» as printed (presumably «لما بعده», i.e. supported by the next entry)."
+      ]
+    },
+    {
+      "number": 582,
+      "book_page": 362,
+      "heading": "التكبير في صلاة العيد",
+      "label": null,
+      "citation": "قال ابن ماجه ١٢٧٧",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 1277
+      },
+      "text": "حدثنا هشام بن عمار ثنا عبد الرحمن بن سعد بن عمار بن سعد مؤذن رسول الله ﷺ حدثني أبي عن أبيه **عن جده أن رسول الله ﷺ كان يكبُّر في العيدين في الأولى سبعا قبل القراءة وفي الآخرة خمسا قبل القراءة .**",
+      "grading": null,
+      "takhrij": "والحاكم ٣ / ٦٠٧ ، والبيهقي ٣ / ٢٨٨ ، والدارمي ١ / ٣٧٦ ، وابن الجارود ٢٦٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No grading is printed: the hadith is followed by «****», the end of the chapter.",
+        "Zoomed: «يكبُّر» is printed with a shadda and a damma-like mark."
+      ]
+    }
+  ]
+}

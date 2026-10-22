@@ -25,6 +25,7 @@
       "حذيفه",
       "قال"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -66,6 +67,7 @@
       "سوره",
       "ال"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 1,

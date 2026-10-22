@@ -21,6 +21,7 @@
       "لارفعنك",
       "الي"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -30,9 +31,9 @@
       "alternative_on_dorar": 3,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.63,
-    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it.",
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used.",
     "printed": "وقلت له :",
     "corrected": "وقلت :"
   },
@@ -62,6 +63,7 @@
       "من",
       "الطعام"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -71,9 +73,9 @@
       "alternative_on_dorar": 5,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.88,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it.",
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used.",
     "printed": "فرصدته فجعل يحثو",
     "corrected": "فرصدته فجاء يحثو"
   },
@@ -103,6 +105,7 @@
       "الي",
       "رسول"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -142,6 +145,7 @@
       "من",
       "الطعام"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -151,9 +155,9 @@
       "alternative_on_dorar": 4,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.88,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it.",
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used.",
     "printed": "الثالثة فجعل يحثو",
     "corrected": "الثالثة فجاء يحثو"
   },
@@ -179,6 +183,7 @@
       "الي",
       "رسول"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -188,9 +193,9 @@
       "alternative_on_dorar": 8,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.66,
-    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 4 time(s) in the collections and 8 on dorar.net; the OCR confirms the page prints it.",
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 4 time(s) in the collections and 8 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used.",
     "printed": "فقلت له :",
     "corrected": "فقلت :"
   },
@@ -220,6 +225,7 @@
       "اذا",
       "اويت"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -261,6 +267,7 @@
       "لن",
       "يزال"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -305,6 +312,7 @@
       "سبيله",
       "قال"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -314,9 +322,11 @@
       "alternative_on_dorar": 5,
       "ocr_confirms_printed": true
     },
-    "decision": "kept",
-    "confidence": 0.15,
-    "evidence": "Kept: the same words in a different order, a usual difference between narrations and editions."
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Order: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used.",
+    "printed": "بها الله",
+    "corrected": "الله بها"
   },
   {
     "entry": 156,
@@ -340,6 +350,7 @@
       "لا",
       "اله"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -379,6 +390,7 @@
       "ليال",
       "يا"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -388,9 +400,9 @@
       "alternative_on_dorar": 4,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.88,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it.",
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used.",
     "printed": "مذ",
     "corrected": "منذ"
   },
@@ -418,6 +430,7 @@
     "right": [
       "البقره"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -427,9 +440,11 @@
       "alternative_on_dorar": 12,
       "ocr_confirms_printed": true
     },
-    "decision": "kept",
-    "confidence": 0.15,
-    "evidence": "Kept: a conjunction or preposition prefix, a usual difference between narrations and editions."
+    "decision": "approve",
+    "confidence": 0.91,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 12 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 780) is used.",
+    "printed": "بسورة",
+    "corrected": "سورة"
   },
   {
     "entry": 159,
@@ -455,6 +470,7 @@
       "ابو",
       "نعيم"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -495,6 +511,7 @@
       "الله",
       "عليه"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 270,
@@ -536,6 +553,7 @@
       "وقراتي",
       "يلبسها"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -545,9 +563,9 @@
       "alternative_on_dorar": 2,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.53,
-    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it.",
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2203.01) is used.",
     "printed": "بين",
     "corrected": "بيني وبين"
   },
@@ -577,6 +595,7 @@
       "ثلاثا",
       "قال"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 1,
@@ -618,6 +637,7 @@
       "حتي",
       "اصبح"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -659,6 +679,7 @@
       "الصلاه",
       "فقال"
     ],
+    "cited_wins": false,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -694,6 +715,7 @@
       "الله",
       "صلي"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -703,9 +725,11 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "kept",
-    "confidence": 0.15,
-    "evidence": "Kept: a extra particle, a usual difference between narrations and editions."
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2035) is used.",
+    "printed": "إلى",
+    "corrected": ""
   },
   {
     "entry": 167,
@@ -734,6 +758,7 @@
       "الدم",
       "واني"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -769,6 +794,7 @@
       "بن",
       "حمزه"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 20,
@@ -806,6 +832,7 @@
       "استيقظ",
       "اراه"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -850,6 +877,7 @@
       "منصور",
       "اخبرنا"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,

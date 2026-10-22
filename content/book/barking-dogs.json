@@ -1,0 +1,66 @@
+{
+  "chapter": "باب ما يقال عند سماع نباح الكلاب",
+  "book_pages": [
+    27,
+    27
+  ],
+  "notes": [
+    "Page 28 holds only the next chapter (باب ما يقال عند دخول الخلاء), so the chapter ends on p. 27.",
+    "Text is transcribed exactly as printed, including the book's own letter forms. Corrections are listed separately and applied only once approved.",
+    "OCR flags checked on the sheet, all OCR misreads: «سمعتم» (entry 25, OCR «سمعم»), heading «النهي» (OCR «النبي»), citation «ج٥» (OCR «جه»). Misprints step: «الكلب» and «الحمار» (entry 25) kept as printed, the OCR confirms both."
+  ],
+  "skipped": [],
+  "author_text": [],
+  "entries": [
+    {
+      "number": 25,
+      "book_page": 27,
+      "heading": "باب ما يقال عند سماع نباح الكلاب",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٣٢",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 332
+      },
+      "text": "حدثنا هناد بن السري عن عبدة عن محمد بن إسحاق عن محمد بن إبراهيم عن عطاء ابن يسار **عن جابر بن عبد الله قال : قال رسول الله ﷺ : « إذا سمعتم نباح الكلب ونهيق الحمار بالليل فتعوذوا بالله فإنهن يرين ما لا ترون » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٣ / ٣٠٦ ، ٣ / ٣٥٥ من طريق أخرى عن جابر ، وله شاهد من حديث أبي هريرة في عمل اليوم والليلة رقم ٣١٣ ص ١٢٤ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 26,
+      "book_page": 27,
+      "heading": "النهي عن سب الديك",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٣١",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 331
+      },
+      "text": "حدثنا قتيبة بن سعيد ، حدثنا عبد العزيز بن محمد عن صالح بن كيسان غن عبيد الله ابن عبد الله بن عتبة **عن زيد بن خالد قال : قال رسول الله ﷺ : « لا تسبوا الديك فإنه يوقظ للصلاة » .**",
+      "grading": "صحيح لغيره",
+      "takhrij": "وأخرجه أحمد ٥ / ١٩٣ ، وقد توبع عبد العزيز بن محمد تابعه عبد العزيز بن عبد الله بن أبي سلمة كما عند أحمد ٥ / ١٩٢-١٩٣ ، وتابعه معمر كما عند أحمد ٤ / ١١٥ بلفظ « لا تلعنه فإنه يوقظ للصلاة » .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "غن عبيد",
+          "corrected": "عن عبيد",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the page prints «غن» (dot over the ain, zoomed at 1090 dpi) between two narrators' names in the chain; «غن» is no word there, the transmission particle «عن» is meant."
+        }
+      ],
+      "transcriber_notes": [
+        "«غن» before «عبيد الله» is printed with a dot over the ain (zoomed); transcribed as printed, with a correction to «عن»."
+      ]
+    }
+  ]
+}

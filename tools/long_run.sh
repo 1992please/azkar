@@ -29,9 +29,11 @@ BUILTIN="Read,Glob,Grep,Edit,Write,Bash"
 MODEL=claude-opus-5-5
 TRANSCRIBE_EFFORT=low
 REVIEW_EFFORT=xhigh
-# Start a round only while the 5-hour window is below this percent: a 5-page round uses up to
-# about 25% of it (15-20% measured on 2026-10-13), and a round cut off by the limit loses its page.
-FIVE_HOUR_START=${FIVE_HOUR_START:-70}
+# Start a round only while the 5-hour window is below this percent, because a round cut off by
+# the limit loses the page it was working on. Measured on 2026-10-14: a 5-page transcription
+# round at low effort used 4-10% of the window, and a review round at xhigh 10-12%.
+TRANSCRIBE_START=${TRANSCRIBE_START:-85}
+REVIEW_START=${REVIEW_START:-70}
 WAIT=1800          # seconds to wait after a round that made no progress
 MAX_IDLE_ROUNDS=24 # stop after this many rounds in a row without progress (~12 hours)
 
@@ -58,18 +60,23 @@ read_limits() {
 
 idle=0
 while ! grep -q '^Status: ALL DONE' content/book/PROGRESS.md; do
+    # "transcribe SLUG" or "review SLUG": the chapter the round will pick, and so its effort
+    # and how full the 5-hour window may be when it starts.
+    next=$(.venv/bin/python tools/long_run.py next)
+    effort=$TRANSCRIBE_EFFORT
+    start=$TRANSCRIBE_START
+    if [ "${next%% *}" = review ]; then
+        effort=$REVIEW_EFFORT
+        start=$REVIEW_START
+    fi
     read_limits
-    wait=$(.venv/bin/python tools/long_run.py wait "$PROBE" "$FIVE_HOUR_START")
+    wait=$(.venv/bin/python tools/long_run.py wait "$PROBE" "$start")
     if [ "${wait%% *}" -gt 0 ] 2>/dev/null; then
-        echo "=== $(date '+%F %T') ${wait#* }" >> "$LOG"
+        echo "=== $(date '+%F %T') next: $next · ${wait#* }" >> "$LOG"
         sleep "${wait%% *}"
         continue
     fi
     cat content/book/PROGRESS.md > "$BEFORE"
-    # "transcribe SLUG" or "review SLUG": the chapter the round will pick, and so its effort.
-    next=$(.venv/bin/python tools/long_run.py next)
-    effort=$TRANSCRIBE_EFFORT
-    [ "${next%% *}" = review ] && effort=$REVIEW_EFFORT
     peak=""
     peak_hours && peak=" · peak hours: the 5-hour limit runs out faster now (the weekly one doesn't)"
     echo "=== $(date '+%F %T') round starts ($next, effort $effort)$peak" >> "$LOG"

@@ -1,0 +1,471 @@
+{
+  "chapter": "باب أذكار الطعام",
+  "book_pages": [
+    178,
+    187
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "p. 178 prints the chapter title «باب أذكار الطعام» and under it a second title «باب فيما يقوله من خاف الجوع»; the second is used as the heading of the opening verses.",
+    "Zoomed on p. 180: «سوآتك» is printed with madda (rechecked in the review round at higher zoom; first read as without); «عَلَتْه», «هنَّ حُفْل», «رَوِي», «ندّمني», «عليّ» (shadda only) are as printed. p. 179: «إلي أهله» is printed with dotted ya.",
+    "p. 188 (the chapter's to_page) begins with the next chapter's title «باب الدعوات»; nothing of this chapter is printed on it, so the chapter ends with entry 291 on p. 187."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 178,
+      "heading": "باب فيما يقوله من خاف الجوع",
+      "kind": "verses",
+      "text": "قال الله عز وجل على لسان إبراهيم عليه السلام : ﴿ وإذ قال إبراهيم رب اجعل هذا بلدًا آمنا وارزق أهله من الثمرات من آمن منهم بالله واليوم الآخر ، قال ومن كفر فأمتعه قليلا ثم أضطره إلى عذاب النار وبئس المصير ﴾ البقرة ١٢٦ . وقال سبحانه على لسان عيسى عليه السلام : ﴿ قال عيسى ابن مريم اللهم ربنا أنزل علينا مائدة من السماء تكون لنا عيدا لأولنا وآخرنا وآية منك وارزقنا وأنت خير الرازقين ﴾ المائدة ١١٤ . صدر الآية آية لنبي وآخرها يشمل كل داعي .",
+      "footnotes": [
+        "(*) [على «المائدة ١١٤»] هذا الأمر يتحقق لمن كان عنده رصيد من الإيمان والتقوى ، قال الله عز وجل ﴿ ولو أن أهل القرى آمنوا واتقوا لفتحنا عليهم بركات من السماء والأرض ولكن كذبوا فأخذناهم بما كانوا يكسبون ﴾ الأعراف ٩٦ . وقال تعالى : ﴿ ولو أن أهل الكتاب آمنوا واتقوا لكفرنا عنهم سيئاتهم ولأدخلناهم جنات النعيم ، ولو أنهم أقاموا التوراة والإنجيل وما أنزل إليهم من ربهم لأكلوا من فوقهم ومن تحت أرجلهم منهم أمة مقتصدة وكثير منهم ساء ما يعملون ﴾ المائدة ٦٥-٦٦ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verses are bold in the book, the surrounding words regular; bold is not marked in author_text. The verse separator between 65 and 66 in the footnote is printed as a small circle; written as «،»."
+      ]
+    },
+    {
+      "after_entry": 284,
+      "book_page": 184,
+      "heading": "شكر النعمة",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ وإذ تأذن ربكم لئن شكرتم لأزيدنكم ولئن كفرتم إن عذابى لشديد ﴾ إبراهيم ٧ . وقال سبحانه : ﴿ لقد كان لسبأ فى مسكنهم آية جنتان عن يمين وشمال كلوا من رزق ربكم واشكروا له بلدة طيبة ورب غفور ﴾ سبأ ١٥ . وقال عز وجل : ﴿ فاذكرونى أذكركم واشكروا لى ولا تكفرون ﴾ البقرة ١٥٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Dotless final ya in «عذابى», «فى», «فاذكرونى», «لى» as printed. The speck above «تأذن» looks like scan noise (zooms unclear), so no mark is written."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 277,
+      "book_page": 178,
+      "heading": "ما يقوله من خاف الجوع يدعو الله أن يطعمه",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٦ ص١٣١ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 16,
+        "page": 131
+      },
+      "text": "حدثنا عبد الله بن عبد الرحمن بن بهرام الدارمي حدثنا مروان - يعني ابن محمد الدمشقي - حدثنا سعيد بن عبد العزيز عن ربيعة بن يزيد عن أبي إدريس الخولاني **عن أبي ذر عن النبي ﷺ فيما روى عن الله تبارك وتعالى أنه قال : « يا عبادي إني حرمت الظلم على نفسي وجعلته بينكم محرما فلا تظالموا ، يا عبادي كلكم ضال إلا من هديته فاستهدوني أهدكم ، يا عبادي كلكم جائع إلا من أطعمته فاستطعموني أطعمكم ، يا عبادي كلكم عار إلا من كسوته فاستكسوني أكسكم ، يا عبادي إنكم تخطئون بالليل والنهار وأنا أغفر الذنوب جميعا فاستغفروني أغفر لكم ، يا عبادي إنكم لن تبلغوا ضري فتضروني ولن تبلغوا نفعي فتنفعوني ، يا عبادي لو أن أولكم وآخركم وإنسكم وجنكم كانوا على أفجر قلب رجل واحد ما نقص ذلك من ملكي شيئا ، يا عبادي لو أن أولكم وآخركم وإنسكم وجنكم قاموا في صعيد واحد فسألوني فأعطيت كل إنسان مسألته ما نقص ذلك مما عندي إلا كما ينقص المخيط إذا أدخل البحر ، يا عبادي إنما هي أعمالكم أحصيها لكم ثم أوفيكم إياها فمن وجد خيرا فليحمد الله ومن وجد غير ذلك فلا يلومن إلا نفسه » .**",
+      "grading": "صحيح",
+      "takhrij": "وله طرق أخرى في مسلم .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 278,
+      "book_page": 179,
+      "heading": "التعريض بإحضار الطعام والدعاء لمن أحضره",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 13
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا شبابة بن سوار حدثنا سليمان بن المغيرة عن ثابت عن عبد الرحمن بن أبى ليلة **عن المقداد قال : أقبلت أنا وصاحبان لى وقد ذهبت أسماعنا وأبصارنا من الجهد فجعلنا نعرض أنفسنا على أصحاب رسول الله ﷺ فليس أحد منهم يقبلنا فأتينا النبي ﷺ فانطلق بنا إلي أهله فإذا ثلاثة أعنز ، فقال النبي ﷺ : « احتلبوا هذا اللبن بيننا » ، قال : فكنا نحتلب فيشرب كل إنسان منا نصيبه ونرفع للنبي ﷺ نصيبه ، قال : فيجيء من الليل فيسلم تسليما لا يوقظ نائما ويسمع اليقظان ، قال : ثم يأتي المسجد فيصلي ثم يأتي شرابه فيشرب . فأتاني الشيطان ذات ليلة وقد شربت نصيبي فقال : محمد يأتي الأنصار فيتحفونه ويصيب عندهم مابه حاجة إلى هذه الجرعة فأتيتها فشربتها . فما أن وغلت في بطني وعلمت أنه ليس إليها سبيل قال : ندّمني الشيطان ، فقال : ويحك ما صنعت ؟ أشربت شراب محمد فيجيء فلا يجده فيدعو عليك فتهلك فتذهب دنياك وآخرتك ؟ وعليّ شملة إذا وضعتها على قدمي خرج رأسي وإذا وضعتها على رأسي خرج قدماي وجعل لا يجيئني النوم ، وأما صاحباي فناما ولم يصنعا ما صنعت . قال : فجاء النبي ﷺ فسلم كما كان يسلم ثم أتى المسجد فصلى ثم أتى شرابه فكشف عنه فلم يجد فيه شيئا فرفع رأسه إلى السماء فقلت الآن يدعو عليّ فأهلك ، فقال : « اللهم أطعم من أطعمني واسق من أسقاني » قال : فعمدت إلى الشملة فشددتها عليّ وأخذت الشفرة فانطلقت إلى الأعنز أيها أسمن فأذبحها إلى رسول الله ﷺ فإذا هي حافلة وإذا هنَّ حُفْل كلهن فعمدت إلى إناء لآل محمد ﷺ ما كان يطمعون أن يحتلبوا فيه قال : فحلبت فيه حتى عَلَتْه رغوة فجئت إلى رسول الله ﷺ فقال : « أشربتم شرابكم الليلة ؟ » قال : قلت : يا رسول الله اشرب فشرب ثم ناولني ، فقلت : يا رسول الله اشرب فشرب ثم ناولني ، فلما عرفت أن النبي ﷺ قد رَوِي وأصبت دعوته ضحكت حتى ألقيت على الأرض ، قال : فقال النبي ﷺ : « إحدى سوآتك يا مقداد » فقلت : يا رسول الله ، كان من أمري كذا وكذا وفعلت كذا وكذا ، فقال النبي ﷺ : « ما هذه إلا رحمة من الله . أفلا كنت آذنتني فتوقظ صاحبينا فيصيبان منها ؟ » قال : فقلت : والذي بعثك بالحق ما أبالي إذا أصبتها وأصبتها معك من أصابها من الناس .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي ج٧ ص٥٠٤ تحفة وقال : حسن صحيح . وابن السني مختصرا رقم ٤٥٨ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة ، وأخرجه أحمد ٦ / ٢ ، ٣ ، ٤ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "فما",
+          "corrected": "فلما",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «فما أن وغلت في بطني … قال : ندّمني الشيطان» has no construction: «ما» cannot govern the clause, and «ندّمني الشيطان» is the answer of a «لما» clause («فلما أن …», with the redundant «أن» after «لما»), so the dropped lam leaves the sentence without its conditional. Muslim and dorar.net read «فلما أن». Zoomed on p. 180: «فما» is printed."
+        },
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "أبى ليلة",
+          "corrected": "أبى ليلى",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator from al-Miqdad here is «عبد الرحمن بن أبي ليلى» (so in Muslim); no narration spells his father's kunya «أبي ليلة». Only the last word is corrected; «أبى» keeps its printed form."
+        },
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "فأذبحها إلى رسول الله",
+          "corrected": "فأذبحها لرسول الله",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2055.01) is used."
+        },
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "ما كان يطمعون",
+          "corrected": "ما كانوا يطمعون",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2055.01) is used."
+        },
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "ألقيت على الأرض",
+          "corrected": "ألقيت إلى الأرض",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2055.01) is used."
+        },
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "كذا وكذا ،",
+          "corrected": "كذا ،",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2055.01) is used."
+        },
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "فتوقظ",
+          "corrected": "فنوقظ",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2055.01) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«فلم يجد فيه شيئا» etc. as printed; «يا رسول الله اشرب فشرب ثم ناولني» is printed twice, as in the hadith.",
+        "Review round, zoomed on the OCR flags: p. 179 prints «بن أبى ليلة» (dotless ya, final ta marbuta) and «وصاحبان لى» (dotless ya); p. 180 prints «فأذبحها إلى رسول الله» (Muslim: «لرسول الله») and «سوآتك» with madda. These had been written from the database; fixed. Also confirmed as printed: «مابه», «فما أن», «ما كان يطمعون», «ألقيت على الأرض», «كذا وكذا وفعلت كذا وكذا», «فتوقظ» (two dots above), «إلي أهله»."
+      ]
+    },
+    {
+      "number": 279,
+      "book_page": 181,
+      "heading": "الأمر بتسمية الله على الطعام",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٥٢١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 521
+      },
+      "text": "حدثنا علي بن عبد الله أخبرنا سفيان قال الوليد بن كثير أخبرني أنه سمع وهب ابن كيسان أنه سمع **عمر بن أبي سلمة يقول : كنت غلاما في حجر رسول الله ﷺ وكانت يدي تطيش في الصحفة فقال لي رسول الله ﷺ : « يا غلام ، سمِّ الله ، وكل بيمينك ، وكل مما يليك فما زالت تلك طعمتي بعد » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٣ ص١٩٢ ، وابن ماجه ٣٢٦٧ ، والترمذي ج٥ ص٥٩١ تحفة مختصرا ، والدارمي ٢ / ١٠٠ ، والبيهقي ٧ / ٢٧٧ ، وأحمد ٤ / ٢٢٦ ، وعزاه الشيخ ناصر الألباني إلى النسائيّ في السنن الكبرى ق ٥٩ / ٢ ، وابن السني رقم ٣٢٥ .",
+      "footnotes": [
+        "(*) [على «أخبرني»] قال الحافظ في الفتح ج٩ ص٥٢١ قوله : أخبرنا سفيان قال الوليد بن كثير أخبرني كذا وقع هنا وهو من تأخير الصيغة عن الراوي وهو جائز وقد أخرجه الحميدي في مسنده وأبو نعيم في « المستخرج » من طريقه عن سفيان قال « حدثنا الوليد بن كثير » ولعل هذا هو السر في سياق علي بن عبد الله له على هذه الكيفية ولسفيان ابن عيينة في هذا الحديث سند آخر أخرجه النسائيّ عن محمد بن منصور وابن ماجه عن محمد بن الصباح كلاهما عن سفيان عن هشام عن أبيه عن عمر بن أبي سلمة ، وقد اختلف على هشام في سنده . فكأن البخاري عرج عن هذه الطريق لذلك ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The closing quote is printed after «بعد», though the Prophet's words end at «مما يليك»; kept as printed.",
+        "The footnote continues on p. 182 (starting with «=»); joined."
+      ]
+    },
+    {
+      "number": 280,
+      "book_page": 181,
+      "heading": "صفة التسمية",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٤ ص٦٢ مسند",
+      "source": {
+        "collection": "ahmad",
+        "volume": 4,
+        "page": 62
+      },
+      "text": "حدثنا أبو عبد الرحمن قال : ثنا سعيد بن أبي أيوب قال حدثني بكر بن عمرو عن عبد الله بن هبيرة عن عبد الرحمن بن جبير **أنه حدثه رجل خدم رسول الله ﷺ ثمان سنين أنه سمع النبي ﷺ إذا قرب إليه طعامه يقول بسم الله وإذا فرغ من طعامه قال اللهم أطعمت وسقيت وأغنيت وأقنيت وهديت وأحييت فلك الحمد على ما أعطيت .**",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry."
+      ]
+    },
+    {
+      "number": 281,
+      "book_page": 182,
+      "heading": "صفة التسمية",
+      "label": null,
+      "citation": "قال الطبراني ج٩ ص١٤ رقم ٨٣٠٤",
+      "source": {
+        "collection": "tabarani",
+        "volume": 9,
+        "page": 14,
+        "hadith": 8304
+      },
+      "text": "حدثنا عبيد بن غنام حدثنا أبو بكر بن أبي شيبة ح وحدثنا أحمد بن عمرو الخلال المكي حدثنا محمد بن أبي عمر العدني قالا : ثنا سفيان عن الوليد بن كثير عن وهب ابن كيسان **عن عمر بن أبي سلمة قال : كنت غلاما في حجر رسول الله ﷺ كانت يدي تطيش في الصحفة فقال لي رسول الله ﷺ : « يا غلام إذا أكلت فقل بسم الله وكل بيمينك وكل مما يليك » فما زالت تلك طعمتي بعد .**",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry."
+      ]
+    },
+    {
+      "number": 282,
+      "book_page": 182,
+      "heading": "صفة التسمية",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٥٣٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 534
+      },
+      "text": "حدثنا عياش بن الوليد حدثنا عبد الأعلى حدثنا سعيد الجريري عن أبي عثمان عن عبد الرحمن ابن أبي بكر رضي الله عنهما **أن أبا بكر تضيف رهطا فقال لعبد الرحمن دونك أضيافك فإني منطلق إلى النبي ﷺ فافرغ من قراهم قبل أن أجيء ، فانطلق عبد الرحمن فأتاهم بما عنده فقال : اطعموا فقالوا : أين رب منزلنا ؟ قال : اطعموا ، قالوا : ما نحن بآكلين حتى يجيء رب منزلنا . قال : اقبلوا عنا قراكم فإنه إن جاء ولم تطعموا لنلقين منه ، فأبوا فعرفت أنه يجد علي فلما جاء تنحيت عنه فقال ما صنعتم فأخبروه فقال : يا عبد الرحمن فسكت ثم قال : يا عبد الرحمن فسكت فقال يا غنثر أقسمت عليك إن كنت تسمع صوتي لما جئت . فخرجت فقلت سل أضيافك . فقالوا صدق أتانا به . قال : فإنما انتظرتموني ، والله لا أطعمه الليلة . فقال الآخرون والله لا نطعمه حتى تطعمه : قال : لم أر في الشر كالليلة ، ويلكم ما أنتم ؟ لِمَ لا تقبلون عنا قراكم ؟ هات طعامك فجاءه فوضع يده فقال : بسم الله الأولى للشيطان فأكل وأكلوا »**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص٢١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The text ends with a closing quote «»» and no full stop, with no opening quote; kept as printed."
+      ]
+    },
+    {
+      "number": 283,
+      "book_page": 183,
+      "heading": "استحلال الشيطان للطعام الذي لا يذكر اسم الله عليه",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٣ ص١٨٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 13,
+        "page": 187
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة وأبو كريب قالا : حدثنا أبو معاوية عن الأعمش عن خيثمة عن أبي حذيفة **عن حذيفة قال : كنا إذا حضرنا مع النبي ﷺ طعاما لم نضع أيدينا حتى يبدأ رسول الله ﷺ فيضع يده وإنا حضرنا معه مرة طعاما فجاءت جارية كأنها تُدفع فذهبت لتضع يدها في الطعام فأخذ رسول الله ﷺ بيدها ثم جاء أعرابي كأنما يُدفع فأخذ بيده فقال رسول الله ﷺ : « إن الشيطان يستحل الطعام أن لا يذكر اسم الله عليه وإنه جاء بهذه الجارية ليستحل بها فأخذت بيدها فجاء بهذا الأعرابي ليستحل به فأخذت بيده ، والذي نفسي بيده إن يده في يدي مع يدها » .**",
+      "grading": "صحيح",
+      "takhrij": "و أخرجه أبو داود ج٤ ص١٣٩ .",
+      "footnotes": [
+        "(*) [على «صحيح»] على طريقة من يقبل عنعنات المدلسين في الصحيحين وابن الصلاح ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: «كأنها تُدفع» (the girl) and «كأنما يُدفع» (the bedouin) are printed differently, with damma on both verbs. The takhrij prints «و أخرجه» with a space; kept."
+      ]
+    },
+    {
+      "number": 284,
+      "book_page": 183,
+      "heading": "ما يقوله من نسي أن يذكر الله في أول طعامه",
+      "label": null,
+      "citation": "قال ابن السني في عمل اليوم والليلة رقم ٤٦١",
+      "source": {
+        "collection": "ibnsunni",
+        "hadith": 461
+      },
+      "text": "أخبرنا أبو يعلى ثنا شباب ثنا خليفة بن خياط ثنا عمر بن علي المقدمي قال : سمعت موسى الجعني أخبرني القاسم بن عبد الرحمن بن عبد الله بن مسعود عن أبيه **عن جده عبد الله قال : قال رسول الله ﷺ : « من نسي أن يذكر الله عز وجل في أول طعامه فليقل حين يذكر بسم الله أوله وآخره ، فإنه يستقبل طعاما جديدا أو يمتنع الخبيث مما كان يصيب منه » .**",
+      "grading": "صحيح",
+      "takhrij": "وعزاه الشيخ ناصر الألباني في سلسلة الأحاديث الصحيحة رقم ١٩٨ إلى ابن حبان ١٣٤٠ - موارد في صحيحه ، والطبراني في المعجم الكبير ٣ / ٧٤ / ١ ، وقال الهيثمي ٥ / ٢٣٥ : رواه الطبراني في الأوسط والكبير ورجاله ثقات . وقال أبو داود رقم ٣٧٦٧ : حدثنا مؤمل بن هشام حدثنا إسماعيل عن هشام يعني ابن عبد الله الدستوائي عن بديل عن عبد الله بن عبيد عن امرأة منهم يقال لها أم كلثوم **عن عائشة رضي الله عنها أن رسول الله ﷺ قال : « إذا أكل أحدكم فليذكر اسم الله تعالى فإن نسي أن يذكر اسم الله تعالى في أوله فليقل بسم الله أوله وآخره »** وأخرجه أحمد ٦ / ٢٠٧-٢٠٨ ، والدارمي ٢ / ٩٤ ، والطحاوي في مشكل الآثار ٢ / ٢١ ، والبيهقي ٧ / ٢٧٦ ، والترمذي تحفة ج٥ ص٥٩٥ .",
+      "footnotes": [
+        "(**) [على «شباب ثنا»] الظاهر أن لفظ ثنا زائد حيث إن خليفة بن خياط هو شباب .",
+        "(***) [على «صحيح»] حيث إن له شاهدا من حديث أمية بن مخشي رواه ابن السني رقم ٤٦٣ ، وأبو داود ٣٧٦٨ ، وأحمد ٤ / ٣٣٦ ، والحاكم ٤ / ١٠٨-١٠٩ ."
+      ],
+      "corrections": [
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "الجعني",
+          "corrected": "الجهني",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator is Musa al-Juhani («موسى الجهني», Musa ibn Abd Allah), from whom Umar ibn Ali al-Muqaddami narrates; no narration spells his nisba «الجعني», and the word occurs in no collection (misprints step: unknown)."
+        }
+      ],
+      "transcriber_notes": [
+        "«الجعني» as printed (the narrator is usually «الجهني»); rechecked at 822 dpi in the review round: the middle letter is clearly «ع». The takhrij runs onto p. 184 (starting with «=»); joined, with its bold as printed."
+      ]
+    },
+    {
+      "number": 285,
+      "book_page": 184,
+      "heading": "حمد الله بعد الطعام والشراب",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٧ ص٥٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 17,
+        "page": 50
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة وابن نمير - واللفظ لابن نمير - قالا : حدثنا أبو أسامة ومحمد بن بشر عن زكريا بن أبي زائدة عن سعيد بن أبي بردة **عن أنس بن مالك قال : قال رسول الله ﷺ : « إن الله ليرضى عن العبد أن يأكل الأكلة فيحمده عليها أو يشرب الشربة فيحمده عليها »** وحدثنيه زهير بن حرب حدثنا إسحاق بن يوسف الأزرق حدثنا زكريا بهذا الإسناد .",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٣ / ١٠٠ ، ١١٧ ، وابن السني رقم ٤٨٧ .",
+      "footnotes": [
+        "(*) [على «صحيح»] على طريقة من يقبل عنعنات المدلسين في الصحيحين ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The further chain «وحدثنيه زهير … بهذا الإسناد», printed without a number, is kept in text (regular type, as printed)."
+      ]
+    },
+    {
+      "number": 286,
+      "book_page": 185,
+      "heading": "فيما يقال بعد الانتهاء من الطعام",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٥٨٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 580
+      },
+      "text": "حدثنا أبو عاصم عن ثور بن يزيد عن خالد بن معدان **عن أبي أمامة أن النبي ﷺ كان إذا فرغ من طعامه - وقال مرة : إذا رفع مائدته - قال : « الحمد لله الذي كفانا وأروانا غير مكفي ولا مكفور » وقال مرة : « لك الحمد ربنا غير مكفي ولا مودع ولا مستغنى ربنا » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [
+        "(**) [على «وأروانا»] قال الحافظ فتح ج٩ ص٥٨١ : « كفانا وأروانا » هذا يؤيد عود الضمير إلى الله تعالى لأنه تعالى هو الكافي لا المكفي . وكفانا هو من الكفاية وهي أعم من الشبع والري وغيرهما ، فأروانا على هذا من الخاص بعد العام ووقع في رواية ابن السكن عن الفربري « وآوانا » بالمد من الإيواء .",
+        "(***) [على «مكفور»] « ولا مكفور » أي مجحود فضله ونعمته ، وهذا مما يقوي أن الضمير لله تعالى ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry. «مستغنى ربنا» is printed without «عنه» here (entry 287 has it); kept as printed."
+      ]
+    },
+    {
+      "number": 287,
+      "book_page": 185,
+      "heading": "صفة الحمد بعد الانتهاء من الطعام",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٥٨٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 580
+      },
+      "text": "حدثنا أبو نعيم حدثنا سفيان عن ثور عن خالد بن معدان **عن أبي أمامة أن النبي ﷺ كان إذا رفع مائدته قال : « الحمد لله كثيرا طيبا مباركا فيه ، غير مكفي ولا مودع ولا مستغنى عنه ربنا » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٤ ص١٨٧ ، وابن ماجه ٣٢٨٤ ، والترمذي ج٩ ص٤٢٣ تحفة وقال : حسن صحيح . وابن السني في عمل اليوم والليلة رقم ٤٦٩ .",
+      "footnotes": [
+        "(****) [على «مكفي»] قال الحافظ فتح ج٩ ص٥٨٠ : قوله : « غير مكفي » بفتح الميم وسكون الكاف وكسر الفاء وتشديد التحتانية . قال ابن بطال : يحتمل أن يكون من كفأت الإناء : فالمعنى غير مردود عليه إنعامه . ويحتمل أن يكون من الكفاية أي أن الله غير مكفي رزق عباده ، لأنه لا يكفيهم أحد غيره . وقال ابن التين : أي غير محتاج إلى أحد لكنه هو الذي يطعم عباده ويكفيهم وهذا قول الخطابي … ثم ذكر أقوالا أخرى … وقال : هذا كله علَى أن الضمير لله تعالى .",
+        "(*****) [على «مودع»] « ولا مودَع » بفتح الدال الثقيلة أي غير متروك ويحتمل كسرها على أنه حال من القائل أي غير متروك . قاله الحافظ ابن حجر .",
+        "(******) [على «مستغنى»] « ولا مستغنى عنه » بفتح النون وبالتنوين ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The takhrij runs onto p. 186 (starting with «=»); joined. In the footnotes «مودَع» has a fatha and «علَى» a fatha as printed; «…» stands for the printed ellipsis «...»."
+      ]
+    },
+    {
+      "number": 288,
+      "book_page": 186,
+      "heading": "صفة أخرى",
+      "label": null,
+      "citation": "قال أبو داود ج٤ ص١٨٧",
+      "source": {
+        "collection": "abudawud",
+        "volume": 4,
+        "page": 187
+      },
+      "text": "حدثنا أحمد بن صالح حدثنا ابن وهب أخبرني سعيد بن أيوب عن أبي عقيل القرشي عن أبي عبد الرحمن الحبلي **عن أبي أيوب الأنصاري قال : كان رسول الله ﷺ إذا أكل وشرب قال : « الحمد لله الذي أطعم وسقى وسوغه وجعل له مخرجا » .**",
+      "grading": "صحيح",
+      "takhrij": "وابن السني في عمل اليوم والليلة رقم ٤٧١ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "بن أيوب",
+          "corrected": "بن أبي أيوب",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: Ibn Wahb's shaykh here, who narrates from Abu Aqil al-Qurashi, is Sa'id ibn Abi Ayyub (so in Abu Dawud 3851); no narration names him «سعيد بن أيوب». The correction only restores the dropped «أبي» in the name."
+        }
+      ],
+      "transcriber_notes": [
+        "Zoomed on p. 186 in the review round: «سعيد بن أيوب» is printed (without «أبي»)."
+      ]
+    },
+    {
+      "number": 289,
+      "book_page": 186,
+      "heading": "الدعاء لمن قدم الطعام",
+      "label": null,
+      "citation": "قال أبو داود ج٤ ص١٨٩",
+      "source": {
+        "collection": "abudawud",
+        "volume": 4,
+        "page": 189
+      },
+      "text": "حدثنا مخلد بن خالد حدثنا عبد الرزاق أخبرنا معمر عن ثابت **عن أنس أن النبي ﷺ جاء إلى سعد بن عبادة فجاء بخبز وزيت فأكل ثم قال النبي ﷺ : « أفطر عندكم الصائمون وأكل طعامكم الأبرار وصلت عليكم الملائكة » .**",
+      "grading": "صحيح لشواهده",
+      "takhrij": "وأخرجه ابن ماجه من حديث ابن الزبير فقال ابن ماجه ١٧٤٧ : حدثنا هشام بن عمار ثنا سعيد بن يحيى اللخمي ثنا محمد بن عمرو عن مصعب بن ثابت عن عبد الله بن الزبير قال : أفطر رسول الله ﷺ عند **سعد بن معاذ فقال : « أفطر عندكم الصائمون وأكل طعامكم الأبرار وصلت عليكم الملائكة » .** وابن السني في عمل اليوم والليلة رقم ٤٨٣ .",
+      "footnotes": [
+        "(*) [على «معمر»] تكلم بعضهم في رواية معمر بن ثابت ولكن له شاهدا كما ترى ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The takhrij runs onto p. 187 (starting with «=»); joined, with its bold as printed. The footnote prints «معمر بن ثابت» (for «معمر عن ثابت»); kept as printed."
+      ]
+    },
+    {
+      "number": 290,
+      "book_page": 187,
+      "heading": "الدعاء لمن قدم الطعام",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٣ ص٢٢٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 13,
+        "page": 225
+      },
+      "text": "حدثني محمد بن المثنى العنزي حدثنا محمد بن جعفر حدثنا شعبة عن يزيد بن خمير **عن عبد الله بن بسر ، قال : نزل رسول الله ﷺ على أبي ، قال : فقربنا إليه طعاما ووطبة فأكل منها ثم أُتي بتمر فكان يأكله ويلقي النوى بين إصبعيه ثم أُتي بشراب فشربه ثم ناوله الذي عن يمينه ، قال : فقال أبي وأخذ بنجام دابته : ادع الله لنا ، فقال : « اللهم بارك لهم فيما رزقتهم واغفر لهم وارحمهم » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه الترمذي ج١٠ ص٢٩ وقال : حسن صحيح . وابن السني رقم ٤٧٧ في عمل اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "بنجام",
+          "corrected": "بلجام",
+          "confidence": 0.98,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2042.01) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«أُتي» is printed with damma both times.",
+        "Review round, zoomed at 1600 dpi on the OCR flag: p. 187 prints «بنجام» (a short tooth with a dot above, not the tall lam of the «لج» ligature as in «الجهد» on p. 179); it had been written «بلجام» from the database, fixed. «لهم» (twice) is the «له» ligature, as printed."
+      ]
+    },
+    {
+      "number": 291,
+      "book_page": 187,
+      "heading": "الدعاء لمن قدم الطعام",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص١٥٧",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 157
+      },
+      "text": "حدثنا مسلم بن إبراهيم حدثنا الربيع بن مسلم عن محمد بن زياد **عن أبي هريرة عن النبي ﷺ قال : « لا يشكر الله من لا يشكر الناس » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي ج٦ ص٨٧ تحفة وقال : حديث صحيح .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Followed on p. 187 by a «****» separator."
+      ]
+    }
+  ]
+}

@@ -21,6 +21,7 @@
       "عروه",
       "عن"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -59,6 +60,7 @@
       "عقيل",
       "عن"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 1,
@@ -99,6 +101,7 @@
       "برب",
       "الفلق"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 2,
@@ -139,6 +142,7 @@
       "برب",
       "الناس"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 10,
@@ -176,6 +180,7 @@
       "الحكم",
       "قال"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -215,6 +220,7 @@
       "ان",
       "فاطمه"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -254,6 +260,7 @@
       "ما",
       "تلقي"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 1,
@@ -293,6 +300,7 @@
       "ان",
       "رسول"
     ],
+    "cited_wins": false,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -337,6 +345,7 @@
       "لنقوم",
       "فقال"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -378,6 +387,7 @@
       "صدري",
       "فقال"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -417,6 +427,7 @@
       "اخذتما",
       "مضاجعكما"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -454,6 +465,7 @@
       "وثلاثين",
       "وسبحا"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -495,6 +507,7 @@
       "جنبي",
       "وبك"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -531,6 +544,7 @@
       "عن",
       "عبيد"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -570,6 +584,7 @@
       "ابراهيم",
       "بن"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 3,
@@ -611,6 +626,7 @@
       "كان",
       "رسول"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 10,
@@ -646,6 +662,7 @@
       "ولا"
     ],
     "right": [],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 4,
@@ -681,6 +698,7 @@
       "نفسي",
       "اليك"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 1,
@@ -720,6 +738,7 @@
       "بن",
       "عازب"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 1,
@@ -755,6 +774,7 @@
       "ادم",
       "حدثنا"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -792,6 +812,7 @@
       "وجهي",
       "اليك"
     ],
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -801,9 +822,9 @@
       "alternative_on_dorar": 3,
       "ocr_confirms_printed": false
     },
-    "decision": "ask",
-    "confidence": 0.65,
-    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net.",
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; in the hadith text the wording of the cited source (bukhari 6313) is used.",
     "printed": "أمري ووجهت",
     "corrected": "أمري إليك ووجهت"
   },
@@ -833,6 +854,7 @@
       "ارسلت",
       "فان"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 4,
@@ -868,6 +890,7 @@
       "الله",
       "صلي"
     ],
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 4,

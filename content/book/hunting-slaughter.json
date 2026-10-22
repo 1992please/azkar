@@ -1,0 +1,225 @@
+{
+  "chapter": "الصيد والذبائح والأضاحي",
+  "book_pages": [
+    363,
+    366
+  ],
+  "notes": [
+    "Page 367 holds only the next chapter («في أذكار الحج»), so this chapter ends on p. 366.",
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks. Zoomed on: «مدًى» and «وندَّ» (583), «يطأ» and «فأُتي» (585), «وسمَّى وكبَّر» (586), the heading mark «فكُل», and all footnote digits.",
+    "The heading «التسمية والتكبير» (p. 364) carries a footnote (*) quoting Quran 22:36; it is kept as a footnote of entry 586, the only entry under that heading.",
+    "Review: OCR flags «قنيبة» (584), «:ديا» (585) and «لتسمية» (586 heading) are OCR misreads; the scan prints «قتيبة», «يا», «التسمية». Checked on the scan the spots where the OCR didn't confirm the printed wording: «رآهم النبي ﷺ قد ذبحوا» without «أنهم» (584), «حيوة بن شريح» and «أهل كتاب تأكل» (588) are printed so."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 363,
+      "heading": "الصيد والذبائح والأضاحي",
+      "kind": "verses",
+      "text": "قال تعالى : **﴿ ولا تأكلوا مما لم يذكر اسم الله عليه وإنه لفسق وإن الشياطين ليوحون إلى أوليائهم ليجادلوكم وإن أطعمتموهم إنكم لمشركون ﴾** الأنعام .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    }
+  ],
+  "entries": [
+    {
+      "number": 583,
+      "book_page": 363,
+      "heading": "ما أنهر الدم وذكر اسم الله فكُل",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٦٣١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 631
+      },
+      "text": "حدثنا عبدان قال : أخبرني أبي عن شعبة عن سعيد بن مسروق عن عباية بن رفاعة **عن جده أنه قال : يا رسول الله ليس لنا مدًى فقال : « ما أنهر الدم وذكر اسم الله فكل » ، ليس الظفر والسن أما الظفر فمدى الحبشة وأما السن فعظم وندَّ بعير فحبسه فقال : « إن لهذه الإبل أوابد كأوابد الوحش فما غلبكم منها فاصنعوا به هكذا » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٣ ص١٢٢ ، وابن ماجه ٣١٧٨ ، والترمذي ج٥ ص٧٠ ، وأحمد ٤ / ١٤٠ ، ١٤٢ ، والبيهقي ٩ / ٢٤٦ ، ٢٤٧ ، ٢٨١ ، وابن الجارود .",
+      "footnotes": [
+        "(*) [على «مدًى»] المدى : جمع مدية وهي السكين ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading prints a damma on the kaf: «فكُل».",
+        "Review: the OCR flag on «لهذه» was right; the page prints «إن لهذه الإبل», fixed from «إن هذه»."
+      ]
+    },
+    {
+      "number": 584,
+      "book_page": 363,
+      "heading": "اسم الله على الذبح",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٦٣٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 630
+      },
+      "text": "حدثنا قتيبة قال : حدثنا أبو عوانة عن الأسود بن قيس **عن جندب بن سفيان البجلي قال : ضحينا مع رسول الله ﷺ أضحاة ذات يوم فإذا أناس قد ذبحوا ضحاياهم قبل الصلاة ، فلما انصرف رآهم النبي ﷺ قد ذبحوا قبل الصلاة فقال : « من ذبح قبل الصلاة فليذبح مكانها أخرى ، ومن كان لم يذبح حتى صلينا فليذبح على اسم الله » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٣ ص١٠٩ ، والنسائيّ ج٧ ص٢١٤ ، ٢٢٤ ، وابن ماجه في الأضاحي ١٢ : ٢ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "أضحاة",
+          "corrected": "أضحية",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5500) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The text runs from p. 363 onto p. 364."
+      ]
+    },
+    {
+      "number": 585,
+      "book_page": 364,
+      "heading": "اسم الله على الذبح",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٣ ص١٢١",
+      "source": {
+        "collection": "muslim",
+        "volume": 13,
+        "page": 121
+      },
+      "text": "حدثنا هارون بن معروف حدثنا عبد الله بن وهب قال : قال حيوة : أخبرني أبو صخر عن يزيد بن قسيط عن عروة بن الزبير **عن عائشة أن رسول الله ﷺ أمر بكبش أقرن يطأ في سواد ويبرك في سواد وينظر في سواد فأُتي به ليضحى به فقال لها : « يا عائشة هلمي المدية » . ثم قال : « اشحذيها بحجر » ففعلت ثم أخذها وأخذ الكبش فأضجعه ثم ذبحه ثم قال : « باسم الله اللهم تقبل من محمد وآل محمد ومن أمة محمد » ثم ضحى به .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٢٣٠ ، وأحمد ٤ / ٣١٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 586,
+      "book_page": 364,
+      "heading": "التسمية والتكبير",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٣ ص١٢٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 13,
+        "page": 120
+      },
+      "text": "حدثنا يحيى بن يحيى أخبرنا وكيع عن شعبة عن قتادة **عن أنس قال : ضحى رسول الله ﷺ بكبشين أملحين أقرنين قال : ورأيته يذبحهما بيده ورأيته واضعا قدمه على صفاحهما قال : وسمَّى وكبَّر .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٢٣٠ ، وابن ماجه ٣١٢٠ ، والنسائيّ ج٧ ص٢٣١ ، والترمذي ج٥ ص٧٦ تحفة وقال : حسن صحيح . وأحمد ٣ / ٩٩ ، ١١٥ ، ١٧٠ ، ١٨٣ ، ١٨٩ ، ٢١٤ ، ٢٢٢ ، ٢٥٥ ، ٢٥٨ ، ٢٧٢ ، ٢٧٩ ، والبخاري مختصرا فتح ج٣ ص٥٥٤ ، وكذا الدارمي ٢ / ٧٥ ، وابن الجارود ٢ / ٩٠٩ المنتقى ، والبيهقي ٩ / ٢٨٥ ولفظه « ويقول باسم الله والله أكبر » .",
+      "footnotes": [
+        "(*) [على «التسمية والتكبير»] وقال تعالى : **﴿ والبدن جعلناها لكم من شعائر الله لكم فيها خير فاذكروا اسم الله عليها صواف ﴾** الحج ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The footnote (*) is printed on the heading, not on the hadith; kept here as the heading's only entry.",
+        "The takhrij continues from p. 364 onto p. 365 (starting with «=»), joined into one."
+      ]
+    },
+    {
+      "number": 587,
+      "book_page": 365,
+      "heading": "التسمية على الطعام الذي لا يدرى أذكر عليه اسم الله أم لا",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٤ ص٢٩٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 4,
+        "page": 294
+      },
+      "text": "حدثنا أحمد بن المقدام العجلي حدثنا محمد بن عبد الرحمن الطفاوي حدثنا هشام ابن عروة عن أبيه **عن عائشة رضي الله عنها أن قوما قالوا يا رسول الله إن قوما يأتوننا باللحم لا ندري أذكروا اسم الله عليه أم لا . فقال رسول الله ﷺ : « سموا الله عليه وكلوه » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ٣١٧٤ ، والنسائيّ ج٧ ص٢٣٧ ، وابن الجارود في المنتقى ٨٨١ .",
+      "footnotes": [
+        "(*) [على «الطفاوي»] وقد رواه عن هشام أيضا - متابعا للطفاوي - أسامة بن حفص المدني فتح ج٩ ص٦٣٤ ، وأبو خالد الأحمر ج١٣ ص٣٧٩ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed on two lines; joined with a space."
+      ]
+    },
+    {
+      "number": 588,
+      "book_page": 365,
+      "heading": "التسمية على القوس",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٦١٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 612
+      },
+      "text": "حدثنا أبو عاصم عن حيوة بن شريح وحدثني أحمد بن أبي رجاء حدثنا سلمة بن سليمان عن ابن المبارك عن حيوة بن شريح قال : سمعت ربيعة بن يزيد الدمشقي قال : أخبرني أبو إدريس عائذ الله قال : **سمعت أبا ثعلبة الخشني رضي الله عنه يقول : أتيت رسول الله ﷺ فقلت : يا رسول الله إنا بأرض قوم أهل كتاب نأكل في آنيتهم وأرض صيد أصيد بقوسي وأصيد بكلبي المعلم والذي ليس معلما فأخبرني ما الذي يحل لنا من ذلك ؟ فقال : « أما ما ذكرت من أنك بأرض قوم أهل كتاب تأكل في آنيتهم فإن وجدتم غير آنيتهم فلا تأكلوا فيها ، وإن لم تجدوا فاغسلوها ثم كلوا فيها ، وأما ما ذكرت بأنك بأرض صيد ، فما صدت بقوسك فاذكر اسم الله ثم كل ، وما صدت بكلبك المعلم فاذكر اسم الله ثم كل ، وما صدت بكلبك الذي ليس معلما فأدركت ذكاته فكل » .**",
+      "grading": "صحيح",
+      "takhrij": "رواه مسلم ج١٣ ص٧٩ ، وأبو داود ج٣ ص٢٧٢ ، وابن ماجه ٣٢٠٧ ، والنسائيّ ج٧ ص١٨١ ، والترمذي ج٥ ص٥١٥ تحفة وقال : حسن صحيح . وأحمد ٤ / ١٩٥ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "ذكرت من أنك",
+          "corrected": "ذكرت أنك",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5488) is used."
+        },
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "أهل كتاب تأكل",
+          "corrected": "أهل الكتاب تأكل",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 5488) is used."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "بأنك",
+          "corrected": "أنك",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5488) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The text runs from p. 365 onto p. 366."
+      ]
+    },
+    {
+      "number": 589,
+      "book_page": 366,
+      "heading": "التسمية على كلب الصيد",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٦٠٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 603
+      },
+      "text": "حدثنا سليمان بن حرب حدثنا شعبة عن عبد الله بن أبي السفر عن الشعبي قال : **سمعت عدي بن حاتم رضي الله عنه قال : سألت رسول الله ﷺ عن المعراض فقال : « إذا أصبت بحده فكل فإذا أصبت بعرضه فقتل فإنه وقيذ فلا تأكل » . فقلت : أرسل كلبي ؟ قال : « إذا أرسلت كلبك وسميت فكل » . قلت : فإن أكل ؟ قال : « فلا تأكل ، فإنه لم يمسك عليك إنما أمسك على نفسه » . قلت : أرسل كلبي فأجد معه كلبا آخر ؟ قال : « لا تأكل ، فإنك إنما سميت على كلبك ولم تسم على الآخر » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٣ ص٧٦ ، وأبو داود ج٣ ص٢٧٠ ، وابن ماجه ٣٢٠٨ ، والنسائيّ ج٧ ص١٧٩ ، والترمذي مفرقا ج٥ ص٤٢ تحفة وقال : حسن صحيح . والبيهقي ٩ / ٢٣٦ ، وأحمد ٤ / ٢٥٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "فإذا أصبت بعرضه",
+          "corrected": "فإذا أصاب بعرضه",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5476) is used."
+        }
+      ],
+      "transcriber_notes": []
+    }
+  ]
+}

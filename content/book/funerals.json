@@ -1,0 +1,2372 @@
+{
+  "chapter": "أذكار الجنائز",
+  "book_pages": [
+    286,
+    332
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "Review: all 12 OCR flag sheets checked; the only transcription mistake was «وأخاه» (entry 481), fixed to «واأخاه». The other flags are OCR misreads (dropped teeth or dots, «ج٧» read «جلا», «النهي» read «النبي»).",
+    "Review: the check-scan words «أيض» (467) and «الأيض» (523) are printed so (zoomed at 1600 dpi) and corrected by hand. The unknown words of entries 522 and 531 («التكبيرات», «بموتانا», «فسويتم», «أرشدنا», «وبالقرآن», «ونكير», «فينسبه») are printed so. In 531, «فإن منكر ونكير» is printed in the nominative, as is «أن فيه منكر ونكير» in its footnote; kept, since the source isn't in the databases."
+  ],
+  "skipped": [
+    {
+      "pages": "318–319",
+      "what": "Entry 516, footnote (****) after its first paragraph: al-Albani's commentary on the fiqh of visiting non-Muslims' graves, quoted at length, and the Sheikh's own remarks («قلت : …») on present-day practices. General commentary, not about the hadith's text or grading."
+    }
+  ],
+  "author_text": [
+    {
+      "after_entry": 469,
+      "book_page": 291,
+      "heading": "ما يقال عند المصيبة",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ ... وبشر الصابرين الذين إذا أصابتهم مصيبة قالوا إنا لله وإنا إليه راجعون .. ﴾ البقرة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": 472,
+      "book_page": 293,
+      "heading": "مشروعية التعزية",
+      "kind": "verses",
+      "text": "وقال الله عز وجل : ﴿ وتواصوا بالحق وتواصوا بالصبر ﴾ العصر .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": 503,
+      "book_page": 310,
+      "heading": "النهي عن الاستغفار للمشرك",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ ما كان للنبي والذين آمنوا أن يستغفروا للمشركين ولو كانوا أولى قربى من بعد ما تبين لهم أنهم أصحاب الجحيم ﴾ براءة .",
+      "footnotes": [
+        "(*) [على «الجحيم»] قد يحتج أحد باستغفار إبراهيم لأبيه فقال تعالى بعد هذه الآية : ﴿ وما كان استغفار إبراهيم لأبيه إلا عن موعدة وعدها إياه فلما تبين له أنه عدو لله تبرأ منه إن إبراهيم لأواه حليم ﴾ براءة . وقال تعالى : ﴿ قد كانت لكم أسوة حسنة في إبراهيم والذين معه ... إلا قول إبراهيم لأبيه ﴾ الممتحنة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The footnote starts on p. 310 and continues on p. 311 («=»); joined.",
+        "«تعالى», «أولى» and «قربى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "after_entry": 515,
+      "book_page": 317,
+      "heading": "ما يقال عند المرور بقبور المشركين",
+      "kind": "verses",
+      "text": "وقال تعالى : ﴿ وأتبعناهم فى هذه الدنيا لعنة ويوم القيامة هم من المقبوحين ﴾ القصص .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«تعالى» and «فى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "after_entry": 517,
+      "book_page": 320,
+      "heading": "الصلاة على الجنازة",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading printed above the sub-heading «قراءة فاتحة الكتاب» (entry 518)."
+      ]
+    },
+    {
+      "after_entry": 529,
+      "book_page": 326,
+      "heading": "حديثان ضعيفان في باب الجنائز",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading printed above the numbered sub-headings «١ - اقرأوا « يس » على موتاكم» (entry 530) and «٢ - حديث التلقين» (entry 531)."
+      ]
+    },
+    {
+      "after_entry": 532,
+      "book_page": 330,
+      "heading": "فيما جاء في قراءة القرآن على الميت",
+      "kind": "essay",
+      "text": "قال ابن كثير رحمه الله ج٤ ص٢٥٨ في تفسير قوله تعالى : ﴿ **وأن ليس للإنسان إلا ما سعى** ﴾ أي كما لم يحمل عليه وزر غيره كذلك لا يحصل من الأجر إلا ما كسب هو لنفسه ، ومن هذه الآية الكريمة استنبط الشافعي رحمه الله ومن اتبعه أن القراءة لا يصل إهداء ثوابها إلى الموتى لأنه ليس من عملهم ولا كسبهم ولهذا لم يندب إليه رسول الله ﷺ أمته ولا حثهم عليه ولا أرشدهم إليه بنص ولا إيماء ولم ينقل ذلك عن أحد من الصحابة رضي الله عنهم ولو كان خيرا لسبقونا إليه وباب القربات يقتصر على النصوص ولا يتصرف فيه بأنواع الأقيسة والآراء وأما الدعاء والصدقة فذاك مجمع على وصولهما ومنصوص من الشارع عليهما وأما الحديث الذي رواه مسلم في صحيحه عن أبي هريرة قال : قال رسول الله ﷺ : « إذا مات ابن آدم انقطع عمله إلا ... » الحديث . فهذه الثلاثة في الحقيقة هي من سعيه وكده وعمله كما جاء في الحديث : « إن أطيب ما أكل الرجل من كسبه وإن ولده من كسبه » . والصدقة الجارية كالوقف ونحوه هي من آثار عمله ووقفه وقد قال تعالى : ﴿ **إنا نحن نحيى الموتى ونكتب ما قدموا وآثارهم** ﴾ والعلم الذي نشره في الناس فاقتدى به الناس بعده هو أيضا من سعيه وعمله وثبت في الصحيح « **من دعا إلى هدى كان له من الأجر مثل أجور من تبعه من غير أن ينقص ذلك من أجورهم شيئا ..** » . أما الدعاء فمشروع ، قال تعالى : ﴿ **والذين جاءوا من بعدهم يقولون ربنا اغفر لنا ولإخواننا الذين سبقونا بالإيمان ولا تجعل في قلوبنا غلا للذين آمنوا ...** ﴾ الحشر . وقال تعالى : ﴿ **فاعلم أنه لا إله إلا الله واستغفر لذنبك وللمؤمنين والمؤمنات** ﴾ محمد . وقد أصدرت وزارة الأوقاف المصرية رسالة قيمة أعدها محمد أحمد عبد السلام جمع فيها أقوال أئمة التفسير والحديث والفقه والأصول وأصحاب المذاهب وأوضح فيها نفس ما ذكرنا أن القراءة لا يصل ثوابها إلى الميت ، وفند فيها كثيرًا من الآثار الشاذة ، وذكر فيها من البدع عمل السرادقات يوم وفاة الميت وعمل السبحة وهي التهليل ألف مرة من المعزين ويهبون ثوابها للميت قال : وأصلها منام رآه بعض المتمشيخين فأذاعه بين إخوانه الجهلاء فاتخذوها سنة وذكر فيه أيضا تجديد الحزن كل خميس بعد وفاة الميت إلى يوم الأربعين وغير ذلك من البدع .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section on pp. 330–331 after entry 532, ending with «****»; the Sheikh's essay quoting Ibn Kathir, kept as an essay block.",
+        "«كثيرًا» carries a tanween fatha. «سعى», «الموتى», «نحيى», «فاقتدى», «هدى» and «تعالى» are printed with dotless final ya."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 459,
+      "book_page": 286,
+      "heading": "الوصية",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٥ ص٣٥٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 5,
+        "page": 355
+      },
+      "text": "حدثنا عبد الله بن يوسف أخبرنا مالك عن نافع **عن عبد الله بن عمر رضي الله عنهما أن رسول الله ﷺ قال : « ما حق امرئ مسلم له شيء يوصي فيه ، يبيت ليلتين إلا ووصيته مكتوبة عنده » . تابعه محمد بن مسلم عن عمرو عن ابن عمر عن النبي ﷺ .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١١ ص٧٤ ، وأبو داود ج٣ ص٢٨٣ ، وابن ماجه ٢٦٩٩ ، والنسائيّ ج٦ ص٢٣٩ ، والترمذي ج٤ ص٤٨ تحفة وقال : حسن صحيح . و ج٦ ص٣٠٥ تحفة ، والدارمي ٢ / ٤٠٢ ، والبيهقي ٥٦ / ٢٧٢ ، وأحمد ٢ / ١٠ ، ٥٠ ، ٥٧ ، ٨٠ ، ١١٣ ، وابن الجارود في المنتقى ٩٤٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The «تابعه …» line is printed bold on its own line after the hadith, without an entry number; kept in `text` as printed.",
+        "The hamza over «امرئ» is printed as a small mark after the ya-seat (امرىٔ); written «امرئ».",
+        "Takhrij: al-Bayhaqi's volume is printed «٥٦» (zoomed at 1089 dpi); his Sunan has this hadith in vol. 6, p. 272, so «٥٦» is probably a misprint for «٦», but the digit order on the scan is not certain enough to correct it; kept as printed."
+      ]
+    },
+    {
+      "number": 460,
+      "book_page": 286,
+      "heading": "وصية من استشعر الموت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص١٣٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 132
+      },
+      "text": "حدثنا قتيبة حدثنا سفيان بن عيينة عن سليمان الأحول عن سعيد بن جبير قال : **قال ابن عباس : يوم الخميس وما يوم الخميس اشتد برسول الله ﷺ وجعه فقال : « ائتوني أكتب لكم كتابا لن تضلوا بعده أبدا » فتنازعوا ، ولا ينبغي عند نبي نزاع ، فقالوا : ما شأنه ؟ أهَجَر ؟ استفهموه فذهبوا يردون عليه فقال : دعوني فالذي أنا فيه خير من الذي تدعونني إليه . وأوصاهم بثلاث قال : « أخرجوا المشركين من جزيرة العرب ، وأجيزوا الوفد بنحو ما كنت أجيزهم وسكت عن الثالثة أو قال فنسيتها » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١١ ص١٩٤ ، وأبو داود في الحراج ٢٨ : ١ ، وعزاه المزي في الأطراف للنسائيّ في العلم ( الكبرى ١١ : ٣ ) .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "takhrij",
+          "printed": "الحراج",
+          "corrected": "الخراج",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the book of Abu Dawud is «كتاب الخراج»; the page prints «الحراج» with no dot over the second letter (zoomed at 1600 dpi)."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "نزاع",
+          "corrected": "تنازع",
+          "confidence": 0.73,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "من الذي تدعونني",
+          "corrected": "مما تدعوني",
+          "confidence": 0.63,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs onto p. 287; grading on p. 287."
+      ]
+    },
+    {
+      "number": 461,
+      "book_page": 287,
+      "heading": "وصية من استشعر الموت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٧٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 79
+      },
+      "text": "حدثنا موسى عن أبي عوانة حدثنا فراس عن عامر عن مسروق **حدثتني عائشة أم المؤمنين قالت : إنا كنا أزواج النبي ﷺ عنده جميعا لم تغادر منا واحدة ، فأقبلت فاطمة عليها السلام تمشي ، ولا والله ولا والله ما تخفى مشيتها من مشية رسول الله ﷺ فلما رآها رحَّب وقال : مرحبا بابنتي ، ثم أجلسها عن يمينه - أو عن شماله - ثم سارها فبكت بكاءًا شديدا ، فلما رأى حزنها سارها ثانية فإذا هي تضحك ، فقلت لها - أنا من بين نسائه - خصك رسول الله ﷺ بالسر من بيننا ثم أنت تبكين . فلما قام رسول الله ﷺ سألتها عما سارك ؟ قالت : ما كنت لأفشي على رسول الله ﷺ سره ، فلما توفي قلت لها : عزمت عليك - بما لي عليك من الحق - لما أخبرتني قالت : أما الآن فنعم فأخبرتني فقالت : أما حين سارني في الأمر الأول فإنه أخبرني أن جبريل كان يعارضه بالقرآن كل سنة مرة وإنه قد عارضني به العام مرتين ، ولا أرى الأجل إلا وقد اقترب ، فاتقي الله واصبري فإني نعم السلف أنا لك فبكيت بكائي الذي رأيت . فلما رأى جزعي سارني الثانية قال : يا فاطمة إلا ترضين أن تكوني سيدة نساء المؤمنين ؟ أو سيدة نساء هذه الأمة » .**",
+      "grading": "حسن",
+      "takhrij": "ورواه مسلم ج١٦ ص٥ ، وأحمد ٦ / ٢٨٢ ، وابن ماجه في الجنائز ٦٤ : ٤ ، وعزاه المزي في الأطراف للنسائيّ في الكبرى .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "ولا والله ولا",
+          "corrected": "لا",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6285) is used."
+        },
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "ثانية فإذا",
+          "corrected": "الثانية إذا",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6285) is used."
+        },
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "فقالت",
+          "corrected": "قالت",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6285) is used."
+        },
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "وقد",
+          "corrected": "قد",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6285) is used."
+        },
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "لك فبكيت",
+          "corrected": "لك قالت فبكيت",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 2 on dorar.net; in the hadith text the wording of the cited source (bukhari 6285) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The grading is printed «حسن» although the hadith is al-Bukhari's; kept as printed.",
+        "A closing « » » is printed at the end with no opening one; kept as printed.",
+        "«الآن» is printed with a madda (الآن)."
+      ]
+    },
+    {
+      "number": 462,
+      "book_page": 288,
+      "heading": "تلقين الميت لا إله إلا الله",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٢١٩",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 219
+      },
+      "text": "حدثنا أبو كاهل الجحدري فضيل بن حسين وعثمان بن أبي شيبة كلاهما عن بشر قال أبو كامل حدثنا بشر بن المفضل حدثنا عمارة بن غزية حدثنا يحيى بن عمارة قال : **سمعت أبا سعيد الخدري يقول : قال رسول الله ﷺ : « لقِّنوا موتاكم لا إله إلا الله » .** وحدثناه قتيبة بن سعيد حدثنا عبد العزيز يعني الدراوردي ح وحدثنا أبو بكر بن أبي شيبة حدثنا خالد بن مخلد حدثنا سليمان بن بلال جميعا بهذا الإسناد .",
+      "grading": "صحيح لما بعده",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٤٨٧ ، وابن ماجه ١٤٤٥ ، والنسائيّ ج٤ ص٥ ، والبيهقي ٣ / ٣٨٣ ، وأحمد ٣ / ٣ .",
+      "footnotes": [
+        "(*) [على «الميت» في العنوان] أي من حضره الموت ."
+      ],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "أبو كاهل",
+          "corrected": "أبو كامل",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator is Abu Kamil al-Jahdari Fudayl ibn Husayn, named «أبو كامل» in the same chain; «كاهل» is a misprint of the name."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading's footnote marker (*) is on «الميت»; the footnote is kept with this entry.",
+        "The second chain «وحدثناه قتيبة …» is printed in regular type without an entry number; kept in `text` as printed.",
+        "«لقِّنوا»: a shadda with a kasra is printed over the qaf (zoomed)."
+      ]
+    },
+    {
+      "number": 463,
+      "book_page": 288,
+      "heading": "تلقين الميت لا إله إلا الله",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٢١٩",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 219
+      },
+      "text": "حدثنا أبو بكر وعثمان ابنا أبي شيبة ح وحدثني عمرو الناقد قالوا جميعا حدثنا أبو خالد الأحمر عن يزيد بن كيسان عن أبي حازم **عن أبي هريرة قال : قال رسول الله ﷺ : « لقنوا موتاكم لا إله إلا الله » .**",
+      "grading": "صحيح",
+      "takhrij": "وابن ماجه رقم ١٤٤٤ ، والترمذي ج٤ ص٥٢ من حديث أبي سعيد ، وابن الجارود رقم ٥١٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 464,
+      "book_page": 288,
+      "heading": "كيفية التلقين",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٣ ص١٥٤",
+      "source": {
+        "collection": "ahmad",
+        "volume": 3,
+        "page": 154
+      },
+      "text": "حدثنا حسن ثنا حماد بن سلمة عن ثابت البناني **عن أنس بن مالك أن رسول الله ﷺ عاد رجلا من الأنصار فقال : « يا خال قل لا إله إلا الله » فقال : أخال أم عم ؟ فقال : « بل خال » قال : فخير لي أن أقول لا إله إلا الله ؟ قال النبي ﷺ : « نعم » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith runs onto p. 289.",
+        "No source-reference footnote is printed for this entry on pp. 288–289; takhrij is null."
+      ]
+    },
+    {
+      "number": 465,
+      "book_page": 289,
+      "heading": "دعوة المشرك عند وفاته إلى قول لا إله إلا الله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٥٠٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 506
+      },
+      "text": "حدثنا أبو اليمان أخبرنا شعيب عن الزهري قال أخبرني سعيد بن المسيب **عن أبيه قال : لما حضرت أبا طالب الوفاة جاءه رسول الله ﷺ فوجد عنده أبا جهل وعبد الله بن أمية بن المغيرة فقال : « أي عم ، قل لا إله إلا الله كلمة أحاج لك بها عند الله » . فقال أبو جهل وعبد الله بن أمية : أترغب عن ملة عبد المطلب ؟ فلم يزل رسول الله ﷺ يعرضها عليه ويعيدانه بتلك المقالة حتى قال أبو طالب آخر ما كلمهم على ملة عبد المطلب وأبى أن يقول لا إله إلا الله قال : قال رسول الله ﷺ : « لأستغفرن لك ما لم أنه عنك » فأنزل الله ﴿ ما كان للنبى والذين آمنوا أن يستغفروا للمشركين ﴾ وأنزل الله في أبي طالب فقال لرسول الله ﷺ : ﴿ إنك لا تهدى من أحببت ولكن الله يهدى من يشاء ﴾ .**",
+      "grading": "صحيح",
+      "takhrij": "الأطراف : فتح ج٣ ص٢٢٢ . ورواه مسلم ج١ ص٢١٣ ، والنسائيّ ج٤ ص٩٠ ، وأحمد ٥ / ٤٣٣ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "الله بن أمية بن",
+          "corrected": "الله بن أبي أمية بن",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 12 on dorar.net; in the hadith text the wording of the cited source (bukhari 4772) is used."
+        },
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "الله بن أمية :",
+          "corrected": "الله بن أبي أمية :",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; in the hadith text the wording of the cited source (bukhari 4772) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«للنبى», «تهدى», «يهدى» and «وأبى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 466,
+      "book_page": 289,
+      "heading": "فضل من ختم بلا إله إلا الله",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٥ ص٣٩١",
+      "source": {
+        "collection": "ahmad",
+        "volume": 5,
+        "page": 391
+      },
+      "text": "حدثنا حسن وعفان قالا : ثنا حماد بن سلمة عن عثمان البتي عن نعيم قال عفان في حديثه ابن أبي هند **عن حذيفة قال : أسندت النبي ﷺ إلى صدري فقال : « من قال لا إله إلا الله قال حسن ابتغاء وجه الله ختم له بها دخل الجنة ومن صام يوما ابتغاء وجه الله ختم الله بها دخل الجنة ومن تصدق بصدقة ابتغاء وجه الله ختم له بها دخل الجنة » .**",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 13,
+          "field": "text",
+          "printed": "ختم الله بها",
+          "corrected": "ختم له بها",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 11 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 22235) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The text runs onto p. 290.",
+        "The heading is printed «فضل من ختم بلا إله إلا الله»; the index has «فضل من ختم له بلا إله إلا الله». The printed form is used."
+      ]
+    },
+    {
+      "number": 467,
+      "book_page": 290,
+      "heading": "فضل من ختم بلا إله إلا الله",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٢ ص٩٤ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 2,
+        "page": 94
+      },
+      "text": "حدثني زهير بن حرب وأحمد بن خراش قالا : حدثنا عبد الصمد بن عبد الوارث حدثنا أبي قال حدثني حسين المعلم عن ابن بريدة أن يحيى بن يعمر حدثه أن أبا الأسود الديلي حدثه **أن أبا ذر حدثه قال : أتيت النبي ﷺ وهو نائم وعليه ثوب أيض ، ثم أتيته فإذا هو نائم ، ثم أتيته وقد استيقظ ، فجلست إليه فقال : « ما من عبد قال لا إله إلا الله ثم مات على ذلك ، إلا دخل الجنة » . قلت : وإن زنى وإن سرق . قال : « وإن زنى وإن سرق » . قلت : وإن زنى وإن سرق . قال : « وإن زنى وإن سرق » . ثلاثا ، ثم قال في الرابعة : « على رغم أنف أبي ذر » . قلت : فخرج أبو ذر وهو يقول : وإن رغم أنف أبي ذر .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه البخاري في اللباس ٢٤ : ٢ فتح ١٠ / ٢٨٣ ، وأحمد ٥ / ١٦٦ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 54,
+          "field": "text",
+          "printed": "أيض",
+          "corrected": "أبيض",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «أيض» is no Arabic word; the ba's tooth and dot are missing (one tooth with the ya's two dots, zoomed at 1600 dpi). The cited source (muslim 94.02) has «ثوب أبيض». The misprints step left it as check-scan because the OCR reads «أبيض»."
+        },
+        {
+          "id": 57,
+          "field": "text",
+          "printed": "وعليه",
+          "corrected": "عليه",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 94.02) is used."
+        },
+        {
+          "id": 14,
+          "field": "text",
+          "printed": "» . قلت : فخرج",
+          "corrected": "» . قال : فخرج",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 94.02) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«أيض» is printed without the ba (zoomed at 1600 dpi in the review); kept as printed and corrected by hand (correction 54).",
+        "«زنى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 468,
+      "book_page": 290,
+      "heading": "فضل من ختم بلا إله إلا الله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص١٤٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 144
+      },
+      "text": "حدثني محمد بن عبيد حدثنا عيسى بن يونس عن عمر بن سعيد قال : أخبرني ابن أبي مليكة أن أبا عمر ذكوان مولى عائشة أخبره **أن عائشة كانت تقول : إن من نعم الله عليّ ، أن رسول الله ﷺ توفي في بيتي وفي يومي بين سحري ونحري ، وأن الله جمع بين ريقي وريقه عند موته . دخل عليّ عبد الرحمن وبيده السواك ، وأنا مسندة رسول الله ﷺ ، فرأيته ينظر إليه ، وعرفت أنه يحب السواك ، فقلت : آخذه لك ؟ فأشار برأسه أن نعم ، فتناولته ، فاشتد عليه ، وقلت : ألينه لك ؟ فأشار برأسه أن نعم ، فلينته ، فأمره ، وبين يديه ركوة - أو علبة يشك عمر - فيها ماء ، فجعل يدخل يديه في الماء ، فيمسح بها وجهه يقول : « لا إله إلا الله ، إن للموت سكرات » ثم نصب يده ، فجعل يقول : « في الرفيق الأعلى » ، حتى قبض ، ومالت يده .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 15,
+          "field": "text",
+          "printed": "أبا عمر ذكوان",
+          "corrected": "أبا عمرو ذكوان",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        },
+        {
+          "id": 16,
+          "field": "text",
+          "printed": "يومي بين سحري",
+          "corrected": "يومي وبين سحري",
+          "confidence": 0.96,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 6 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4449) is used."
+        },
+        {
+          "id": 17,
+          "field": "text",
+          "printed": "بها",
+          "corrected": "بهما",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4449) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs onto p. 291; grading on p. 291.",
+        "«عليّ» (twice): a shadda is printed over the ya (zoomed).",
+        "No source-reference footnote is printed for this entry on pp. 290–291; takhrij is null."
+      ]
+    },
+    {
+      "number": 469,
+      "book_page": 291,
+      "heading": "نهي المحتضر عن ما يتوقع حدوثه من منكر",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٥٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 255
+      },
+      "text": "حدثنا موسى بن إسماعيل حدثنا أبو عوانة عن هلال عن عروة **عن عائشة رضي الله عنها قالت : قال رسول الله ﷺ في مرضه الذي لم يقم منه : « لعن الله اليهود والنصارى ، اتخذوا قبور أنبيائهم مساجد » . لولا ذلك أبرز قبره ، غير أنه خَشِيَ - أو خُشِيَ - أن يتخذ مسجدا .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٥ ص١٢ ، وأحمد ٦ / ٣٤ ، ١٢١ ، ٢٥٥ .",
+      "footnotes": [
+        "(*) [على «هلال»] هلال هو الوزان كما جاء مفسرا في رواية البخاري أيضا ، فتح ج٣ ص٢٠٠ وهو ابن حميد أو ابن أبي حميد واختلف في كنيته ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«خَشِيَ - أو خُشِيَ»: zoomed at 1358 dpi; the first has a fatha over the kha, the second a damma, both a kasra under the shin and a fatha over the ya.",
+        "«النصارى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 470,
+      "book_page": 291,
+      "heading": "ما يقال عند المصيبة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٢٢٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 220
+      },
+      "text": "حدثنا يحيى بن أيوب وقتيبة وابن حجر جميعا عن إسماعيل بن جعفر قال ابن أيوب حدثنا إسماعيل أخبرني سعد بن سعيد عن عمر بن كثير بن أفلح عن ابن سفينة **عن أم سلمة أنها قالت : سمعت رسول الله ﷺ يقول : « ما من مسلم تصيبه مصيبة ، فيقول ما أمره الله : إنا لله وإنا إليه راجعون اللهم أجرني في مصيبتي واخلف لي خيرا منها إلا أخلف الله له خيرا منها » . قالت : فلما مات أبو سلمة قلت : أي المسلمين خير من أبي سلمة أول بيت هاجر إلى رسول الله ﷺ ، ثم إني قلتها فأخلف الله لي رسول الله ﷺ ، قالت : أرسل إليّ رسول الله ﷺ حاطب ابن أبي بلتعة يخطبني له ، فقلت له : إن لي بنتا وأنا غيور ، فقال : « أما ابنتها فندعو الله أن يغنيها عنها ، وأدعو الله أن يذهب الغيرة » .**",
+      "grading": "حسن",
+      "takhrij": "وأحمد ٦ / ٣٢١ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 18,
+          "field": "text",
+          "printed": "فقلت له :",
+          "corrected": "فقلت :",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 918.01) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The chain runs onto p. 292; the hadith and grading are on p. 292.",
+        "The grading is printed «حسن» although the hadith is Muslim's; kept as printed.",
+        "«إليّ»: a shadda is printed over the ya (zoomed)."
+      ]
+    },
+    {
+      "number": 471,
+      "book_page": 292,
+      "heading": "قول الخير عند الميت وما يدعى به بعد الموت",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٢٢٢",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 222
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة وأبو كريب قالا : حدثنا أبو معاوية عن الأعمش عن شقيق **عن أم سلمة قالت : قال رسول الله ﷺ : « إذا حضرتم الميت فقولوا خيرا فإن الملائكة يؤمنون على ما تقولون » . قالت : فلما مات أبو سلمة أتيت النبي ﷺ فقلت : يا رسول الله إن أبا سلمة قد مات قال : فقولي : « اللهم اغفر لي وله واعقبني منه عقبة حسنة » . قالت : فقلت ، فأعقبني من هو خير لي منه محمد ﷺ .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٤٨٦ ، وابن ماجه ١٤٤٧ ، والنسائيّ ج٤ ص٤ ، والترمذي ج٤ ص٥٤ تحفة وقال : حسن صحيح . وأحمد ٦ / ٢٩١ ، ٣٠٦ ، ٣٢٢ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 19,
+          "field": "text",
+          "printed": "عقبة",
+          "corrected": "عقبى",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 20,
+          "field": "text",
+          "printed": "فأعقبني من",
+          "corrected": "فأعقبني الله من",
+          "confidence": 0.65,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+        },
+        {
+          "id": 21,
+          "field": "text",
+          "printed": "محمد",
+          "corrected": "محمدا",
+          "confidence": 0.88,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "«يدعى» is printed with dotless final ya in the heading.",
+        "Questions 20 and 21 go together: with «الله» restored, «من» is the object and «محمدا» follows it; without «الله», «من» is the subject and the printed «محمد» is grammatical. Approve both or neither."
+      ]
+    },
+    {
+      "number": 472,
+      "book_page": 293,
+      "heading": "النهي عن الدعاء على الأنفس",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٢٢٢",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 222
+      },
+      "text": "حدثنا زهير بن حرب حدثنا معاوية بن عمرو حدثنا أبو إسحاق الفزاري عن خالد الحذاء عن أبي قلابة عن قبيصة بن ذؤيب **عن أم سلمة قالت : دخل رسول الله ﷺ على أبي سلمة ، وقد شق بصره ، فأغمضه ، ثم قال : « إن الروح إذا قبض تبعه البصر » . فضج ناس من أهله . فقال : « لا تدعوا على أنفسكم إلا بخير فإن الملائكة يؤمنون على ما تقولون ، ثم قال : اللهم اغفر لأبي سلمة وارفع درجته في المهديين واخلفه في عقبه في الغابرين واغفر لنا وله يا رب العالمين وافسح له في قبره ونور له فيه » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٤٨٧ ، وأحمد ٦ / ٢٩٧ ، وابن ماجه في الجنائز ٦ : ١ ، وعزاه المزي في الأطراف للنسائيّ ، المناقب من السنن الكبرى .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«سلمة» in «على أبي سلمة» carries a small mark over the lam–mim (zoomed at 815 dpi) that can't be read as a definite vowel; written without it.",
+        "The quotation « لا تدعوا … » runs to the end, including «ثم قال : اللهم …», with no closing mark after «تقولون»; kept as printed."
+      ]
+    },
+    {
+      "number": 473,
+      "book_page": 293,
+      "heading": "مشروعية التعزية",
+      "label": null,
+      "citation": "قال النسائيّ ج٤ ص٩٥",
+      "source": {
+        "collection": "nasai",
+        "volume": 4,
+        "page": 95
+      },
+      "text": "أخبرنا هارون بن زيد وهو ابن أبي الزرقاء قال : حدثنا أبي قال : حدثنا خالد بن ميسرة قال : سمعت **معاوية بن قرة عن أبيه قال : كان نبي الله ﷺ إذا جلس يجلس إليه نفر من أصحابه ، وفيهم رجل له ابن صغير يأتيه من خلف ظهره ، فيقعده بين يديه ، فهلك ، فامتنع الرجل أن يحضر الحلقة لذكر ابنه ، فحزن عليه ، ففقده النبي ﷺ ، فقال : « ما لي لا أرى فلانا ؟ » . قالوا : يا رسول الله بنيه الذي رأيته هلك . فلقيه النبي ﷺ ، فسأله عن بنيه ، فأخبره أنه هلك ، فعزاه عليه ، ثم قال : يا فلان : « أيما كان أحب إليك ؟ أن تمتع به عمرك ، أو لا تأتي غدا إلى باب من أبواب الجنة إلا وجدته قد سبقك إليه يفتحه لك ؟ » . قال : يا نبي الله ، بل يسبقني إلى باب الجنة فيفتحها لي لهو أحب إليَّ . قال : « فذاك لك » .**",
+      "grading": "حسن",
+      "takhrij": "وأبو داود مختصرا في الترجل ١٣ ، وعزاه المزي في الأطراف للنسائيّ ، في المناقب الكبرى ٦ : ٤ ، وانظر مسند أحمد ٣ / ٤٦٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith runs onto p. 294; grading and takhrij on p. 294.",
+        "«أرى» is printed with dotless final ya; «إليَّ» has a shadda and a fatha (zoomed at 1600 dpi)."
+      ]
+    },
+    {
+      "number": 474,
+      "book_page": 294,
+      "heading": "ما يقال لمن مات له ميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٥١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 151
+      },
+      "text": "حدثنا عبدان ومحمد قالا : أخبرنا عبد الله أخبرنا عاصم بن سليمان عن أبي عثمان قال : **حدثني أسامة بن زيد رضي الله عنهما قال : أرسلت ابنة النبي ﷺ إليه : إن ابنا لي قبض ، فأتنا ، فأرسل يقرئ السلام ويقول : « إن لله ما أخذ ، وله ما أعطى ، وكل عنده بأجل مسمى ، فلتصبر ولتحتسب » . فأرسلت إليه تقسم عليه ليأتينها ، فقام ومعه سعد بن عبادة ، ومعاذ بن جبل ، وأبي بن كعب ، وزيد بن ثابت ، ورجاله ، فرُفع إلى رسول الله ﷺ الصبي ، ونفسه تتقعقع ، قال : حسبته أنه قال : كأنه شنّ ففاضت عيناه فقال سعد : يا رسول الله ما هذا ؟ فقال : « هذه رحمة جعلها الله في قلوب عباده ، وإنما يرحم الله من عباده الرحماء » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢٢٤ ، وأبو داود ج٣ ص٤٩٢ ، وابن ماجه ١٥٨٨ ، والنسائيّ ج٤ ص٢٢ ، وأخرجه أحمد ٥ / ٢٠٤ .",
+      "footnotes": [
+        "(*) [على «عيناه»] أي عين النبي ﷺ ، كما جاءت موضحة في رواية شعبة ، فتح ج١٠ ص١١٨ بلفظ : « ففاضت عينا النبي ﷺ » ."
+      ],
+      "corrections": [
+        {
+          "id": 22,
+          "field": "text",
+          "printed": "ورجاله",
+          "corrected": "ورجال",
+          "confidence": 0.98,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1284) is used."
+        },
+        {
+          "id": 23,
+          "field": "text",
+          "printed": "كأنه",
+          "corrected": "كأنها",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1284) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«يقرئ» is printed with the hamza on a dotless ya-seat (يقرىء); written «يقرئ».",
+        "«فرُفع» has a damma over the ra; «شنّ» a shadda over the nun (zoomed at 724 dpi).",
+        "«أعطى» and «مسمى» are printed with dotless final ya.",
+        "Takhrij: a small mark over the final ha of «وأخرجه» can't be read clearly; written without it."
+      ]
+    },
+    {
+      "number": 475,
+      "book_page": 295,
+      "heading": "ما يدعى به لأهل الميت",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج١ ص٢٠٤",
+      "source": {
+        "collection": "ahmad",
+        "volume": 1,
+        "page": 204
+      },
+      "text": "حدثنا وهب بن جرير ثنا أبي قال : سمعت محمد بن أبي يعقوب يحدث عن الحسن بن سعد **عن عبد الله بن جعفر قال : بعث رسول الله ﷺ جيشا استعمل عليهم زيد بن حارثة ، وإن قتل زيد أو استشهد فأميركم جعفر ، فإن قتل أو استشهد فأميركم عبد الله بن رواحة . فلقوا العدو ، فأخذ الراية زيد ، فقاتل حتى قتل ، ثم أخذ الراية جعفر ، فقاتل حتى قتل ، ثم أخذها عبد الله بن رواحة ، فقاتل حتى قتل ، ثم أخذ الراية خالد بن الوليد ، ففتح الله عليه . وأتى خبرهم النبي ﷺ ، فخرج إلى الناس ، فحمد الله وأثنى عليه ، وقال : إن إخوانكم لقوا العدو ، وإن زيدًا أخذ الراية فقاتل حتى قتل أو استشهد ، ثم أخذ الراية بعده جعفر بن أبي طالب فقاتل حتى قتل أو استشهد ، ثم أخذ الراية عبد الله بن رواحة فقاتل حتى قتل أو استشهد ، ثم أخذ الراية سيف من سيوف الله خالد بن الوليد ففتح الله عليه . فأمهل ثم أمهل آل جعفر ثلاثا أن يأتيهم ، ثم أتاهم فقال : لا تبكوا على أخي بعد اليوم أو غد ، إليَّ ابني أخي قال : فجيء بنا كأنا أفرخ ، فقال : ادعو إلى الحلاق ، فجيء بالحلاق ، فحلق رؤوسنا ، ثم قال : أما محمد فشبيه عمنا أبي طالب ، وأما عبد الله فشبيه خلقي وخلقي ، ثم أخذ بيدي فأشالها فقال : « اللهم اخلف جعفرا في أهله ، وبارك لعبد الله في صفقة يمينه » . قالها ثلاث مرات . قال : فجاءت أمنا ، فذكرت له يتمنا ، وجعلت تفرح له فقال : « العيلة تخافين عليهم ، وأنا وليهم في الدنيا والآخرة » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 24,
+          "field": "text",
+          "printed": "ادعو",
+          "corrected": "ادعوا",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 1659) is used."
+        },
+        {
+          "id": 25,
+          "field": "text",
+          "printed": "مرات",
+          "corrected": "مرار",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 1659) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry on p. 295; takhrij is null.",
+        "«زيدًا»: a tanween fatha is printed over the dal, drawn like a shadda-shaped mark (zoomed at 1086 dpi); written as tanween.",
+        "«إليَّ»: a shadda and a fatha are printed over the ya (zoomed at 1086 dpi).",
+        "«قتل» throughout: the qaf–ta ligature's dots, not a shadda (zoomed).",
+        "«ادعو» and «تفرح» are printed so; kept as printed."
+      ]
+    },
+    {
+      "number": 476,
+      "book_page": 295,
+      "heading": "ما يقال لمن تبكي على ميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٤٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 148
+      },
+      "text": "حدثنا آدم حدثنا شعبة حدثنا ثابت **عن أنس بن مالك رضي الله عنه قال : مر النبي ﷺ بامرأة تبكي عند قبر فقال : « اتقي الله واصبري » . قالت : إليك عني ، فإنك لم تصب بمصيبتي ، ولم تعرفه . فقيل لها : إنه النبي ﷺ ، فأتت النبي ﷺ ، فلم تجد عنده بوابين فقالت : لم أعرفك . فقال : « إنما الصبر عند الصدمة الأولى » .**",
+      "grading": "صحيح",
+      "takhrij": "أطراف هذا الحديث مشار إليها فتح ص١٢٥ ج٣ ، ورواه مسلم ج٦ ص٢٢٧ ، وأبو داود ج٣ ص٤٩١ ، وابن ماجه مختصرا رقم ١٥٩٦ ، والنسائيّ ج٤ ص٢٢ ، والترمذي مختصرا ج٤ ص٦٢ تحفة وقال : حديث حسن صحيح .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith runs onto p. 296; grading and takhrij on p. 296.",
+        "«الأولى» is printed with dotless final ya.",
+        "Takhrij: the nisba mark of «والنسائيّ» is printed as a small mark at the ya (zoomed); written as a shadda per the rules."
+      ]
+    },
+    {
+      "number": 477,
+      "book_page": 296,
+      "heading": "الحزن على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص١٦٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 167
+      },
+      "text": "حدثنا عمرو بن علي حدثنا محمد بن فضيل حدثنا عاصم الأحول **عن أنس رضي الله عنه قال : قنت رسول الله ﷺ شهرا حين قُتل القراء فما رأيت رسول الله ﷺ حزن حزنا قط أشد منه .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٥ ص١٧٩ ، ١٨٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«قُتل»: a damma is printed over the qaf."
+      ]
+    },
+    {
+      "number": 478,
+      "book_page": 296,
+      "heading": "دمع العين وحزن القلب وما يقوله من مات له ميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٧٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 172
+      },
+      "text": "حدثنا الحسن بن عبد العزيز حدثنا يحيى بن حسان حدثنا قريش هو ابن حيان عن ثابت **عن أنس بن مالك رضي الله عنه قال : دخلنا مع رسول الله ﷺ على أبي سيف القَين ، - وكان ظئرا لإبراهيم عليه السلام - فأخذ رسول الله ﷺ إبراهيم ، فقبله وشمه . ثم دخلنا عليه بعد ذلك وإبراهيم يجود بنفسه ، فجعلت عينا رسول الله ﷺ تذرفان . فقال له عبد الرحمن بن عوف رضي الله عنه : يا رسول الله ؟ فقال : « يا ابن عوف إنه رحمة » . ثم أتبعها بأخرى فقال ﷺ : « إن العين تدمع ، والقلب يحزن ، ولا نقول إلا ما يرضي ربنا ، وإنا بفراقك يا إبراهيم لمحزونون » .** رواه موسى عن سليمان بن المغيرة عن ثابت عن أنس رضي الله عنه عن النبي ﷺ .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٥ ص٧٤ ، وأبو داود ج٣ ص٤٩٢ مختصرا ، مع اختلاف في اللفظ ، وأخرجه أحمد ٣ / ١٤٣ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 26,
+          "field": "text",
+          "printed": "إنه",
+          "corrected": "إنها",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1303) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs onto p. 297; grading and takhrij on p. 297.",
+        "«القَين»: a fatha is printed over the qaf.",
+        "The line «رواه موسى …» is printed in regular type on its own line after the hadith, without an entry number; kept in `text` as printed.",
+        "«بأخرى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 479,
+      "book_page": 297,
+      "heading": "دمع العين وحزن القلب وما يقوله من مات له ميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٠٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 208
+      },
+      "text": "حدثنا محمد بن سنان حدثنا فليح بن سليمان حدثنا هلال بن علي **عن أنس رضي الله عنه قال : شهدنا بنت رسول الله ﷺ ، ورسول الله ﷺ جالس على القبر ، فرأيت عينيه تدمعان ، فقال : « هل فيكم من أحد لم يقارف الليلة » . فقال أبو طلحة : أنا قال : « فانزل في قبرها » . فنزل في قبرها فقبرها .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أحمد ٣ / ١٢٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The grading is printed «حسن» although the hadith is al-Bukhari's; kept as printed."
+      ]
+    },
+    {
+      "number": 480,
+      "book_page": 297,
+      "heading": "البكاء على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٧٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 175
+      },
+      "text": "حدثنا أصبغ عن ابن وهب قال أخبرني عمرو عن سعيد بن الحارث الأنصاري **عن عبد الله ابن عمر رضي الله عنهما قال : اشتكى سعد بن عبادة شكوى له ، فأتاه النبي ﷺ يعوده مع عبد الرحمن بن عوف ، وسعد بن أبي وقاص ، وعبد الله بن مسعود رضي الله عنهم ، فلما دخل عليه ، وجده في غاشية أهله ، فقال : « قد قضى ؟ » . قالوا : لا يا رسول الله ، فبكى النبي ﷺ ، فلما رأى القوم بكاء النبي ﷺ بكوا ، فقال : « ألا تسمعون ، إن الله لا يعذب بدمع العين ولا بحزن القلب ولكن يعذب بهذا - وأشار بلسانه - أو يرحم ، وإن الميت يعذب ببكاء أهله عليه » . وكان عمر رضي الله عنه يضرب فيه بالعصا ويرمي بالحجارة ويحثي بالتراب .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢٢٥ ، والبيهقي ٤ / ٦٩ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 27,
+          "field": "text",
+          "printed": "وجده",
+          "corrected": "فوجده",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1304) is used."
+        },
+        {
+          "id": 28,
+          "field": "text",
+          "printed": "بلسانه",
+          "corrected": "إلى لسانه",
+          "confidence": 0.53,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs onto p. 298; grading and takhrij on p. 298.",
+        "«اشتكى», «شكوى», «قضى», «فبكى» and «رأى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 481,
+      "book_page": 298,
+      "heading": "البكاء على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٥١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 151
+      },
+      "text": "حدثنا عبدان حدثنا عبد الله أخبرنا ابن جريج قال : **أخبرني عبد الله بن عبيد الله ابن أبي مليكة قال : توفيت ابنة لعثمان رضي الله عنه بمكة ، وجئنا لنشهدها ، وحضرها ابن عمر ، وابن عباس رضي الله عنهم ، وإني لجالس بينهما ، أو قال : جلست إلى أحدهما ، ثم جاء الآخر ، فجلس إلى جنبي ، فقال عبد الله بن عمر رضي الله عنهما لعمرو بن عثمان : ألا تنهى عن البكاء ؟ فإن رسول الله ﷺ قال : « إن الميت ليعذب ببكاء أهله عليه » . فقال ابن عباس رضي الله عنهما : قد كان عمر رضي الله عنه يقول بعض ذلك ، ثم حدث قال : صدرت مع عمر رضي الله عنه من مكة ، حتي إذا كنا بالبيداء ، إذا هو بركب تحت ظل سمرة ، فقال : اذهب فانظر من هؤلاء الركب . قال : فنظرت فإذا صهيب فأخبرته فقال : ادعه لي ، فرجعت إلى صهيب فقلت : ارتحل فالحق بأمير المؤمنين . فلما أصيب عمر ، دخل صهيب يبكي يقول : واأخاه ، واصاحباه ، فقال عمر رضي الله عنه : يا صهيب أتبكي عليَّ وقد قال رسول الله ﷺ : « إن الميت يعذب ببعض بكاء أهله عليه » . قال ابن عباس رضي الله عنهما : فلما مات عمر رضي الله عنه ذكرت ذلك لعائشة رضي الله عنها فقالت : رحم الله عمر ، والله ما حدث رسول الله ﷺ ، أن الله ليعذب المؤمن ببكاء أهله عليه ، ولكن رسول الله ﷺ قال : « إن الله ليزيد الكافر عذابا ببكاء أهله عليه » . وقالت : حسبكم القرآن ﴿ ولا تزر وازرة وزر أخرى ﴾ . قال ابن عباس رضي الله عنه عند ذلك : والله هو أضحك وأبكى . قال ابن أبي مليكة : والله ما قال ابن عمر رضي الله عنهما شيئا .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢٣٠ نووي ٢٣٢ ، وابن ماجه مفرقا ص٥٠٨ ، ٥٠٩ ج١ ، والنسائيّ ج٤ ص١٨ ، والترمذي تحفة ج٤ ص٨٥ ، ٨٦ ، ٨٧ ، وأحمد ١ / ٤١ ، ٤٥ ، ٤٧ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 29,
+          "field": "text",
+          "printed": "بأمير",
+          "corrected": "أمير",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1286) is used."
+        },
+        {
+          "id": 30,
+          "field": "text",
+          "printed": "الله عنه عند",
+          "corrected": "الله عنهما عند",
+          "confidence": 0.96,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1286) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs onto p. 299; grading and takhrij on p. 299.",
+        "The paragraph «قال ابن عباس … فلما مات عمر» starts a new printed paragraph inside the hadith; joined.",
+        "«حتي» is printed with a dotted final ya (zoomed at 1088 dpi); kept as printed.",
+        "«واأخاه»: a plain alif is printed before the hamzated one, as in «واصاحباه» after it (OCR flag; zoomed at 1600 dpi in the review). First transcribed «وأخاه»; fixed.",
+        "«عليَّ»: a shadda and a fatha are printed over the ya (zoomed at 933 dpi).",
+        "«تنهى», «أخرى» and «وأبكى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 482,
+      "book_page": 299,
+      "heading": "البكاء على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٥٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 152
+      },
+      "text": "حدثنا عبد الله بن يوسف أخبرنا مالك عن عبد الله بن أبي بكر عن أبيه عن عمرة بنت عبد الرحمن أنها أخبرته أنها **سمعت عائشة رضي الله عنها زوج النبي ﷺ قالت : مرَّ رسول الله ﷺ على يهودية يبكي عليها أهلها ، فقال : « إنهم يكون عليها وإنها لتعذب في قبرها » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢٣٣ ، والنسائيّ ج٤ ص١٧ ، والترمذي في الجنائز ٢٥ : ٢ ، وأحمد ٦ / ١٠٧ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 31,
+          "field": "text",
+          "printed": "يكون",
+          "corrected": "ليبكون",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 10 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1289) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«مرَّ»: a shadda and a fatha are printed over the ra (zoomed at 815 dpi).",
+        "«يكون» is printed with a single tooth before the kaf and one dot below (zoomed at 1086 dpi), not «يبكون»; kept as printed, the misprints step handles it."
+      ]
+    },
+    {
+      "number": 483,
+      "book_page": 299,
+      "heading": "بكاء أبي بكر على رسول الله ﷺ",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١١٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 113
+      },
+      "text": "حدثنا بشر بن محمد قال أخبرنا عبد الله قال أخبرني معمر ويونس عن الزهري قال : أخبرني أبو سلمة أن **عائشة زوج النبي ﷺ أخبرته قالت : أقبل أبو بكر رضي الله عنه على فرسه من مسكنه بالسنح ، حتى نزل فدخل المسجد ، فلم يكلم الناس حتى دخل على عائشة رضي الله عنها ، فتيمم النبي ﷺ - وهو مسجى ببرد حبرة - فكشف عن وجهه ، ثم أكب عليه فقبله ، ثم بكى فقال : بأبي أنت وأمي يا نبي الله لا يجمع الله عليك موتتين : أما الموتة التي كتبت عليك فقد متها . قال أبو سلمة فأخبرني ابن عباس رضي الله عنهما ، أن أبا بكر رضي الله عنه خرج ، وعمر رضي الله عنه يكلم الناس ، فقال له : اجلس فأبى . فقال : اجلس فأبى ، فتشهد أبو بكر رضي الله عنه ، فمال إليه الناس وتركوا عمر ، فقال : أما بعد فمن كان منكم يعبد محمدا ﷺ ، فإن محمدا قد مات ، ومن كان يعبد الله ، فإن الله حي لا يموت ، قال الله تعالى : ﴿ وما محمد إلا رسول قد خلت من قبله الرسل أفإن مات أو قتل انقلبتم على أعقابكم ومن ينقلب على عقبيه فلن يضر الله شيئا وسيجزى الله الشاكرين ﴾ . آل عمران ١٤٤ ، فوالله لكأن الناس لم يكونوا يعلمون أن الله أنزل الآية ، حتى تلاها أبو بكر رضي الله عنه ، فتلقاها منه الناس فما يسمع بشر إلا يتلوها .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ١٦٢٧ ، والبيهقي ٣ / ٤٠٦ ، وأحمد ٦ / ١١٧ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 32,
+          "field": "text",
+          "printed": "**عائشة زوج",
+          "corrected": "**عائشة رضى الله عنها زوج",
+          "confidence": 0.45,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net."
+        },
+        {
+          "id": 33,
+          "field": "text",
+          "printed": "فقال له :",
+          "corrected": "فقال :",
+          "confidence": 0.63,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 34,
+          "field": "text",
+          "printed": "آل عمران ١٤٤ ، فوالله",
+          "corrected": "والله",
+          "confidence": 0.45,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs onto p. 300; grading and takhrij on p. 300.",
+        "The Sheikh's verse reference «آل عمران ١٤٤» is printed inside the bold hadith text; kept as printed.",
+        "«مسجى», «حتى», «بكى», «فأبى» (twice), «تعالى» and «وسيجزى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 484,
+      "book_page": 300,
+      "heading": "أثر النياحة على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٦١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 161
+      },
+      "text": "حدثنا عبدان قال : أخبرني أبي عن شعبة عن قتادة عن سعيد ابن المسيب عن ابن عمر **عن أبيه رضي الله عنهما عن النبي ﷺ قال : « الميت يعذب في قبره بما نيح عليه » .** تابعه عبد الأعلى حدثنا يزيد بن زريع حدثنا قتادة وقال آدم **عن شعبة : « الميت يعذب ببكاء الحي عليه » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢٢٨ نووي ، وأبو داود من حديث ابن عمر مختصرا ج٣ ص٤٩٤ ، والنسائيّ ج٤ ص١٦ ، والترمذي ج٤ ص٨٢ تحفة وقال : حديث عمر حسن صحيح ، وابن ماجه في الجنائز ٥٤ : ١ ، وأحمد ١ / ٢٦ ، ٣٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The «تابعه …» line follows the hadith without an entry number, regular type except «عن شعبة : …» in bold; kept in `text` as printed."
+      ]
+    },
+    {
+      "number": 485,
+      "book_page": 301,
+      "heading": "أثر النياحة على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٦٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 160
+      },
+      "text": "حدثنا أبو نعيم حدثنا سعيد بن عبيد عن علي بن ربيعة **عن المغيرة رضي الله عنه قال : سمعت رسول الله ﷺ يقول : « إنَّ كذبا عليّ ليس ككذب على أحد ، من كذب عليّ عامدا متعمدا فليتبوأ مقعده من النار » . سمعت النبي ﷺ يقول : « من نيح عليه يعذب بما نيح عليه » .**",
+      "grading": "صحيح",
+      "takhrij": "روى مسلم الجزء الأخير من الحديث « من نيح .. » ج٦ ص٢٣٥ نووي ، ولفظ « من كذب .. النار » رواه مسلم ج١٨ ص١٢٩ من حديث أبي سعيد الخدري ، والجزء الخاص بالنياحة رواه الترمذي ج٤ ص٧٨٠ تحفة وقال : حسن صحيح غريب . وأحمد ٤ / ٢٥٢ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 35,
+          "field": "text",
+          "printed": "عامدا",
+          "corrected": "",
+          "confidence": 0.66,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 45 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "«إنَّ»: a shadda and a fatha over the nun; «عليّ» (twice): a shadda after the ya (zoomed at 543 dpi).",
+        "In the chain, «علي بن ربيعة» carries small marks under the lam and over the ya that can't be read as definite vowels at 543 dpi; written without them.",
+        "Takhrij: «ص٧٨٠» is printed so (zoomed); kept as printed."
+      ]
+    },
+    {
+      "number": 486,
+      "book_page": 301,
+      "heading": "لا أثر للبكاء على الشهيد",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١١٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 114
+      },
+      "text": "حدثنا محمد بن بشار حدثنا غندر حدثنا شعبة قال : سمعت محمد بن المنكدر قال : **سمعت جابر بن عبد الله رضي الله عنهما قال : لما قتل أبي ، جعلت أكشف الثوب عن وجهه ، أبكي وينهوني ، والنبي ﷺ لا ينهاني ، فجعلت عمتي فاطمة تبكي ، فقال النبي ﷺ : « تبكين أو لا تبكين ، ما زالت الملائكة تظلله بأجنحتها ، حتى رفعتموه » .** تابعه ابن جريج أخبرني ابن المنكدر سمع جابرا رضي الله عنه .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٦ ص٢٥ ، والنسائيّ ج٤ ص١٢ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 36,
+          "field": "text",
+          "printed": "وينهوني ،",
+          "corrected": "وينهوني عنه ،",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 1244) is used."
+        },
+        {
+          "id": 37,
+          "field": "text",
+          "printed": "تظلله",
+          "corrected": "تظله",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 10 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1244) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The «تابعه …» line is printed in regular type after the hadith without an entry number; kept in `text` as printed.",
+        "«حتى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 487,
+      "book_page": 301,
+      "heading": "ما ينهى عن قوله وفعله على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٦٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 163
+      },
+      "text": "حدثنا أبو نعيم حدثنا سفيان حدثنا زبيد اليامي عن إبراهيم عن مسروق **عن عبد الله رضي الله عنه قال : قال النبي ﷺ : « ليس منا من لطم الخدود ، وشق الجيوب ، ودعا بدعوى الجاهلية » .**",
+      "grading": "صحيح",
+      "takhrij": "وابن ماجه ١٥٨٤ ، والنسائيّ ج٤ ص١٩ ، والترمذي ج٤ ص٧٩ وقال : حسن صحيح . ومسلم رقم ١٦٥ فؤاد عبد الباقي ، والبيهقي ٤ / ٦٤ ، وأحمد ١ / ٣٨٦ ، ٤٣٢ ، ٤٤٢ ، ٤٥٦ ، ٤٦٥ ، وابن الجارود رقم ٥١٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith runs onto p. 302; grading and takhrij on p. 302.",
+        "«ينهى» (heading) and «بدعوى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 488,
+      "book_page": 302,
+      "heading": "ما ينهى عن قوله وفعله على الميت",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٢ ص١١٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 2,
+        "page": 110
+      },
+      "text": "حدثنا الحكم بن موسى القنطري حدثنا يحيى بن حمزة عن عبد الرحمن بن يزيد بن جابر أن القاسم بن مخيمرة حدثه قال : **حدثني أبو بردة بن أبي موسى قال : وَجِعَ أبو موسى وجعا فغشي عليه ، ورأسه في حجر امرأة من أهله ، فصاحت امرأة من أهله ، فلم يستطع أن يرد عليها شيئا ، فلما أفاق قال : أنا بريء مما برئ منه رسول الله ﷺ . فإن رسول الله ﷺ برئ من الصالقة والحالقة والشاقة » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه البخاري معلقا فتح ج٣ ص١٦٥ ، وأبو داود بمعناه ج٣ ص٤٩٦ ، وابن ماجه ١٥٨٦ ، والنسائيّ ج٤ ص٢٠ ، وأبو عوانة ١ / ٥٧ ، وأحمد ٤ / ٣٩٦ ، ٣٩٧ ، ٤٠٤ ، ٤٠٥ ، ٤١١ ، ٤١٦ ، والبيهقي ٤ / ٦٤ .",
+      "footnotes": [
+        "(*) [على «والشاقة»] قال النووي في شرح مسلم الصالقة : التي ترفع صوتها عند المصيبة . الحالقة : التي تحلق شعرها عند المصيبة . الشاقة التي تشق ثوبها عند المصيبة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«وَجِعَ»: fatha, kasra, fatha printed (zoomed at 652 dpi).",
+        "«بريء» is printed with the hamza after the ya; the two «برئ» are printed with the hamza over a dotless ya-seat (برىٔ), written «برئ» (zoomed at 652 dpi).",
+        "A closing « » » is printed at the end with no opening one; kept as printed.",
+        "«موسى» (three times) is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 489,
+      "book_page": 302,
+      "heading": "ما ينهى عن قوله وفعله على الميت",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص٢٣٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 235
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا عفان حدثنا أبان بن يزيد ح وحدثني إسحاق بن منصور - واللفظ له - أخبرنا حبان بن هلال حدثنا أبان حدثنا يحيى أن زيدا حدثه أن أبا سلام حدثه **أن أبا مالك الأشعري حدثه أن النبي ﷺ قال : « أربع في أمتي من أمر الجاهلية لا يتركونهن : الفخر في الأحساب ، والطعن في الأنساب ، والاستسقاء بالنجوم ، والنياحة والنائحة إذا لم تتب قبل موتها ، تقام يوم القيامة وعليها سربال من قطران ، ودرع من جرب » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه رقم ١٥٨١ الجزء الأخير منه ، وأحمد ٥ / ٣٤٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith runs onto p. 303; grading and takhrij on p. 303.",
+        "«يحيى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 490,
+      "book_page": 303,
+      "heading": "ما ينهى عن قوله وفعله على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٧٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 176
+      },
+      "text": "حدثنا عبد الله بن عبد الوهاب حدثنا حماد بن زيد حدثنا أيوب عن محمد **عن أم عطية رضي الله عنها قالت : أخذ علينا النبي ﷺ عند البيعة أن لا ننوح ، فما وفت منا امرأة غير خمسة نسوة : أم سليم ، وأم العلاء ، وابنة أبي سبرة امرأة معاذ ، وامرأتين ، أو ابنة أبي سبرة وامرأة معاذ ، وامرأة أخرى .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٦ ص٢٣٧ نووي ، وأبو داود مختصرا ج٣ ص٤٩٣ ، والبيهقي ٤ / ٦٢ ، وأحمد ٦ / ٤٠٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 38,
+          "field": "text",
+          "printed": "خمسة",
+          "corrected": "خمس",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1306) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«أخرى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 491,
+      "book_page": 303,
+      "heading": "ثناء الناس على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٢٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 228
+      },
+      "text": "حدثنا آدم حدثنا شعبة حدثنا عبد العزيز بن صهيب قال : **سمعت أنس بن مالك رضي الله عنه يقول : مروا بجنازة ، فأثنوا عليها خيرا ، فقال النبي ﷺ : « وجبت » . ثم مروا بأخرى ، فأثنوا عليها شرا فقال : « وجبت » . فقال عمر بن الخطاب رضي الله عنه : ما وجبت ؟ قال : « هذا أثنيتم عليه خيرا ، فوجبت له الجنة ، وهذا أثنيتم عليه شرا ، فوجبت له النار ، أنتم شهداء الله في الأرض » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٧ ص١٨ نووي ، وابن ماجه ١٤٩١ ، والنسائيّ ج٤ ص٥٠ .",
+      "footnotes": [
+        "(*) [على «وجبت» الثانية] في مسلم : وجبت وجبت وجبت .",
+        "(**) [على «في الأرض»] في مسلم : أنتم شهداء الله في الأرض ، أنتم شهداء الله في الأرض ، أنتم شهداء الله في الأرض ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«بأخرى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 492,
+      "book_page": 304,
+      "heading": "ثناء الناس على الميت",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٢٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 229
+      },
+      "text": "حدثنا عفان بن مسلم حدثنا داود بن أبي الفرات عن عبد الله بن بريدة **عن أبي الأسود قال : قدمت المدينة - وقد وقع بها مرض - فجلست إلى عمر بن الخطاب رضي الله عنه ، فمرت به جنازة ، فأثني على صاحبها خيرا ، فقال عمر رضي الله عنه : وجبت . ثم مر بأخرى ، فأثني على صاحبها خيرا ، فقال عمر رضي الله عنه : وجبت . ثم مر بالثالثة ، فأثني على صاحبها شرا ، فقال : وجبت . فقال أبو الأسود : فقلت : وما وجبت يا أمير المؤمنين ؟ قال : قلت كما قال النبي ﷺ : « أيما مسلم شهد له أربعة بخير أدخله الله الجنة . فقلنا : وثلاثة ؟ قال : وثلاثة . فقلنا واثنان ؟ قال : واثنان . ثم لم نسأله عن الواحد » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٤ ص٥١ ، والترمذي ج٤ ص١٦٦ تحفة وقال : حسن صحيح . وأحمد ١ / ٢٢ ، ٣٠ ، راجع الإلزامات والتتبع .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«فأثني» (three times) is printed with a dotted final ya (zoomed); kept as printed.",
+        "The quotation « أيما مسلم … » runs to «عن الواحد», including the Companions' questions; kept as printed.",
+        "«بأخرى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 493,
+      "book_page": 304,
+      "heading": "النهي عن سب الأموات",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٥٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 258
+      },
+      "text": "حدثنا آدم حدثنا شعبة عن الأعمش عن مجاهد **عن عائشة رضي الله عنها قالت : قال النبي ﷺ : « لا تسبوا الأموات ، فإنهم قد أفضوا إلى ما قدموا » .** ورواه عبد الله بن عبد القدوس ، ومحمد بن أنس ، عن الأعمش . تابعه علي بن الجعد ، وابن عرعرة ، وابن أبي عدي عن شعبة .",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٦ / ١٨٠ ، والنسائيّ في الجنائز ٥٢ .",
+      "footnotes": [
+        "(*) [على «الأموات» في العنوان] يجوز سب الكفار والظالمين جملة ، إلا إذا كان يترتب عليه مفسدة ، قال تعالى : ﴿ ألا لعنة الله على الظالمين ﴾ وقال تعالى عن قوم نوح : ﴿ إنهم كانوا قوما مجرمين ﴾ . ويجوز سب الكافر بعينه - الذي سبه الله - ﴿ تبت يدا أبى لهب وتب ﴾ المسد . وقال تعالى : ﴿ إن فرعون وهامان وجنودهما كانوا خاطئين ﴾ وقال تعالى : ﴿ واتل عليهم نبأ الذى آتيناه آياتنا فانسلخ منها فأتبعه الشيطان فكان من الغاوين . ولو شئنا لرفعناه بها ولكنه أخلد إلى الأرض واتبع هواه فمثله كمثل الكلب إن تحمل عليه يلهث أو تتركه يلهث ذلك مثل القوم الذين كذبوا بآياتنا فاقصص القصص لعلهم يتفكرون ﴾ الأعراف . ويجوز الثناء بالخير والثناء بالشر ، كما في الأحاديث السابقة في بابها ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation is on p. 304 with the chain; the hadith and grading are on p. 305.",
+        "The line «ورواه عبد الله … عن شعبة» is printed in regular type after the hadith, without an entry number; kept in `text` as printed.",
+        "The heading's footnote marker (*) is on «الأموات»; the footnote (three paragraphs, joined) is kept with this entry. The verse-end mark between the two A'raf verses is written « . ». «أبى» and «الذى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 494,
+      "book_page": 305,
+      "heading": "النهي عن سب الأموات",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٥٠١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 501
+      },
+      "text": "حدثنا عمر بن حفص بن غياث حدثنا أبي حدثنا الأعمش حدثني عمرو بن مرة عن سعيد بن جبير **عن ابن عباس رضي الله عنهما قال : لما نزلت ﴿ وأنذر عشيرتك الأقربين ﴾ صعد النبي ﷺ على الصفا ، فجعل ينادي : يا بني فهر ، يا بني عدي ، لبطون قريش ، حتى اجتمعوا ، فجعل الرجل إذا لم يستطع أن يخرج ، أرسل رسولا ، لينظر ما هو . فجاء أبو لهب وقريش فقال : « أرأيتكم لو أخبرتكم أن خيلا بالوادي ، تريد أن تغير عليكم ، أكنتم مصدقي ؟ قالوا نعم ! ما جربنا عليك إلا صدقا ، قال : فإني نذير لكم بين يدي عذاب شديد » . فقال أبو لهب : تبا لك سائر اليوم ، ألهذا جمعتنا ؟ فنزلت : ﴿ تبت يدا أبى لهب وتب . ما أغنى عنه ماله وما كسب ﴾ .**",
+      "grading": "صحيح",
+      "takhrij": "الأطراف ج٣ ص٢٥٩ ، ورواه مسلم ج٣ ص٨٢ ، والترمذي ج٩ ص٢٩٧ تحفة وقال : حسن صحيح . وأحمد ١ / ٣٠٧ ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى في التفسير .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The quotation « أرأيتكم … » runs through «قالوا نعم …» to «عذاب شديد»; kept as printed.",
+        "The verse-end mark between the two verses of al-Masad is written « . ».",
+        "«حتى», «أبى» and «أغنى» are printed with dotless final ya; «الكبرى» likewise in the takhrij."
+      ]
+    },
+    {
+      "number": 495,
+      "book_page": 305,
+      "heading": "ما جاء في النعي",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١٩٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 199
+      },
+      "text": "حدثنا يحيى بن بكير حدثنا الليث عن عقيل عن ابن شهاب عن سعيد بن المسيب وأبي سلمة أنهما حدثاه **عن أبي هريرة رضي الله عنه قال : نعى لنا رسول الله ﷺ النجاشي صاحب الحبشة يوم الذي مات فيه فقال : « استغفروا لأخيكم » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٧ ص٢٢ نووي ، والنسائيّ ج٤ ص٩٤ ، وأحمد ٢ / ٢٤١ ، ٥٢٩ .",
+      "footnotes": [
+        "(*) [على «النعي» في العنوان] قال الحافظ في الفتح ص١١٧ : وأما نعي الجاهلية ، فقال سعيد بن منصور : أخبرنا ابن علية ، عن ابن عون ، قال : قلت لإبراهيم : أكانوا يكرهون النعي ؟ قال : نعم . قال ابن عون : كانوا إذا توفي الرجل ، ركب رجل دابة ثم صاح في الناس أنعى فلان . وقال نقلا عن ابن العربي : يؤخذ من مجموع الأحاديث ثلاث حالات : الأولى : إعلام الأهل والأصحاب وأهل الصلاح ، وهذا سنة . الثانية : دعوة الحفل للمفاخرة ، فهذه تُكره . الثالثة : الإعلام بنوع آخر كالنياحة ونحو ذلك ، فهذا يحرم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation and the start of the chain are on p. 305; the rest, grading and takhrij on p. 306.",
+        "The heading's footnote (*) starts on p. 305 and continues on p. 306 («=»); joined, its three listed cases joined into the paragraph. «تُكره» has a damma over the ta.",
+        "«نعى» is printed with dotless final ya; «يوم الذي» is printed so."
+      ]
+    },
+    {
+      "number": 496,
+      "book_page": 306,
+      "heading": "ما جاء في النعي",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٥ ص٤٠٦",
+      "source": {
+        "collection": "ahmad",
+        "volume": 5,
+        "page": 406
+      },
+      "text": "حدثنا يحيى بن آدم حدثنا حبيب بن سليم العبسي عن بلال العبسي **عن حذيفة أنه كان إذا مات له ميت قال : لا تؤذنوا به أحدًا ، إني أخاف أن يكون نعيا ، إني سمعت رسول الله ﷺ ينهى عن النعي .**",
+      "grading": "حسن",
+      "takhrij": "وابن ماجه ١٤٧٦ ، والترمذي ج٤ ص٥٨ وقال : حديث حسن ، وابن أبي شيبة ج٣ ص٢٧٤ مصنف ، والبيهقي ٤ / ٧٤ .",
+      "footnotes": [
+        "(*) [على «حسن» في الحكم] وقد حسنه الحافظ في الفتح ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«أحدًا»: a tanween fatha is printed over the dal.",
+        "The footnote marker (*) is on the grading «حسن».",
+        "«يحيى» and «ينهى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 497,
+      "book_page": 306,
+      "heading": "ما جاء في النعي",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١١٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 116
+      },
+      "text": "حدثنا أبو معمر حدثنا أيوب عن حميد بن هلال **عن أنس بن مالك رضي الله عنه قال : قال النبي ﷺ : « أخذ الراية زيد فأصيب ، ثم أخذها جعفر فأصيب ، ثم أخذها عبد الله بن رواحة فأصيب - وإن عيني رسول الله ﷺ لتذرفان - ثم أخذها خالد بن الوليد من غير إمرة ، ففتح له » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ في الجنائز ٢٧ ، وأحمد ٣ / ١١٣ ، ١١٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 39,
+          "field": "text",
+          "printed": "معمر حدثنا",
+          "corrected": "معمر حدثنا عبد الوارث حدثنا",
+          "confidence": 0.53,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 10 time(s) in the collections."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs onto p. 307; grading and takhrij on p. 307.",
+        "The chain «حدثنا أبو معمر حدثنا أيوب» is printed so (zoomed); kept as printed."
+      ]
+    },
+    {
+      "number": 498,
+      "book_page": 307,
+      "heading": "طلب الاستغفار للميت وإن كان شهيدا",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٥ ص٢٩٩",
+      "source": {
+        "collection": "ahmad",
+        "volume": 5,
+        "page": 299
+      },
+      "text": "حدثنا عبد الرحمن بن مهدي ثنا الأسود بن شيبان عن خالد بن شمير قال : قدم علينا عبد الله بن رباح فوجدته قد اجتمع إليه ناس من الناس قال : **حدثنا أبو قتادة فارس رسول الله ﷺ قال : بعث رسول الله ﷺ جيش الأمراء وقال : « عليكم زيد بن حارثة ، فإن أصيب زيد فجعفر ، فإن أصيب جعفر فعبد الله بن رواحة الأنصاري » . فوثب جعفر فقال : بأبي أنت يا نبي الله وأمي ، ما كنت أرهب أن تستعمل علي زيدا . قال : « امضوا فإنك لا تدري أي ذلك خير » . قال : فانطلق الجيش ، فلبثوا ما شاء الله ، ثم إن رسول الله ﷺ صعد المنبر ، وأمر أن ينادي : الصلاة جامعة ، فقال رسول الله ﷺ : « ناب خير أو ثاب خير - شك عبد الرحمن - ألا أخبركم عن جيشكم هذا الغازي : إنهم انطلقوا حتى لقوا العدو ، فأصيب زيد شهيدًا . فاستغفروا له ، فاستغفر له الناس . ثم أخذ اللواء جعفر بن أبي طالب ، فشد على القوم ، حتى قتل شهيدًا ، أشهد له بالشهادة ، فاستغفروا له . ثم أخذ اللواء عبد الله بن رواحة ، فأثبت قدميه حتى أصيب شهيدًا فاستغفروا له ، ثم أخذ اللواء خالد بن الوليد ، ولم يكن من الأمراء ، هو أمر نفسه ، فرفع رسول الله ﷺ اصبعيه وقال : اللهم هو سيف من سيوفك ، فانصره وقال عبد الرحمن مرة ثانية : فانتصر به فيومئذ سمي خالد سيف الله . ثم قال النبي ﷺ « انفروا ، فأمدوا إخوانكم ، ولا يتخلفن أحد » ، فنفر الناس في حر شديد ، مشاة وركبانا .**",
+      "grading": "حسن",
+      "takhrij": "وأحمد ٢ / ٤٠١ .",
+      "footnotes": [
+        "(*) [على «للميت» في العنوان] وسبق في حديث النجاشي : « استغفروا لأخيكم » .",
+        "(**) [على «شهيدا» في العنوان] المراد بالشهيد : قتيل المعركة في حرب الكفار ."
+      ],
+      "corrections": [
+        {
+          "id": 40,
+          "field": "text",
+          "printed": "شمير",
+          "corrected": "سمير",
+          "confidence": 0.98,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        },
+        {
+          "id": 41,
+          "field": "text",
+          "printed": "ثانية",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 21509) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs onto p. 308; grading and takhrij on p. 308.",
+        "The heading carries two footnote markers, (*) on «للميت» and (**) on «شهيدا»; both footnotes (p. 307) are kept with this entry.",
+        "The quotation « ناب خير … » opened on p. 307 has no closing mark before « انفروا »; kept as printed. No colon is printed after «ثم قال النبي ﷺ».",
+        "«شهيدًا» (three times): a tanween fatha is printed over the dal. «علي», «اصبعيه» and «فإنك» are printed so.",
+        "The takhrij is printed «وأحمد ٢ / ٤٠١ .» although the entry cites Ahmad 5/299 (the same reference ends entry 499's takhrij); kept as printed."
+      ]
+    },
+    {
+      "number": 499,
+      "book_page": 308,
+      "heading": "فضل من شهد الجنازة حتى يصلى عليها وحتى تدفن",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٧ ص١٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 7,
+        "page": 13
+      },
+      "text": "حدثني أبو الطاهر وحرملة بن يحيى وهارون بن سعيد الأيلي - واللفظ لهارون وحرملة - قال هارون حدثنا وقال الآخران أخبرنا ابن وهب أخبرني يونس عن ابن شهاب قال : حدثني عبد الرحمن بن هرمز الأعرج **أن أبا هريرة قال : قال رسول الله ﷺ : « من شهد الجنازة حتى يصلى عليها فله قيراط ، ومن شهدها حتى تدفن فله قيراطان . قيل : وما القيراطان ؟ قال : مثل الجبلين العظيمين » .** انتهى حديث أبي الطاهر . وزاد الآخران قال ابن شهاب ، قال سالم بن عبد الله بن عمر ، وكان ابن عمر يصلي عليها ثم ينصرف ، فلما بلغه حديث أبي هريرة قال : لقد ضيعنا قراريط كثيرة .",
+      "grading": "صحيح",
+      "takhrij": "ورواه البخاري ج٣ ص١٩٦ فتح ، وأبو داود ج٣ ص٥١٥ ، وابن ماجه ١٥٣٩ ، والنسائيّ ج٤ ص٧٦ ، والترمذي ج٤ ص١٣٦ تحفة وقال : حسن صحيح . وابن الجارود في المنتقى رقم ٥٢٥ ، وأحمد ٢ / ٤٠١ .",
+      "footnotes": [
+        "(*) [على «القيراطان»] في حديث ثوبان قال رسول الله ﷺ : « من صلى على جنازة فله قيراط فإن شهد دفنها فله قيراطان والقيراط مثل أحد » . وقال مسلم : وفي حديث سعيد وهشام سئل النبي ﷺ عن القيراط فقال : « مثل أحد » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The lines «انتهى حديث أبي الطاهر … قراريط كثيرة» are printed in regular type after the hadith, without an entry number; kept in `text` as printed.",
+        "The quotation « من شهد … » runs to «العظيمين», including «قيل : … قال :»; kept as printed.",
+        "«يصلى» (heading and text), «حتى», «يحيى», «انتهى», «المنتقى» and «صلى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 500,
+      "book_page": 309,
+      "heading": "أثر صلاة المسلمين على الميت",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٧ ص١٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 7,
+        "page": 17
+      },
+      "text": "حدثنا الحسن بن عيسى حدثنا ابن المبارك أخبرنا سلام ابن أبي مطيع عن أيوب عن أبي قلابة عن عبد الله بن يزيد رضيع عائشة **عن عائشة عن النبي ﷺ قال : « ما من ميت تصلي عليه أمة من المسلمين يبلغون مائة كلهم يشفعون له إلا شفعوا فيه » . قال : فحدثت به شعيب بن الحبحاب فقال : حدثني به أنس بن مالك عن النبي ﷺ .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٤ ص٧٥ ، والترمذي ج٤ ص١١٤ تحفة وقال : حسن صحيح . وأحمد ٣ / ٢٦٦ ، ٦ / ٤٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«عيسى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 501,
+      "book_page": 309,
+      "heading": "أثر صلاة المسلمين على الميت",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٧ ص١٨",
+      "source": {
+        "collection": "muslim",
+        "volume": 7,
+        "page": 18
+      },
+      "text": "حدثنا هارون بن معروف وهارون بن سعيد الأيلي والوليد بن شجاع السكوني قال الوليد حدثني وقال الآخران حدثنا ابن وهب أخبرني أبو صخر عن شريك بن عبد الله ابن أبي نمر **عن كريب مولى ابن عباس أنه مات ابن له بقديد أو بعسفان فقال : يا كريب انظر ما اجتمع له من الناس قال : فخرجت فإذا ناس قد اجتمعوا له فأخبرته فقال : تقول هم أربعون . قال : نعم . قال : أخرجوه فإني سمعت رسول الله ﷺ يقول : « ما من رجل مسلم يموت فيقوم على جنازته أربعون رجلا لا يشركون بالله شيئا إلا شفعهم الله فيه » .** وفي رواية ابن معروف عن شريك عن ابن أبي نمر عن كريب عن ابن عباس .",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٥١٧ ، وابن ماجه ١٤٨٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The line «وفي رواية ابن معروف …» is printed in regular type after the hadith, without an entry number; kept in `text` as printed.",
+        "The grading is printed «حسن» although the hadith is Muslim's; kept as printed.",
+        "«مولى» and «على» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 502,
+      "book_page": 310,
+      "heading": "الصلاة على الشهيد",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٠٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 209
+      },
+      "text": "حدثنا عبد الله بن يوسف حدثنا الليث حدثني يزيد بن أبي حبيب عن أبي الخير **عن عقبة ابن عامر : أن النبي ﷺ خرج يوما فصلى على أهل أحد صلاته على الميت ثم انصرف إلى المنبر فقال : « إني فرط لكم وأنا شهيد عليكم وإني والله لأنظر إلى حوضي الآن وإني أعطيت مفاتيح خزائن الأرض أو مفاتيح الأرض وإني والله ما أخاف عليكم أن تشركوا بعدي ولكن أخاف عليكم أن تنافسوا فيها » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم ص١٧٩٦ ، وأبو داود في الجنائز باب ٧٥ ، والنسائيّ في الجنائز باب ٦١ : ٢ ، وأحمد ٤ / ١٤٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«الآن» is printed with a madda.",
+        "«فصلى», «على» and «إلى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 503,
+      "book_page": 310,
+      "heading": "ترك الصلاة على من قتل نفسه",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٧ ص٤٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 7,
+        "page": 47
+      },
+      "text": "حدثنا عون بن سلام الكوفي أخبرنا زهير عن سماك **عن جابر بن سمرة قال : أُتِيَ النبي ﷺ برجل قتل نفسه بمشاقص فلم يصل عليه .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود مطولا ج٣ ص٥٢٦ ، والنسائيّ ج٤ ص٦٦ ، والترمذي ج٤ ص١٧٧ تحفة وقال : حسن .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«أُتِيَ»: a damma over the alif, a kasra under the ta and a fatha over the ya (zoomed at 1600 dpi).",
+        "The grading is printed «حسن» although the hadith is Muslim's; kept as printed."
+      ]
+    },
+    {
+      "number": 504,
+      "book_page": 311,
+      "heading": "النهي عن الاستغفار للمشرك",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٧ ص٤٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 7,
+        "page": 45
+      },
+      "text": "حدثنا يحيى بن أيوب ومحمد بن عباد - واللفظ ليحيى - قال حدثنا مروان بن معاوية عن يزيد يعني ابن كيسان عن أبي حازم **عن أبي هريرة قال : قال رسول الله ﷺ : « استأذنت ربي أن أستغفر لأمي فلم يأذن لي واستأذنته أن أزور قبرها فأذن لي » .** وقد تابع محمد بن عبيد مروانا في روايته عن يزيد .",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٥٥٧ ، وابن ماجه ١٥٧٢ ، والنسائيّ ج٤ ص٩٠ ، وأحمد ٢ / ٤٤١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The line «وقد تابع محمد بن عبيد …» is printed in regular type after the hadith, without an entry number; kept in `text` as printed.",
+        "The grading is printed «حسن» although the hadith is Muslim's; kept as printed.",
+        "«يحيى» and «ليحيى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 505,
+      "book_page": 311,
+      "heading": "النهي عن الصلاة على المنافق",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٣٣٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 333
+      },
+      "text": "حدثنا يحيى بن بكير حدثنا الليث بن عقيل وقال غيره حدثني عقيل عن ابن شهاب قال أخبرني عبيد الله بن عبد الله عن ابن عباس **عن عمر بن الخطاب رضي الله عنه أنه قال : لما مات عبد الله بن أبي ابن سلول دُعي له رسول الله ﷺ ليصلي عليه فلما قام رسول الله ﷺ وثبت إليه فقلت : يا رسول الله أتصلي على ابن أبي وقد قال يوم كذا كذا وكذا ؟ قال أعدد عليه قوله : فتبسم رسول الله ﷺ وقال : « أخر عني يا عمر » فلما أكثرت عليه قال : « إني خيرت فاخترت لو أعلم أني إن زدت على السبعين يغفر له لزدت بها » قال : فصلى عليه رسول الله ﷺ ثم انصرف فلم يمكث إلا يسيرا حتى نزلت الآيتان من براءة ﴿ ولا تصل على أحد منهم مات أبدا .. ﴾ إلى قوله ﴿ وهم فاسقون ﴾ . قال : فعجبت بعد من جرأتي على رسول الله ﷺ والله ورسوله أعلم .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٥ ص١٦٧ ، ج١٧ ص١٢١ ، ورواه النسائيّ ج٤ ص٦٧ ، والترمذي ج٨ ص٤٩٥ وقال : حسن غريب صحيح . وأحمد ١ / ١٦ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 42,
+          "field": "text",
+          "printed": "الليث بن عقيل",
+          "corrected": "الليث عن عقيل",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «بن» printed for «عن» inside the chain; the narrator is al-Layth ibn Sa'd, who narrates from Uqayl, and no narration names a «الليث بن عقيل». Al-Bukhari (4671) has «حدثنا الليث عن عقيل»."
+        },
+        {
+          "id": 43,
+          "field": "text",
+          "printed": "بها",
+          "corrected": "عليها",
+          "confidence": 0.63,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs onto p. 312; grading and takhrij on p. 312.",
+        "«دُعي»: a damma is printed over the dal. «الآيتان» is printed with a madda.",
+        "«الليث بن عقيل» and «قال أعدد عليه قوله :» are printed so; kept as printed. Correction 42 («بن» → «عن») approved in the review under the names rule.",
+        "«يحيى», «فصلى» and «حتى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 506,
+      "book_page": 312,
+      "heading": "النهي عن الصلاة على المنافق",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٣٣٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 333
+      },
+      "text": "حدثني عبيد بن إسماعيل عن أبي أسامة عن عبيد الله عن نافع **عن ابن عمر رضي الله عنهما قال : لما توفي عبد الله بن أبي جاء ابنه عبد الله بن عبد الله إلى رسول الله ﷺ فسأله أن يعطيه قميصه يكفن فيه أباه فأعطاه ثم سأله أن يصلي عليه فقام رسول الله ﷺ ليصلي عليه فقام عمر فأخذ بثوب رسول الله ﷺ فقال : يا رسول الله أتصلي عليه وقد نهاك ربك أن تصلي عليه ؟ فقال رسول الله ﷺ : « إنما خيرني الله فقال : ﴿ استغفر لهم أو لا تستغفر لهم إن تستغفر لهم سبعين مرة ﴾ وسأزيده على السبعين » قال : إنه منافق قال : فصلى عليه رسول الله ﷺ فأنزل الله : ﴿ ولا تصل على أحد منهم مات أبدا ولا تقم على قبره ﴾ .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٥ ص١٦٧ ، ج١٧ ص١٢٢ ، وابن ماجه ١٥٢٣ ، والنسائيّ ج٤ ص٣٧ ، والترمذي ج٨ ص٤٩٩ تحفة وقال : حسن صحيح .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«فصلى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 507,
+      "book_page": 312,
+      "heading": "ترك الإمام الصلاة على من أُثني عليه شرا",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٥ ص٢٢٩",
+      "source": {
+        "collection": "ahmad",
+        "volume": 5,
+        "page": 229
+      },
+      "text": "حدثنا يعقوب حدثنا أبي عن أبيه حدثني عبد الله بن أبي قتادة **عن أبيه قال : كان رسول الله ﷺ إذا دعي لجنازة سأل عنها فإن أُثني عليها خير قام فصلى عليها وإن أُثني عليها غير ذلك قال لأهلها شأنكم بها ولم يصل عليها .** وحدثناه أبو النضر ثنا إبراهيم بن سعد حدثني أبي عن عبد الله بن أبي قتادة عن أبيه فذكر نحوه .",
+      "grading": "صحيح",
+      "takhrij": "وأحمد أيضا ص٣٠١ ، ٣٠٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The hadith runs onto p. 313; grading and takhrij on p. 313.",
+        "«أُثني» (heading and twice in the text): a damma over the alif (zoomed at 1600 dpi).",
+        "The line «وحدثناه أبو النضر …» is printed in regular type after the hadith, without an entry number; kept in `text` as printed. A small mark over the alif of «أبو» is the hamza.",
+        "«فصلى» and «على» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 508,
+      "book_page": 313,
+      "heading": "ترك الإمام الصلاة على من عليه دين",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٤ ص٤٦٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 4,
+        "page": 466
+      },
+      "text": "حدثنا المكي بن إبراهيم حدثنا يزيد بن أبي عبيد **عن سلمة بن الأكوع رضي الله عنه قال : كنا جلوسا عند النبي ﷺ إذ أَتي بجنازة فقالوا : صل عليها ، فقال : « هل عليه دين ؟ » قالوا : لا قال : « فهل ترك شيئا ؟ » قالوا : لا فصلى عليه ، ثم أُتي بجنازة أخرى فقالوا : يا رسول الله صل عليها . قال : « هل عليه دين ؟ » قيل : نعم قال : « فهل ترك شيئا ؟ » قالوا : ثلاثة دنانير فصلى عليها . ثم أُتي بالثالثة فقالوا : صل عليها فقال : « هل ترك شيئا ؟ » قالو : لا فقال : « هل عليه دين ؟ » قالوا : ثلاثة دنانير قال : « صلوا على صاحبكم » . قال أبو قتادة : صلّ عليه يا رسول الله وعليَّ دينه . فصلى عليه .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه النسائيّ ج٤ ص٦٥ ، وأحمد ٤ / ٤٧ ، ٥٠ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 44,
+          "field": "text",
+          "printed": "» قالو :",
+          "corrected": "» قالوا :",
+          "confidence": 0.96,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 10 time(s) in the collections and 0 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "«إذ أَتي»: the mark over the first alif is drawn as a slanted stroke like a fatha, while the two later «أُتي» have a clear damma (zoomed at 724–1086 dpi); each written as printed.",
+        "«صلّ عليه»: a shadda over the lam; «عليَّ»: a shadda and a fatha over the ya (zoomed at 724 dpi).",
+        "«قالو : لا» is printed without the final alif; kept as printed.",
+        "«فصلى» and «أخرى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 509,
+      "book_page": 313,
+      "heading": "أداء الدين عن الميت",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٣ ص٣٣٠",
+      "source": {
+        "collection": "ahmad",
+        "volume": 3,
+        "page": 330
+      },
+      "text": "حدثنا عبد الصمد وأبو سعيد المعنى قالا : ثنا زائدة ثنا عبد الله بن محمد بن عقيل **عن جابر ابن عبد الله قال : توفي رجل فغسلناه وحنطناه وكفناه ثم أتينا به رسول الله ﷺ يصلي عليه فقلنا تصلي عليه فخطا خطوة ثم قال : « أعليه دين ؟ » قلنا : ديناران فانصرف فتحملهما أبو قتادة فأتيناه فقال أبو قتادة : الديناران عليَّ فقال : « الآن بردت عليه جلده » . فقال معاوية بن عمرو في هذا الحديث : فغسلناه وقال : فقلنا : نصلي عليه .**",
+      "grading": "حسن لغيره",
+      "takhrij": "وأخرجه النسائيّ ج٤ ص٦٥ .",
+      "footnotes": [
+        "(*) [على «حسن لغيره» في الحكم] قال في الزوائد ج٣ ص٣٩ رواه أبو داود باختصار ورواه أحمد والبزار والإسناد حسن . قلت : في سنده عبد الله بن محمد بن عقيل تكلم فيه كثير لكن له شواهد كثيرة ساقها في الزوائد ج٣ ص٤٠ أصحها عن أبي هريرة أن النبي ﷺ أتي بجنازة فقام يصلي عليها فقالوا عليه دين فقال رسول الله ﷺ : « انطلقوا بصاحبكم فصلوا عليه » فقال رجل عليّ دينه فصل عليه فقام رسول الله ﷺ فصلى عليه وقال رواه البزار ورجاله رجال الصحيح ."
+      ],
+      "corrections": [
+        {
+          "id": 45,
+          "field": "text",
+          "printed": "ابن عبد الله",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 14009) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The citation and the start of the hadith are on p. 313; the rest, grading, takhrij and the grading's footnote on p. 314.",
+        "«عليَّ»: a shadda and a fatha are printed over the ya (zoomed at 1600 dpi). «الآن» is printed with a madda.",
+        "The footnote marker (*) is on the grading «حسن لغيره». In the footnote, «عليّ» carries a small mark over the ya read as a shadda (zoomed at 1600 dpi); «فصل عليه» is printed so.",
+        "Takhrij: the nisba mark of «النسائيّ» is printed as a small mark at the ya; written as a shadda per the rules.",
+        "«المعنى» and «فصلى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 510,
+      "book_page": 314,
+      "heading": "الصلاة على النفساء وأين يُقام عليها",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٠١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 201
+      },
+      "text": "حدثنا مسدد حدثنا يزيد بن زريع حدثنا حسين حدثنا عبد الله بن بريدة **عن سمرة رضي الله عنه قال : صليت وراء النبي ﷺ على امرأة ماتت في نفاسها فقام عليها وسطها .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٧ ص٣٣ نووي ، وابن ماجه ١٤٩٣ ، والنسائيّ ج٤ ص٧٠ ، وأبو داود في الجنائز ٥٧ : ٢ ، وابن ماجه في الجنائز ٢١ : ١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«يُقام» (heading): a damma is printed over the ya (zoomed).",
+        "«على» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 511,
+      "book_page": 314,
+      "heading": "الصلاة على الميت بعد الدفن",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١١٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 117
+      },
+      "text": "حدثنا محمد أخبرنا أبو معاوية عن أبي إسحاق الشيباني عن الشعبي **عن ابن عباس رضي الله عنهما قال : مات إنسان كان رسول الله ﷺ يعوده فمات بالليل فدفنوه ليلا فلما أصبح أخبروه فقال : « ما منعكم أن تعلموني ؟ » قالوا : كان الليل فكرهنا - وكانت ظلمة - أن نشق عليك ، فأتى قبره فصلى عليه .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٧ ص٢٤ ، وأبو داود ج٣ ص٥٣٧ ، وابن ماجه ١٥٣٠ ، والترمذي في الجنائز ٤٧ : ١ ، والنسائيّ في الجنائز ٩٤ : ٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation and chain are on p. 314; the hadith, grading and takhrij on p. 315.",
+        "«فأتى» and «فصلى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 512,
+      "book_page": 315,
+      "heading": "ما يقال عند دخول المقابر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٧ ص٤٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 7,
+        "page": 40
+      },
+      "text": "حدثنا يحيى بن يحيى التميمي ويحيى بن أيوب وقتيبة بن سعيد قال يحيى بن يحيى أخبرنا وقال الآخران حدثنا إسماعيل بن جعفر عن شريك وهو ابن أبي نمر عن عطاء بن يسار **عن عائشة أنها قالت : كان رسول الله ﷺ ، كلما كان ليلتها من رسول الله ﷺ ، يخرج من آخر الليل إلى البقيع فيقول : « السلام عليكم دار قوم مؤمنين وأتاكم ما توعدون غدا مؤجلون وإنا إن شاء الله بكم لاحقون اللهم اغفر لأهل بقيع الغرقد » . ولم يُعم قتيبة قوله وأتاكم .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه النسائيّ ج٤ ص٩٣ ، وأحمد ٦ / ١٨٠ ، وأخرجه أحمد مع قصة ٦ / ٧٦ ، ٧١ ، ١١١ ، وابن ماجه ١٥٤٦ ، وابن السني رقم ٥٩٧ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 46,
+          "field": "text",
+          "printed": "يُعم",
+          "corrected": "يقم",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 974.01) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«يُعم» is printed so, with a damma over the ya (zoomed at 932 dpi); kept as printed, the misprints step handles it.",
+        "The grading is printed «حسن» although the hadith is Muslim's; kept as printed.",
+        "«يحيى» (four times) and «إلى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 513,
+      "book_page": 315,
+      "heading": "ما يقال عند دخول المقابر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٣ ص١٣٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 3,
+        "page": 137
+      },
+      "text": "حدثنا يحيى بن أيوب وسريج بن يونس وقتيبة بن سعيد وعلي بن حجر جميعا عن إسماعيل بن جعفر قال ابن أيوب حدثنا إسماعيل أخبرني العلاء عن أبيه **عن أبي هريرة أن رسول الله ﷺ أتى المقبرة فقال : « السلام عليكم دار قوم مؤمنين وإنا إن شاء الله بكم لاحقون . وددت أن قد رأينا إخواننا » قالوا : أو لسنا إخوانك يا رسول الله ؟ قال : « أنتم أصحابي وإخواننا الذين لم يأتوا بعد » فقالوا : كيف تعرف من لم يأت بعد من أمتك يا رسول الله ؟ فقال : « أرأيت لو أن رجلا له خيل غر محجلة بين ظهري خيل دُهم بُهم ألا يعرف خيله » . قالوا : بلى يا رسول الله قال : « فإنهم يأتون غرًّا محجلين من الوضوء وأنا فرطهم على الحوض ألا ليذادن رجال عن حوضي كما يذاد البعير الضال ، أناديهم ألا هلم ، فيقال إنهم بدلوا بعدك فأقول سحقا سحقا » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٥٥٩ مختصرا ، وابن ماجه ٤٣٠٦ ، والنسائيّ ج١ ص٩٤ ، وأحمد ٢ / ٣٠٠ ، ٣٧٥ ، ٤٠٨ ، وابن السني في عمل اليوم والليلة رقم ٥٩٣ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 47,
+          "field": "text",
+          "printed": "وددت أن قد",
+          "corrected": "وددت أنا قد",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 249.01) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The citation and chain are on p. 315; the hadith, grading and takhrij on p. 316.",
+        "«دُهم بُهم»: a damma over the dal and over the ba; «غرًّا»: a shadda with a tanween fatha over the ra (zoomed at 724 dpi).",
+        "The full stop after «لاحقون» is printed with a wide gap before «وددت»; kept as « . ».",
+        "The grading is printed «حسن» although the hadith is Muslim's; kept as printed.",
+        "«يحيى», «أتى», «بلى» and «على» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 514,
+      "book_page": 316,
+      "heading": "ما يقال عند دخول المقابر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٧ ص٤٤",
+      "source": {
+        "collection": "muslim",
+        "volume": 7,
+        "page": 44
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة وزهير بن حرب قالا : حدثنا محمد بن عبد الله الأسدي عن سفيان عن علقمة بن مرثد عن سليمان بن بريدة **عن أبيه قال : كان رسول الله ﷺ يعلمهم إذا خرجوا إلى المقابر ، فكان قائلهم يقول في رواية أبي بكر : السلام على أهل الديار وفي رواية زهير : السلام عليكم أهل الديار من المؤمنين والمسلمين وإنا إن شاء الله للاحقون أسأل الله لنا ولكم العافية .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ١٥٤٧ ، وأحمد ٥ / ٣٥٣ ، ٣٥٩ ، ٣٦٠ ، والنسائيّ ج٤ ص٩٤ ، وابن السني في عمل اليوم والليلة ٥٩٤ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The words «في رواية أبي بكر» and «وفي رواية زهير» are printed in bold inside the hadith; kept as printed.",
+        "«إلى» and «على» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 515,
+      "book_page": 316,
+      "heading": "شرط الدخول على المعذبين",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٨ ص١١٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 18,
+        "page": 110
+      },
+      "text": "حدثنا يحيى بن أيوب وقتيبة بن سعيد وعلي بن حجر جميعا عن إسماعيل قال ابن أيوب حدثنا إسماعيل بن جعفر أخبرني عبد الله بن دينار أنه **سمع عبد الله بن عمر يقول : قال رسول الله ﷺ : « لا تدخلوا على هؤلاء القوم المعذبين إلا أن تكونوا باكين فإن لم تكونوا باكين فلا تدخلوا عليهم أن يصيبكم مثل ما أصابهم » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه البخاري فتح ج٨ ص٣٨١ ، وأحمد ج٢ ص٩ ، ٥٨ ، ٦٦ ، ٧٢ ، ٧٤ ، ٩١ ، ٩٦ ، ١١٣ ، ١٣٧ .",
+      "footnotes": [
+        "(*) [على «٦٦» في التخريج] رواية أحمد ج٢ ص٦٦ فيها زيادة ... وتقنع بردائه وهو على الرحل وهي زيادة صحيحة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation and chain start on p. 316; the rest, grading and takhrij on p. 317.",
+        "The footnote marker (*) is on «٦٦» in the takhrij.",
+        "«يحيى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 516,
+      "book_page": 317,
+      "heading": "ما يقال عند المرور بقبور المشركين",
+      "label": null,
+      "citation": "قال ابن ماجه ١٥٧٣",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 1573
+      },
+      "text": "حدثنا محمد بن إسماعيل بن البختري الواسطي ثنا يزيد بن هارون عن إبراهيم بن سعد عن الزهري عن سالم **عن أبيه قال : جاء أعرابي إلى النبي ﷺ فقال يا رسول الله إن أبي كان يصل الرحم وكان وكان فأين هو ؟ قال : « في النار » . قال : فكأنه وجد من ذلك فقال : يا رسول الله فأين أبوك ؟ فقال رسول الله ﷺ : « حيثما مررت بقبر مشرك فبشره بالنار » . قال : فأسلم الأعرابي بعد وقال : لقد كلفني رسول الله ﷺ تعبا ما مررت بقبر كافر إلا بشرته بالنار .**",
+      "grading": "لغيره",
+      "takhrij": "وأخرجه الطبراني في الكبير ج١ ص١٠٧ رقم ٣٢٦ من طريق الزهري عن عامر بن سعد عن أبيه ، وكذلك أخرجه ابن السني في عمل اليوم والليلة رقم ٦٠٠ ، وله شاهد من حديث أبي هريرة أخرجه ابن السني في عمل اليوم والليلة ٥٩٩ وأخرجه « إذا مررتم بقبورنا وقبوركم من أهل الجاهلية فأخبروهم أنهم من أهل النار » مرفوعا إلى رسول الله ﷺ ، وعزاه المعلق على الطبراني إلى البيهقي في دلائل النبوة رقم ١ / ١٣٩ ، ١٤٠ ، والبزار ، والضياء في الأحاديث المختارة ١ / ٣٣٣ وقال : سنده صحيح . وله شاهد آخر من حديث طويل ذكره ابن خزيمة في كتابه التوحيد ص ١٩٠ في باب ذكر البيان أن رؤية الله التي يختص بها أوْليائه يوم القيامة التي ذكر الله تعالى في قوله : ﴿ وجوه يومئذ ناضرة ﴾ .",
+      "footnotes": [
+        "(**) [على «فبشره»] وقال تعالى : ﴿ وبشر الذين كفروا بعذاب أليم ﴾ براءة ٣ .",
+        "(***) [على «لغيره» في الحكم] وقال في الزوائد رجاله رجال الصحيح ١ / ١١٨ .",
+        "(****) [على «أبيه» في التخريج] أخرج هذا الحديث الشيخ ناصر الدين الألباني في سلسلة الأحاديث الصحيحة رقم ١٨ من طريق عامر بن سعد عن أبيه ورجح هذه الطريق في نهاية كلامه على الحديث وقال : إسناده صحيح رجاله كلهم ثقات معروفون ثم ذكر حفظه الله كلاما قيما في تعقيبه على فقه الحديث نذكره إن شاء الله لعل الله ينفع به ، قال رحمه الله :"
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The grading line prints only «لغيره» (zoomed; no word before it, probably «صحيح لغيره» with the first word dropped); kept as printed.",
+        "The footnotes are numbered (**), (***), (****) on this page because (*) belongs to entry 515's takhrij.",
+        "The takhrij starts on p. 317 and continues on p. 318 («=»); joined. «أوْليائه» has a sukun over the waw; «تعالى» is printed with dotless final ya.",
+        "Footnote (****): only its first paragraph (the grading) is kept; the quoted commentary on the hadith's fiqh and the Sheikh's own remarks after it (pp. 318–319) are skipped, see `skipped`."
+      ]
+    },
+    {
+      "number": 517,
+      "book_page": 319,
+      "heading": "الموعظة عند القبر",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٢٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 225
+      },
+      "text": "حدثنا عثمان قال حدثني جرير عن منصور عن سعد بن عبيدة عن أبي عبد الرحمن **عن علي رضي الله عنه قال : كنا في جنازة في بقيع الغرقد فأتانا النبي ﷺ فقعد وقعدنا حوله ومعه مخصرة فنكس فجعل ينكث بمخصرته ثم قال : « ما منكم من أحد ، ما من نفس منفوسة إلا كتب مكانها من الجنة والنار وإلا قد كتبت شقية أو سعيدة » . فقال رجل : يا رسول الله أفلا نتكل على كتابنا وندع العمل فمن كان منا من أهل السعادة فسيصير إلى عمل أهل السعادة وأما من كان منا من أهل الشقاوة فسيصير إلى عمل أهل الشقاوة ؟ قال : « أما أهل السعادة فييسرون لعمل السعادة ، وأما أهل الشقاوة فييسرون لعمل الشقاوة » ثم قرأ ﴿ فأما من أعطى واتقى ﴾ الآية .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه مسلم في القدر ١ : ٩ ، وأبو داود في السنة ١٧ : ٤ ، والترمذي في القدر ٣ : ٢ ، وفي التفسير تفسير سورة الليل ، وابن ماجة في السنة المقدمة ١٠ : ٣ ، وأحمد ١ / ١٢٩ ، وعزاه المزي في الأطراف للنسائيّ في التفسير السنن الكبرى .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 48,
+          "field": "text",
+          "printed": "ينكث",
+          "corrected": "ينكت",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 3 on dorar.net; in the hadith text the wording of the cited source (bukhari 1362) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«ماجة» is printed with a ta marbuta in the takhrij (zoomed); kept as printed.",
+        "«أعطى», «واتقى» and «الكبرى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 518,
+      "book_page": 320,
+      "heading": "قراءة فاتحة الكتاب",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٠٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 203
+      },
+      "text": "حدثنا محمد بن بشار حدثنا غندر حدثنا شعبة عن سعد عن طلحة قال : صليت خلف ابن عباس رضي الله عنهما وحدثنا محمد بن كثير أخبرنا سفيان عن سعد بن إبراهيم **عن طلحة بن عبد الله بن عوف قال : صليت خلف ابن عباس رضي الله عنهما على جنازة فقرأ بفاتحة الكتاب . قال : لتعلموا أنها سنة .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٥٣٨ ، وابن ماجه مختصرا ١٤٩٥ ، والنسائيّ ج٤ ص٧٤ ، والترمذي ج٤ ص١٠٨ تحفة وص١٠٩ ، ١١٠ وقال : حسن صحيح . والبيهقي ٤ / ٣٨ ، والحاكم ١ / ٣٥٨ ، وابن الجارود في المنتقى رقم ٥٣٦ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 49,
+          "field": "text",
+          "printed": "لتعلموا",
+          "corrected": "ليعلموا",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1335) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading «قراءة فاتحة الكتاب» is printed under the section heading «الصلاة على الجنازة», which has no text of its own (an `author_text` heading block after entry 517).",
+        "The first chain «… صليت خلف ابن عباس رضي الله عنهما» is printed in regular type, followed by the second chain; kept as printed.",
+        "«على» and «المنتقى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 519,
+      "book_page": 320,
+      "heading": "بعض أنواع التكبير في الصلاة على الجنازة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٧ ص١٩١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 7,
+        "page": 191
+      },
+      "text": "حدثنا عبد الله بن أبي شيبة حدثنا يزيد بن هارون عن سليم بن حيان حدثنا سعيد ابن ميناء **عن جابر بن عبد الله رضي الله عنهما « أن النبي ﷺ صلى على أصحمة النجاشي فكبر عليه أربعا »** تابعه عبد الصمد .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٧ ص٢٢ نووي ، وأخرجه النسائيّ ج٤ ص٧٠ ، وأحمد ٣ / ٣٦١ ، ٣٦٣ ، ومن طرق أخرى عن جابر مرفوعا ، والبيهقي ٤ / ٥٠ ، وأحمد ٣ / ٢٩٥ ، ٣١٩ ، ٣٥٥ ، ٣٦٩ ، ٤٠٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«تابعه عبد الصمد» is printed in regular type after the hadith on the same line, without an entry number; kept in `text` as printed.",
+        "«صلى», «على» and «أخرى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 520,
+      "book_page": 320,
+      "heading": "بعض أنواع التكبير في الصلاة على الجنازة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص١١٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 116
+      },
+      "text": "حدثنا إسماعيل قال حدثني مالك عن ابن شهاب عن سعيد بن المسيب **عن أبي هريرة رضي الله عنه أن رسول الله ﷺ نعى النجاشي في اليوم الذي مات فيه ، خرج إلى المصلى فصف بهم وكبر أربعا .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٧ ص٢٢ نووي ، وأبو داود ج٣ ص٥٤٢ ، وابن ماجه ١٥٣٤ ، والنسائيّ ج٤ ص٧٠ ، والترمذي ج٤ ص١٠٢ وقال : حسن صحيح . والبيهقي ٤ / ٣٥ ، ٤٩ ، وأحمد ٢ / ٢٨١ ، ٢٨٩ ، ٣٤٨ ، ٤٣٨ ، ٤٣٩ ، ٥٢٩ ، وابن الجارود رقم ٥٤٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation and chain are on p. 320; the hadith, grading and takhrij on p. 321.",
+        "«نعى», «إلى» and «المصلى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 521,
+      "book_page": 321,
+      "heading": "بعض أنواع التكبير في الصلاة على الجنازة",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٧ ص٢٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 7,
+        "page": 26
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة ومحمد بن المثنى وابن بشار قالوا : حدثنا محمد بن جعفر حدثنا شعبة وقال أبو بكر عن شعبة عن عمرو بن مرة **عن عبد الرحمن بن أبي ليلى قال : كان زيد يكبر على جنائزنا أربعا ، وأنه كبر على جنازة خمسا فسألته فقال : كان رسول الله ﷺ يكبرها .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٥٣٧ ، وابن ماجه ١٥٠٥ ، والنسائيّ ج٤ ص٧٢ ، والترمذي تحفة ج٤ ص١٠٤ وقال : حسن صحيح . ورواه أحمد من حديث حذيفة ج٥ ص٤٠٦ مسند ، وابن الجارود رقم ٥٣٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«المثنى», «ليلى» and «على» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 522,
+      "book_page": 321,
+      "heading": "الصلاة على النبي ﷺ وإخلاص الدعاء للميت",
+      "label": null,
+      "citation": "قال الشافعي ج١ ص٢٣٩ « الأم »",
+      "source": {
+        "collection": "other",
+        "volume": 1,
+        "page": 239,
+        "edition": "الأم"
+      },
+      "text": "أخبرنا مطرف بن مازن عن معمر عن الزهري قال : **أخبرني أبو أمامة بن سهل أنه أخبره رجل من أصحاب النبي ﷺ أن السنة في الصلاة على الجنازة أن يكبر الإمام ثم يقرأ بفاتحة الكتاب بعد التكبيرة الأولى سرا في نفسه ثم يصلي على النبي ﷺ ويخلص الدعاء للميت في التكبيرات لا يقرأ في شيء منهن ثم يسلم سرا في نفسه .**",
+      "grading": "حسن لغيره",
+      "takhrij": "أخبرنا مطرف بن مازن عن معمر عن الزهري قال : حدثني محمد الفهري عن الضحاك ابن قيس أنه قال مثل قول أبي أمامة . وقد أخرجه البيهقي ج٤ ص٣٩ السنن الكبرى وقال : وهكذا رواه الحجاج ابن أبي منيع عن جده وهو عبيد الله بن أبي زياد الرصافي عن الزهري عن أبي أمامة عن رجل من أصحاب النبي ﷺ فقويت بذلك رواية مطرف في ذكر الفاتحة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Al-Shafi'i's al-Umm is not in the databases; collection `other`. The citation prints «الأم» in quotation marks.",
+        "The takhrij starts on p. 321 and continues on p. 322 («=»); joined, its two paragraphs joined.",
+        "«ويخلص» is printed with the ya (zoomed); «الأولى», «على» and «الكبرى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 523,
+      "book_page": 322,
+      "heading": "ما يدعى به للميت",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٧ ص٣٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 7,
+        "page": 30
+      },
+      "text": "حدثني هارون بن سعيد الآيلي أخبرنا ابن وهب أخبرني معاوية بن صالح عن حبيب ابن عبيد عن جبير بن نفير سمعه يقول : **سمعت عوف بن مالك يقول : صلى رسول الله ﷺ على جنازة فحفظت من دعائه وهو يقول : « اللهم اغفر له وارحمه وعافه واعف عنه واكرم نُزُله ووسع مدخله واغسله بالماء والثلج والبَرد ونقه من الخطايا كما نقيت الثوب الأيض من الدنس وأبدله دارا خيرا من داره وأهلا خيرا من أهله وزوجا خيرا من زوجه وأعذه من عذاب القبر أو من عذاب النار » . قال : حتى تمنيت أن أكون ذلك الميت . قال وحدثني عبد الرحمن بن جبير حدثه عن أبيه عن عوف بن مالك عن النبي ﷺ بنحو هذا الحديث أيضا .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن ماجه ١٥٠٠ ، والنسائيّ ج١ ص٥٢ ، ج٤ ص٧٣ ، والترمذي مختصرا ج٤ ص١٠٧ تحفة وقال : حسن صحيح . وأحمد ٦ / ٢٣ ، ٢٨ ، وابن الجارود رقم ٥٣٨ في المنتقى .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 55,
+          "field": "text",
+          "printed": "الأيض",
+          "corrected": "الأبيض",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «الأيض» is no Arabic word; the ba's tooth and dot are missing (one tooth with the ya's two dots, zoomed at 1600 dpi), as in entry 467. The matched hadith has «الثوب الأبيض». The misprints step left it as check-scan because the OCR reads «الأبيض»."
+        },
+        {
+          "id": 50,
+          "field": "text",
+          "printed": "زوجه وأعذه",
+          "corrected": "زوجه وأدخله الجنة وأعذه",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (muslim 2232) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«الآيلي» is printed with a madda (zoomed); kept as printed.",
+        "«نُزُله»: a damma over the nun and over the zay; «والبَرد»: a fatha over the ba (zoomed at 652–724 dpi). «واكرم» is printed without a hamza.",
+        "«الأيض» is printed without the ba's tooth (zoomed at 1087 and 1600 dpi), as in entry 467; kept as printed and corrected by hand (correction 55).",
+        "The line «قال وحدثني عبد الرحمن …» is printed bold, continuing the hadith paragraph; kept in `text` as printed.",
+        "The grading is printed «حسن» although the hadith is Muslim's; kept as printed.",
+        "«صلى», «على», «حتى» and «المنتقى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 524,
+      "book_page": 322,
+      "heading": "ما يدعى به في الصلاة على الجنازة",
+      "label": null,
+      "citation": "قال الترمذي ج٤ ص١٠٤ تحفة",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 4,
+        "page": 104
+      },
+      "text": "حدثنا علي بن حجر حدثنا مقل بن زياد أخبرنا الأوزاعي عن يحيى بن أبي كثير قال : حدثني أبو إبراهيم الأشهلي عن أبيه قال : **كان رسول الله ﷺ إذا صلى على الجنازة قال : « اللهم اغفر لحينا وميتنا وشاهدنا وغائبنا وصغيرنا وكبيرنا وذكرنا وأُنثانا » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن الجارود في المنتقى ٥٤١ ، وأحمد ٤ / ١٧٠ .",
+      "footnotes": [
+        "(*) [على «وأُنثانا»] وقال الترمذي عقبه : قال يحيى : وحدثني أبو سلمة بن عبد الرحمن عن أبي هريرة عن النبي ﷺ مثل ذلك . وزاد فيه « اللهم من أحييته منا فأحيه على الإسلام ، ومن توفيته منا فتوفه على الإيمان » . قال : وفي الباب عن عبد الرحمن وعائشة وأبي قتادة وعوف بن مالك وجابر . قال أبو عيسى : حديث والد أبي إبراهيم حديث حسن صحيح . وروى هشام الدستوائيّ وعلى بن المبارك هذا الحديث عن يحيى بن أبي كثير عن أبي سلمة بن عبد الرحمن عن النبي ﷺ مرسلا . وروى عكرمة ابن عمار عن يحيى بن أبي كثير عن أبي سلمة عن عائشة عن النبي ﷺ . وحديث عكرمة بن عمار غير محفوظ ، وعكرمة ربما يهم في حديث يحيى . وروى عن يحيى بن أبي كثير عن عبد الله بن أبي قتادة عن أبيه عن النبي ﷺ وسمعت محمدًا يقول : أصح الروايات في هذا حديث يحيى بن أبي كثير عن أبي إبراهيم الأشهلي عن أبيه وسألته عن اسم أبي إبراهيم فلم يعرفه . قلت ( مصطفى ) : فالحاصل أنه اختلف على يحيى في هذا الإسناد فروى عنه عن أبي إبراهيم عن أبيه مرفوعا ، وروى عنه عن أبي سلمة عن أبي هريرة مرفوعا ، وروى عنه عن أبي سلمة عن النبي ﷺ مرسلا ، وروى عنه عن عبد الله بن أبي قتادة عن أبيه . رجح البخاري - رحمه الله - طريق يحيى عن أبي إبراهيم الأشهلي عن أبيه عن النبي ﷺ . قال ابن أبي حاتم في العلل عندما سئل عن طريق يحيى عن أبي سلمة عن أبي هريرة ، قال : هذا خطأ ؛ الحفاظ لا يقولون أبو هريرة إنما يقولون أبو سلمة عن النبي ﷺ . العلل ١ / ٣٥٥ . قال البيهقي : الصحيح حديث أبي إبراهيم الأشهلي موصول ، وحديث أبي سلمة مرسل . سنن البيهقي الكبرى ٤ / ٤١ . وقد توبع يحيى بن أبي كثير في روايته الموصولة عن أبي هريرة ، تابعه محمد بن إبراهيم التيمي عن أبي سلمة عن أبي هريرة مرفوعًا بيهقي ٤ / ٤١ ، ولكن أيضا رجح أبو حاتم في العلل ، الإرسال ١ / ٣٥٧ . قلت : فعلى فرض أنها مرسلة فهي شاهدة لحديث أبي إبراهيم الأشهلي ، وليست معلة لها ؛ لاقترانهما في طريق الأوزاعي عن يحيى . والله أعلم . انظر مسند أحمد ٤ / ١٧٠ و ٥ / ٢٩٩ ، ٣٠٨ ، ٣٦٨ ."
+      ],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "مقل",
+          "corrected": "هقل",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator is Hiql ibn Ziyad, al-Awza'i's student; no narration names him «مقل»."
+        }
+      ],
+      "transcriber_notes": [
+        "The citation and chain are on p. 322; the hadith, grading, takhrij and footnote on p. 323.",
+        "«وأُنثانا»: a damma is printed over the alif (zoomed).",
+        "The footnote (*) is printed as an unnumbered star paragraph after the takhrij; its paragraphs are joined. It discusses the hadith's chains (al-Tirmidhi's remarks and the Sheikh's «قلت ( مصطفى )»), so it is kept. «الدستوائيّ»: the nisba mark written as a shadda; «وعلى بن المبارك» and «خطأ» are printed so; «محمدًا» and «مرفوعًا» carry a tanween fatha.",
+        "Chain: «مقل بن زياد» is printed with a mim (zoomed at 932 dpi); corrected by hand to «هقل», the narrator's name.",
+        "«صلى», «على», «يحيى», «فعلى», «الكبرى», «عيسى», «روى» and «المنتقى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 525,
+      "book_page": 324,
+      "heading": "ما يقال عند وضع الميت في القبر",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٢ ص٢٧ مسند",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 27
+      },
+      "text": "حدثنا يزيد ثنا حماد بن يحيى عن قتادة عن أبي الصديق الناجي **عن ابن عمر عن النبي ﷺ قال : « إذا وضعتم موتاكم في القبر فقولوا بسم الله وعلى ملة رسول الله ﷺ » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٥٤٦ وفي روايته « سنة » بدلا من « ملة » ، وابن ماجه ١٥٥٠ ، والترمذي ج٤ ص١٤٦ وقال : حسن غريب . والبيهقي ٤ / ٥٥ ، والحاكم ١ / ٣٦٦ وقال : صحيح على شرط الشيخين . ووافقه الذهبي ، وقال الذهبي : أوقفه شعبة . وأحمد ٢ / ٢٧ ، ٤٠ ، ٤١ ، ٥٩ ، ١٢٧ ، ١٢٨ ، وابن الجارود رقم ٥٤٨ ، وابن السني في عمل اليوم والليلة ٥٨٩ .",
+      "footnotes": [
+        "(*) [على «صحيح» في الحكم] وقد رواه نافع عن ابن عمر في الرواية التي ساقها الترمذي .",
+        "(**) [على «غريب» في التخريج] ورواه ابن ماجه ج١ ص٤٩٤ ، ثنا هشام بن عمار ثنا إسماعيل بن عياش ثنا ليث بن أبي سليم عن نافع عن ابن عمر عن النبي ﷺ ح وثنا عبد الله بن سعيد ثنا أبو خالد الأحمر ثنا الحجاج عن نافع عن ابن عمر قال كان النبي ﷺ إذا أدخل الميت القبر قال : « بسم الله وعلى ملة رسول الله » . وقال أبو خالد مرة : إذا وضع الميت في لحده قال بسم الله وعلى سنة رسول الله . وقال هشام في حديثه : بسم الله وفي سبيل الله وعلى ملة رسول الله :"
+      ],
+      "corrections": [
+        {
+          "id": 51,
+          "field": "text",
+          "printed": "حماد",
+          "corrected": "همام",
+          "confidence": 0.92,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator between Yazid and Qatada is Hammam ibn Yahya; the chain «همام (بن يحيى) عن قتادة عن أبي الصديق» is attested 10 times in the collections, while «حماد بن يحيى» narrates from Qatada in no narration. Narrowed from the tool's «ثنا حماد» → «أخبرنا همام»: «ثنا» is a transmission-verb variant, kept."
+        }
+      ],
+      "transcriber_notes": [
+        "The footnote marker (*) is on the grading «صحيح», (**) on «غريب» in the takhrij.",
+        "Chain: «حماد بن يحيى» is printed so (OCR confirms); correction 51 narrowed to the name «حماد» → «همام» and approved in the review.",
+        "Footnote (**) ends with a colon as printed.",
+        "«يحيى» and «على» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 526,
+      "book_page": 324,
+      "heading": "ما يقال بعد الدفن",
+      "label": null,
+      "citation": "قال أبو داود ج٣ ص٥٥٠",
+      "source": {
+        "collection": "abudawud",
+        "volume": 3,
+        "page": 550
+      },
+      "text": "حدثنا إبراهيم بن موسى الرازي حدثنا هشام عن عبد الله بن بجير **عن هاني مولى عثمان - بن عفان - قال : كان النبي ﷺ إذا فرغ من دفن الميت وقف عليه فقال : « استغفروا لأخيكم وسلوا له التثبيت فإنه الآن يسأل » .** قال أبو داود بجير هو ابن ريسان .",
+      "grading": "حسن",
+      "takhrij": "ورواه الحاكم ١ / ٣٧٠ وقال : صحيح على شرط الشيخين ولم يخرجاه . وقال الذهبي : صحيح ، والبيهقي ٤ / ٥٦ ، وعبد الله بن أحمد في الزهد ص١٢٩ ، وقال النووي في المجموع ص٢٤٢ ج٥ : إسناده جيد . وابن السني في عمل اليوم والليلة ٥٩٠ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 56,
+          "field": "text",
+          "printed": "داود بجير",
+          "corrected": "داود بحير",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the same narrator as in correction 52, Bahir ibn Raysan («قال أبو داود بحير ابن ريسان» in Abu Dawud 3221); «بجير» is a spelling of his name no narration uses. The tool corrected only the first occurrence."
+        },
+        {
+          "id": 58,
+          "field": "text",
+          "printed": "مولى عثمان",
+          "corrected": "مولى عثمان عن عثمان",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; in the hadith text the wording of the cited source (abudawud 3221) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«بجير» (twice) is printed with the dot below, a jim, not «بحير» (zoomed at 815–1087 dpi); kept as printed. The tool corrected the first (52); the second, in Abu Dawud's remark, corrected by hand (56).",
+        "The line «قال أبو داود …» is printed in regular type after the hadith on the same line; kept in `text` as printed.",
+        "«الآن» is printed with a madda; «موسى» and «مولى» with dotless final ya.",
+        "The takhrij starts on p. 324 and continues on p. 325 («=»); joined. «و لم يخرجاه» is printed with a gap after the waw; written «ولم»."
+      ]
+    },
+    {
+      "number": 527,
+      "book_page": 325,
+      "heading": "الإكثار من ذكر هاذم اللذات",
+      "label": null,
+      "citation": "قال النسائيّ ج٤ ص٤",
+      "source": {
+        "collection": "nasai",
+        "volume": 4,
+        "page": 4
+      },
+      "text": "أخبرنا الحسين بن حريث قال : أنبأنا الفضل بن موسى عن محمد بن عمرو ح أنبأنا محمد بن إبراهيم عن محمد بن عمرو عن أبي سلمة **عن أبي هريرة قال : قال رسول الله ﷺ : « أكثروا من ذكر هاذم اللذات » .**",
+      "grading": "حسن",
+      "takhrij": "وعزاه المزي في الأطراف للنسائيّ في النعوت السنن الكبرى ٤٣ : ١ ، قال أبو عبد الرحمن النسائيّ : محمد بن إبراهيم والد أبي بكر بن أبي شيبة . وأخرجه الترمذي زهد ج٤ ص٥٥٣ ، وابن ماجه ٢ / ٤٢٥٨ ، والحاكم ٤ / ٣٢١ .",
+      "footnotes": [
+        "(*) [على «هاذم»] قال الحافظ ج٢ ص١٠١ من التلخيص : ذكر السهيلي أن الرواية فيه بالذال المعجمة ومعناه القاطع ، وأما بالمهملة فمعناه المزيل للشيء وليس ذلك مرادا ههنا وفي النفي نظر لا يخفى ."
+      ],
+      "corrections": [
+        {
+          "id": 53,
+          "field": "text",
+          "printed": "من",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 4 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (nasai 1824) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«موسى», «الكبرى» and «يخفى» are printed with dotless final ya; the nisba marks of «النسائيّ» are written as a shadda."
+      ]
+    },
+    {
+      "number": 528,
+      "book_page": 325,
+      "heading": "التعوذ من عذاب القبر",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٧٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 174
+      },
+      "text": "حدثنا الحميدي حدثنا سفيان حدثنا موسى بن عقبة قال : **سمعت أم خالد بنت خالد - قال : ولم أسمع أحدًا سمع من النبي ﷺ غيرها - قالت : سمعت النبي ﷺ يتعوذ من عذاب القبر .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry on pp. 325–326; takhrij is null.",
+        "«أحدًا»: a tanween fatha is printed over the dal (zoomed at 1310 dpi). «موسى» is printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 529,
+      "book_page": 325,
+      "heading": "مسببات عذاب القبر",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٣١٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 317
+      },
+      "text": "حدثنا عثمان قال : حدثنا جرير عن منصور عن مجاهد **عن ابن عباس قال : مرّ النبي ﷺ بحائط من حيطان المدينة - أو مكة - فسمع صوت إنسانين يعذبان في قبورهما فقال النبي ﷺ : « يعذبان ، وما يعذبان في كبير - ثم قال - بلى ، كان أحدهما لا يستتر من بوله وكان الآخر يمشي بالنميمة » . ثم دعا بجريدة فكسرها كسرتين فوضع على كل قبر منهما كسرة فقيل له : يا رسول الله لم فعلت هذا ؟ قال : « لعله أن يخفف عنهما ما لم تيبسا أو إلى أن ييبسا » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٣ ص٢٠٠ ، وأبو داود ج١ ص٢٥ ، وابن ماجه مختصرا رقم ٣٤٧ ، والنسائيّ ج١ ص٢٨ ، ج٤ ص١٠٦ ، والترمذي ج١ ص٢٣٢ تحفة .",
+      "footnotes": [
+        "(*) [على «يستتر»] رواية أبي داود « لا يستنزه ... » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The citation and chain are on p. 325; the hadith, grading and takhrij on p. 326.",
+        "«مرّ»: a shadda is printed over the ra (zoomed at 1600 dpi).",
+        "The footnote marker (*) is printed both on «يستتر» in the text and after «وأبو داود» in the takhrij; one footnote.",
+        "«بلى», «على» and «إلى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 530,
+      "book_page": 326,
+      "heading": "١ - اقرأوا « يس » على موتاكم",
+      "label": null,
+      "citation": "قال أبو داود ج٣ ص٤٨٩",
+      "source": {
+        "collection": "abudawud",
+        "volume": 3,
+        "page": 489
+      },
+      "text": "حدثنا محمد بن العلاء ومحمد بن مكي المروزي قال : حدثنا ابن المبارك عن سليمان التيمي عن أبي عثمان - وليس بالنهدي - عن أبيه **عن معقل بن يسار قال : قال النبي ﷺ : « اقرؤا « يس » على موتاكم » .** وهذا لفظ ابن العلاء .",
+      "grading": "ضعيف",
+      "takhrij": "وأخرجه ابن ماجه ١٤٤٨ ، وأحمد ٥ / ٢٦ ، ٢٧ ، والحاكم ١ / ٥٩٥ ، والبيهقي ٣ / ٣٨٣ .",
+      "footnotes": [
+        "(**) [على «ضعيف» في الحكم] الحديث ضعيف لما يأتي : ١ - أبو عثمان - وليس بالنهدي - وأبوه مجهولان على أرجح الأقوال قال الحافظ في التهذيب ( ترجمة أبي عثمان وليس بالنهدي ) روى عنه سليمان التيمي لم يرو عنه غيره وهو مجهول وقال الآجري عن أبي داود ابن عثمان السكني وذكره ابن حبان في الثقات وذلك على قاعدة ابن حبان في توثيق المجاهيل ، وقال الدارقطني وكما ذكره الشوكاني في نيل الأوطار ج٤ ص٢٤ هذا حديث ضعيف الإسناد مجهول المتن ولا يصح في الباب حديث وكذا ذكره الحافظ في التلخيص ج٢ ص١٠٤ . ٢ - أعل بالاضطراب كما ذكر ذلك البيهقي بعد أن روى هذا الحديث فقال هذا حديث أبي عبد الله وليس في رواية ابن بشر عن أبيه وأعله بعضهم بالاضطراب فمرة يقال عن أبي عثمان عن أبيه عن معقل ومرة عن أبي عثمان عن معقل . ٣ - وإن كانت هناك علة ثالثة إلا أنها غير قادحة ، قال الذهبي في تعليقه على المستدرك ج١ ص٥٦٥ رفع هذا الحديث ابن المبارك ووقفه ابن القطان لكن القول في هذا قول ابن المبارك . ثم إن الشوكاني روى أيضا إسنادا آخر فقال : وأسند صاحب مسند الفردوس عن طريق مروان ابن سالم عن صفوان بن عمرو عن شريح عن أبي الدرداء وأبي ذر قالا قال رسول الله ﷺ : « ما من ميت يموت فيقرأ عليه يس إلا هون الله عليه » وهذا ضعيف ففيه مروان بن سالم متهم بالوضع كما في التهذيب والميزان . قال أحمد ج٤ ص١٠٥ ثنا أبو المغيرة ثنا صفوان ثنا المشيخة أنهم حضروا غضيف بن الحارث الثمالي حيث اشتد سوقه فقال : هل منكم من أحد يقرأ يس ، فقرأها صالح بن شريح السكوني فلما بلغ أربعين آية منها قبض قال فكان المشيخة يقولون إذا قرئت عند الميت خفف عنه بها قال صفوان وقرأها عيسى بن المعتمر عند ابن معبد ولكن هذا موقوف على المشيخة وهم من التابعين ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed under the section heading «حديثان ضعيفان في باب الجنائز» (an `author_text` heading block after entry 529) as «١ - اقرأوا « يس » على موتاكم»; the heading is kept whole with its number, since `label` takes only letters. The heading has «اقرأوا», the hadith «اقرؤا» (zoomed); both kept as printed.",
+        "The line «وهذا لفظ ابن العلاء» is printed in regular type after the hadith; kept in `text` as printed.",
+        "The footnote (**) on the grading starts on p. 326 and continues on p. 327 («=»); joined, its paragraphs joined. It explains the grading, so it is kept. «وقال الآجري عن أبي داود» runs straight into «ابن عثمان السكني» across the page turn; kept as printed.",
+        "Takhrij: al-Hakim is printed «١ / ٥٩٥», while the footnote cites al-Dhahabi on the Mustadrak «ج١ ص٥٦٥»; kept as printed.",
+        "«روى», «على» and «عيسى» are printed with dotless final ya."
+      ]
+    },
+    {
+      "number": 531,
+      "book_page": 327,
+      "heading": "٢ - حديث التلقين",
+      "label": null,
+      "citation": "قال الطبراني ج٨ ص٢٩٨ معجم كبير",
+      "source": {
+        "collection": "tabarani",
+        "volume": 8,
+        "page": 298,
+        "edition": "معجم كبير"
+      },
+      "text": "حدثنا أبو عقيل عن أنس بن سلم الخولاني ثنا محمد بن إبراهيم بن العلاء الحمصي ثنا إسماعيل بن عياش ثنا عبد الله بن محمد القرشي عن يحيى بن أبي كثير **عن سعيد ابن عبد الله الأزدي قال : شهدت أبا أمامة وهو في النزع الأخير فقال : إذا أنا مت فاصنعوا بي كما أمرنا رسول الله ﷺ أن نصنع بموتانا ، أمرنا رسول الله ﷺ فقال : « إذا مات أحد من إخوانكم فسويتم التراب على قبره فليقم أحدكم على رأس قبره ثم ليقل يا فلان بن فلانة فإنه يسمعه ولا يجيب ثم يقول يا فلان بن فلانة فإنه يستوي قاعدا ثم يقول يا فلان بن فلانة فإنه يقول أرشدنا رحمك الله ولكن لا تشعرون فليقل أذكر ما خرجت عليه من الدنيا شهادة أن لا إله إلا الله وأن محمدا عبده ورسوله وإنك رضيت بالله ربا وبالإسلام دينا وبمحمد نبيا وبالقرآن إماما فإن منكر ونكير يأخذ واحد منهما بيد صاحبه ويقول انطلق بنا ما نقعد عند من قد لقن حجته فيكون الله حجيجه دونهما » فقال رجل : يا رسول الله فإن لم يعرف أمه ؟ قال : « فينسبه إلى حواء يا فلان بن حواء » .**",
+      "grading": "ضعيف",
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «ضعيف» في الحكم] ١ - قال الهيثمي في مجمع الزوائد ج٣ ص٤٥ بعد أن ذكر هذا الحديث : رواه الطبراني وفي إسناده جماعة لم أعرفهم . ٢ - وقال ابن القيم في زاد المعاد ج١ ص٥٢٢ تحقيق الأرناؤوط : ولا يلقن الميت كما يفعله الناس وأما الحديث الذي رواه الطبراني من حديث أبي أمامة .. وذكر الحديث فهذا حديث لا يصح رفعه . ٣ - وقال النووي في الأذكار ص١٣٨ تحقيق عبد القادر الأرناؤوط بشأن حديث التلقين ناقلا عن الشيخ أبي عمر بن الصلاح : وقد روينا فيه حديثا من حديث أبي أمامة ليس إسناده بالقائم ولكن اعتضد بشواهده وبعمل أهل الشام قديما وتعقبه الأرناؤوط في تحقيقه قال : قال ابن علان في شرح الأذكار قال الحافظ بعد تخريج حديث أبي أمامة : هذا حديث غريب وسند الحديث من الطريقين ضعيف ج١ ص١٣٨ أذكار ، وذكره الأرناؤوط في زاد المعاد ج١ ص٥٢٣ . ٤ - وقال الحافظ بن حجر في أمالي الأذكار بعد تخريجه : فيما ذكره ابن علان في الفتوحات الربانية ٤ / ١٩٦ حديث غريب وسند الحديث من الطريقين ضعيف جدا . ٥ - وفي سند الحديث سعيد بن عبد الله الأزدي كما في الجرح والتعديل بيض له ابن أبي حاتم ٢ / ١ / ٧٦ المجلد الرابع ص٧٦ . ٦ - قال الحافظ في التلخيص ج٢ ص١٣٦ وإسناده صالح وقد قواه الضياء في أحكامه وأخرجه عبد العزيز في الشافي والراوي عن أبي أمامة سعيد الأزدي بيض له ابن أبي حاتم لكن له شواهد منها ما رواه سعيد بن منصور في سننه من طريق راشد بن سعد وصخرة بن حبيب وغيرهما قالوا إذا سوي على الميت قبره وانصرف الناس عنه كانوا يستحبون أن يقال للميت عند قبره يا فلان قل لا إله إلا الله قل أشهد أن لا إله إلا الله ثلاث مرات قل ربي الله وديني الإسلام ونبيي محمد ثم ينصرف . وقد تعقب الشيخ ناصر الدين الألباني حفظه الله هذا الكلام فقال في الإرواء ج٢٣ ص٢٠٤ : وفي كلام الحافظ هذا ملاحظات : أولا : كيف يكون إسناده صالحا وفيه ذلك الأزدي ولم يوثقه أحد بل بيض له ابن أبي حاتم كما ذكر الحافظ نفسه ومعنى ذلك أنه مجهول لديه لم يقف على حاله . ثانيا : أنه يوهم أنه ليس فيه غير ذلك الأزدي وكلام شيخه الهيثمي صريح بأن فيه جماعة لا يعرفون وقد وقفت على إسناده عند الطيب المقدسي في المنتقى من مسموعاته بمرو ق ٥ / ٢ رواه من طريق علي بن حجر ثنا حماد بن عمرو عن عبد الله بن محمد القرشي عن يحيى بن كثير عن سعيد الأزدي قال : شهدت أبا أمامة الباهلي ، ورواه ابن عساكر ٨ / ١٥١ / ٢ من طريق إسماعيل بن عياش ثنا عبد الله بن محمد به : قلت وعبد الله هذا لم أعرفه والظاهر أنه أحد الجماعة الذين لم يعرفهم الهيثمي . ثالثا : أن قوله له شواهد فيه تسامح فإن كل ما ذكره من ذلك لا يصلح شاهدا لأنها ليس فيها من معنى التلقين شيئا إطلاقا إذ كلها تدور حول الدعاء للميت ولذلك لم أسقها في جملة كلامه الذي ذكرته اللهم إلا ما رواه سعيد بن منصور فإنه صريح في التلقين ولكنه مع ذلك فهو شاهد قاصر إذ الحديث أشمل منه وأكثر مادة إذ أن فيه منكر ونكير يقولان لا نقعد عند من لقن حجته . فأين هذا في الشاهد ومع هذا فإنه لا يصلح شاهدا لأنه موقوف بل منقطع ولا أدري كيف يخفى هذا على الحافظ عفا الله عنا وعنه انتهى . ٧ - قال الحافظ العراقي في تخريج الإحياء ج٤ ص٦١١ بعد أن ذكره : أخرجه الطبراني بإسناد ضعيف . ٨ - قال النووي في المجموع ج٥ ص٢٥٧ : قلت حديث أبي أمامة رواه أبو القاسم الطبراني بإسناد ضعيف وساق لفظه ثم قال : وهذا الحديث وإن كان ضعيفًا فيستأنس به وقد اتفق علماء المحدثين وغيرهم على المسامحة في أحاديث الفضائل والترغيب والترهيب وقد اعتضد بشواهد من الأحاديث كحديث : « واسألوا له التثبيت » ووصية عمرو بن العاص وهما صحيحان ولم يزل أهل الشام على العمل بهذا في زمن من يقتدي به وإلى الآن وهذا التلقين إنما هو في حق المكلف الميت ، أما الصبي فلا يلقن والله أعلم كذا قال . قلت : أما قوله أن علماء المحدثين متفقين على المسامحة في أحاديث الفضائل فليسوا متفقين كما زعم بل واستدلال المعارضين بحديث رسول الله ﷺ : « من قال علي فليقل حقا أو صدقا » وجزى الله الشيخ نجيب المطيعي خيرا إذ تعقبه بقوله : ليس هذا من مرسل الفضائل وإنما حدد حكمها بالاستحباب وبدلالة الخطاب هو مستحب على الكفاية ولا يكون الضعيف حجة في ثبوت الأحكام فضلا عن أمر تعم به البلوى وتوفر على القيام به أناس بذلوا ماء وجوههم في سؤال الناس إلحافًا بمثل هذه الأحاديث التي تبلغ في وهنها جد الوضع وسؤال التثبيت ليس من قبيل التلقين وإنما هو من قبيل الدعاء له بالثبات واليقين كصلاة الجنازة فإنما هي دعاء وليست خطابا موجهًا إليه والله أعلم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading «٢ - حديث التلقين» is the second of the two weak hadiths under «حديثان ضعيفان في باب الجنائز»; kept whole with its number, as for entry 530.",
+        "Al-Tabarani's al-Mu'jam al-Kabir is not in the databases; collection `tabarani`.",
+        "Chain: «أبو عقيل عن أنس بن سلم» is printed with «عن» (zoomed at 723 dpi); kept as printed.",
+        "The hadith runs onto p. 328; grading on p. 328. No source-reference footnote is printed; takhrij is null.",
+        "The footnote (*) on the grading runs from p. 328 to p. 329 («=»); joined, its numbered paragraphs joined. It discusses the hadith's grading, so it is kept. «الإرواء ج٢٣» is printed so (zoomed at 814 dpi; probably vol. 3); kept as printed. «ضعيفًا», «إلحافًا» and «موجهًا» carry a tanween fatha; «علي» in «من قال علي» shows no shadda.",
+        "«يحيى», «على», «إلى», «سوي», «روى», «يخفى», «جزى» and «البلوى» are printed as in the scan (dotless final ya where so printed)."
+      ]
+    },
+    {
+      "number": 532,
+      "book_page": 329,
+      "heading": "الدعاء على الميت وما يلحق الميت بعد موته",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٢ ص٣٧٢ مسند",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 372
+      },
+      "text": "حدثنا سليمان بن داود حدثنا إسماعيل أنبأنا العلاء عن أبيه **عن أبي هريرة أن النبي ﷺ قال : « إذا مات الإنسان انقطع عمله إلا من ثلاثة إلا من صدقة جارية أو علم ينتفع به أو ولد صالح يدعو له » .**",
+      "grading": "حسن",
+      "takhrij": "ومسلم ١٦٣١ فؤاد عبد الباقي ، وأخرجه النسائيّ ج٦ ص٢٥١ ، والترمذي ج٤ ص٦٢٧ تحفة وقال : حسن صحيح . والبيهقي ٦ / ٢٧٨ ، وأبو داود ٢٨٨٠ ، والبخاري في الأدب المفرد ٣٨ ، وابن الجارود في المنتقى رقم ٣٧٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed on two lines, «الدعاء على الميت» over «وما يلحق الميت بعد موته»; joined with a space. The index has «الدعاء للميت …»; the printed form is used.",
+        "The chain is on p. 329; the hadith, grading and takhrij on p. 330.",
+        "Takhrij: the nisba mark of «النسائيّ» is written as a shadda per the rules."
+      ]
+    }
+  ]
+}

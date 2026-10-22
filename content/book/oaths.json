@@ -1,0 +1,885 @@
+{
+  "chapter": "باب الأيمان",
+  "book_pages": [
+    417,
+    436
+  ],
+  "notes": [
+    "Zoomed: the nisba marks on «الطائيّ» (p. 419, entry 670) and «النسائيّ» in the footnotes; the dashes around «وهو يسير في ركب يحلف بأبيه» (entry 666).",
+    "P. 436 holds only the next chapter («قاعدة في الأذكار والدعوات …»)."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": 670,
+      "book_page": 419,
+      "heading": "يمين النبي ﷺ",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading over numbered sub-headings («١ - لا ومقلب القلوب» …)."
+      ]
+    },
+    {
+      "after_entry": 675,
+      "book_page": 422,
+      "heading": "٥ - وربي",
+      "kind": "verses",
+      "text": "قال تعالى : **﴿ ويستنبئونك أحق هو قل إى وربى أنه لحق وما أنتم بمعجزين ﴾** يونس ٥٣ . **﴿ وقال الذين كفروا لا تاتينا الساعة قل بلى وربى لتأتينكم ﴾** سبأ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: «إى وربى أنه» (for «إي وربي إنه») and «تاتينا» without hamza are printed so; kept as printed. The sub-heading «٥ - وربي» has no numbered entry of its own."
+      ]
+    },
+    {
+      "after_entry": 678,
+      "book_page": 424,
+      "heading": "من حلف فقال إن شاء الله",
+      "kind": "verses",
+      "text": "قال تعالى : **﴿ ولا تقولن لشيء إنى فاعل ذلك غدا . إلا أن يشاء الله واذكر ربك إذا نسيت ﴾** الكهف .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "A small verse-end circle is printed after «غدا»; written « . »."
+      ]
+    },
+    {
+      "after_entry": 680,
+      "book_page": 425,
+      "heading": "ما جاء في لا والله وبلى والله",
+      "kind": "verses",
+      "text": "وقال تعالى : **﴿ يا أيها الذين آمنوا شهادة بينكم إذا حضر أحدكم الموت حين الوصية اثنان ذوا عِدل منكم أو آخران من غيركم إن أنتم ضربتم فى الأرض فأصابتكم مصيبة الموت تحبسونهما من بعد الصلاة فيقسمان بالله إن ارتبتم لا نشترى به ثمنا ولو كان ذا قربى ولا نكتم شهادة الله إنا إذا لمن الآثمين . فإن عثر على أنهما استحقا إثما فآخران يقومان مقامهما من الذين استحق عليهم الأوليان فيقسمان بالله لشهادتنا أحق من شهادتهما وما اعتدينا إنا إذا لمن الظالمين ﴾** المائدة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed from the foot of p. 425 to p. 426. A small verse-end circle is printed after «الآثمين»; written « . ». Zoomed: the kasra in «عِدل», «فى» and «نشترى» as printed. P. 426 ends with a row of stars."
+      ]
+    },
+    {
+      "after_entry": 680,
+      "book_page": 427,
+      "heading": "التمادح",
+      "kind": "verses",
+      "text": "وقال تعالى : **﴿ فلا تزكوا أنفسكم هو أعلم بمن اتقى ﴾** . وقال سبحانه : **﴿ ألم تر إلى الذين يزكون أنفسهم بل الله يزكى من يشاء ولا يظلمون فتيلا ﴾** .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No surah names are printed after these two verses."
+      ]
+    },
+    {
+      "after_entry": 683,
+      "book_page": 430,
+      "heading": "وجوب تشميت العاطس",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading printed above «كيف يشمت العاطس وبما يجيب»."
+      ]
+    },
+    {
+      "after_entry": 688,
+      "book_page": 432,
+      "heading": "التثاؤب",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading printed above «التثاؤب من الشيطان»."
+      ]
+    },
+    {
+      "after_entry": 691,
+      "book_page": 434,
+      "heading": "إطلاق اسم من أسماء الله تعالى على مخلوقاته",
+      "kind": "verses",
+      "text": "قال تعالى : **﴿ سبح اسم ربك الأعلى ﴾** . وقال سبحانه لموسى : **﴿ لا تخف إنك أنت الأعلى ﴾** . طه ٦٨ . وقال سبحانه : **﴿ هو الله الذى لا إله إلا هو الملك القدوس السلام المؤمن المهيمن العزيز الجبار المتكبر سبحان الله عما يشركون ﴾** . الحشر ٢٣ . وقال جل شأنه حكاية عن ملك مصر : **﴿ وقال الملك ائتونى به ﴾** . يوسف ٥٠ ، ٥٤ . وقال سبحانه على لسان ملكة سبأ : **﴿ إن الملوك إذا دخلوا قرية أفسدوها .. ﴾** . النمل ٣٤ . وقال سبحانه على لسان موسى لقومه : **﴿ اذكروا نعمة الله عليكم إذ جعل فيكم أنبياء وجعلكم ملوكا وآتاكم ما لم يؤت أحدًا من العالمين ﴾** . المائدة ٢٠ . وقال سبحانه على لسان إخوة يوسف : **﴿ يا أيها العزيز مسنا وأهلنا الضر ﴾** . يوسف ٨٨ . وقال سبحانه : **﴿ لقد جاءكم رسول من أنفسكم عزيز عليه ما عنتم حريص عليكم بالمؤمنين رؤوف رحيم ﴾** . براءة ١٢٨ . وقال سبحانه : **﴿ وكانوا يصرون على الحنث العظيم ﴾** . الواقعة ٤٦ . وسمى الله سبحانه نفسه المؤمن وسمى عباده المؤمنين : **﴿ إن فى ذلك لآية للمؤمنين ﴾** . الحجر ٧٧ . **وقال ﷺ : « إن من الشجر شجرة مثلها مثل المؤمن .. » . البخاري .**",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Each verse is printed as its own paragraph; joined. Zoomed: the tanween in «أحدًا», «الذى», «ائتونى», «فى» as printed. The last line («وقال ﷺ … البخاري .») is printed in bold, a hadith quoted without an entry number."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 665,
+      "book_page": 417,
+      "heading": "النهي عن الحلف بالآباء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٥١٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 516
+      },
+      "text": "حدثنا قتيبة حدثنا ليث عن نافع **عن ابن عمر رضي الله عنهما أنه أدرك عمر ابن الخطاب في ركب وهو يحلف بأبيه فناداهم رسول الله ﷺ : « ألا إن الله ينهاكم أن تحلفوا بآبائكم فمن كان حالفا فليحلف بالله وإلا فليصمت » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١١ ص١٠٥ نووي ، وأبو داود ج٣ ص٥٦٩ ، وابن ماجه ٢٠٩٤ ، والنسائيّ ج٧ ص٤ ، وابن السني في عمل اليوم والليلة رقم ٩٢٢ ، وأحمد ٢ / ١٤٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 666,
+      "book_page": 417,
+      "heading": "النهي عن الحلف بالآباء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٥٣٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 530
+      },
+      "text": "حدثنا عبد الله بن مسلمة عن مالك عن نافع **عن عبد الله بن عمر رضي الله عنهما أن رسول الله ﷺ أدرك عمر بن الخطاب - وهو يسير في ركب يحلف بأبيه - فقال : « ألا إن الله ينهاكم أن تحلفوا بآبائكم من كان حالفا فليحلف بالله أو ليصمت » .**",
+      "grading": "صحيح",
+      "takhrij": "الأطراف ج٥ ص٢٨٧ ، وأخرجه أبو داود ج٣ ص٥٦٩ ، والنسائيّ ج٧ ص٤ ، والترمذي ج٥ ص١٣٢ تحفة مختصرا وقال : حسن صحيح . والدارمي ٢ / ١٨٥ ، والبيهقي ١٠ / ٢٨ ، وأحمد ٢ / ١١ ، ١٧ ، ١٤٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 667,
+      "book_page": 417,
+      "heading": "النهي عن الحلف بغير الله",
+      "label": null,
+      "citation": "قال الترمذي ج٥ ص١٣٥ تحفة",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 5,
+        "page": 135,
+        "edition": "تحفة الأحوذي"
+      },
+      "text": "حدثنا قتيبة حدثنا أبو خالد الأحمر عن الحسن بن عبيد الله عن سعد بن عبيدة **أن ابن عمر سمع رجلا يقول لا ورب الكعبة فقال ابن عمر لا يحلف بغير الله فإني سمعت رسول الله ﷺ يقول : « من حلف بغير الله فقد كفر أو أشرك » .**",
+      "grading": "حسن",
+      "takhrij": "وقال : هذا حديث حسن . وأخرجه أبو داود ٣٢٥١ ، والحاكم ٤ / ٢٩٧ ، والبيهقي ١٠ / ٢٩ ، وأحمد ٢ / ٣٤ ، ٦٧ ، ٦٩ ، ٨٦ ، ١٢٥ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "ورب الكعبة",
+          "corrected": "والكعبة",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (tirmidhi 1535) is used."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 668,
+      "book_page": 418,
+      "heading": "مصير من حلف بغير ملة الإسلام",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٥٣٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 537
+      },
+      "text": "حدثنا معلي بن أسد حدثنا وهيب عن أيوب عن أبي قلابة **عن ثابت بن الضحاك قال : قال النبي ﷺ : « من حلف بغير ملة الإسلام فهو كما قال ، ومن قتل نفسه بشيء عذب به في نار جهنم ، ولعن المؤمن كقتله ومن رمى مؤمنا بكفر فهو كقتله » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٢ ص١١٩ ، والنسائيّ ج٧ ص١٩ ، وأبو داود ٣٢٥٧ ، وابن ماجه ٢٠٩٨ ، وابن الجارود ٩٢٤ ، والبيهقي ١٠ / ٣٠ ، وأحمد ٤ / ٣٣ .",
+      "footnotes": [
+        "(*) [على «مسلم» في التخريج] بلفظ من حلف بغير ملة الإسلام كاذبا « من رواية يحيى بن أبي كثير » . وبلفظ من حلف بغير ملة الإسلام كاذبا متعمدا « من رواية خالد الحذاء » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) footnote's two lines are printed as two paragraphs; joined."
+      ]
+    },
+    {
+      "number": 669,
+      "book_page": 418,
+      "heading": "كفارة من حلف باللات والعزى",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٩١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 91
+      },
+      "text": "حدثنا يحيى بن بكير حدثنا الليث عن عقيل عن ابن شهاب قال : أخبرني حميد بن عبد الرحمن **أن أبا هريرة قال : قال رسول الله ﷺ : « من حلف منكم فقال في حلفه باللات والعزى فليقل لا إله إلا الله ، ومن قال لصاحبه تعال أقامرك فليتصدق » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١١ ص١٠٦ ، وأبو داود ج٣ ص٥٦٨ ، وابن ماجه الجزء الأول منه ٢٠٩٦ ، والنسائيّ ج٧ ص٧ ، والترمذي ج٥ ص١٥٠ تحفة وقال : حسن صحيح . وأحمد ٢ / ٣٠٩ ، والبيهقي ١٠ / ٣٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Citation on p. 418; the hadith ends on p. 419."
+      ]
+    },
+    {
+      "number": 670,
+      "book_page": 419,
+      "heading": "الزجر عن الحلف بالأمانة",
+      "label": null,
+      "citation": "قال أبو داود ج٣ ص٥٧١",
+      "source": {
+        "collection": "abudawud",
+        "volume": 3,
+        "page": 571
+      },
+      "text": "حدثنا أحمد بن يونس حدثنا زهير حدثنا الوليد بن ثعلبة الطائيّ عن ابن بريدة **عن أبيه قال : قال رسول الله ﷺ : « من حلف بالأمانة فليس منا » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote (٦٧٠) is printed on p. 419."
+      ]
+    },
+    {
+      "number": 671,
+      "book_page": 419,
+      "heading": "١ - لا ومقلب القلوب",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٥١٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 513
+      },
+      "text": "حدثنا محمد بن مقاتل أبو الحسن أخبرنا عبد الله أخبرنا موسى بن عقبة عن سالم **عن عبد الله قال : كثيرا ما كان النبي ﷺ يحلف : « لا ومقلب القلوب » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ٢٠٩٢ ، والنسائيّ ج٧ ص٢ ، والترمذي ج٥ ص١٤٣ تحفة وقال : حسن صحيح . وأحمد ٢ / ٢٥ ، ٢٦ ، ٦٧ ، ٦٨ ، ١٢٧ .",
+      "footnotes": [
+        "(*) [على «ومقلب» وعلى «ابن ماجه» في التخريج] لفظ ابن ماجه لا ومصرف القلوب ."
+      ],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "ما",
+          "corrected": "مما",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6617) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Heading printed «١ - لا ومقلب القلوب» under the section heading «يمين النبي ﷺ»; kept with its number, as in the index (the checker accepts only abjad letters in `label`)."
+      ]
+    },
+    {
+      "number": 672,
+      "book_page": 420,
+      "heading": "٢ - والذي نفسي بيده",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٥٢٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 523
+      },
+      "text": "حدثنا أبو اليمان أخبرنا شعيب عن الزهري أخبرنا سعيد بن المسيب **أن أبا هريرة قال : قال رسول الله ﷺ : « إذا هلك كسرى فلا كسرى بعده وإذا هلك قيصر فلا قيصر بعده ، والذي نفس محمد بيده لتنفقن كنوزهما في سبيل الله » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٨ ص٤٢ ، والترمذي ج٦ ص٤٦٢ تحفة وقال : حسن صحيح . وأحمد ٢ / ٢٣٣ ، ٢٤٠ ، ٥٠١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 673,
+      "book_page": 420,
+      "heading": "٢ - والذي نفسي بيده",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٣ ص٢٦٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 13,
+        "page": 265
+      },
+      "text": "حدثنا أبو اليمان أخبرنا شعيب عن الزهري ح وحدثني محمود حدثنا عبد الرزاق أخبرنا معمر عن الزهري **أخبرني أنس بن مالك رضي الله عنه أن النبي ﷺ خرج حين زاغت الشمس فصلى الظهر فلما صلى قام على المنبر فذكر الساعة وذكر أن بين يديها أمورا عظاما ثم قال : « من أحب أن يسأل عن شيء فليسأل عنه فوالله لا تسألوني عن شيء إلا أخبرتكم به ما دمت في مقامي هذا » . قال أنس : فأكثر الناس البكاء وأكثر رسول الله ﷺ أن يقول سلوني فقال أنس : فقام إليه رجل فقال : أين مدخلي يا رسول الله ؟ قال : « النار » فقام عبد الله بن حذافة فقال : من أبي يا رسول الله ؟ قال : « أبوك حذافة » . قال : ثم أكثر أن يقول سلوني سلوني فبرك عمر بن الخطاب على ركبتيه فقال : رضينا بالله ربا وبالإسلام دينا وبمحمد ﷺ رسولا ، قال : فسكت رسول الله ﷺ حين قال عمر ذلك ثم قال رسول الله ﷺ أولى : « والذي نفسي بيده لقد عرضت علي الجنة والنار آنفا في عرض هذا الحائط وأنا أصلي فلم أر كاليوم في الخير والشر » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٥ ص١١٢ ، وأحمد ٣ / ١٦٢ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "فلما صلى قام",
+          "corrected": "فلما سلم قام",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "بن الخطاب",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used."
+        },
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "أولى",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 73 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Citation on p. 420; the hadith ends on p. 421, where its footnote is printed."
+      ]
+    },
+    {
+      "number": 674,
+      "book_page": 421,
+      "heading": "٣ - وايم الله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٥٢١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 521
+      },
+      "text": "حدثنا قتيبة بن سعيد عن إسماعيل بن جعفر عن عبد الله بن دينار **عن ابن عمر رضي الله عنهما قال : بعث رسول الله ﷺ بعثا وأمر عليهم أسامة بن زيد فطعن بعض الناس في إمرته فقام رسول الله ﷺ فقال : « إنكم تطعنون في إمرته فقد كنتم تطعنون في إمرة أبيه من قبل وايم الله إن كان لخليقا للإمارة وإن كان لمن أحب الناس إليّ وإن هذا لمن أحب الناس إليّ بعده » .**",
+      "grading": "صحيح",
+      "takhrij": "ومسلم في الفضائل ٥٦ ، والترمذي في المناقب ١١٣ : ٥ ، وأحمد ٢ / ٨٩ ، وعزاه المزي للنسائيّ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "إنكم",
+          "corrected": "إن كنتم",
+          "confidence": 0.48,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "Zoomed: the shadda on both «إليّ» is printed; «علي» in entry 673 has none."
+      ]
+    },
+    {
+      "number": 675,
+      "book_page": 421,
+      "heading": "٤ - والله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٥٣٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 530
+      },
+      "text": "حدثنا قتيبة حدثنا عبد الوهاب عن أيوب عن أبي قلابة والقاسم التميمي **عن زهدم ابن الحارث قال : كان بين هذا الحي من حَرم وبين الأشعريين وُدُّ وإخاء فكنا عند أبي موسى الأشعري فقرب إليه طعام فيه لحم دجاج وعنده رجل من بني تيم الله أحمر كأنه من الموالي فدعاه إلى الطعام فقال : إني رأيته يأكل شيئا فقذرته فحلفت أن لا آكله فقال : قم فلأحدثنك عن ذاك ، إني أتيت رسول الله ﷺ في نفر من الأشعريين نستحمله ، فقال : والله لا أحملكم وما عندي ما أحملكم ، فأتى رسول الله ﷺ بنهب إبل فسأل عنا فقال : « أين النفر الأشعريون ؟ » فأمر لنا بخمس ذود غرٌّ الذُّري فلما انطلقنا قلنا : ما صنعنا حلف رسول الله ﷺ لا يحملنا وما عنده ما يحملنا ، ثم حملنا تغفلنا رسول الله ﷺ يمينه والله لا نفلح أبدا ، فرجعنا إليه فقلنا : إنا أتيناك لتحملنا فحلفت أن لا تحملنا وما عندك ما تحملنا فقال : « إني لست أنا حملتكم ولكن الله حملكم ، والله لا أحلف على يمين فأرى غيرها خيرا منها إلا أتيت الذي هو خير وتحللتها » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١١ ص١٠٩ ، والنسائيّ ج٧ ص٩ ، والترمذي في الأطعمة ٢٥ : ٢ ببعضه ، وأحمد ٤ / ٤٠٤ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "ابن الحارث",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6649) is used."
+        },
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "حَرم",
+          "corrected": "جرم",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6649) is used."
+        },
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "فقلنا :",
+          "corrected": "فقلنا له :",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 6649) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Citation on p. 421; the hadith ends on p. 422, where its footnote is printed. Zoomed: «حَرم», «وُدُّ», «غرٌّ الذُّري» as printed."
+      ]
+    },
+    {
+      "number": 676,
+      "book_page": 422,
+      "heading": "تذكير المسؤول بنعم الله عليه",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص٥٠٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 500
+      },
+      "text": "حدثنا أحمد بن إسحاق حدثنا عمرو بن عاصم حدثنا همام حدثنا إسحاق بن عبد الله قال : حدثني عبد الرحمن بن أبي عمرة أن أبا هريرة حدثه أنه سمع النبي ﷺ ح وحدثني محمد حدثنا عبد الله بن رجاء أخبرنا همام عن إسحاق بن عبد الله أخبرني عبد الرحمن بن أبي عمرة **أن أبا هريرة رضي الله عنه حدثه أنه سمع النبي ﷺ يقول : « إن ثلاثة في بني إسرائيل أبرص وأقرع وأعمى بدا لله عز وجل أن يبتليهم فبعث إليهم ملكا فأتى الأبرص فقال : أي شيء أحب إليك ؟ قال : لون حسن وجلد حسن قد قذرني الناس . قال : فمسحه فذهب عنه فأعطي لونا حسنا وجلدا حسنا . فقال : أي المال أحب إليك ؟ قال : الإبل أو قال البقر هو شك في ذلك إن الأبرص والأقرع قال أحدهما الإبل وقال الآخر البقر فأعطي ناقة عشراء فقال : يبارك لك فيها . وأتى الأقرع فقال : أي شيء أحب إليك ؟ قال : شعر حسن ويذهب هذا عني قد قذرني الناس ، قال : فمسحه فذهب وأعطي شعرا حسنا ، قال : فأي المال أحب إليك ؟ قال : البقر قال : فأعطاه بقرة حاملا وقال : يبارك لك فيها . وأتى الأعمى فقال : أي شيء أحب إليك ؟ قال : يرد الله إلي بصري فأبصر به الناس . قال : فمسحه فرد الله إليه بصره قال : فأي المال أحب إليك ؟ قال : الغنم فأعطاه شاة والدا ، فأنتج هذان وولد هذا فكان لهذا واد من الإبل ولهذا واد من البقر ولهذا واد من الغنم ثم أتى الأبرص في صورته وهيئته فقال : رجل مسكين تقطعت به الحبال في سفره فلا بلاغ اليوم إلا بالله ثم بك أسألك بالذي أعطاك اللون الحسن والجلد الحسن والمال بعيرا أتبلغ به في سفري . فقال له : إن الحقوق كثيرة فقال له : كأني أعرفك ألم تكن أبرص يقذرك الناس فقيرا فأعطاك الله ؟ فقال : لقد ورثت لكابر عن كابر . قال : إن كنت كاذبا فصيرك الله إلى ما كنت . وأتى الأقرع في صورته وهيئته فقال له مثل ما قال لهذا فرد عليه هذا فقال : إن كنت كاذبا فصيرك الله إلى ما كنت . وأتى الأعمى في صورته فقال : رجل مسكين وابن السبيل وتقطعت به الحبال في سفره فلا بلاغ إلا بالله ثم بك أسألك بالذي رد عليك بصرك شاة أتبلغ بها في سفري ، وقال له : قد كنت أعمى فرد الله بصري وفقيرا فقد أغناني فخذ ما شئت ، فوالله لا أجهدك اليوم بشيء أخذته لله ، فقال : أمسك مالك فقد رضي الله عنك وسخط على صاحبيك .**",
+      "grading": "حسن",
+      "takhrij": "ورواه مسلم ج١٨ ص٩٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "بلاغ إلا",
+          "corrected": "بلاغ اليوم إلا",
+          "confidence": 0.65,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net."
+        },
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "وقال له",
+          "corrected": "فقال",
+          "confidence": 0.53,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 6 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "مالك فقد",
+          "corrected": "مالك فإنما ابتليتم فقد",
+          "confidence": 0.5,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net."
+        }
+      ],
+      "transcriber_notes": [
+        "Citation on p. 422; the hadith ends on p. 423. The quotation opened at «إن ثلاثة» has no closing « » » printed; kept as printed.",
+        "The grading is printed «حسن» although the source is al-Bukhari; kept as printed.",
+        "Zoomed in review (p. 423): the page prints «فلا بلاغ إلا بالله» (the second time, without «اليوم»), «وقال له : قد كنت» and «أمسك مالك فقد رضي»."
+      ]
+    },
+    {
+      "number": 677,
+      "book_page": 424,
+      "heading": "لعمر الله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٥٤٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 546
+      },
+      "text": "حدثنا الأويسي حدثنا إبراهيم عن صالح عن ابن شهاب ح وحدثنا حجاج بن منهال حدثنا عبد الله بن عمر النميري حدثنا يونس قال : سمعت الزهري قال : سمعت عروة ابن الزبير وسعيد بن المسيب وعلقمة بن وقاص وعبيد الله بن عبد الله **عن حديث عائشة زوج النبي ﷺ حين قال لها أهل الإفك ما قالوا فبرأها الله وكلٌّ حدثني طائفة من الحديث فقام النبي ﷺ فاستعذر من عبد الله بن أبي فقام أسيد بن حضير فقال لسعد بن عبادة : لعمر الله لنقتلنه .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote (٦٧٧) is printed on p. 424. Zoomed: «وكلٌّ» as printed."
+      ]
+    },
+    {
+      "number": 678,
+      "book_page": 424,
+      "heading": "من حلف فقال إن شاء الله",
+      "label": null,
+      "citation": "قال الإمام أحمد ج٢ ص١٠",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 10
+      },
+      "text": "حدثنا سفيان عن أيوب عن نافع **عن ابن عمر يبلغ به النبي ﷺ من حلف على يمين فقال : إن شاء الله فقد استثنى .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٣ ص٥٧٤ ، وابن ماجه ٢١٠٥ ، والنسائيّ ج٧ ص١٢ ، والترمذي مع اختلاف لفظي يسير ج٥ ص١٢٩ تحفة وقال : حسن . وأحمد ٢ / ٦ ، ١٠ ، ٤٨ ، ٦٨ ، ١٢٦ ، ١٢٧ ، ١٥٣ ، والدارمي ٢ / ١٨٥ ، والبيهقي ١٠ / ٤٦ ، وابن الجارود ٢٩٢٨ .",
+      "footnotes": [
+        "(*) [على «استثنى»] في رواية أبي هريرة ج٢ ص٣٠٩ مسند بسند صحيح « .. لم يحنث » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 679,
+      "book_page": 425,
+      "heading": "من حلف فقال إن شاء الله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٩ ص٣٣٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 9,
+        "page": 339
+      },
+      "text": "حدثني محمود حدثنا عبد الرزاق أخبرنا معمر عن ابن طاوس عن أبيه **عن أبي هريرة قال : قال سليمان بن داود عليهما السلام : لأطوفن الليلة بمائة امرأة ، تلد كل امرأة غلاما يقاتل في سبيل الله . فقال له الملك : قل إن شاء الله فلم يقل ونسي فأطاف بهن ولم تلد منهن إلا امرأة نصف إنسان . قال النبي ﷺ : « لو قال إن شاء الله لم يحنث وكان أرجى لحاجته » .**",
+      "grading": "صحيح",
+      "takhrij": "الأطراف ج٦ ص٣٤ ، ورواه مسلم ج١١ ص١١٨ ، والنسائيّ ج٧ ص٣١ ، والترمذي ج٥ ص١٣١ تحفة ، وأحمد ٢ / ٢٧٥ .",
+      "footnotes": [
+        "(*) [على «بمائة»] جاءت في بعض الروايات ستون وفي الأخرى سبعون وفي بعضها تسعون وفي بعضها تسع وتسعون ، قال الحافظ فتح ج٦ ص٤٦٠ فالجمع بينها أن الستين كن حرائر وما زاد عليهن كن سرارى أو بالعكس وأما السبعون فللمبالغة وأما التسعون والمائة فكن دون المائة وفوق التسعين فمن قال تسعون ألغى الكسر ومن قال مائة جبره ومن ثم وقع التردد في رواية جعفر ."
+      ],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 680,
+      "book_page": 425,
+      "heading": "ما جاء في لا والله وبلى والله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٥٤٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 547
+      },
+      "text": "حدثنا محمد بن المثنى حدثنا يحيى عن هشام قال : أخبرني أبي **عن عائشة رضي الله عنها : ﴿ لا يؤاخذكم الله باللغو فى أيمانكم ﴾ قال : قالت : أنزلت في قوله : « لا والله وبلى والله » .**",
+      "grading": "صحيح",
+      "takhrij": "وابن الجارود رقم ٩٢٥ ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 681,
+      "book_page": 427,
+      "heading": "التمادح",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٤٧٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 476
+      },
+      "text": "حدثنا آدم حدثنا شعبة عن خالد عن عبد الرحمن ابن أبي بكرة **عن أبيه أن رجلا ذُكر عند النبي ﷺ فأثنى رجل عليه خيرا فقال النبي ﷺ : « ويحك قطعت عنق صاحبك » يقوله مرارا « إن كان أحدكم مادحا لا محالة فليقل : أحسب كذا وكذا إن كان يرى أنه كذلك والله حسسيبه ولا يزكى على الله أحد »** . قال وهيب عن خالد « ويلك » .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٨ ص١٢٥ ، وأبو داود في الأدب ١٠ : ٢ ، وابن ماجه ٣٧٤٤ ، وابن السني في عمل اليوم والليلة رقم ٣٣٤ ، وأحمد ٥ / ٤١-٥١ .",
+      "footnotes": [
+        "(*) [على «مرارا»] قوله مرارا جاءت في رواية وهيب ثلاثا .",
+        "(**) [على «يزكى»] يزكى كذا بفتح الكاف للبناء على المجهول وجاءت في رواية وهيب : « ولا أزكي على الله أحدًا » ."
+      ],
+      "corrections": [
+        {
+          "id": 13,
+          "field": "text",
+          "printed": "والله حسسيبه",
+          "corrected": "وحسيبه الله",
+          "confidence": 0.55,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+        },
+        {
+          "id": 14,
+          "field": "text",
+          "printed": "الله أحد »**",
+          "corrected": "الله أحدا »**",
+          "confidence": 0.83,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "Zoomed: «حسسيبه» is printed with an extra tooth (for «حسيبه»); kept as printed.",
+        "Question 13: «حسسيبه» is no word, a clear one-letter slip for «حسيبه». Narrowing the correction to that word (approved by the transcriber) made `misprints.py` add a correction «والله حسيبه» → «وحسيبه الله» whose printed text occurs only in the corrected text, which `check.py` rejects; so the combined question (slip plus al-Bukhari's word order) is left for the owner.",
+        "Question 14 («أحد» → «أحدا»): the Sheikh's footnote (**) says «يزكى» is read as a passive («بفتح الكاف للبناء على المجهول»), which makes «أحد» its subject, so the printed nominative looks deliberate; «أحدًا» is Wuhayb's wording with the active «أزكي».",
+        "The closing remark «قال وهيب عن خالد « ويلك »» is printed in regular type after the hadith; kept in `text`."
+      ]
+    },
+    {
+      "number": 682,
+      "book_page": 427,
+      "heading": "احثاء التراب في وجوه المداحين",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٨ ص١٢٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 18,
+        "page": 127
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة ومحمد بن المثنى جميعا عن ابن مهدي - واللفظ لابن المثنى - قالا : حدثنا عبد الرحمن عن سفيان عن حبيب عن مجاهد **عن أبي معمر قال : قام رجل يثني على أمير من الأمراء فجعل المقداد يحثي عليه التراب وقال : أمرنا رسول الله ﷺ أن نحثي في وجوه المداحين التراب .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم من طرق أخرى غير المذكورة ، وأخرجه أبو داود ج٥ ص١٥٣ ، وابن ماجه مختصرا ٣٧٤٢ ، والترمذي ج٧ ص٧٣ وقال : حسن صحيح . وأحمد ٦ / ٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Citation on p. 427; the hadith ends on p. 428, where its footnote is printed. P. 428 ends with a row of stars."
+      ]
+    },
+    {
+      "number": 683,
+      "book_page": 429,
+      "heading": "النهي عن سب الدهر",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٥٦٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 564
+      },
+      "text": "حدثنا يحيى بن بكير حدثنا الليث عن يونس عن ابن شهاب أخبرني أبو سلمة قال : **قال أبو هريرة رضي الله عنه : قال رسول الله ﷺ : « قال الله : يسب بنو آدم الدهر ، وأنا الدهر ، بيدي الليل والنهار » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٥ ص٣ ، وأبو داود ج٥ ص٤٢٣ ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى في التفسير ، وانظر مسند أحمد ٢ / ٣٩٥ ، ٤٩١ ، ٤٩٦ ، ٤٩٩ .",
+      "footnotes": [
+        "(*) [على «مسلم» في التخريج] في أحد ألفاظ مسلم بسند صحيح : « ... لا تسبوا الدهر فإن الله هو الدهر » وفي بعضها : « لا يقولن أحدكم يا خيبة الدهر فإن الله هو الدهر » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "P. 429 ends with a row of stars."
+      ]
+    },
+    {
+      "number": 684,
+      "book_page": 430,
+      "heading": "كيف يشمت العاطس وبما يجيب",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٦٠٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 608
+      },
+      "text": "حدثنا مالك بن إسماعيل حدثنا عبد العزيز بن أبي سلمة أخبرنا عبد الله بن دينار عن أبي صالح **عن أبي هريرة رضي الله عنه عن النبي ﷺ قال : « إذا عطس أحدكم فليقل الحمد لله وليقل له أخوه أو صاحبه يرحمك الله فإذا قال له يرحمك الله فليقل يهديكم الله ويصلح بالكم » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٢٩٠ ، وابن ماجه من حديث علي رضي الله عنه ٣٧١٥ ، والترمذي ج٨ ص٢٠ تحفة وقال : حديث حسن . لكن رواه من طريق أخرى عن أبي هريرة ، وابن السني مختصرا رقم ٢٥٤ ، وأحمد ٢ / ٣٥٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Printed under two headings, «وجوب تشميت العاطس» over «كيف يشمت العاطس وبما يجيب»; the first is an `author_text` heading block."
+      ]
+    },
+    {
+      "number": 685,
+      "book_page": 430,
+      "heading": "النهي عن تشميت من لم يحمد الله",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٨ ص١٢١",
+      "source": {
+        "collection": "muslim",
+        "volume": 18,
+        "page": 121
+      },
+      "text": "حدثني زهير بن حرب ومحمد بن عبد الله بن نمير - واللفظ لزهير - قالا : حدثنا القاسم بن مالك عن عاصم بن كليب **عن أبي بردة قال : دخلت على أبي موسى وهو في بيت بنت الفضل بن عباس فعطست فلم يشمتني وعطست فشمتها فرجعت إلى أمي فأخبرتها فلما جاءها قالت : عطس عندك ابني فلم تشمته وعطست فشمتها فقال : إن ابنك عطس فلم يحمد الله فلم أشمته وعطست فحمدت الله فشمتها سمعت رسول الله ﷺ يقول : « إذا عطس أحدكم فحمد الله فشمتوه فإن لم يحمد الله فلا تشمتوه » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الحاكم ج٤ ص٢٦٥ وقال : صحيح الإسناد . ووافقه الذهبي وأحمد ٤ / ٤١٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: «على» before «أبي موسى» is printed in the font's compact form; read as «على»."
+      ]
+    },
+    {
+      "number": 686,
+      "book_page": 431,
+      "heading": "النهي عن تشميت من لم يحمد الله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٦١٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 610
+      },
+      "text": "حدثنا آدم ابن أبي إياس حدثنا شعبة حدثنا سليمان التيمي **قال : سمعت أنسا رضي الله عنه يقول : عطس رجلان عند النبي ﷺ فشمت أحدهما ولم يشمت الآخر فقال الرجل : يا رسول الله شمت هذا ولم تشمتني . قال : « إن هذا حمد الله ولم تحمد الله » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٨ ص١٢٠ ، وأبو داود ج٥ ص٢٩٢ ، وابن ماجه ٣٧١٣ ، والترمذي ج٨ ص١٦ تحفة وقال : حسن صحيح . وابن السني في عمل اليوم والليلة رقم ٢٤٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«قال :» before «سمعت» is printed in bold."
+      ]
+    },
+    {
+      "number": 687,
+      "book_page": 431,
+      "heading": "إذا تكرر العطاس",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٨ ص١٢١",
+      "source": {
+        "collection": "muslim",
+        "volume": 18,
+        "page": 121
+      },
+      "text": "حدثنا محمد بن عبد الله بن نمير حدثنا وكيع حدثنا عكرمة بن عمار عن إياس بن سلمة بن الأكوع عن أبيه ح وحدثنا إسحاق بن إبراهيم - واللفظ له - حدثنا أبو النضر هاشم بن القاسم حدثنا عكرمة بن عمار حدثني إياس بن سلمة بن الأكوع **أن أباه حدثه أنه سمع النبي ﷺ وعطس رحل عنده فقال له : « يرحمك الله » ثم عطس أخرى فقال له رسول الله ﷺ : « الرجل مزكوم » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٣٩١ ، وابن ماجه ٣٧١٤ ، والترمذي ج٨ ص١٦ تحفة وقال : حسن صحيح . وأحمد ٣ / ١٠٠ ، ١٧٧ ، ٤ / ٥٠ ، وعزاه المزي في الأطراف للنسائي في اليوم والليلة .",
+      "footnotes": [
+        "(*) [على «ابن ماجه» في التخريج] لفظ ابن ماجه : « يشمت العاطس ثلاثا فما زاد فهو مزكوم » . بالإسناد الآتي : ثنا علي ابن محمد ثنا وكيع عن عكرمة بن عمار عن إياس بن سلمة بن الأكوع عن أبيه قال : قال رسول الله ﷺ .. به ."
+      ],
+      "corrections": [
+        {
+          "id": 15,
+          "field": "text",
+          "printed": "رحل",
+          "corrected": "رجل",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2993) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Zoomed: «رحل» is printed without the dot of «رجل»; kept as printed (left to the misprints tool).",
+        "The grading is printed «حسن» although the source is Muslim; kept as printed. Zoomed: «للنسائي» has no nisba mark."
+      ]
+    },
+    {
+      "number": 688,
+      "book_page": 432,
+      "heading": "الله يحب العطاس ويكره التثاؤب",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٦١١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 611
+      },
+      "text": "حدثنا عاصم بن علي حدثنا ابن أبي ذئب عن سعيد المقبري عن أبيه **عن أبي هريرة عن النبي ﷺ قال : « إن الله يحب العطاس ويكره التثاؤب فإذا عطس أحدكم وحمد الله كان حقا على كل مسلم سمعه أن يقول له يرحمك الله ، وأما التثاؤب فإنما هو من الشيطان فإذا تثاءب أحدكم فليرده ما استطاع فإن أحدكم إذا تثاءب ضحك منه الشيطان » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٢٨٧ ، والبخاري في الأدب المفرد ٩١٩ ، ٩٢٨ ، وأحمد ٢ / ٤٢٨ ، والحاكم ٤ / ٢٦٣ ، ٢٦٤ وقال : صحيح . ووافقه الذهبي ، والترمذي ج٨ ص٢١ تحفة وقال : حسن صحيح . وأحمد ٢ / ٥١٧ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«استطاع» is printed with a gap before its last letter («استطا ع»); joined."
+      ]
+    },
+    {
+      "number": 689,
+      "book_page": 432,
+      "heading": "التثاؤب من الشيطان",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٦٠٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 607
+      },
+      "text": "حدثنا آدم بن إياس حدثنا ابن أبي ذئب حدثنا سعيد المقبري عن أبيه **عن أبي هريرة رضي الله عنه عن النبي ﷺ قال : « إن الله يحب العطاس ويكره التثاؤب فإذا عطس أحدكم فحمد الله فحق على كل مسلم سمعه أن يشمته ، وأما التثاؤب فإنما هو من الشيطان فليرده ما استطاع فإذا قال هاء ضحك منه الشيطان » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٢٨٧ ، والترمذي ج٨ ص٢٠ تحفة وقال : حسن . والحاكم ٤ / ٢٦٤ وقال : صحيح الإسناد . وابن السني في عمل اليوم والليلة رقم ٢٦٧ . وانظر الحديث المتقدم .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 16,
+          "field": "text",
+          "printed": "بن إياس",
+          "corrected": "بن أبي إياس",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator is Adam ibn Abi Iyas (printed «آدم ابن أبي إياس» in entry 686); «آدم بن إياس» is used in no narration. Zoomed: the page prints «بن إياس»."
+        }
+      ],
+      "transcriber_notes": [
+        "Printed under «التثاؤب» over «التثاؤب من الشيطان»; the first is an `author_text` heading block. «استطاع» is printed with a gap («استطا ع»); joined."
+      ]
+    },
+    {
+      "number": 690,
+      "book_page": 433,
+      "heading": "كيف يفعل من تثاءب",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٨ ص١٢٢",
+      "source": {
+        "collection": "muslim",
+        "volume": 18,
+        "page": 122
+      },
+      "text": "حدثني أبو غسان المسمعي مالك بن عبد الواحد حدثنا بشر بن المفضل حدثنا سهيل بن أبي صالح قال : سمعت ابنا لأبي سعيد الخدري يحدث أبي **عن أبيه قال : قال رسول الله ﷺ : « إذا تثاءب أحدكم فليمسك بيده على فيه فإن الشيطان يدخل » .** حدثنا قتيبة بن سعيد حدثنا عبد العزيز عن سهيل عن عبد الرحمن بن أبي سعيد **عن أبيه أن رسول الله ﷺ قال : « إذا تثاءب أحدكم فليمسك بيده فإن الشيطان يدخل » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٢٨٦ ، وأحمد ٣ / ٩٣ .",
+      "footnotes": [
+        "(*) [على «عبد الواحد»] في رواية سفيان : « إذا تثاءب أحدكم في الصلاة فليكظم ما استطاع فإن الشيطان يدخل » . مسلم ج١٨ ص١٢٣ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "A second chain and wording (Qutayba … عن أبيه) is printed without an entry number of its own; kept in `text`.",
+        "The grading is printed «حسن» although the source is Muslim; kept as printed. The heading prints «تثاءب» with the hamza on the line."
+      ]
+    },
+    {
+      "number": 691,
+      "book_page": 433,
+      "heading": "ما يقال لغير المسلم إذا عطس",
+      "label": null,
+      "citation": "قال الترمذي ج٨ ص١١ تحفة",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 8,
+        "page": 11,
+        "edition": "تحفة الأحوذي"
+      },
+      "text": "حدثنا محمد بن بشار أخبرنا عبد الرحمن بن مهدي أخبرنا سفيان عن حكيم بن ديلم عن أبي بردة بن أبي موسى **عن أبي موسى قال : كان اليهود يتعاطسون عند النبي ﷺ يرجون أن يقول لهم يرحمكم الله فيقول : « يهديكم الله ويصلح بالكم » .**",
+      "grading": "حسن",
+      "takhrij": "وأحمد ٤ / ٤٠٠ ، ٤١١ ، وأبو داود ٥٠٣٨ ، والحاكم ٤ / ٢٦٨ ، وابن السني رقم ٢٦٢ ، والبخاري في الأدب المفرد ٩٤٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 692,
+      "book_page": 435,
+      "heading": "كفارة المجلس",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص١٨٢",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 182
+      },
+      "text": "حدثنا محمد بن حاتم الجرجرائيّ وعثمان بن أبي شيبة المعنى أن عبدة بن سليمان أخبرهم عن الحجاج بن دينار عن أبي هاشم عن أبي العالية **عن أبي برزة الأسلمي قال : كان رسول الله ﷺ يقول بأخرة إذا أراد أن يقوم من المجلس : « سبحانك اللهم وبحمدك أشهد أن لا إله إلا أنت أستغفرك وأتوب إليك » . فقال رجل : إنك لتقول قولا ما كنت تقوله فيما مضى يا رسول الله ؟ فقال : « كفارة لما يكون في المجلس » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه الدارمي ج٢ ص٢٨٣ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [
+        "(*) [على «حسن»] وقال الحافظ في الفتح ج١٣ ص٥٤٥ سنده قوي ."
+      ],
+      "corrections": [
+        {
+          "id": 17,
+          "field": "text",
+          "printed": "رجل :",
+          "corrected": "رجل يا رسول الله :",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; in the hadith text the wording of the cited source (abudawud 4859) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Zoomed: the nisba mark on «الجرجرائيّ» and «للنسائيّ»; «بأخرة» and «مضى» as printed.",
+        "Zoomed in review: the page prints «فقال رجل : إنك لتقول …» and the vocative at the end, «فيما مضى يا رسول الله ؟»; Abu Dawud has it after «فقال رجل»."
+      ]
+    },
+    {
+      "number": 693,
+      "book_page": 435,
+      "heading": "فضل من بلَّغ حديثا لرسول الله ﷺ",
+      "label": null,
+      "citation": "قال ابن ماجه رقم ٢٣٢",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 232
+      },
+      "text": "حدثنا محمد بن بشار ومحمد بن الوليد قالا : ثنا محمد بن جعفر ثنا شعبة عن سماك عن عبد الرحمن بن عبد الله **عن أبيه أن النبي ﷺ قال : « نضر الله امرءًا سمع منا حديثا فبلَّغه فرب مُبَلَّغ أحفظ من سامع » .**",
+      "grading": "صحيح متواتر",
+      "takhrij": "وأخرجه أحمد ١ / ٤٣٧ ، ٣ / ٢٢٥ ، ٤ / ٨٠ ، ٨٢ ، ٥ / ١٨٣ ، وأبو داود في العلم ١٠ ، والترمذي في العلم ٧ ، ونظم المتناثر من الحديث المتواتر رقم ٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed: the tanween in «امرءًا» and the shaddas and vowels in «فبلَّغه», «مُبَلَّغ» and the heading's «بلَّغ» as printed."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1262 @@
+{
+  "chapter": "باب في السلام",
+  "book_pages": [
+    224,
+    249
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "Footnotes on the chapter title and on section headings are kept with the author_text block or entry under that heading, with an anchor naming the heading word."
+  ],
+  "skipped": [
+    {
+      "pages": "250",
+      "what": "Nothing: p. 250 (the to_page) holds only the next chapter, «باب الاستئذان»; the chapter ends on p. 249 after entry 399 with a «****» ornament."
+    }
+  ],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 224,
+      "heading": "فضل التسليم",
+      "kind": "verses",
+      "text": "قال الله عز وجل : ﴿ **ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا تبتغون عرض الحياة الدنيا فعند الله مغانم كثيرة كذلك كنتم من قبل فمنَّ الله عليكم فتبينوا إن الله كان بما تعملون خبيرا** ﴾ النساء ٩٤ .",
+      "footnotes": [
+        "(*) [على «باب في السلام»] المعاني التي يطلق عليها السلام : نقل ابن حجر عن ابن دقيق العيد : ( السلام يطلق على معاني كثيرة منها : السلامة ، ومنها التحية ، ومنها اسم من أسماء الله تعالى ، وقد يأتي بمعنى التحية محضا ، وقد يأتي بمعنى السلامة محضا ، وقد يأتي مترددا بين المعنيين كقوله تعالى : ﴿ **ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا** ﴾ فإنه يحتمل معنى التحية والسلامة . انتهى كلامه رحمه الله . أما الدليل على التحية : ﴿ **تحيتهم يوم يلقونه سلام** ﴾ . والدليل على السلامة : ﴿ **فسلام لك من أصحاب اليمين** ﴾ . والدليل على أنه من أسماء الله : ﴿ **هو الله الذى لا إله إلا هو الملك القدوس السلام ...** ﴾ الحشر . وأيضا قول الرسول ﷺ في حديث ابن مسعود السابق في صفة التشهد : « .. إن الله هو السلام .. » .",
+        "(**) [على «فضل»] سبق حديث تسليمه على من لقي صدقة ، ويأتي قول الرجل : السلام عليكم ، فقال له النبي ﷺ : « عشرا ... عشرين ... ثلاثين » .",
+        "(***) [على «خبيرا»] قال الإمام مسلم ج١٨ ص١٦١ نووي : ثنا أبو بكر بن أبي شيبة وإسحاق بن إبراهيم وأحمد بن عبدة الضبي - واللفظ لابن شيبة - قال : حدثنا وقال الآخران : أخبرنا سفيان عن عمرو عن عطاء عن ابن عباس قال : لقي ناس من المسلمين رجلا في غنيمة له ، فقال : السلام عليكم ، فأخذوه فقتلوه وأخذوا تلك الغنيمة فنزلت ﴿ **ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا** ﴾ وقرأها ابن عباس السلام ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verse texts are bold, the surrounding words regular. «فمنَّ» prints a shadda and fatha (zoomed). The first footnote's opening «(» has no closing bracket in the book; kept as printed. «الذى» dotless as printed."
+      ]
+    },
+    {
+      "after_entry": 356,
+      "book_page": 227,
+      "heading": "إفشاء السلام",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [
+        "(*) [على «إفشاء»] الإفشاء أي الإظهار ، وقد قالت فاطمة لعائشة رضي الله عنهما : ما كنت لأفشي سر رسول الله ﷺ . سبق حديث أي الإسلام خير وفيه إلقاء السلام على من تعرف ومن لا تعرف ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading «إفشاء السلام» printed above the sub-heading «الأمر بإفشاء السلام». The footnote's second paragraph («سبق حديث …») is printed indented under the (*) footnote with no marker of its own, so it is joined to it."
+      ]
+    },
+    {
+      "after_entry": 369,
+      "book_page": 234,
+      "heading": "آداب التسليم وأحكامها",
+      "kind": "verses",
+      "text": "قال الله عز وجل : ﴿ **وإذا حييتم بتحية فحيوا بأحسن منها أو ردوها إن الله كان على كل شىء حسيبا** ﴾ النساء ٨٦ .",
+      "footnotes": [
+        "(**) [على «حسيبا»] سيأتي - إن شاء الله - كيفية التعامل مع أهل الكتاب ومع المشركين ومع أصحاب المعاصي من المسلمين بالنسبة لإلقاء السلام ورده ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading «آداب التسليم وأحكامها» with a verse under it, above the sub-heading «يسلم الصغير على الكبير والمار على القاعد». The verse is bold, «قال الله عز وجل :» regular. «شىء» dotless as printed (zoomed). The dashes around «إن شاء الله» are printed attached; spaced per the rules."
+      ]
+    },
+    {
+      "after_entry": 385,
+      "book_page": 242,
+      "heading": "ألفاظ التسليم وصفته",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [
+        "(**) [على «وصفته»] سبق في باب الأطعمة حديث يختص بصفة التسليم وهي قوله : « يسلم تسليما لا يوقظ نائما ويسمع اليقظان » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Section heading «ألفاظ التسليم وصفته» printed above the sub-heading «تحية آدم وذريته»."
+      ]
+    },
+    {
+      "after_entry": 397,
+      "book_page": 248,
+      "heading": "ما يكتب في صدور الرسائل وكيف يسلم على غير المسلم",
+      "kind": "verses",
+      "text": "وقال تعالى : ﴿ **... إنه من سليمان وإنه بسم الله الرحمن الرحيم** ﴾ النمل .",
+      "footnotes": [
+        "(**) [على «المسلم»] وقال الله تعالى على لسان موسى عليه السلام لفرعون لعنه الله : ﴿ **فأتياه فقولا إنا رسولا ربك فأرسل معنا بنى إسرائيل ولا تعذبهم قد جئناك بآية من ربك والسلام على من اتبع الهدى** ﴾ طه ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "A verse printed under the heading, before entry 398; the verse is bold. The (**) footnote is on the heading's last word. «بنى» dotless as printed (zoomed)."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 352,
+      "book_page": 224,
+      "heading": "أي الإسلام خير",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٢١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 21
+      },
+      "text": "حدثنا عبد الله بن يوسف حدثنا الليث قال : ثني يزيد عن أبي الخير **عن عبد الله بن عمرو أن رجلا سأل النبي ﷺ : أي الإسلام خير ؟ قال : « تطعم الطعام وتقرأ السلام على من عرفت ومن لم تعرف » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٢ ص٩ نووي ، وأبو داود ج٥ ص٣٧٩ ، وابن ماجه ٣٢٥٣ ، والنسائيّ ج٨ ص١٠٧ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "ثني",
+          "corrected": "حدثني",
+          "confidence": 0.88,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections."
+        }
+      ],
+      "transcriber_notes": [
+        "The text runs from p. 224 onto p. 225; the source footnote is on p. 225.",
+        "Review: «ثني» is printed (zoomed). It is the usual abbreviation of «حدثني», a transmission-verb variant the rules keep, so correction 3 looks unneeded."
+      ]
+    },
+    {
+      "number": 353,
+      "book_page": 225,
+      "heading": "أولى الناس بالله",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٨٠",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 380
+      },
+      "text": "حدثنا محمد بن يحيى - ابن فارس - الذهلي حدثنا أبو عاصم عن أبي خالد وهب عن أبي سفيان الحمصي **عن أبي أمامة قال : قال رسول الله ﷺ : « إن أولى الناس بالله من بدأهم بالسلام » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source footnote is printed for this entry."
+      ]
+    },
+    {
+      "number": 354,
+      "book_page": 225,
+      "heading": "أولى الناس بالله",
+      "label": null,
+      "citation": "قال ابن خزيمة ج١ ص٢٨٨ في صحيحه",
+      "source": {
+        "collection": "ibnkhuzaymah",
+        "volume": 1,
+        "page": 288
+      },
+      "text": "أخبرنا أبو طاهر ثنا أبو بكر ثنا أبو بشر الواسطي ثنا خالد يعني ابن عبد الله عن سهيل وهو ابن أبي صالح عن أبيه **عن عائشة قالت : دخل يهودي على رسول الله ﷺ فقال : السأم عليك يا محمد ، فقال النبي ﷺ : « وعليك » . فقالت عائشة : فهممت أن أتكلم ، فعلمت كراهية النبي ﷺ لذلك ، فسكت ، ثم دخل آخر فقال : السأم عليك يا محمد ، فقال : « عليك » . فهممت أن أتكلم ، فعلمت كراهية النبي ﷺ لذلك ، فسكت ، ثم دخل الثالث فقال : السأم عليك ، فلم أصبر حتى قلت : وعليك السأم وغضب الله ولعنته إخوان القردة والخنازير ، أتحيون رسول الله ﷺ بما لم يحيه الله ، فقال رسول الله ﷺ : « إن الله لا يحب الفحش ولا التفحش . قالوا قولا فرددنا عليهم . إن اليهود قوم حسد وهم لا يحسدونا على شيء كما يحسدونا على السلام وعلى آمين » .**",
+      "grading": "صحيح لشواهده",
+      "takhrij": "وأخرج ابن ماجه الجزء الأخير منه « ما حسدتكم اليهود على شيء .. » ج١ ص٢٧٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The book sets «السأموغضب الله» and «ولعنتهإخوان» without a space (typesetting); written as separate words. The punctuation after the first «فقال» is smudged; read as «:». Text runs onto p. 226, where the source footnote is."
+      ]
+    },
+    {
+      "number": 355,
+      "book_page": 226,
+      "heading": "أولى الناس بالله",
+      "label": null,
+      "citation": "قال البيهقي ج٢ ص٥٦",
+      "source": {
+        "collection": "bayhaqi",
+        "volume": 2,
+        "page": 56
+      },
+      "text": "أخبرنا أبو زكريا بن أبي إسحاق المزكي أنبأنا عبد الباقي بن قانع القاضي ببغداد ثنا إسحاق بن الحسن الحربي ثنا مسلم بن إبراهيم ثنا عبد الله بن ميسرة ثنا إبراهيم بن أبي حرة عن مجاهد عن محمد بن الأشعث **عن عائشة رضي الله عنها قالت : قال رسول الله ﷺ : « لم يحسدونا اليهود بشيء ما حسدونا بثلاث ؛ التسليم والتأمين واللهم ربنا لك الحمد » .**",
+      "grading": "صحيح لما قبله",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "المزكي",
+          "corrected": "المصري",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
+        }
+      ],
+      "transcriber_notes": [
+        "No source footnote is printed for this entry. «؛» after «بثلاث» as printed (zoomed).",
+        "Review: «المزكي», «قانع» and «حسدونا» are printed (zoomed). Abu Zakariyya ibn Abi Ishaq al-Muzakki is a well-known shaykh of al-Bayhaqi, and Abd al-Baqi ibn Qani' the known hadith scholar, so the printed «المزكي» looks right and correction 4 («المصري») looks wrong."
+      ]
+    },
+    {
+      "number": 356,
+      "book_page": 226,
+      "heading": "فضل التسليم على النبي ﷺ",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٢ ص٥٢٧",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 527
+      },
+      "text": "حدثنا عبد الله بن يزيد حدثنا حيوة ثنا أبو صخر أن يزيد بن عبد الله بن قسيط أخبره **عن أبي هريرة عن النبي ﷺ قال : « ما من أحد يسلم عليّ إلا رد الله عز وجل إليّ روحي حتى أرد عليه السلام » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود في الحج ٩٨ : ١ .",
+      "footnotes": [
+        "(*) [على «فضل التسليم على النبي ﷺ»] صفته سبقت في باب التشهد في الصلاة ( حديث ابن مسعود ) ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The mark over the final ya of «عليّ» and «إليّ» is a small hamza-like shadda (zoomed); written as a shadda. The (*) footnote belongs to the heading."
+      ]
+    },
+    {
+      "number": 357,
+      "book_page": 227,
+      "heading": "الأمر بإفشاء السلام",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 18
+      },
+      "text": "حدثنا قتيبة حدثنا جرير عن الشيباني عن أشعث بن أبي الشعثاء عن معاوية بن سويد ابن مقرن **عن البراء بن عازب رضي الله عنهما قال : أمرنا رسول الله ﷺ بسبع : بعيادة المريض واتباع الجنائز وتشميت العاطس ، ونصر الضعيف وعون المظلوم ، وإفشاء السلام وإبرار القسم ، ونهى عن الشرب في الفضة ، ونهى تختم الذهب وعن ركوب المياثر ، وعن لبس الحرير والدياج والقسي والاستبرق .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ح ١٤ ص ٣٠ ، والنسائيّ ج ٤ ص ٥٤ ، والترمذي ج ٨ ص٩٣ وقال : حسن صحيح . والبيهقي ٣ / ٣٧٩ ، وأحمد ٤ / ٢٨٤ ، ٢٨٧ ، ٢٩٩ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "takhrij",
+          "printed": "مسلم ح ١٤",
+          "corrected": "مسلم ج ١٤",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «ح» is printed for «ج» before a volume number (footnote misprint)."
+        },
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "القسم",
+          "corrected": "المقسم",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6235) is used."
+        },
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "، ونهى تختم",
+          "corrected": "، ونهانا عن تختم",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6235) is used."
+        },
+        {
+          "id": 15,
+          "field": "text",
+          "printed": "والدياج",
+          "corrected": "والديباج",
+          "confidence": 0.98,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6235) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«ابن مقرن» begins a printed line. «ونهى تختم» as printed. The takhrij prints «حـ ١٤» (zoomed).",
+        "Review (OCR flag): the page prints «والدياج», without the ba (zoomed at 1600 dpi); it had been written «والديباج», the database's word, and is now as printed. A speck over the nun of the second «حدثنا» (zoomed) is read as the nun's dot, not a mark."
+      ]
+    },
+    {
+      "number": 358,
+      "book_page": 227,
+      "heading": "الأمر بإفشاء السلام",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٢ ص٣٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 2,
+        "page": 35
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا أبو معاوية ووكيع عن الأعمش عن أبي صالح **عن أبي هريرة قال : قال رسول الله ﷺ : « لا تدخلون الجنة حتى تؤمنوا ، ولا تؤمنوا حتى تحابوا ، أوَ لا أدلكم على شيء إذا فعلتموه تحاببتم ، أفشوا السلام بينكم » .**",
+      "grading": "صحيح",
+      "takhrij": "وابن ماجه ج١ ص٢٦ رقم ٦٨ ، وابن عوانة ١ / ٣٠ ، وأبو داود ٥١٩٣ ، وأحمد ٢ / ٣٩١ ، ٤٤٢ ، ٤٧٧ ، ٤٩٥ ، ٥١٢ ، والبخاري في الأدب المفرد رقم ٩٨٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«أوَ» prints a fatha (zoomed)."
+      ]
+    },
+    {
+      "number": 359,
+      "book_page": 228,
+      "heading": "الأمر بإفشاء السلام",
+      "label": null,
+      "citation": "قال البخاري في الأدب المفرد رقم ٩٨٩",
+      "source": {
+        "collection": "bukhari-adab",
+        "hadith": 989
+      },
+      "text": "حدثنا شهاب قال : حدثنا حماد بن سلمة عن حميد **عن أنس قال : قال رسول الله ﷺ : « إن السلام اسم من أسماء الله تعالى وضعه الله في الأرض ، فأفشوا السلام بينكم » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «بينكم»] شهاب هو ابن المعمر ثقة ، وحماد بن سلمة وإن كان تغير بأخرة - أي حفظه - إلا أنه هنا روى عن حميد وقال أبو طالب كما في ( التهذيب ) : حماد بن مسلمة أعلم الناس بحديث حميد وأصح حديثا وقال في موضع آخر : هو أثبت الناس في حميد الطويل سمع منه قديما يخالف الناس في حديثه ."
+      ],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "footnotes.0",
+          "printed": "حماد بن مسلمة",
+          "corrected": "حماد بن سلمة",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator is Hammad ibn Salama, named so earlier in the same footnote and in the chain; «مسلمة» is a misprint of the name."
+        }
+      ],
+      "transcriber_notes": [
+        "No numbered source footnote is printed for this entry; the (*) footnote is about its chain."
+      ]
+    },
+    {
+      "number": 360,
+      "book_page": 228,
+      "heading": "التسليم على النساء",
+      "label": null,
+      "citation": "قال الترمذي ج٧ ص٤٧٥",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 7,
+        "page": 475
+      },
+      "text": "حدثنا سويد أخبرنا عبد الله بن المبارك أخبرنا عبد الحميد بن بهرام أنه سمع شهر بن حوشب يقول : **سمعت أسماء بنت يزيد تحدث أن رسول الله ﷺ مر في المسجد يوما ، وعصبة من النساء قعود ، فألوى بيده في التسليم . وأشار عبد الحميد بيده .**",
+      "grading": "حسن لما بعده",
+      "takhrij": "وقال : حديث حسن . قال ابن حنبل : لا بأس بحديث عبد الحميد عن شهر . أخرجه أبو داود في الأدب باب ١٤٨ ، وابن ماجه في الأدب ١٤ : ٢ ، والدارمي ١ : ٢٧٧ ، وأحمد ٦ / ٤٥٢ . وقد أثبت بعضهم الإشارة وبعضهم لم يثبتها .",
+      "footnotes": [
+        "(**) [على «التسليم على النساء»] أما بالنسبة لتسليم النساء على الرجال ففيه حديث أم هانئ وتسليمها على رسول الله ﷺ هو يغتسل وفاطمة تستره . رواه البخاري وسيأتي إن شاء الله ."
+      ],
+      "corrections": [
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "في التسليم",
+          "corrected": "بالتسليم",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; in the hadith text the wording of the cited source (tirmidhi 2697) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The (**) footnote is on the heading. The takhrij's «١ : ٢٧٧» was zoomed at the page edge."
+      ]
+    },
+    {
+      "number": 361,
+      "book_page": 228,
+      "heading": "التسليم على النساء",
+      "label": null,
+      "citation": "قال البخاري في الأدب المفرد ج١ ص٤٩١ رقم ١٠٤٨",
+      "source": {
+        "collection": "bukhari-adab",
+        "hadith": 1048
+      },
+      "text": "حدثنا مخلد قال : حدثنا مبشر بن إسماعيل عن أبي غنية عن محمد بن مهاجر عن أبيه **عن أسماء بنت يزيد الأنصارية مر بي النبي ﷺ وأنا في جوار أتراب فسلَّم علينا وقال : « إياكن وكفر المنعمين » وكنت من أجرأهن على مسألته فقلت : يا رسول الله وما كفران المنعمين ؟ قال : « لعل إحداكن تطول أيمتها بين أبويها ، ثم يرزقها الله زوجا ويرزقها منه ولدا ، فتغضب الغضبة فتكفر ، فتقول ، ما رأيت منك خيرا قط » .**",
+      "grading": "حسن لما قبله",
+      "takhrij": "وأخرجه أحمد ٦ / ٤٥٢ ، ٤٥٧ ، ٤٥٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Text runs from p. 228 onto p. 229, where the source footnote is. «فسلَّم» prints a shadda and fatha (zoomed). «فتقول ،» with a comma as printed."
+      ]
+    },
+    {
+      "number": 362,
+      "book_page": 229,
+      "heading": "التسليم على النساء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٤٢٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 427
+      },
+      "text": "حدثنا سعيد بن أبي مريم قال : حدثنا أبو غسان قال : حدثني أبو حازم **عن سهل قال ، كانت فينا امرأة تجعل على أربِعاءَ في مزرعة لها سِلقا ، فكانت إذا كان يوم جمعة تنزع أصول السُّلق فتجعله في قدر ، ثم تجعل عليه قبضة من شعير تطحنها ، فتكون أصول السلق عَرْقَه وكنا ننصرف من صلاة الجمعة فنسلم عليها فتقرب ذلك الطعام إلينا فنلعقه ، وكنا نتمنى يوم الجمعة لطعامها ذلك .** حدثنا عبد الله بن مسلمة قال : حدثنا ابن أبي حازم عن أبيه **عن سهل بهذا وقال : ما كنا نقيل ولا نتغدى إلا بعد الجمعة .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "A second chain («حدثنا عبد الله بن مسلمة …») is printed without an entry number of its own; kept in text. No source footnote is printed for this entry. «قال ،» with a comma as printed. Marks zoomed: «أربِعاءَ», «سِلقا», «السُّلق» (shadda and damma over the sin), «عَرْقَه»."
+      ]
+    },
+    {
+      "number": 363,
+      "book_page": 229,
+      "heading": "ترك مصافحة النساء",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٦ ص٣٥٧",
+      "source": {
+        "collection": "ahmad",
+        "volume": 6,
+        "page": 357
+      },
+      "text": "حدثنا عبد الرحمن يعني ابن مهدي قال : ثنا سفيان عن محمد يعني ابن المنكدر **عن أميمة بنت رقيقة قالت : أتيت النبي ﷺ في نساء نبايعه ، فأخذ علينا ما في القرآن أن لا نشرك بالله شيئا الآية قال : « فيما استطعتن أو أطعتن » قلنا : الله ورسوله أرحم بنا من أنفسنا ، قلنا : يا رسول الله ألا تصافحنا قال : « إني لا أصافح النساء ، إنما قولي لامرأة واحدة كقولي لمائة امرأة » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي ١٥٩٧ ، وقال : هذا حديث حسن صحيح لا نعرفه إلا من حديث محمد بن المنكدر . وروى سفيان الثوري ومالك بن أنس وغير واحد هذا الحديث عن محمد بن المنكدر ونحوه قال : وسألت محمدًا عن هذا الحديث فقال : لا أعرف لأميمة بنت رقيقة غير هذا الحديث ، وأميمة امرأة أخرى لها حديث عن رسول الله ﷺ ، وأخرجه النسائيّ مختصرا في البيعة ، وعزاه المزي إليه مطولا في الكبرى ، وابن ماجه في الجهاد ٤٣ : ١ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "أو أطعتن",
+          "corrected": "وأطعتن",
+          "confidence": 0.48,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "Text runs from p. 229 onto p. 230, where the source footnote is. «محمدًا» prints tanwin fatha (zoomed). The faint mark on «النسائيّ» is read as the nisba shadda."
+      ]
+    },
+    {
+      "number": 364,
+      "book_page": 230,
+      "heading": "ترك مصافحة النساء",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٣ ص١٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 13,
+        "page": 10
+      },
+      "text": "حدثني أبو الطاهر أحمد بن عمرو بن سرح أخبرنا ابن وهب أخبرني يونس بن يزيد قال : قال ابن شهاب : أخبرني عروة بن الزبير **أن عائشة زوج النبي ﷺ قالت : كانت المؤمنات إذا هاجرن إلى رسول الله ﷺ يُمتحنَّ بقول الله عز وجل ﴿ يا أيها النبي إذا جاءك المؤمنات يبايعنك على أن لا يشركن بالله شيئا ولا يسرقن ولا يزنين ... ﴾ إلى آخر الآية قالت عائشة : فمن أقر بهذا من المؤمنات فقد أقر بالمحنة ، وكان رسول الله ﷺ إذا أقررن بذلك من قولهن ، قال لهن رسول الله ﷺ : « انطلقن فقد بايعتكن » . ولا والله ما مست يد رسول الله ﷺ يد امرأة قط ، غير أنه يبايعهن بالكلام . قالت عائشة : والله ما أخذ رسول الله ﷺ على النساء قط إلا بما أمره الله تعالى ، وما مست كف رسول الله ﷺ كف امرأة قط ، وكان يقول لهن إذا أخذ عليهن : « قد بايعتكن كلاما » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه البخاري ج٨ ص٦٣٦ فتح ، وعزاه المزي في الأطراف للنسائيّ ، وأخرجه أحمد ٦ / ٢٧٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«يُمتحنَّ» prints a damma, shadda and fatha (zoomed). The verse is bold like the hadith around it. «للنسائيّ» prints the nisba mark (zoomed)."
+      ]
+    },
+    {
+      "number": 365,
+      "book_page": 231,
+      "heading": "التسليم على الصبيان",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٣٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 32
+      },
+      "text": "حدثنا علي بن الجعد أخبرنا شعبة عن سيار عن ثابت البناني **عن أنس بن مالك رضي الله عنه أنه مر على صبيان فسلم عليهم ، وقال ، كان النبي ﷺ يفعله .**",
+      "grading": "صحيح",
+      "takhrij": "ومسلم في الاستئذان ١٥ : ١ ، ورواه الترمذي ج١٤ ص١٤٩ ، وأبو داود ج٥ ص٣٨٢ ، وابن ماجه بمعناه ٣٧٠٠ ، والترمذي ج٧ ص٤٧٤ تحفة وقال : صحيح . وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«وقال ،» with a comma as printed. The takhrij names al-Tirmidhi twice («ورواه الترمذي ج١٤ ص١٤٩», then «ج٧ ص٤٧٤ تحفة») as printed (zoomed); the first may stand for Muslim's Nawawi volume 14, but it is kept as printed. «للنسائيّ» prints the nisba mark."
+      ]
+    },
+    {
+      "number": 366,
+      "book_page": 231,
+      "heading": "التسليم على مجلس فيه أخلاط من المسلمين والمشركين",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٢٣٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 230
+      },
+      "text": "حدثنا أبو اليمان أخبرنا شعيب عن الزهري قال : أخبرني عروة بن الزبير **أن أسامة بن زيد رضي الله عنهما أخبره أن رسول الله ﷺ ركب على حمار على قطيفة فدكية ، وأردف أسامة بن زيد وراءه ، يعود سعد بن عبادة في بني الحارث ابن الخزرج قبل وقعة بدر ، قال : حتى مر بمجلس فيه عبد الله بن أُبيّ بن سلول ، وذلك قبل أن يُسْلِم عبد الله بن أُبيّ ، فإذا في المجلس أخلاط من المسلمين والمشركين عبدة الأوثان واليهود والمسلمين ، وفي المجلس عبد الله بن رواحة ، فلما غشيت المجلس عجاجة الدابة خمَّرَ عبد الله بن أُبيّ أنفه بردائه ثم قال : لا تغبروا علينا ، فسلم رسول الله ﷺ ثم وقف فنزل ، فدعاهم إلى الله وقرأ عليهم القرآن فقال عبد الله بن أُبيّ بن سلول : أيها المرء أنه لا أحسن مما تقول إن كان حقا فلا تؤذينا به في مجلسنا ، ارجع إلى رحلك فمن جاءك فاقصص عليه . فقال عبد الله بن رواحة : بلى يا رسول الله فاغشنا به في مجالسنا فإنا نحب ذلك . فاستب المسلمون والمشركون واليهود حتى كادوا يتثاورون ، فلم يزل النبي ﷺ يخفضهم حتى سكنوا ، فركب النبي ﷺ دابته فسار حتى دخل على سعد بن عبادة ، فقال له النبي ﷺ : « يا سعد ألم تسمع ما قال أبو حباب - يريد عبد الله بن أُبيّ - قال : كذا وكذا » . قال سعد بن عبادة : يا رسول الله اعف عنه واصفح عنه ، فوَالذي أنزل عليك الكتاب لقد جاء الله بالحق الذي أنزل عليك ، ولقد اصطلح أهل هذه البحيرة على أن يتوجوه فيعصبونه بالعصابة ، فلما أبى الله ذلك بالحق الذي أعطاك الله شَرِق بذلك ، فذلك فعل به ما رأيت . فعفا عنه رسول الله ﷺ ، وكان النبي ﷺ وأصحابه يعفون عن المشركين وأهل الكتاب كما أمرهم الله ويصطبرون على الأذى . قال الله عز وجل : ﴿ ولتسمعن من الذين أوتوا الكتاب من قبلكم ومن الذين أشركوا أذى كثيرا ﴾ الآية ، وقال الله : ﴿ ودَّ كثير من أهل الكتاب لو يردونكم من بعد إيمانكم كفارا حسدا من عند أنفسهم ﴾ إلى آخر الآية . وكان النبي ﷺ يتأول العفو ما أمره الله به ، حتى أذن الله فيهم ، فلما غزا رسول الله ﷺ بدرا فقتل الله به صناديد كفار قريش قال ابن أُبيّ بن سلول ومن معه من المشركين وعبدة الأوثان : هذا أمر قد توجَّه ، فبايعوا الرسول ﷺ على الإسلام فأسلموا .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٢ ص١٥٧ ، والترمذي مختصرا جدا ج٧ ص٤٨٢ وقال : حسن صحيح . وابن السني في عمل اليوم والليلة رقم ٢٢٩ مختصرا ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "فركب",
+          "corrected": "ثم ركب",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4566) is used."
+        },
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "ويصطبرون",
+          "corrected": "ويصبرون",
+          "confidence": 0.98,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4566) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Text runs from p. 231 onto p. 232, where the source footnote is. The verses are bold like the hadith around them. Marks zoomed: every «أُبيّ» prints a damma and shadda; «يُسْلِم», «خمَّرَ», «فوَالذي», «شَرِق», «ودَّ», «توجَّه». «أنه لا أحسن» and «فيعصبونه» as printed. The dashes around «يريد عبد الله بن أُبيّ» are printed attached; spaced per the rules."
+      ]
+    },
+    {
+      "number": 367,
+      "book_page": 233,
+      "heading": "كيفية إفشاء الصحابة السلام",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٨١",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 381
+      },
+      "text": "حدثنا أحمد بن سعيد الهمداني ، حدثنا ابن وهب قال : أخبرني معاوية بن صالح عن أبي موسى عن أبي مريم **عن أبي هريرة قال : إذا لقي أحدكم أخاه فليسلم عليه ، فإن حالت بينهما شجرة أو جدار أو حجر ، ثم لقيه فليسلم عليه أيضا .** قال معاوية : وحدثني عبد الوهاب بن بخت عن أبي الزناد عن الأعرج **عن أبي هريرة عن رسول الله ﷺ مثله سواء .**",
+      "grading": "صحيح لما بعده",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading prints «الصحابة السلام» (the index has «للسلام»). A second chain («قال معاوية : وحدثني …») is printed without an entry number of its own; kept in text. No source footnote is printed for this entry."
+      ]
+    },
+    {
+      "number": 368,
+      "book_page": 233,
+      "heading": "كيفية إفشاء الصحابة السلام",
+      "label": null,
+      "citation": "قال ابن السني عمل اليوم والليلة رقم ٢٤٥",
+      "source": {
+        "collection": "ibnsunni",
+        "hadith": 245
+      },
+      "text": "أخبرنا أبو القاسم بن منيع ثنا عبد الأعلى بن حماد ثنا حماد بن سلمة ثنا ثابت وحميد **عن أنس قال : كان أصحاب النبي ﷺ يتماشون ، فإذا استقبلتهم شجرة أو أكمة ، فتفرقوا يمينا وشمالا ثم التقوا ، سلم بعضهم على بعض .**",
+      "grading": "صحيح لما قبله",
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «ابن منيع»] ابن منيع هو أبو القاسم بن عبد العزيز المرزبان بن محمد البغوي البغدادي ، هكذا ذكره ابن نقطة وقال : والمصنف نسبه إلى جده لأمه أحمد بن منيع ، وقال الدارقطني عنه : قلَّ أن يتكلم في الحديث ، فإذا تكلم كان كلامه كالمسمار في الساج . وذلك في التعقيب على الحديث رقم ١١ في عمل اليوم والليلة . والحديث على هذا صحيح لأن عبد الأعلى بن حماد لا بأس به كما قال الحافظ ، وللحديث شاهد في الأدب المفرد رقم ١٠١١ ثنا موسى بن إسماعيل قال : ثنا الضحاك بن نبراس أبو الحسن عن ثابت البناني عن أنس بن مالك أن أصحاب النبي ﷺ كانوا يكونون - مجتمعين - فتستقبلهم الشجرة ، فتنطلق طائفة منهم عن يمينها وطائفة عن شمالها ، فإذا التقوا سلم بعضهم على بعض ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "No numbered source footnote is printed. The (*) footnote runs from p. 233 onto p. 234 («=») and is joined; its second paragraph («والحديث على هذا …») has no marker of its own. «قلَّ» prints a shadda and fatha (zoomed). The dashes around «مجتمعين» are printed attached; spaced per the rules."
+      ]
+    },
+    {
+      "number": 369,
+      "book_page": 233,
+      "heading": "والتسليم للتحلل من الصلاة تسليم على أخيك عن يمينك وعن يسارك",
+      "label": null,
+      "citation": "قال الإمام مسلم ص٣٢٢ فؤاد عبد الباقي",
+      "source": {
+        "collection": "muslim",
+        "page": 322,
+        "edition": "فؤاد عبد الباقي"
+      },
+      "text": "ثنا أبو بكر بن أبي شيبة ثنا وكيع عن مسعر ح وثنا أبو كريب - واللفظ له - قال : أخبرنا ابن أبي زائدة عن مسعر حدثني عبيد الله بن القبطية **عن جابر بن سمرة قال : كنا إذا صلينا مع رسول الله ﷺ قلنا : السلام عليكم ورحمة الله السلام عليكم ورحمة الله ، وأشار بيده إلى الجانبين ، فقال رسول الله ﷺ : « علام تومئون بأيديكم كأنها أذناب خيل شمس ، إنما يكفي أحدكم أن يضع يده على فخذه ، ثم يسلم على أخيه من على يمينه وشماله » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود في الصلاة رقم ٩٩٨ ، ٩٩٩ والنسائي في الصلاة ( ٢ : ٤٥٨ ) .",
+      "footnotes": [
+        "(*) [على «صحيح»] على رأي من يقول بقبول العنعنات التي في الصحيحين ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed on two lines, «والتسليم للتحلل من الصلاة» over «تسليم على أخيك عن يمينك وعن يسارك»; joined with a space as in the index, and the leading «و», which the index leaves out, kept as printed (zoomed). Text runs onto p. 234, where the source footnote is. The (*) footnote is on the grading. The dashes around «واللفظ له» are printed attached; spaced per the rules."
+      ]
+    },
+    {
+      "number": 370,
+      "book_page": 234,
+      "heading": "يسلم الصغير على الكبير والمار على القاعد",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 14
+      },
+      "text": "حدثنا محمد بن مقاتل أبو الحسن أخبرنا عبد الله أخبرنا معمر عن همام بن منبه **عن أبي هريرة عن النبي ﷺ قال : « يسلم الصغير على الكبير ، والمار على القاعد ، والقليل على الكثير » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٣٨١ ، والترمذي ج٧ ص٤٨٥ وقال : حسن صحيح . وابن السني رقم ٢٢٠ ، وأحمد ٢ / ٣١٤ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 371,
+      "book_page": 235,
+      "heading": "يسلم الراكب على الماشي والماشي على القاعد والقليل على الكثير",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 15
+      },
+      "text": "حدثني محمد بن سلام أخبرنا مخلد أخبرنا ابن جريج قال : أخبرني زياد أنه سمع ثابتًا ، مولى ابن زيد **أنه سمع أبا هريرة يقول : قال رسول الله ﷺ : « يسلم الراكب على الماشي ، والماشي على القاعد ، والقليل على الكثير » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٤٠ ، وأبو داود ج٥ ص٣٨١ ، والترمذي ج٧ ص٤٨٣ تحفة ، وابن السني رقم ٢٢٢ ، وأحمد ٢ / ٥١٠ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "مولى ابن",
+          "corrected": "مولى عبد الرحمن ابن",
+          "confidence": 0.53,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed on two lines, «يسلم الراكب على الماشي والماشي» over «على القاعد والقليل على الكثير»; joined with a space (the index gives only «يسلم الراكب على الماشي»). «ثابتًا» prints tanwin fatha."
+      ]
+    },
+    {
+      "number": 372,
+      "book_page": 235,
+      "heading": "النهي عن ابتداء اليهود والنصارى السلام",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٤٨",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 148
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا عبد العزيز - يعني الدراوردي - عن سهيل عن أبيه **عن أبي هريرة أن رسول الله ﷺ قال : « لا تبدؤا اليهود ولا النصارى بالسلام ، فإذا لقيتم أحدهم في طريق ، فاضطروه إلى أضيقه » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٣٨٤ ، والترمذي ج٥ ص٢٢٧ تحفة وقال : حسن صحيح . والترمذي ج٧ ص٤٨٠ وقال : حسن صحيح . وأحمد ٣ / ٢٦٣ ، ٢٦٦ ، ٣٤٦ ، ٤٤٤ ، ٤٥٩ ، ٥٢٥ ، والبيهقي ٩ / ٢٠٣ ، والبخاري في الأدب المفرد ١١٠٣ ، ١١١١ ، وابن السني في عمل اليوم والليلة رقم ٢٤٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«تبدؤا» as printed. The grading «حسن» for a Muslim hadith is as printed. The takhrij names al-Tirmidhi twice as printed. The dashes around «يعني الدراوردي» are printed attached; spaced per the rules."
+      ]
+    },
+    {
+      "number": 373,
+      "book_page": 235,
+      "heading": "النهي عن الهجران فوق ثلاث",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٢١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 21
+      },
+      "text": "حدثنا علي بن عبد الله حدثنا سفيان عن الزهري عن عطاء بن يزيد الليثي **عن أبي أيوب رضي الله عنه عن النبي ﷺ قال : « لا يحل لمسلم أن يهجر أخاه فوق ثلاث ، يلتقيان فيصدُّ هذا ويصدُّ هذا ، وخيرهما الذي يبدأ بالسلام » وذكر سفيان أنه سمعه منه ثلاث مرات .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٦ ص١١٧ ، وأبو داود ج٥ ص٢١٤ ، والترمذي ج٦ ص٥٩ تحفة وقال : حسن صحيح . وأحمد ٥ / ٤١٦ ، ٤٢١ ، ٤٢٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Text runs from p. 235 onto p. 236, where the source footnote is. «فيصدُّ» and «ويصدُّ» print a shadda and damma (zoomed). «وذكر سفيان …» is bold like the hadith."
+      ]
+    },
+    {
+      "number": 374,
+      "book_page": 236,
+      "heading": "ترك رد السلام على أصحاب المعاصي إذا لم تخش مفسدة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٤٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 40
+      },
+      "text": "حدثنا ابن بكير حدثنا الليث عن عقيل عن ابن شهاب عن عبد الرحمن بن عبد الله ابن كعب أن عبد الله بن كعب قال : **سمعت كعب بن مالك يحدث حين تخلف عن تبوك ونهى رسول الله ﷺ عن كلامنا ، وآتي رسول الله ﷺ فأسلّمُ عليه ، فأقول في نفسي : هل حرك شفتيه برد السلام أم لا ؟ حتى كملَت خمسون ليلة ، وآذن النبي ﷺ بتوبة الله علينا حين صلى الفجر .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٧ ص٨٧ بطوله ، وأبو داود في الطلاق ١١ : ٢ مختصرا ، والنسائي في الطلاق ١٨ : ٢ .",
+      "footnotes": [
+        "(*) [على «مفسدة»] تعقيب : ذهب قوم إلى أنه يجوز إلانة القول ورد السلام ، مستدلين بالحديث الذي رواه البخاري فتح ج١٠ ص٤٥٢ ، ومسلم ٢٥٩١ عبد الباقي من حديث عائشة أن رجلا استأذن على النبي ﷺ فلما رآه قال : « بئس أخو العشيرة وبئس ابن العشيرة » . فلما جلس تطلق النبي ﷺ وانبسط إليه ، فلما انطلق الرجل قالت له عائشة : يا رسول الله حين رأيت الرجل قلت له : كذا وكذا ، ثم تطلقت في وجهه وانبسطت إليه . فقال رسول الله ﷺ : « يا عائشة متى عهدتني فاحشا ، إن شر الناس عند الله منزلة يوم القيامة ، من تركه الناس اتقاء شره » .",
+        "(**) [على «عن عبد الرحمن»] ورواه مسلم مصرحا بإخبار عبد الرحمن لابن شهاب .",
+        "(٣٧٤) قال الحافظ في الفتح ج٨ ص١٢٤ في التعقيب على الحديث : فيه ترك السلام على من أذنب ، وجواز هجره أكثر من ثلاث ، وأما النهي عن الهجر فوق ثلاث ليال فمحمول على من لم يكن هجرانه شرعيا ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading is printed on two lines, «ترك رد السلام على أصحاب المعاصي» over «إذا لم تخش مفسدة», joined with a space; its (*) footnote is printed after the bold label «تعقيب :» at the foot of p. 236, kept at the start of that footnote. «ابن كعب» begins a printed line. Marks zoomed: «فأسلّمُ» (shadda on the lam, damma on the mim), «كملَت». «وآتي» and «وآذن» as printed. The unnumbered paragraph «قال الحافظ …» runs from p. 236 onto p. 237 («=») and is joined, as its own item."
+      ]
+    },
+    {
+      "number": 375,
+      "book_page": 237,
+      "heading": "ترك رد السلام على أصحاب المعاصي إذا لم تخش مفسدة",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٨",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 8
+      },
+      "text": "حدثنا موسى بن إسماعيل حدثنا حماد أخبرنا عطاء الخرساني عن يحيى بن يعمر **عن عمار بن ياسر قال : قدمت على أهلي وقد تشققت يداي ، فخلقوني بزعفران ، فغدوت على النبي ﷺ فسلمت عليه فلم يرد عليّ ، وقال : « اذهب فاغسل هذا عنك » .**",
+      "grading": "حسن لما بعده",
+      "takhrij": "وانظر مسند أحمد ٤ / ١١١ ، ١٧١ ، ١٧٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«الخرساني» as printed. «عليّ» prints a shadda (zoomed)."
+      ]
+    },
+    {
+      "number": 376,
+      "book_page": 237,
+      "heading": "الإعراض عن أصحاب المعاصي",
+      "label": null,
+      "citation": "قال البخاري رقم ١٠٢٠ الأدب المفرد",
+      "source": {
+        "collection": "bukhari-adab",
+        "hadith": 1020
+      },
+      "text": "حدثنا زكريا بن يحيى قال : حدثني القاسم بن الحكم العرني قال : أخبرنا سعيد بن عبيد الطائي عن علي بن ربيعة **عن علي بن أبي طالب رضي الله عنه قال : مر النبي ﷺ على قوم فيهم رجل متخلق بخلوق ، فنظر إليهم وسلم عليهم ، وأعرض عن الرجل ، فقال الرجل : أعرضت عني ؟ قال : « بين عينيك جمرة » .**",
+      "grading": "حسن لما قبله",
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «بخلوق»] الخلوق : قاله في المجمع : طيب مركب من الزعفران وغيره تغلب عليه الحمرة والصفرة ، ورد إباحته تارة والنهي عنه أخرى ؛ لأنه من طيب النساء ، والظاهر أن أحاديث النهي ناسخة ( نسخة عون المعبود تحقيق عبد الرحمن عثمان ج١ ص٢٣٣ ) ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "No numbered source footnote is printed for this entry; the (*) footnote explains «خلوق». «الطائي» begins a printed line (zoomed)."
+      ]
+    },
+    {
+      "number": 377,
+      "book_page": 237,
+      "heading": "النهي عن الرد الفاحش",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٤١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 41
+      },
+      "text": "حدثنا أبو اليمان أخبرنا شعيب عن الزهري قال : أخبرني عروة **أن عائشة رضي الله عنها قالت : دخل رهط من اليهود على رسول الله ﷺ فقالوا : السام عليك ، ففهمتها فقلت : عليكم السام واللعنة . فقال رسول الله ﷺ : « مهلا يا عائشة ، فإن الله يحب الرفق في الأمر كله » . فقلت : يا رسول الله أو لم تسمع ما قالوا ؟ قال رسول الله ﷺ : « فقد قلت عليكم » .**",
+      "grading": "صحيح",
+      "takhrij": "الأطراف فتح ج٦ ص١٠٦ ، وأحمد ٦ / ١٩٩ ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [
+        "(**) [على «النهي عن الرد الفاحش»] وقال الله عز وجل : ﴿ **وإذا خاطبهم الجاهلون قالوا سلاما** ﴾ الفرقان . وقال سبحانه : ﴿ **وإذا سمعوا اللغو أعرضوا عنه وقالوا لنا أعمالنا ولكم أعمالكم سلام عليكم لا نبتغي الجاهلين** ﴾ القصص .",
+        "(*) [على «فقد قلت عليكم»] ورواه أيضا ص٢٠٠ فتح بزيادة « فيستجاب لي فيهم ولا يستجاب لهم فيّ » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Text runs from p. 237 onto p. 238, where the source footnote is. The (**) footnote is on the heading and runs from p. 237 onto p. 238 («=»); joined. The takhrij begins «الأطراف فتح …» as printed. «فيّ» prints a small hamza-like mark over the ya, written as a shadda as elsewhere in this chapter; «للنسائيّ» read with the nisba mark (zoomed). The verses in the footnote are bold."
+      ]
+    },
+    {
+      "number": 378,
+      "book_page": 238,
+      "heading": "المصافحة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٥٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 54
+      },
+      "text": "حدثنا عمرو بن عاصم حدثنا همام عن قتادة قال : **قلت لأنس : أكانت المصافحة في أصحاب النبي ﷺ ؟ قال : نعم .**",
+      "grading": "صحيح",
+      "takhrij": "والترمذي ج٧ ص٥١٤ تحفة وقال : حسن صحيح .",
+      "footnotes": [
+        "(**) [على «المصافحة»] وقد وردت المصافحة في حديث كعب بن مالك ، البخاري فتح ( ج٨ ص١١٦ المغازي ) .. قال كعب : حتى دخلت المسجد فإذا رسول الله ﷺ جالس حوله الناس ، فقام إليّ طلحة بن عبيد الله يهرول حتى صافحني وهنأني ... ، وكذا حديث ابن مسعود في تعليم الرسول ﷺ التشهد له فتح ج١١ ص٥٦ : علمني رسول الله ﷺ التشهد وكفي بين كفيه ... ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (**) footnote is on the heading. «إليّ» prints the small hamza-like mark, written as a shadda (zoomed)."
+      ]
+    },
+    {
+      "number": 379,
+      "book_page": 238,
+      "heading": "المعانقة والتقبيل",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٤ ص٣٣٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 4,
+        "page": 339
+      },
+      "text": "حدثنا علي بن عبد الله حدثنا سفيان عن عبيد الله بن أبي يزيد عن نافع بن جبير ابن مطعم **عن أبي هريرة الدوسي رضي الله عنه قال : خرج النبي ﷺ في طائفة من النهار ، لا يكلمني ولا أكلمه ، حتى أتى سوق بني قينقاع ، فجلس بفناء بيت فاطمة فقال : « أثَمَّ لُكَعُ ، أثَمَّ لُكَعُ ؟ فحبسته شيئا ، فظننت أنها تُلبسه سِخابا أو تُغسِّله ، فجاء يشتد حتى عانقه وقبله ، وقال : « اللهم أحبه وأحب من يحبه » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٥ ص١٩٢ ، وابن ماجه في السنة ( المقدمة ) مختصرًا ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [
+        "(***) [على «عن عبيد الله»] قال الحافظ فتح ج٤ ص٣٣٩ قوله : ( عن عبيد الله ) بالتصغير في رواية مسلم عن أحمد ابن حنبل عن سفيان ( حدثني عبيد الله ) .",
+        "(****) [على «أثَمَّ لُكَعُ»] وقال أيضا ج٤ ص٣٣٩ قوله : « أثَمَّ لكع » بهمزة الاستفهام بعدها مثلثة مفتوحة ، ولُكع بضم اللام وفتح الكاف قال الخطابي اللكع على معنيين : ١ - أحدهما الصغير وهو المراد هنا . ٢ - الآخر اللئيم كما ورد في حديث أبي هريرة « يكون أسعد الناس بالدنيا لكع ابن لكع » .",
+        "(*****) [على «يحبه»] أي الحسن بن علي كما روى البخاري ذلك فتح ج١٠ ص٣٣٢ عن أبي هريرة رضي الله عنه قال : كنت مع رسول الله ﷺ في سوق من أسواق المدينة ، فانصرف فانصرفت ، فقال : « أين لُكَع ؟ » ثلاثا . « ادع الحسنَ بن علي » ، فقام الحسن بن علي يمشي وفي عنقه السُّخاب ، فقال النبي ﷺ بيده : « هكذا » . فقال الحسن بيده : هكذا . فالتزمه فقال : « اللهم إني أحبه فأحبه وأحب من يحبه » وقال أبو هريرة : فما كان أحد أحب إلي من الحسن بن علي بعد ما قال رسول الله ﷺ ما قال ."
+      ],
+      "corrections": [
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "أحبه",
+          "corrected": "أحببه",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2122) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "Text runs from p. 238 onto p. 239; the source footnote starts on p. 238 and ends on p. 239 («=»), joined. «ابن مطعم» begins a printed line. No closing « » » is printed after «أثَمَّ لُكَعُ ؟»; kept as printed. «قينقاع» is set with a gap before its last letter (typesetting). Marks zoomed: «أثَمَّ لُكَعُ» (both), «تُلبسه», «سِخابا», «تُغسِّله» (shadda and kasra), «مختصرًا», «ولُكع», «لُكَع», «الحسنَ», «السُّخاب» (shadda and damma). The list «١ - … ٢ - …» in the (****) footnote is joined into one paragraph; its dashes are printed attached, spaced per the rules."
+      ]
+    },
+    {
+      "number": 380,
+      "book_page": 239,
+      "heading": "ترك من يبول رد السلام",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٤ ص٦٤ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 4,
+        "page": 64
+      },
+      "text": "حدثنا محمد بن عبد الله بن نمير حدثنا أبي حدثنا سفيان عن الضحاك بن عثمان عن نافع **عن ابن عمر أن رجلا مر ورسول الله ﷺ يبول ، فسلم فلم يرد عليه .**",
+      "grading": "حسن",
+      "takhrij": "ورواه أبو داود ج١ ص ٢٢ ، وابن ماجه رقم ٣٥٣ ، والنسائيّ ج١ ص ٣٥ ، والترمذي ج١ ص٢٩٨ تحفة وقال : حسن . ج٧ ص٥٠٥ ، وأبو عوانة ج١ ص٢١٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The grading «حسن» for a Muslim hadith is as printed. The takhrij prints a space in «ص ٢٢» and «ص ٣٥», kept as printed."
+      ]
+    },
+    {
+      "number": 381,
+      "book_page": 240,
+      "heading": "التيمم لرد السلام",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٤٤١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 441
+      },
+      "text": "حدثنا يحيى بن بكير قال : حدثنا الليث عن جعفر بن ربيعة عن الأعرج قال : سمعت عميرا مولى ابن عباس قال : أقبلت أنا وعبد الله بن يسار مولى ميمونة زوج النبي ﷺ حتى دخلنا على أبي جهيم بن الحارث بن الصمة الأنصاري ، **فقال أبو الجهيم : أقبل النبي ﷺ من نحو بئر جمل ، فلقيه رجل فسلم عليه ، فلم يرد عليه النبي ﷺ حتى أقبل على الجدار فمسح بوجهه ويديه ، ثم رد عليه السلام .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم معلقا ج٤ ص٦٤ ، وأبو داود ج١ ص٢٣٣ ، والنسائيّ ج١ ص١٦٥ ، وابن الجارود في المنتقى رقم ١٢٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«أبي جهيم» then «أبو الجهيم» as printed (zoomed). The bold begins at «فقال أبو الجهيم». «والنسائيّ» prints the nisba mark."
+      ]
+    },
+    {
+      "number": 382,
+      "book_page": 240,
+      "heading": "رد السلام من حق الطريق",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 8
+      },
+      "text": "حدثنا عبد الله بن محمد أخبرنا أبو عامر حدثنا زهير عن زيد بن أسلم عن عطاء ابن يسار **عن أبي سعيد الخدري رضي الله عنه أن النبي ﷺ قال : « إياكم والجلوس في الطرقات » . فقالوا : يا رسول الله ما لنا من مجالسنا بد ، نتحدث فيها . فقال : « فإذا أبيتم إلا المجلس فأعطوا الطريق حقه » . قالوا : وما حق الطريق يا رسول الله ؟ قال : « غض البصر ، وكف الأذى ، ورد السلام ، والأمر بالمعروف ، والنهي عن المنكر » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٠٢ ، وأبو داود في الأدب ١٣ : ١ ، وأحمد ٣ / ٣٦ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 13,
+          "field": "text",
+          "printed": "في الطرقات",
+          "corrected": "بالطرقات",
+          "confidence": 0.53,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "«ابن يسار» begins a printed line."
+      ]
+    },
+    {
+      "number": 383,
+      "book_page": 241,
+      "heading": "السلام من حق المسلم إذا لقيته",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٤ ص١٤٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 14,
+        "page": 143
+      },
+      "text": "حدثنا يحيى بن أيوب وقتيبة وابن حُجر قالوا : حدثنا إسماعيل - وهو ابن جعفر - عن العلاء عن أبيه **عن أبي هريرة أن رسول الله ﷺ قال : « حق المسلم على المسلم ست » . قيل : ما هن يا رسول الله ؟ قال : « إذا لقيته فسلم عليه ، وإذا دعاك فأجبه ، وإذا استنصحك فانصح له ، وإذا عطس فحمد الله فشمته ، وإذا مرض فعده ، وإذا مات فاتبعه » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه النسائيّ ج٤ ص٥٣ ، والترمذي ج٨ ص٨ وقال : حديث صحيح . وأحمد ٢ / ٣٢١ ، ٣٧٢ ، ٤١٢ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«حُجر» prints a damma. The grading «حسن» for a Muslim hadith is as printed. The dashes around «وهو ابن جعفر» are printed attached; spaced per the rules."
+      ]
+    },
+    {
+      "number": 384,
+      "book_page": 241,
+      "heading": "من أشراط الساعة السلام للمعرفة",
+      "label": null,
+      "citation": "قال الإمام أحمد ج١ ص٤٠٥",
+      "source": {
+        "collection": "ahmad",
+        "volume": 1,
+        "page": 405
+      },
+      "text": "حدثنا أبو النضر ثنا شريك عن عياش العامري عن الأسود بن هلال **عن ابن مسعود قال : قال رسول الله ﷺ : « إن من أشراط الساعة أن يسلم الرجل على الرجل ، لا يسلم عليه إلا للمعرفة » .**",
+      "grading": "حسن لما بعده",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source footnote is printed for this entry on p. 241."
+      ]
+    },
+    {
+      "number": 385,
+      "book_page": 241,
+      "heading": "تسليم الخاصة من أشراط الساعة",
+      "label": null,
+      "citation": "قال الإمام أحمد ج١ ص٤٠٧",
+      "source": {
+        "collection": "ahmad",
+        "volume": 1,
+        "page": 407
+      },
+      "text": "حدثنا أبو أحمد الزبيري حدثنا بشير بن سلمان عن سيار **عن طارق بن شهاب قال : كنا عند عبد الله جلوسا ، فجاء رجل فقال : قد أقيمت الصلاة ، فقام وقمنا معه ، فلما دخلنا المسجد رأينا الناس ركوعا في مقدم المسجد ، فكبر وركع وركعنا ، ثم مشينا وصنعنا مثل الذي صنع ، فمر رجل يسرع فقال : عليك السلام يا أبا عبد الرحمن فقال : صدق الله ورسوله ، فلما صلينا ورجعنا ، دخل إلى أهله ، جلسنا فقال بعضنا لبعض : أما سمعتم رده على الرجل ، صدق الله وبلغت رسله ، أيكم يسأله فقال طارق : أنا أسأله فسأله حين خرج ، فذكر عن النبي ﷺ « إن بين يدي الساعة تسليم الخاصة ، وفشو التجارة حتى تعين المرأة زوجها على التجارة ، وقطع الأرحام ، وشهادة الزور ، وكتمان شهادة الحق ، وظهور القلم » . الجزء الأول منه « إن بين يدي الساعة تسليم الخاصة » شاهد للحديث الذي قبله .**",
+      "grading": null,
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «وظهور القلم»] هذا الحديث رجاله ثقات ما عدا سيار فقال الحافظ : سيار الذي يروي عن طارق هو سيار ابن أبي حمزة ، وهو مقبول . وقول بشير عن سيار : هو ابن أبي الحكم وهم منه . وقد وقع الشيخ ناصر الألباني - حفظه الله - في الوهم أيضا فقال عن الحديث في سلسلة الأحاديث الصحيحة رقم ٦٤٨ : إن الحديث على شرط مسلم . متوهما أن سيار هو ابن أبي الحكم ، ثم إن للحديث شاهدا ثالثا رجاله ثقات ما عدا مجالدا ، قال الحافظ : ليس بالقوي . رواه أحمد ص ٣٨٧ ج ١ . ثنا ابن نمير عن مجالد عن الأسود بن يزيد قال : أقيمت الصلاة مع عبد الله بن مسعود ، فلما ركع الناس ركع عبد الله وركعنا معهم ونحن نمشي ، فمر رجل بين يديه فقال : السلام عليك يا أبا عبد الرحمن . فقال عبد الله : صدق الله ورسوله ، قال : إني سمعت رسول الله ﷺ يقول : « إن من أشراط الساعة إذا كانت التحية على المعرفة » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Text runs from p. 241 onto p. 242. No grading word is printed: the Sheikh's bold remark «الجزء الأول منه … شاهد للحديث الذي قبله .» stands in its place and is kept in text; grading null. No numbered source footnote; the (*) footnote on p. 242 has no number, and its second paragraph («وقد وقع الشيخ …») is joined to it. The dashes around «حفظه الله» are printed attached; spaced per the rules."
+      ]
+    },
+    {
+      "number": 386,
+      "book_page": 242,
+      "heading": "تحية آدم وذريته",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص٣٦٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 362
+      },
+      "text": "حدثنا عبد الله بن محمد حدثنا عبد الرزاق عن معمر عن همام **عن أبي هريرة رضي الله عنه عن النبي ﷺ قال : « خلق الله آدم وطوله ستون ذراعا ، ثم قال : اذهب فسلم على أولئك من الملائكة ، فاستمع ما يحيونك ، تحيتك وتحية ذريتك . فقال : السلام عليكم فقالوا : السلام عليك ورحمة الله ، فزادوه ورحمة الله . فكل من يدخل الجنة على صورة آدم ، فلم يزل الخلق ينقص حتى الآن » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٧ ص١٧٧ ، وأحمد ٢ / ٣١٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Text runs from p. 242 onto p. 243, where the source footnote is."
+      ]
+    },
+    {
+      "number": 387,
+      "book_page": 243,
+      "heading": "تحية الإسلام",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٦ ص٣١",
+      "source": {
+        "collection": "muslim",
+        "volume": 16,
+        "page": 31
+      },
+      "text": "حدثنا محمد بن المثنى العنزي حدثني ابن أبي عدي قال : أنبأنا ابن عون عن حميد ابن هلال عن عبد الله بن الصامت قال : **قال أبو ذر : يا ابن أخي صليت سنتين قبل مبعث النبي ﷺ . قال : قلت : فأين كنت توجه ؟ قال : حيث وجهني الله . واقتص الحديث بنحو حديث سليمان بن المغيرة وقال في الحديث : فتنافرا إلى رجل من الكهان ، قال : فلم يزل أخي أنيس يمدحه حتى غلبه ، قال : فأخذنا صرمته فضممناها إلى صرمتنا . وقال أيضا في حديثه قال : فجاء النبي ﷺ فطاف بالبيت ، وصلى ركعتين خلف المقام ، قال : فأتيته فإني لأول الناس حياه بتحية الإسلام ، قال : قلت : السلام عليك يا رسول الله قال : « وعليك السلام من أنت ؟ » وفي حديثه أيضا فقال : « منذ كم أنت هٰهنا ؟ » قال : قلت : منذ خمس عشرة . وفيه فقال أبو بكر : ألحقني بضيافته الليلة .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «سليمان بن المغيرة»] حديث سليمان هو السابق لهذا في مسلم ولم نذكره لطوله وعدم إيفائه بالمطلوب للترجمة إلا أن فيه مما يخص الترجمة ... فقلت : السلام عليك يا رسول الله ، فقال : « وعليك ورحمة الله » ."
+      ],
+      "corrections": [
+        {
+          "id": 16,
+          "field": "text",
+          "printed": "ألحقني",
+          "corrected": "أتحفني",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2473.03) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "No numbered source footnote is printed for this entry. «ابن هلال» begins a printed line. «هٰهنا» prints a small upright alif (zoomed).",
+        "Review (OCR flags): the page prints «ألحقني» (a tall lam after the alif, and a qaf with two dots; zoomed at 1600 dpi); it had been written «أتحفني», the database's word, and is now as printed. «فتنافرا» (two teeth, each with its dots, between the fa and the alif) and «فضممناها» were zoomed and are as printed, though the OCR reads «فتافرا» and «فضمماها»."
+      ]
+    },
+    {
+      "number": 388,
+      "book_page": 244,
+      "heading": "كيفية إلقاء السلام",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٧٩",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 379
+      },
+      "text": "حدثنا محمد بن كثير أخبرنا جعفر بن سليمان عن عوف عن أبي رجاء **عن عمران ابن حصين قال : جاء رجل إلى النبي ﷺ فقال : السلام عليكم ، فرد عليه السلام ثم جلس فقال النبي ﷺ : « عشر » . ثم جاء آخر فقال : السلام عليكم ورحمة الله ، فرد عليه فجلس فقال : « عشرون » . ثم جاء آخر فقال : السلام عليكم ورحمة الله وبركاته ، فرد عليه فجلس فقال : « ثلاثون » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي ج٧ ص ٤٦٢ تحفة وقال : حسن غريب . وأحمد ٤ / ٤٣٩ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [
+        "(*) [على «كيفية إلقاء السلام»] سبقت كيفيته في حديث آدم وتسليمه على الملائكة وفي حديث أبي ذر رضي الله عنه ، وكذلك سبقت إحدى كيفيات إلقاء السلام في حديث أنس في استئذان النبي ﷺ على سعد بن عبادة ، باب الأطعمة .",
+        "(**) [على «صحيح»] حيث إن له شاهدا أخرجه ابن السني رقم ٢٣٠ أخبرنا أبو يعلى ثنا أبو بكر بن أبي شيبة ثنا أبو أسامة موسى بن عبيدة عن أبي أمامة بن سهل بن حنيف عن أبيه قال : قال رسول الله ﷺ : « من قال : السلام عليكم ورحمة الله ، كتب له عشرون حسنة ومن قال : السلام عليكم ورحمة الله وبركاته ، كتب له ثلاثون حسنة » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) footnote is on the heading word «كيفية», the (**) on the grading. «عمران» ends a line and «ابن حصين» begins the next. «للنسائيّ» prints the nisba mark (zoomed). The takhrij prints «ص ٤٦٢» with a space."
+      ]
+    },
+    {
+      "number": 389,
+      "book_page": 244,
+      "heading": "كيفية أخرى",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٨٢",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 382
+      },
+      "text": "حدثنا عباس العنبري حدثنا أسود بن عامر حدثنا حسن بن صالح عن أبيه عن سلمة ابن كهيل عن سعيد بن جبير عن ابن عباس **عن عمر أنه أتى النبي ﷺ وهو في مشربة له فُقال : السلام عليك يا رسول الله ، السلام عليكم أيدخل عمر ؟ .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source footnote is printed for this entry. «ابن كهيل» begins a printed line. A damma-like mark is printed over the fa of «فُقال» (zoomed); kept as printed, though it may be an ink mark."
+      ]
+    },
+    {
+      "number": 390,
+      "book_page": 245,
+      "heading": "كيفية رد السلام",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٣٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 36
+      },
+      "text": "حدثنا إسحاق بن منصور أخبرنا عبد الله بن نمير حدثنا عبيد الله عن سعيد بن أبي سعيد المقبري : **عن أبي هريرة رضي الله عنه أن رجلا دخل المسجد ورسول الله ﷺ جالس في ناحية المسجد ، فصلى ثم جاء فسلم عليه . فقال له رسول الله ﷺ : « وعليك السلام ، ارجع فصل ، فإنك لم تصل » . فقال في الثانية - أو في التي بعدها - : علمني يا رسول الله . فقال : « إذا قمت إلى الصلاة ، فأسبغ الوضوء ، ثم استقبل القبلة فكبر ، ثم اقرأ بما تيسر معك من القرآن ، ثم اركع حتى تطمئن راكعا ، ثم ارفع حتى تستوي قائما ، ثم اسجد حتى تطمئن ساجدا ، ثم ارفع حتى تطمئن جالسا ، ثم افعل ذلك في صلاتك كلها » وقال أبو أسامة في الأخير : « حتى تستوي قائما » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٠٥ ، وأبو داود ج١ ص٥٣٤ ، وابن ماجه رقم ١٠٦٠ ، والنسائيّ ج٢ ص١٢٤ ، والترمذي ج١٢ ص٢٠٩ تحفة وقال : حسن صحيح . والترمذي مختصرا ج٧ ص٤٦٩ تحفة وقال : حديث حسن . وأحمد ٢ / ٤٣٧ .",
+      "footnotes": [
+        "(*) [على «كيفية رد السلام»] سبق قول الله عز وجل ﴿ **فحيوا بأحسن منها أو ردوها** ﴾ .",
+        "(**) [على «ابن ماجه»] لفظ ابن ماجه « وعليك » فقط ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The (*) marker is printed both on the heading word «كيفية» and on «وعليك» in the text, with one footnote; kept once, anchored on the heading. The (**) footnote is on «ابن ماجه» in the source footnote. The dashes around «أو في التي بعدها» are printed attached; spaced per the rules. «والنسائيّ» read with the nisba mark."
+      ]
+    },
+    {
+      "number": 391,
+      "book_page": 245,
+      "heading": "كيفية الرد على أهل الكتاب",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٢ ص٢٨٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 280
+      },
+      "text": "حدثنا محمد بن مقاتل أبو الحسن أخبرنا عبد الله أخبرنا شعبة عن هشام بن زيد بن أنس ابن مالك قال : **سمعت أنس بن مالك يقول : مر يهودي برسول الله ﷺ فقال : السام عليك ، فقال رسول الله ﷺ : « وعليك » . فقال رسول الله ﷺ : « أتدرون ما يقول ؟ قال : السام عليك » ، قالوا : يا رسول الله ألا نقتله ؟ قال : « لا إذا سلم عليكم أهل الكتاب فقولوا : وعليكم » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٤٤ ، وابن ماجه مختصرا ٣٦٩٧ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Text runs from p. 245 onto p. 246, where the source footnote is. «ابن مالك» begins a printed line. The closing « » » after «قال : السام عليك» is printed there, as kept. «للنسائيّ» prints the nisba mark (zoomed)."
+      ]
+    },
+    {
+      "number": 392,
+      "book_page": 246,
+      "heading": "كيفية الرد على أهل الكتاب",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٢ ص٢٨٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 280
+      },
+      "text": "حدثنا مسدد حدثنا يحيى بن سعيد عن سفيان ومالك بن أنس قالا : حدثنا عبد الله ابن دينار قال : **سمعت ابن عمر رضي الله عنهما يقول : قال رسول الله ﷺ : « إن اليهود إذا سلموا على أحدكم ، إنما يقولون : سام عليك فقل : عليك » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٤ ص١٤٦ ، وأبو داود ج٥ ص٣٨٤ ، والترمذي ج٥ ص٢٢٨ تحفة وقال : حسن صحيح . وأحمد ٢ / ١٩ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«ابن دينار» begins a printed line. «للنسائيّ» prints the nisba mark (zoomed)."
+      ]
+    },
+    {
+      "number": 393,
+      "book_page": 246,
+      "heading": "السلام على المصلي وكيف يرد",
+      "label": null,
+      "citation": "قال أبو داود ج١ ص٥٦٩",
+      "source": {
+        "collection": "abudawud",
+        "volume": 1,
+        "page": 569
+      },
+      "text": "حدثنا الحسين بن عيسى الخراساني الدامغاني حدثنا جعفر بن عون حدثنا هشام بن سعد حدثنا نافع قال : **سمعت عبد الله بن عمر يقول : خرج رسول الله ﷺ إلى قباء يصلي فيه فجاءته الأنصار ، فسلموا عليه وهو يصلي ، قال : فقلت لبلال : كيف كان رسول الله ﷺ يرد عليهم حين كانوا يسلمون عليه وهو يصلي ؟ قال : يقول : هكذا وبسط كفه ، وبسط جعفر بن عون كفه ، وجعل بطنه أسفل ، وجعل ظهره إلى فوق .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه الترمذي ج٢ ص٣٦٨ ، وانظر حديث ٨٤ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 394,
+      "book_page": 247,
+      "heading": "السلام على المصلي وكيف يرد",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٢ ص١٠",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 10
+      },
+      "text": "حدثنا سفيان عن زيد بن أسلم **عن عبد الله بن عمر دخل رسول الله ﷺ مسجد بني عمرو بن عوف ، مسجد قباء يصلي فيه فدخلت عليه رجال الأنصار يسلمون عليه ، ودخل معه صهيب ، فسألت صهيبا كيف كان رسول الله ﷺ يصنع إذا سلم عليه ؟ قال : يشير بيده . قال سفيان : قلت لرجل : سل زيدا أسمعته من عبد الله ، وهبت أنا أن أسأله ، فقال : يا أبا أسامة سمعته من عبد الله بن عمر ، قال : أما أنا فقد رأيته فكلمته .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source footnote is printed for this entry. The bold begins at «عن عبد الله بن عمر»."
+      ]
+    },
+    {
+      "number": 395,
+      "book_page": 247,
+      "heading": "ما جاء في فلان يقري السلام وكيفية الرد",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٥٨١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 581
+      },
+      "text": "حدثنا أبو اليمان أخبرنا شعيب عن الزهري قال : حدثني أبو سلمة بن عبد الرحمن **أن عائشة رضي الله عنها زوج النبي ﷺ قالت : قال رسول الله ﷺ : « يا عائش هذا جبريل يقرئك السلام » . قلت : وعليه السلام ورحمة الله . قالت : وهو يرى ما لا نرى .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٥ ص٢١١ ، وأبو داود ج٥ ص٣٩٩ ، وابن ماجه ٣٦٩٦ ، والنسائيّ ج٧ ص٦٩ ، والترمذي ج٧ ص٤٧٠ تحفة وقال : حسن صحيح . والترمذي أيضا ج١٠ ص٣٨٠ وقال : صحيح . وابن السني في عمل اليوم والليلة رقم ٢٣٨ ، وأحمد ٦ / ٨٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«يقري» in the heading as printed. «والنسائيّ» prints the nisba mark (zoomed)."
+      ]
+    },
+    {
+      "number": 396,
+      "book_page": 247,
+      "heading": "ما جاء في فلان يقري السلام وكيفية الرد",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٢ ص٢٩٨",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 298
+      },
+      "text": "حدثنا محمد بن جعفر ثنا شعبة عن محمد بن زياد **عن أبي هريرة عن النبي ﷺ أنه قال : « إني لأرجو إن طال بي عمر أن ألقى عيسى بن مريم عليه السلام ، فمن لقيه منكم فليقرئه مني السلام » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «محمد بن زياد»] هو الجمحي ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Text runs from p. 247 onto p. 248. No numbered source footnote is printed; the (*) footnote on p. 247 names the narrator."
+      ]
+    },
+    {
+      "number": 397,
+      "book_page": 248,
+      "heading": "لا يتبدأ بقول عليك السلام",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٨٧",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 387
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا أبو خالد الأحمر عن أبي غفار عن أبي تميمة الهجيمي **عن أبي جري الهجيمي قال : أتيت النبي ﷺ فقلت : عليك السلام يا رسول الله قال : « لا تقل : عليك السلام ، فإن عليك السلام تحية الموتى .**",
+      "grading": "حسن",
+      "takhrij": "والترمذي ج٧ ص٥٠٦ تحفة ، وابن السني في عمل اليوم والليلة رقم ٢٣٥ .",
+      "footnotes": [
+        "(*) [على «الموتى»] وإن كان يجوز في حق الموتى الابتداء بالسلام كما في الحديث الآتي في الجنائز إن شاء الله ، وفيه : « السلام عليكم دار قوم مؤمنين » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«يتبدأ» in the heading as printed. No closing « » » is printed after «الموتى» (zoomed); kept as printed."
+      ]
+    },
+    {
+      "number": 398,
+      "book_page": 248,
+      "heading": "ما يكتب في صدور الرسائل وكيف يسلم على غير المسلم",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص٤٧",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 47
+      },
+      "text": "حدثنا محمد بن مقاتل أبو الحسن أخبرنا عبد الله أخبرنا يونس عن الزهري قال : أخبرني عبيد الله بن عبد الله بن عتبة **أن ابن عباس أخبره أن أبا سفيان بن حرب أخبره أن هرقل أرسل إليه في نفر من قريش - وكانوا تجارا بالشام - فأتوه فذكر الحديث قال : ثم دعا بكتاب رسول الله ﷺ فقرئ فإذا فيه : بسم الله الرحمن الرحيم . من محمد عبد الله ورسوله ، إلى هرقل عظيم الروم . السلام على من اتبع الهدى أما بعد ... .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٢ ص١٠٣ ، والترمذي ج٧ ص٥٠٠ وقال : حسن صحيح . وأبو داود مختصرا في الأدب باب ١٢٨ ، وعزاه المزي في الأطراف للنسائيّ في التفسير في السنن الكبرى ، وأخرجه أحمد ١ / ٢٦٢ ، ٢٦٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Text runs from p. 248 onto p. 249, where the source footnote is. The dashes around «وكانوا تجارا بالشام» are printed attached; spaced per the rules. «للنسائيّ» prints the nisba mark (zoomed)."
+      ]
+    },
+    {
+      "number": 399,
+      "book_page": 249,
+      "heading": "ما يكتب في صدور الاتفاقيات",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٢ ص١٣٨",
+      "source": {
+        "collection": "muslim",
+        "volume": 12,
+        "page": 138
+      },
+      "text": "حدثنا أبو بكر بن أبي شيبة حدثنا عفان حدثنا حماد بن سلمة عن ثابت **عن أنس أن قريشا صالحوا النبي ﷺ فيهم سهيل بن عمرو ، فقال النبي ﷺ لعلي : « اكتب بسم الله الرحمن الرحيم » . قال سهيل : أما باسم الله فلا ندري ما باسم الله الرحمن الرحيم ، ولكن اكتب باسمك اللهم . فقال : « اكتب من محمد رسول الله » . قالوا : لو علمنا أنك رسول الله لاتبعناك ، ولكن اكتب اسمك واسم أبيك . فقال النبي ﷺ : « اكتب من محمد بن عبد الله » . فاشترطوا على النبي ﷺ أن من جاء منكم لم نرده عليكم ، ومن جاء منا رددتموه علينا ، فقالوا : يا رسول الله أنكتب هذا ؟ قال : « نعم إنه من ذهب منا إليهم فأبعده الله ، ومن جاءنا منهم سيجعل الله له فرجا ومخرجا » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٣ / ٢٦٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 14,
+          "field": "text",
+          "printed": "فلا",
+          "corrected": "فما",
+          "confidence": 0.83,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The last entry of the chapter; a «****» ornament follows it and p. 250 begins «باب الاستئذان»."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "chapter": "باب",
+  "book_pages": [
+    413,
+    416
+  ],
+  "notes": [
+    "The chapter's title on p. 413 is just «باب», printed after entry 661 (travel). The footnote at the foot of p. 413 belongs to the travel chapter.",
+    "Quran verse separators (small circles inside the verses on pp. 413, 415, 416) are written « . ».",
+    "Page 416 has heavy show-through of p. 415; only its bold headings, verses and footnote are its own. It ends with a row of asterisks «****», not transcribed. Page 417 starts «باب الأيمان».",
+    "Zoomed: «يُتَّبع» (p. 416, the heading's own marks), «وضىء» (p. 415, dotless ya with hamza), «إنى», «لشىء» (p. 413), «حسبى» (p. 416).",
+    "Review: the OCR flags were all misreads: three 'order' flags on the heading «ما يقوله الداعي إذا ضاق صدره» (p. 416 has two headings starting «ما يقوله الداعي إذا»), and one 'ocr-only' where the ornate Quran bracket was read into «ولا» (p. 415). Misprints: no check-scan or unknown lines; two variants kept (entry 662 «ما», entry 664 «حدثنا»)."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 413,
+      "heading": "باب",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **ولا تقولن لشىء إنى فاعل ذلك غدا . إلا أن يشاء الله واذكر ربك إذا نسيت** ﴾ الكهف",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": 664,
+      "book_page": 415,
+      "heading": "ما يقال عند مجادلة أهل الكتاب",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **ولا تجادلوا أهل الكتاب إلا بالتى هى أحسن إلا الذين ظلموا منهم وقولوا آمنا بالذي أنزل إلينا وأنزل إليكم وإلهنا وإلهكم واحد ونحن له مسلمون** ﴾ العنكبوت ٤٦ . وقال تعالى : ﴿ **قل يا أهل الكتاب تعالوا إلى كلمة سواء بيننا وبينكم أن لا نعبد إلا الله ولا نشرك به شيئا ولا يتخذ بعضنا بعضا أربابا من دون الله فإن تولوا فقولوا اشهدوا بأنا مسلمون** ﴾ آل عمران ٦٤ . وقال تعالى : ﴿ **يا أهل الكتاب لم تكفرون بآيات الله وأنتم تشهدون . يا أهل الكتاب لم تلبسون الحق بالباطل وتكتمون الحق وأنتم تعلمون** ﴾ آل عمران ٧١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Three verses, each on its own paragraph in the book, joined into one block."
+      ]
+    },
+    {
+      "after_entry": 664,
+      "book_page": 415,
+      "heading": "آية المباهلة",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **فمن حآجك فيه من بعد ما جاءك من العلم فقل تعالوا ندع أبناءنا وأبناءكم ونساءنا ونساءكم وأنفسنا وأنفسكم ثم نبتهل فنجعل لعنة الله على الكاذبين** ﴾ آل عمران ٦١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": 664,
+      "book_page": 416,
+      "heading": "ما يقوله الداعي إذا لم يُتَّبع",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **فإن تولوا فقل حسبى الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم** ﴾ براءة ١٢٩ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": 664,
+      "book_page": 416,
+      "heading": "ما يقوله الداعي إذا ضاق صدره",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **ولقد نعلم أنك يضيق صدرك بما يقولون . فسبح بحمد ربك وكن من الساجدين . واعبد ربك حتى يأتيك اليقين** ﴾ الحجر ٩٧-٩٩ .",
+      "footnotes": [
+        "(*) [على «فسبح»] في معنى قوله : ﴿ **يا أيها الذين آمنوا استعينوا بالصبر والصلاة** ﴾ البقرة والله أعلم ."
+      ],
+      "corrections": [],
+      "transcriber_notes": []
+    }
+  ],
+  "entries": [
+    {
+      "number": 662,
+      "book_page": 414,
+      "heading": "لا يقال ما شاء الله وشاء فلان",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٢٥٩",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 259
+      },
+      "text": "حدثنا أبو الوليد الطيالسي حدثنا شعبة عن منصور عن عبد الله بن يسار **عن حذيفة عن النبي ﷺ قال : « لا تقولوا : ما شاء الله وشاء فلان ولكن قولوا : ما شاء الله ثم ما شاء فلان » .**",
+      "grading": "صحيح",
+      "takhrij": "وابن ماجه مطولا ٢١١٨ ، وأحمد ٥ / ٧٢ ، ٣٨٤ ، ٣٩٤ ، ٣٩٨ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 663,
+      "book_page": 414,
+      "heading": "لا يقال عبدي وأمتي",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٥ ص٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 15,
+        "page": 5
+      },
+      "text": "حدثنا يحيى بن أيوب وقتيبة وابن حجر قالوا : حدثنا إسماعيل - وهو ابن جعفر - عن العلاء عن أبيه **عن أبي هريرة أن رسول الله ﷺ قال : « لا يقولن أحدكم عبدي وأمتي كلكم عبيد الله وكل نسائكم إماء الله ولكن ليقل غلامي وجاريتي وفتاي وفتاتي » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٢٥٧ ، وابن السني في عمل اليوم والليلة رقم ٣٩٢ ، وأحمد ٢ / ٤٢٣ ، ٤٦٣ ، ٤٨٤ ، ٤٩١ ، ٥٠٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The grading is printed «حسن», though the hadith is in Muslim; transcribed as printed."
+      ]
+    },
+    {
+      "number": 664,
+      "book_page": 414,
+      "heading": "لا يقولن ربي لسيده",
+      "label": null,
+      "citation": "قال الإمام مسلم",
+      "source": {
+        "collection": "muslim"
+      },
+      "text": "حدثنا محمد بن رافع حدثنا عبد الرزاق أخبرنا معمر عن همام ابن منبه قال : هذا ما **حدثنا أبو هريرة عن رسول الله ﷺ فذكر أحاديث منها وقال رسول الله ﷺ : « لا يقل أحدكم اسق ربك أطعم ربك وضىء ربك ، ولا يقل أحدكم ربي وليقل سيدي مولاي ولا يقل أحدكم عبدي أمتي وليقل فتاي فتاتي غلامي » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه البخاري في العتق ٥ / ١٧٧ ، وأحمد ٢ / ٣١٦ .",
+      "footnotes": [
+        "(*) [على «لا يقولن ربي لسيده»] قد يجوز هذا في شرع من قبلنا ، قال يوسف عليه السلام : ﴿ **ارجع إلى ربك فسأله ما بال النسوة اللاتي قطعن أيديهن** ﴾ ."
+      ],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "footnotes.0",
+          "printed": "فسأله",
+          "corrected": "فاسأله",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: Quran misprint in the footnote; Yusuf 50 reads «فاسأله», and «فسأله» (past tense) breaks the imperative sequence after «ارجع»."
+        }
+      ],
+      "transcriber_notes": [
+        "The citation gives no volume or page. The footnote (*) is printed on the heading «لا يقولن ربي لسيده»."
+      ]
+    }
+  ]
+}

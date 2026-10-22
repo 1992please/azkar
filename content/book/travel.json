@@ -1,0 +1,970 @@
+{
+  "chapter": "باب في أذكار السفر",
+  "book_pages": [
+    394,
+    413
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": 627,
+      "book_page": 394,
+      "heading": "ما يقوله من استوى على بعيره مسافرا",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **ثم تذكروا نعمة ربكم إذا استويتم عليه وتقولوا سبحان الذى سخر لنا هذا وما كنا له مقرنين . وإنا إلى ربنا لمنقلبون** ﴾ . وقال تعالى : ﴿ **وقال اركبوا فيها باسم الله مجراها ومرساها إن ربي لغفور رحيم** ﴾ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The verse separator between «مقرنين» and «وإنا» is printed as a small dot; written « . »."
+      ]
+    },
+    {
+      "after_entry": 659,
+      "book_page": 412,
+      "heading": "الدعاء بالبركة إذا خيفت العين",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ **ولولا إذ دخلت جنتك قلت ما شاء الله لا قوة إلا بالله إن ترن أنا أقل منك مالا وولدا** ﴾ الكهف .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Read through heavy mirrored bleed-through on zoomed crops."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 627,
+      "book_page": 394,
+      "heading": "باب في أذكار السفر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٩ ص١١١",
+      "source": {
+        "collection": "muslim",
+        "volume": 9,
+        "page": 111
+      },
+      "text": "حدثني زهير بن حرب حدثنا إسماعيل بن علية عن عاصم الأحول **عن عبد الله ابن سرجس قال : كان رسول الله ﷺ إذا سافر يتعوذ من وعثاء السفر وكآبة المنقلب والحور بعد الكور ودعوة المظلوم وسوء المنظر في الأهل والمال .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ٣٨٨٨ ، والترمذي ج٩ ص٣٩٩ وقال : حسن صحيح . وابن السني في عمل اليوم والليلة رقم ٤٩٣ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«الكور» zoomed: printed with a final ra."
+      ]
+    },
+    {
+      "number": 628,
+      "book_page": 394,
+      "heading": "ما يقوله من استوى على بعيره مسافرا",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٩ ص١١٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 9,
+        "page": 110
+      },
+      "text": "حدثني هارون بن عبد الله حدثنا حجاج بن محمد قال : أخبرني ابن جريج أخبرني أبو الزبير أن عليا الأزدي أخبره **أن ابن عمر علمهم أن رسول الله ﷺ كان إذا استوى على بعيره خارجا إلى سفر كبر ثلاثا ثم قال : « سبحان الذي سخر لنا هذا وما كنا له مقرنين وإنا إلى ربنا لمنقلبون اللهم إنا نسألك في سفرنا هذا البر والتقوى ومن العمل ما ترضى اللهم هون علينا سفرنا هذا واطو عنا بعده اللهم أنت الصاحب في السفر والخليفة في الأهل اللهم إني أعوذ بك من وعثاء السفر وكآبة المنظر وسوء المنقلب في المال والأهل ، وإذا رجع قالهن وزاد فيهن آيبون تائبون عابدون لربنا حامدون » .**",
+      "grading": "حسن",
+      "takhrij": "وأبو داود ج٣ ص٧٥ ، والترمذي ج٩ ص٤٠٩ وقال : حسن . وأحمد ٢ / ١٥٠ ، وعزاه المزي في الأطراف للنسائيّ السنن الكبرى في التفسير .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The closing quotation mark is printed after «حامدون», so the whole report, including «وإذا رجع قالهن وزاد فيهن», is inside the quotation as printed."
+      ]
+    },
+    {
+      "number": 629,
+      "book_page": 395,
+      "heading": "التكبير عند الصعود والتسبيح عند النزول",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص١٣٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 135
+      },
+      "text": "حدثنا محمد بن يوسف حدثنا سفيان عن حصين بن عبد الرحمن عن سالم ابن أبي الجعد **عن جابر بن عبد الله رضي الله عنهما قال : « كنا إذا صعدنا كبَّرنا وإذا نزلنا سبَّحنا » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن السني في عمل اليوم والليلة رقم ٥١٧ .",
+      "footnotes": [
+        "(*) [على «حصين»] قوله عن حصين : تابع شعبة سفيان في روايته عن حصين في الحديث التالي لهذا في البخاري فتح ج٦ ص١٣٥ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Shaddas on «كبَّرنا» and «سبَّحنا» are printed."
+      ]
+    },
+    {
+      "number": 630,
+      "book_page": 395,
+      "heading": "ما يقوله من سافر وأسحر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٧ ص٣٩",
+      "source": {
+        "collection": "muslim",
+        "volume": 17,
+        "page": 39
+      },
+      "text": "حدثني أبو الطاهر أخبرنا عبد الله بن وهب أخبرني سليمان بن بلال عن سهيل بن أبي صالح عن أبيه **عن أبي هريرة أن النبي ﷺ كان إذا كان في سفر وأسحر يقول : « سمع سامع بحمد الله وحسن بلائه علينا ربنا صاحبنا وأفضل علينا عائذا بالله من النار » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٣٢٣ ، وابن السني في عمل اليوم والليلة رقم ٥١٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Grading printed «حسن» although the source is Muslim."
+      ]
+    },
+    {
+      "number": 631,
+      "book_page": 396,
+      "heading": "ما يقال إذا عثرت الدابة",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٢٦٠",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 260
+      },
+      "text": "حدثنا وهب بن بقية عن خالد يعني ابن عبد الله عن خالد يعني الحذاء عن أبي تميمة عن أبي المليح **عن رجل قال : كنت رديف النبي ﷺ فعثرت دابته فقلت : تعس الشيطان فقال : « لا تقل تعس الشيطان فإنك إذا قلت ذلك تعاظم حتى يكون مثل البيت ويقول بقوتي ولكن قل باسم الله فإنك إذا قلت ذلك تصاغر حتى يكون مثل الذباب » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن السني في عمل اليوم والليلة رقم ٥١٠ ، وأحمد ٥ / ٥٩ ، ٧١ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 632,
+      "book_page": 396,
+      "heading": "ما يقوله من قفل من غزو أو حج أو عمرة",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٨٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 188
+      },
+      "text": "حدثنا إسماعيل قال : حدثنا مالك عن نافع **عن عبد الله بن عمر رضي الله عنهما أن رسول الله ﷺ كان إذا قفل من غزو أو حج أو عمرة يكبُّر على كل شرف من الأرض ثلاث تكبيرات ثم يقول : « لا إله إلا الله وحده لا شريك له ، له الملك وله الحمد وهو على كل شيء قدير ، آيبون تائبون عابدون ، لربنا حامدون صدق الله وعده ، ونصر عبده ، وهزم الأحزاب وحده » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٩ ص١١٢ نووي ، وأبو داود ج٣ ص٢١٣ ، والترمذي ج٤ ص٢١ تحفة وقال : حسن صحيح . وابن السني في عمل اليوم والليلة رقم ٥١٩ ورقم ٥٣٥ ، وأحمد ٢ / ١٥ ، ٦٣ .",
+      "footnotes": [
+        "(*) [على «قفل»] قفل : أي رجع .",
+        "(**) [على «حج»] قوله من غزو أو حج أو عمرة : قال الحافظ ظاهره اختصاص ذلك بهذه الأمور الثلاثة وليس الحكم كذلك عند الجمهور بل يشرع قول ذلك في كل سفر إذا كان سفر طاعة كصلة الرحم وطلب العلم لما يشمل الجميع من اسم الطاعة .",
+        "(***) [على «عابدون»] في بعض الروايات - الصحيحة أيضا - زيادة ساجدون ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«يكبُّر» zoomed: a shadda with a damma is printed over the ba.",
+        "Footnote (**) runs from p. 396 onto p. 397 («=») and is joined."
+      ]
+    },
+    {
+      "number": 633,
+      "book_page": 397,
+      "heading": "ما يفعله من قدم من سفر",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص١٩٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 193
+      },
+      "text": "حدثنا سليمان بن حرب حدثنا شعبة عن محارب بن دثار قال : **سمعت جابر بن عبد الله رضي الله عنهما قال : كنت مع النبي ﷺ في سفر فلما قدمنا المدينة قال لي : « ادخل فصل ركعتين » .**",
+      "grading": "صحيح",
+      "takhrij": "ومسلم ص٤٩٦ ترتيب محمد فؤاد ، وعزاه المزي للنسائيّ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "ادخل فصل",
+          "corrected": "ادخل المسجد فصل",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 3087) is used."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 634,
+      "book_page": 397,
+      "heading": "ما يوصى به المسافر",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٢ ص٣٣١",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 331
+      },
+      "text": "حدثنا عثمان بن عمر ثنا أسامة عن سعيد المقبري **عن أبي هريرة أن رجلا أتى النبي يريد سفرا ليودعه فقال له رسول الله ﷺ : « أوصيك بتقوى الله والتكبير على كل شرف » فلما ولى قال : « اللهم اطو له البعد وهوِّن عليه السفر » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن السني في عمل اليوم والليلة رقم ٥٠٢ .",
+      "footnotes": [
+        "(****) [على «أسامة»] أسامة هو ابن زيد كما في رواية ابن السني وكما في تهذيب الكمال فأسامة الراوي عن سعيد المقبري هو أسامة بن زيد الليثي ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "«وهوِّن» has a printed shadda with kasra.",
+        "«النبي» is printed without ﷺ."
+      ]
+    },
+    {
+      "number": 635,
+      "book_page": 397,
+      "heading": "ما يقال للمسافر",
+      "label": null,
+      "citation": "قال ابن السني رقم ٥٠٦ عمل اليوم والليلة",
+      "source": {
+        "collection": "ibnsunni",
+        "hadith": 506
+      },
+      "text": "أخبرنا أبو يحيى الساجي ثنا أحمد بن سعيد الهمذاني ثنا ابن وهب أخبرنا الليث بن سعد وسعيد ابن أيوب عن الحسن بن ثوبان أنه **سمع موسى بن وردان يقول : أتيت أبا هريرة أودعه لسفر أردته فقال أبو هريرة : ألا أعلمك يا ابن أخي شيئا علمنيه رسول الله ﷺ أقوله عند الوداع ؟ قال قلت : بلى . قال : قل : « استودعك الله الذي لا تضيع ودائعه » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه ابن السني أيضا رقم ٥٠٨ ، وابن ماجه رقم ٢٨٢٥ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "الهمذاني",
+          "corrected": "الهمداني",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator from Ibn Wahb is Ahmad ibn Sa'id al-Hamdani, spelled «الهمداني» (with dal) in the collections; «الهمذاني» is a spelling no narration uses for him. Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 7 time(s) in the collections; the OCR confirms the page prints it."
+        },
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "الساجي",
+          "corrected": "الحساني",
+          "confidence": 0.85,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 4 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the entry's source isn't in the databases, so its wording can't be compared."
+        }
+      ],
+      "transcriber_notes": [
+        "«استودعك» is printed without a hamza.",
+        "«لسفر» (misprints: unknown) checked on the scan: «أودعه لسفر أردته» is printed and grammatical; kept.",
+        "Correction 3 is left for the owner: «أبو يحيى الساجي» is the name of a known traditionist (Zakariyya ibn Yahya al-Saji), so the printed name may be right, and «الحساني» would name a different man."
+      ]
+    },
+    {
+      "number": 636,
+      "book_page": 398,
+      "heading": "ما يقال للمسافر",
+      "label": null,
+      "citation": "قال الإمام أحمد مسند ج٢ ص٢٥",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 25
+      },
+      "text": "حدثنا وكيع حدثنا عبد العزيز بن عمر **عن قزعة قال : قال لي ابن عمر أودعك كما ودعني رسول الله ﷺ : « أستودع الله دينك وأمانتك وخواتيم عملك » .**",
+      "grading": "صحيح لشواهده",
+      "takhrij": "وأخرجه الحاكم ٢ / ٩٧ وقال : صحيح على شرط الشيخين ولم يخرجاه . وأبو داود رقم ٢٦٠٠ ، وابن ماجه من طريق نافع عن ابن عمر ، كان رسول الله ﷺ إذاَ أشخص السرايا يقول للشاخص فذكره حديث رقم ٢٨٢٦ .",
+      "footnotes": [
+        "(*) [على «صحيح لشواهده»] ورواه أحمد ص٣٨ لكن فيه اختلاف على عبد العزيز فأدخل بينه وبين قزعة إسماعيل بن جرير ، ص١٣٦ ج٢ فأدخل بين عبد العزيز وقزعة رجلا سماه يحيى بن إسماعيل بن جرير وكذا صوبه الحافظ ويحيى هذا لين الحديث ، وقال المعلق على سنن أبي داود وقال الشيخ أحمد شاكر في إسناد هذا الحديث بحث دقيق انظر المسند حديث ٤٩٥٧ ورجح أنه صحيح متصل . والحديث أخرجه ابن السني في عمل اليوم والليلة من حديث عبد الله بن يزيد الخطمي كان إذا شيع جيشا قال فذكر الحديث رقم ٥٠٥ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The footnote marker (*) is printed on the grading.",
+        "In the takhrij, «إذاَ» is printed with a fatha over the final alif."
+      ]
+    },
+    {
+      "number": 637,
+      "book_page": 398,
+      "heading": "ما يقال للمسافر",
+      "label": null,
+      "citation": "قال أحمد ج٢ ص٧ مسند",
+      "source": {
+        "collection": "ahmad",
+        "volume": 2,
+        "page": 7
+      },
+      "text": "حدثنا أبو معمر سعيد بن خثيم ثنا حنظلة **عن سالم بن عبد الله قال : كان أبي عبد الله بن عمر إذا أتى الرجل وهو يريد السفر قال له : ادن حتى أودعك الله كما كان رسول الله ﷺ يودعنا فيقول : « استودع الله دينك وأمانتك وخواتيم عملك » .** وللحديث شاهد آخر رواه أحمد مسند ج٢ ص٣٥٨ : ثنا إسحاق ثنا ابن لهيعة عن الحسن بن ثوبان عن موسى بن وردان **عن أبي هريرة أن النبي ﷺ كان إذا ودع أحدًا قال : « استودع الله دينك وأمانتك وخواتيم عملك » .**",
+      "grading": null,
+      "takhrij": "وأخرجه الحاكم من طريق حنظلة بن أبي سفيان أنه سمع القاسم بن محمد فذكره ج١ ص٤٤٢ وقال : صحيح على شرط الشيخين ولم يخرجاه بهذا اللفظ . ووافقه الذهبي ج٢ ص٩٧ مستدرك .",
+      "footnotes": [
+        "(*) [على «عملك»] وأخرجه إبن ماجه رقم ٢٨٢٥ ."
+      ],
+      "corrections": [
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "أودعك الله كما",
+          "corrected": "أودعك كما",
+          "confidence": 0.66,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 6 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "No grading is printed after this entry; the page ends with a «****» separator.",
+        "The shahid of Abu Hurayra («وللحديث شاهد آخر رواه أحمد مسند ج٢ ص٣٥٨ :») is printed without an entry number and is kept in text, its citation line in regular type as printed.",
+        "«استودع» is printed without a hamza in both narrations; «أحدًا» has a printed tanween.",
+        "Footnote (*) is anchored on the last «عملك» (end of the Abu Hurayra shahid). In it, «إبن» appears printed with a hamza under the alif."
+      ]
+    },
+    {
+      "number": 638,
+      "book_page": 400,
+      "heading": "ما يقال لمن استجد ثوبا",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٤٢٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 425
+      },
+      "text": "حدثنا حبان أخبرنا عبد الله عن خالد بن سعيد عن أبيه **عن أم خالد بنت خالد ابن سعيد قالت : أتيت رسول الله ﷺ معي أبي وعليّ قميص أصفر ، قال رسول الله ﷺ : « سَنَه سَنَه » . قال عبد الله : وهي بالحبشية حسنة ، قالت : فذهبت ألعب بخاتم النبوة فزبرني أبي قال رسول الله ﷺ : « دعها » ، ثم قال رسول الله ﷺ : « أبلي وأخلقي ، ثم أبلي وأخلقي ، ثم أبلي وأخلقي » قال عبد الله : فبقيت حتى ذكر يعني من بقائها .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٤ ص٣١١ ، وابن السني رقم ٢٧٠ ، وأحمد ٦ / ٣٦٥ .",
+      "footnotes": [
+        "(*) [على «خالد بن سعيد»] قال الحافظ فتح ج٦ ص١٨٤ « تنبيه » : خالد بن سعيد المذكور في السند شيخ عبد الله وهو ابن المبارك هو خالد بن سعيد بن عمرو بن سعيد بن العاص وقد كرره عنه كما نبهت عليه وفي طبقته خالد بن سعيد ابن أبي مريم المدني لكن لم يخرج له البخاري ولا لابن المبارك عنه رواية وأوهم الكرماني أن شيخ ابن المبارك هنا هو خالد بن الزبير بن العوام ولا أدري من أين له ذلك .",
+        "(**) [على «سَنَه سَنَه»] سناه بالحبشية معناه حسن قاله الحميدي فتح ج٧ ص١٨٨ .",
+        "(***) [على «أبلي وأخلقي»] قوله قال « أبلي وأخلقي » قال الحافظ فتح ج١٠ ص٢٨٠ بعد أن ضبطها : والعرب تطلق ذلك وتريد الدعاء بطول البقاء للمخاطب بذلك أي أنها تطول حياتها حتى يبلى الثوب ويخلق ."
+      ],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "معي",
+          "corrected": "مع",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5993) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«وعليّ» zoomed: a shadda-like mark is printed over the ya. «سَنَه سَنَه» has printed fathas on sin and nun.",
+        "In footnote (*), «خالد بن الزبير بن العوام» is as printed."
+      ]
+    },
+    {
+      "number": 639,
+      "book_page": 400,
+      "heading": "ما يقوله من استجد ثوبا",
+      "label": null,
+      "citation": "قال أبو داود ج٤ ص٣٠٩",
+      "source": {
+        "collection": "abudawud",
+        "volume": 4,
+        "page": 309
+      },
+      "text": "حدثنا عمرو بن عون أخبرنا ابن المبارك عن الجريري عن أبي نضرة **عن أبي سعيد الخدري قال : كان رسول الله ﷺ إذا استجد ثوبا سماه باسمه ؛ إما قميصا أو عمامة ثم يقول : « اللهم لك الحمد أنت كسوتنيه أسألك من خيره وخير ما صنع له وأعوذ بك من شره وشر ما صنع له » .**",
+      "grading": "صحيح",
+      "takhrij": "والترمذي وقال : حديث حسن ج٥ ص٤٦٠ تحفة ، وذكر هناك متابعة لابن المبارك تابعه القاسم بن مالك المزني عن الجريري ، وابن السني رقم ٢٧١ ، وأحمد ٣ / ٣٠ ، ٥٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The scan of p. 401 has heavy mirrored bleed-through from the facing page; the real print (end of the text, the grading «صحيح», a «****» separator and the takhrij) was read through it on zoomed crops.",
+        "The semicolon «؛» after «باسمه» is as printed."
+      ]
+    },
+    {
+      "number": 640,
+      "book_page": 402,
+      "heading": "ما يقال عند أول الثمر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٩ ص١٤٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 9,
+        "page": 146
+      },
+      "text": "حدثنا يحيى بن يحيى أخبرنا عبد العزيز بن محمد المدني عن سهيل بن أبي صالح عن أبيه **عن أبي هريرة أن رسول الله ﷺ كان يؤتى بأول الثمر فيقول : « اللهم بارك لنا في مدينتنا وفي ثمارنا وفي مدنا وفي صاعنا بركة مع بركة » ثم يعطيه أصغر من يحضره من الولدان .**",
+      "grading": "حسن",
+      "takhrij": "وابن ماجه في الأطعمة ٣٩ ، وابن السني في عمل اليوم والليلة رقم ٢٨٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Grading printed «حسن» although the source is Muslim."
+      ]
+    },
+    {
+      "number": 641,
+      "book_page": 402,
+      "heading": "ما يقال عند أول الثمر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٩ ص١٤٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 9,
+        "page": 145
+      },
+      "text": "حدثنا قتيبة بن سعيد عن مالك بن أنس فيما قريء عليه عن سهيل بن أبي صال عن أبيه **عن أبي هريرة أنه قال : كان الناس إذا رأوا أول الثمر جاءوا به النبي ﷺ فإذا أخذه رسول الله ﷺ قال : « اللهم بارك لنا في ثمرنا وبارك لنا في مدينتنا وبارك لنا في صاعنا وبارك لنا في مدنا اللهم إن إبراهيم عبدك وخليلك ونبيك وإني عبدك ونبيك وأنه دعاك لمكة وأنا أدعوك للمدينة بمثل ما دعاك لمكة ومثله معه » قال : ثم يدعو أصغر وليد له فيعطيه ذلك الثمر .**",
+      "grading": "حسن",
+      "takhrij": "والترمذي ج٩ ص٤١٩ تحفة وقال : حسن صحيح . وأحمد ٢ / ٣٣٠ ، وعزاه المزي للنسائيّ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "أبي صال عن",
+          "corrected": "أبي صالح عن",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator is Suhayl ibn Abi Salih (as in entry 640); «صال» is the name with its final ha dropped, a spelling no narration uses."
+        },
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "به النبي",
+          "corrected": "به إلى النبي",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; in the hadith text the wording of the cited source (muslim 1373.01) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«قريء» zoomed: printed with the hamza after the ya. «صال» zoomed: printed without the final ha.",
+        "Grading printed «حسن» although the source is Muslim."
+      ]
+    },
+    {
+      "number": 642,
+      "book_page": 403,
+      "heading": "من استعاذ بالله ومن سأل بالله",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٣٤",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 334
+      },
+      "text": "حدثنا نصر بن علي وعبيد الله بن عمر - الجشمي - حدثنا خالد بن الحارث قال نصر بن أبي عروبة عن قتادة عن أبي نهيك **عن ابن عباس أن رسول الله ﷺ قال : « من استعاذ بالله فأعيذوه ومن سألكم بالله فأعطوه » . قال عبيد الله : « من سألك بالله » .**",
+      "grading": "صحيح لما بعده",
+      "takhrij": "وأحمد ١ / ٢٥٠ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "سألكم بالله فأعطوه",
+          "corrected": "سألكم بوجه الله فأعطوه",
+          "confidence": 0.48,
+          "status": "proposed",
+          "decided_by": null,
+          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "من سألك بالله",
+          "corrected": "من سألكم بالله",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "«قال نصر بن أبي عروبة» zoomed: printed «بن» (Abu Dawud has «قال نصر : ابن أبي عروبة»); kept as printed.",
+        "Correction 8 is left for the owner (meaning): the book's own «قال عبيد الله : من سألك بالله» implies the main wording differs from it, as Abu Dawud's «بوجه الله» does."
+      ]
+    },
+    {
+      "number": 643,
+      "book_page": 403,
+      "heading": "ما يجازى به من صنع معروفا",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٣٥",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 335
+      },
+      "text": "حدثنا مسدد وسهل بن بكار قالا : حدثنا أبو عوانة ح وحدثنا عثمان بن أبي شيبة حدثنا جرير المعنى عن الأعمش عن مجاهد **عن ابن عمر قال : قال رسول الله ﷺ : « من استعاذكم بالله فأعيذوه ومن سألكم بالله فأعطوه » . وقال سهل وعثمان : « ومن دعاكم فأجيبوه » . ثم اتفقوا « ومن أتى إليكم معروفا فكافئوه » . قال مسدد وعثمان : « فإن لم تجدوا فادعوا - الله - له حتى تعلموا أن قد كافأتموه » .**",
+      "grading": "صحيح",
+      "takhrij": "وأحمد مختصرا ٢ / ٦٨ ، ٩٩ ، ١٢٧ ، والبخاري في الأدب المفرد ٢١٦ ، والحاكم ١ / ٤١٢ ، ٤١٣ ، والنسائيّ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«الله» between dashes in «فادعوا - الله - له» is as printed."
+      ]
+    },
+    {
+      "number": 644,
+      "book_page": 404,
+      "heading": "ما يجازى به من صنع معروفا",
+      "label": null,
+      "citation": "قال الترمذي تحفة ج٦ ص١٨٥",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 6,
+        "page": 185
+      },
+      "text": "حدثنا إبراهيم بن سعيد الجوبري والحسين بن الحسن المروزي وكان سكن بمكة قالا : ثنا الأحوص بن جواب عن سعير بن الخمس عن سليمان التيمي عن أبي عثمان النهدي **عن أسامة بن زيد قال : قال رسول الله ﷺ : « من صنع إليه معروفا فقال لفاعله جزاك الله خيرا فقد أبلغ في الثناء » .**",
+      "grading": null,
+      "takhrij": "وقال الترمذي : هذا حديث حسن جيد غريب لا نعرفه من حديث أسامة إلا من هذا الوجه وقد روي عن أبي هريرة عن النبي ﷺ بمثله وسألت محمدًا فلم يعرفه . وأخرجه ابن السني في عمل اليوم والليلة رقم ٢٧٦ .",
+      "footnotes": [
+        "(*) [على «الثناء»] قال أبو حاتم في العلل ٢ / ٢٣٦ هذا الحديث عندي موضوع بهذا الإسناد . قلت : ولا أدري لماذا حكم عليه أبو حاتم - رحمه الله - بالوضع . والشاهد الذي أشار إليه الترمذي من حديث أبي هريرة - رضي الله عنه - أخرجه عبد بن حميد في المنتخب رقم ١٤١٦ بتحقيقنا وفي إسناده موسى بن عبيدة الربذي وهو ضعيف وفيه أيضًا محمد بن ثابت وهو مجهول . وانظر صحيح الجامع للشيخ ناصر الدين الألباني رقم ٧٢١ ، ٦٢٤٤ ."
+      ],
+      "corrections": [
+        {
+          "id": 15,
+          "field": "text",
+          "printed": "الجوبري",
+          "corrected": "الجوهري",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: the narrator is Ibrahim ibn Sa'id al-Jawhari, as in the cited Tirmidhi chain (2035); «الجوبري» is a spelling no narration uses. The misprints tool didn't pair the two words because the chain's two names are in the other order there."
+        },
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "معروفا",
+          "corrected": "معروف",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "The scan of p. 404 has heavy mirrored bleed-through; the print was read on zoomed crops.",
+        "No grading is printed after this entry; the text is followed by a «****» separator.",
+        "«الجوبري» zoomed: printed with a ba (the narrator is al-Jawhari); kept as printed, corrected by hand (correction 15).",
+        "«وكان سكن بمكة» (Tirmidhi: «المروزي بمكة») is clear on the scan; once correction 15 was added, the tool no longer asks about it.",
+        "«معروفا» is printed with a final alif.",
+        "The footnote's last paragraphs («والشاهد …», «وانظر …») follow a short rule under the same (*) note and are joined into it."
+      ]
+    },
+    {
+      "number": 645,
+      "book_page": 405,
+      "heading": "النهي عن سب الريح",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٢٨",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 328
+      },
+      "text": "حدثنا أحمد بن محمد المروزي وسلمة يعني ابن شبيب قالا : حدثنا عبد الرزاق أخبرنا معمر عن الزهري قال : حدثني ثابت بن قيس **أن أبا هريرة قال : سمعت رسول الله ﷺ يقول : « الريح من روح الله » قال سلمة : « فروح الله تأتي بالرحمة وتأتي بالعذاب فإذا رأيتموها فلا تسبوها وسلوا الله من خيرها واستعيذوا بالله من شرها » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ٣٧٢٧ ، وعزاه المزي في الأطراف للنسائيّ ، وأخرجه أحمد ٢ / ٢٦٨ ، ٤٠٩ ، ٥١٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The scan of p. 405 has heavy mirrored bleed-through; the print was read on zoomed crops. Where bold begins in the chain is hard to see through it; bold is marked from «أن أبا هريرة»."
+      ]
+    },
+    {
+      "number": 646,
+      "book_page": 405,
+      "heading": "ما يقال إذا عصفت الريح",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص١٩٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 196
+      },
+      "text": "حدثني أبو الطاهر أخبرنا ابن وهب قال : سمعت ابن جريج يحدثنا عن عطاء بن أبي رباح **عن عائشة زوج النبي ﷺ أنها قالت : كان رسول الله ﷺ إذا عصفت الريح قال : « اللهم إني أسألك خيرها وخير ما فيها وخير ما أرسلت به ، وأعوذ بك من شرها وشر ما فيها وشر ما أرسلت به » . قالت : وإذا تخيلت السماء تغير لونه وخرج ودخل وأقبل وأدبر فإذا مطرت سري عنه فعرفت ذلك في وجهه قالت عائشة : فسألته فقال : « لعله يا عائشة كما قال قوم عاد فلما رأوه عارضا مستقبل أوديتهم قالوا هذا عارض ممطرنا » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه الترمذي في الدعوات ٥٠ وقال : حسن ، وابن ماجه في الدعاء ٢١ : ٣ ، وعزاه المزي في الأطراف للنسائيّ في اليوم والليلة .",
+      "footnotes": [
+        "(*) [على «صحيح»] باعتبار من يقبل عنعنات الصحيحين ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The footnote marker (*) is printed on the grading.",
+        "The Quran words «فلما رأوه عارضا مستقبل أوديتهم قالوا هذا عارض ممطرنا» are printed without Quran brackets; kept as printed."
+      ]
+    },
+    {
+      "number": 647,
+      "book_page": 406,
+      "heading": "ما يقال وما لا يقال عند المطر",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٥٢٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 522
+      },
+      "text": "حدثنا إسماعيل حدثني مالك عن صالح بن كيسان عن عبيد الله بن عبد الله بن عتبة بن مسعود **عن زيد بن خالد الجهني أنه قال : صلى بنا رسول الله ﷺ صلاة الصبح بالحديبية على إثر سماء كانت من الليل فلما انصرف النبي ﷺ أقبل على الناس فقال : « هل تدرون ماذا قال ربكم ؟ » قالوا : الله ورسوله أعلم . قال : « أصبح من عبادي مؤمن بي وكافر ، فأما من قال مطرنا بفضل الله ورحمته فذلك مؤمن بي كافر بالكوكب ، وأما من قال بنوء كذا وكذا فذلك كافر بي مؤمن بالكوكب » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٢ ص٥٩ ، وأبو داود ج٤ ص٢٢٧ ، والنسائيّ ج٣ ص١٦٥ ، وأحمد ٤ / ١١٧ ، وأبو عوانة ١ / ٢٦ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "بنا",
+          "corrected": "لنا",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 10 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1038) is used."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 648,
+      "book_page": 406,
+      "heading": "ما يقال إذا رؤي المطر",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٢ ص٥١٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 2,
+        "page": 518
+      },
+      "text": "حدثنا محمد هو ابن مقاتل أبو الحسن المروزي قال : أخبرنا عبد الله قال : أخبرنا عبيد الله عن نافع عن القاسم بن محمد **عن عائشة أن رسول الله ﷺ كان إذا رأى المطر قال : « اللهم صيبًا نافعًا »** تابعه القاسم بن يحيى عن عبيد الله ورواه الأوزاعي وعقيل عن نافع .",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٣٣٠ ، وابن ماجه ٣٨٩٠ ، والنسائيّ ج٣ ص١٦٤ ، وأحمد ٦ / ١١٩ ، ١٢٩ ، ١٣٨ ، ١٦٦ ، ١٩٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«صيبًا نافعًا» zoomed: tanween printed on both.",
+        "Bukhari's remark «تابعه القاسم بن يحيى … عن نافع» follows the hadith in regular type and is kept in text as printed."
+      ]
+    },
+    {
+      "number": 649,
+      "book_page": 407,
+      "heading": "ما يقال وما يفعل عند الغيم والريح والمطر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص١٩٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 196
+      },
+      "text": "حدثنا عبد الله بن مسلمة بن قعنب حدثنا سليمان يعني ابن بلال عن جعفر وهو ابن محمد عن عطاء بن أبي رباح أنه **سمع عائشة زوج النبي ﷺ تقول : كان رسول الله ﷺ إذا كان يوم الريح والغيم عرف ذلك في وجهه وأقبل وأدبر فإذا مطرت سر به وذهب عنه ذلك . قالت عائشة : فسألته فقال : « إني خشيت أن يكون عذابا سلط على أمتي ويقول إذا رأى المطر : رحمة » .**",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote is printed for this entry.",
+        "Grading printed «حسن» although the source is Muslim.",
+        "«سر به» zoomed: as printed."
+      ]
+    },
+    {
+      "number": 650,
+      "book_page": 407,
+      "heading": "ما يقال وما يفعل عند الغيم والريح والمطر",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٢٩",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 329
+      },
+      "text": "حدثنا أحمد بن صالح حدثنا عبد الله بن وهب أخبرنا عمرو أن أبا النضر حدثه عن سليمان بن يسار **عن عائشة زوج النبي ﷺ أنها قالت : ما رأيت رسول الله ﷺ قط مستجمعا ضاحكا حتى أرى منه لهواته إنما كان يتسم وكان إذا رأى غيما أو ريحا عرف ذلك في وجهه فقلت : يا رسول الله الناس إذا رأوا الغيم فرحوا رجاء أن يكون فيه المطر وأراك إذا رأيته عرفت في وجهك الكراهية فقال : « يا عائشة ما يؤمنني أن يكون فيه عذاب قد عذب قوم بالريح - و - قد رأى قوم العذاب فقالوا : هذا عارض ممطرنا » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه البخاري فتح ٨ / ٥٧٨ ، ومسلم في الاستسقاء ، وأحمد ٦ / ٦٦ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 13,
+          "field": "text",
+          "printed": "يتسم",
+          "corrected": "يتبسم",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (abudawud 5098) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "«يتسم» zoomed: printed without the ba (the narrations have «يتبسم»); kept as printed, left to the misprints step.",
+        "«حدثه» zoomed: a small mark under the ha may be a speck; written «حدثه».",
+        "«- و -» between dashes is as printed."
+      ]
+    },
+    {
+      "number": 651,
+      "book_page": 407,
+      "heading": "ما يقال عند رؤية ناشئ في السماء",
+      "label": null,
+      "citation": "قال أبو داود ج٥ ص٣٣٠",
+      "source": {
+        "collection": "abudawud",
+        "volume": 5,
+        "page": 330
+      },
+      "text": "حدثنا ابن بشار حدثنا عبد الرحمن حدثنا سفيان عن المقدام بن شريح عن أبيه **عن عائشة رضي الله عنها أن النبي ﷺ كان إذا رأى ناشئا في أفق السماء ترك العمل وإن كان في صلاة ثم يقول : « اللهم إني أعوذ بك من شرها » فإن مطر قال : « اللهم صيِّبا هنيئا » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه ابن ماجه ٣٨٨٩ ، وابن السني في عمل اليوم والليلة ٣٠٢ ، وأحمد ٦ / ١٣٧ ، ١٣٨ ، وابن حبان رقم ٦٠٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The scan of p. 408 has heavy mirrored bleed-through; the print was read on zoomed crops.",
+        "«صيِّبا» has a printed shadda with kasra."
+      ]
+    },
+    {
+      "number": 652,
+      "book_page": 408,
+      "heading": "ما يفعل عند المطر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٦ ص١٩٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 6,
+        "page": 195
+      },
+      "text": "حدثنا يحيى بن يحيى أخبرنا جعفر بن سليمان عن ثابت البناني **عن أنس قال : قال أنس : أصابنا ونحن مع رسول الله ﷺ مطر قال : فحسر رسول الله ﷺ ثوبه حتى أصابه من المطر فقلنا : يا رسول الله لم صنعت هذا ؟ قال : « لأنه حديث عهد بربه تعالى » .**",
+      "grading": null,
+      "takhrij": "وأبو داود رقم ٥١٠٠ كتاب الأدب باب ما جاء في المطر ، وأخرجه أحمد ٣ / ١٣٣ ، ٢٦٧ .",
+      "footnotes": [
+        "(*) [على «تعالى»] هذا الحديث - وإن كان رواه مسلم - إلا أنه من رواية جعفر عن ثابت وفيها ضعف ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "No grading is printed after this entry; the next heading follows the text directly.",
+        "The (*) footnote's marker in the text can't be seen through the bleed-through; it is anchored on the end of the hadith."
+      ]
+    },
+    {
+      "number": 653,
+      "book_page": 408,
+      "heading": "ما يقال عند رؤية القمر",
+      "label": null,
+      "citation": "قال الترمذي ج٩ ص٢٠٣ تحفة",
+      "source": {
+        "collection": "tirmidhi",
+        "volume": 9,
+        "page": 203
+      },
+      "text": "حدثنا محمد بن المثنى أخبرنا عبد الملك بن عمرو عن ابن أبي ذئب عن الحارث بن عبد الرحمن عن أبي سلمة **عن عائشة أن النبي ﷺ نظر إلى القمر فقال : « يا عائشة استعيذي بالله من شر هذا فإن هذا هو الغاسق إذا وقب » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أحمد ٦ / ٦١ ، ٢٠٦ ، ٢٣٧ ، وابن السني رقم ٦٥٣ ، والحاكم ٢ / ٥٤٠ ، ٥٤١ وقال : صحيح . ووافقه الذهبي .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Citation digits zoomed: «ج٩ ص٢٠٣»."
+      ]
+    },
+    {
+      "number": 654,
+      "book_page": 409,
+      "heading": "دعاء الكرب",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٧ ص٤٧",
+      "source": {
+        "collection": "muslim",
+        "volume": 17,
+        "page": 47
+      },
+      "text": "حدثنا محمد بن المثنى وابن بشار وعبيد الله بن سعيد - واللفظ لابن سعيد - قالوا حدثنا معاذ بن هشام حدثني أبي عن قتادة عن أبي العالية **عن ابن عباس أن نبي الله ﷺ كان يقول عند الكرب : « لا إله إلا الله العظيم الحليم لا إله إلا الله رب العرش العظيم لا إله إلا الله رب السموات ورب الأرض ورب العرش الكريم » .** قال مسلم : وحدثنا عبد بن حميد أخبرنا محمد بن بشر العبدي حدثنا سعيد بن أبي عروبة عن قتادة أن أبا العالية الرياحي حدثهم **عن ابن عباس أن رسول الله ﷺ كان يدعو بهن ويقولهن عند الكرب فذكر بمثل حديث معاذ بن هشام عن أبيه عن قتادة غير أنه قال رب السموات والأرض .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه البخاري فتح ج١١ ص١٤٥ ، وابن ماجه ٣٨٨٣ ، والترمذي ج٩ ص٣٩٤ تحفة وقال : حسن صحيح . وأخرجه في السير رقم ٥٧٨ وقال : حديث حسن غريب لا نعرفه إلا من هذا الوجه من حديث بكار بن عبد العزيز والعمل على هذا عند أكثر أهل العلم رأوا سجدة الشكر ، وبكار بن عبد العزيز مقارب الحديث . وأحمد ١ / ٢٢٨ ، ٢٨٤ ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى النعوت .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The scan of p. 409 has mirrored bleed-through; doubtful spots were read on zoomed crops.",
+        "Muslim's second chain («قال مسلم : وحدثنا عبد بن حميد …») is printed without an entry number and kept in text, in regular type as printed.",
+        "The footnote numbered (٦٥٤) is printed as one paragraph; its middle part («وأخرجه في السير رقم ٥٧٨ … مقارب الحديث») is about entry 655 (Bakkar ibn Abd al-Aziz, prostration of thanks), but no (٦٥٥) number is printed, so the whole paragraph is kept here as printed."
+      ]
+    },
+    {
+      "number": 655,
+      "book_page": 409,
+      "heading": "مشروعية سجود الشكر",
+      "label": null,
+      "citation": "قال أبو داود ج٣ ص٢١٦",
+      "source": {
+        "collection": "abudawud",
+        "volume": 3,
+        "page": 216
+      },
+      "text": "حدثنا مخلد بن خالد حدثنا أبو عاصم عن أبي بكرة بكار بن عبد العزيز أخبرني أبي عبد العزيز **عن أبي بكرة عن النبي ﷺ أنه كان إذا جاءه أمر سرور أو بُشِّر به خر ساجدًا شاكرًا لله .**",
+      "grading": "حسن لشواهده",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No footnote numbered (٦٥٥) is printed; its references appear inside the (٦٥٤) footnote (see entry 654).",
+        "«بُشِّر», «ساجدًا», «شاكرًا» have their printed marks."
+      ]
+    },
+    {
+      "number": 656,
+      "book_page": 410,
+      "heading": "مشروعية سجود الشكر",
+      "label": null,
+      "citation": "قال ابن ماجه ١٣٩٢",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 1392
+      },
+      "text": "حدثنا يحيى بن عثمان بن صالح المصري أنا أبي ثنا ابن لهيعة عن زيد بن أبي حبيب عن عمرو بن الوليد بن عبدة السهمي **عن أنس بن مالك أن النبي ﷺ بُشِّر بحاجة فخر ساجدا .**",
+      "grading": null,
+      "takhrij": null,
+      "footnotes": [
+        "(*) [على «ساجدا»] وله شواهد أخرى لا تخلو من ضعف من حديث عبد الرحمن بن عوف أخرجه أحمد ١ / ١٩١ والبيهقي ٢ / ٣٧١ والحاكم ١ / ٥٥٠ ومن حديث سعد بن أبي وقاص أبو داود ٢٧٧٥ ومن حديث البراء بن عازب أخرجه البيهقي ٢ / ٣٦٩ ."
+      ],
+      "corrections": [
+        {
+          "id": 14,
+          "field": "text",
+          "printed": "زيد",
+          "corrected": "يزيد",
+          "confidence": 0.99,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 45 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": [
+        "No grading and no numbered source-reference footnote are printed for this entry; the next heading follows the text.",
+        "«زيد بن أبي حبيب» is as printed (the narrator is usually Yazid ibn Abi Habib); left to the misprints step."
+      ]
+    },
+    {
+      "number": 657,
+      "book_page": 410,
+      "heading": "السجود عند الأمر المفرح",
+      "label": null,
+      "citation": "قال ابن ماجه ١٣٩٣",
+      "source": {
+        "collection": "ibnmajah",
+        "hadith": 1393
+      },
+      "text": "حدثنا محمد بن يحيى ثنا عبد الرزاق عن معمر عن الزهري عن عبد الرحمن بن كعب ابن مالك **عن أبيه قال : لما تاب الله عليه خر ساجدا .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [
+        "(**) [على «ساجدا»] استدل لسجود الشكر بما رواه النسائيّ من طريق سعيد بن جبير عن ابن عباس مرفوعا بشأن سجدة ص « سجدها داود توبة ونحن نسجدها شكرا » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "No numbered source-reference footnote is printed; the page ends with a «****» separator.",
+        "The footnote's marker under the rule looks like «(٢)» while the text marker is «(**)»; written «(**)»."
+      ]
+    },
+    {
+      "number": 658,
+      "book_page": 411,
+      "heading": "إعلام الرجل أخيه أنه يحبه",
+      "label": null,
+      "citation": "قال ابن السني في عمل اليوم والليلة رقم ١٩٦",
+      "source": {
+        "collection": "ibnsunni",
+        "hadith": 196
+      },
+      "text": "أخبرنا أبو عبد الرحمن أنبأنا شعيب بن يوسف عن يحيى بن سعيد - القطان - عن ثور بن يزيد حدثني حبيب بن عبيد **عن المقدام بن معدي كرب أن النبي ﷺ قال : « إذا أحب أحدكم أخاه فليعلمه ذلك » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد ٤ / ١٣٠ ، ٥ / ١٤٥ ، ١٧٣ .",
+      "footnotes": [
+        "(*) [على «يحبه»] وقال تعالى : ﴿ وقولوا للناس حسنا ﴾ .",
+        "(**) [على «أبو عبد الرحمن»] أبو عبد الرحمن هو النسائيّ .",
+        "(***) [على «صحيح»] وله شاهد آخر ورجاله ثقات إلا أن فيه مبارك بن فضالة وإن كان احتج به البخاري وأخرج له إلا أنه مدلس تدليس تسوية وقد عنعن ولفظه أن رجلا قال : يا رسول الله إني أحب فلانا قال : « فأخبرته ؟ » قال : لا قال : « قم فأخبره » ، قال : فقال : إني أحبك في الله يا أخي فلان ، قال : فأحبك الله الذي أحببتني له . وهو رقم ١٩٧ عمل اليوم والليلة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Footnote (*) is printed on the heading «إعلام الرجل أخيه أنه يحبه» and is kept with this entry, the only one under it.",
+        "Footnote (***) is printed on the grading."
+      ]
+    },
+    {
+      "number": 659,
+      "book_page": 411,
+      "heading": "ما يقوله الصائم عند فطره",
+      "label": null,
+      "citation": "قال أبو داود ج٢ ص٧٦٥",
+      "source": {
+        "collection": "abudawud",
+        "volume": 2,
+        "page": 765
+      },
+      "text": "حدثنا عبد الله بن محمد بن يحيى أبو محمد حدثنا علي بن الحسن أخبرني الحسين ابن واقد **حدثنا مروان يعني ابن سالم المقفع - قال - : رأيت ابن عمر يقبض على لحيته فيقطع ما زاد على الكف وقال : كان رسول الله ﷺ إذا أفطر قال : « ذهب الظمأ وابتلت العروق وثبت الأجر إن شاء الله » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه الدارقطني ص ١٨٥ ج ٢ وقال : تفرد به الحسين بن واقد وإسناده حسن . والبيهقي ٤ / ٢٣٩ ، والحاكم ١ / ٤٢٢ وقال : هذا حديث صحيح على شرط الشيخين فقد احتجا بالحسين بن واقد ومروان بن المقفع . أما الذهبي فقد أشار إلى أنه على شرط البخاري وأشار إلى أنه احتج بمروان ، والحديث عزاه الشيخ ناصر الألباني إلى النسائي في السنن الكبرى ق٦٢/١ ، وأخرجه ابن السني رقم ٤٧٩ .",
+      "footnotes": [
+        "(****) [على «علي بن الحسن»] هو علي بن الحسن بن شقيق كما في رواية الدارقطني .",
+        "(*****) [على «هذا حديث صحيح»] الحديث أخرجه الشيخ ناصر في الإرواء رقم ٩٢٠ وحسنه وتعقب قول الحاكم أن الحديث على شرط الشيخين ورده . قلت : الحديث في سنده مروان بن سالم المقفع قال الحافظ فيه : في التقريب مقبول وفي التهذيب روى عنه الحسين بن واقد وعزرة بن ثابت ذكره ابن حبان في الثقات ، ولكننا في تحسين هذا الحديث عولنا على قول الدارقطني له ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The takhrij runs from p. 411 onto p. 412 («=») and is joined. Footnote (*****) is printed on «صحيح» inside the takhrij.",
+        "The paragraph «قلت : الحديث في سنده مروان …» follows a short rule after footnote (*****) and is joined into it (as in entry 644).",
+        "The scan of p. 412 has heavy mirrored bleed-through; «ق٦٢/١» and «رقم ٤٧٩» were read on zoomed crops through it. A bracket-like mark before «تحسين» is bleed-through.",
+        "«- قال -» between dashes is as printed. Bold is marked from «حدثنا مروان»."
+      ]
+    },
+    {
+      "number": 660,
+      "book_page": 412,
+      "heading": "الدعاء بالبركة إذا خيفت العين",
+      "label": null,
+      "citation": "قال ابن السني في عمل اليوم والليلة رقم ٢٠٧",
+      "source": {
+        "collection": "ibnsunni",
+        "hadith": 207
+      },
+      "text": "حدثنا سالم بن معاذ ثنا عبد الحميد محمد الحراني الإمام ثنا عثمان بن عبد الرحمن عن أبي رزين الأسدي - مسعود - قال : سمعت حزام بن حكيم يقول : **سمعت سعيد ابن حكيم يقول : كان النبي ﷺ إذا خاف أن يصيب شيئا بعينه قال : « اللهم بارك فيه ولا تضره » .**",
+      "grading": "حسن",
+      "takhrij": null,
+      "footnotes": [
+        "(******) [على «سعيد»] الظاهر أنه تصحيف حيث إنه لا يوجد صحابي اسمه سعيد بن حكيم وبمراجعة ترجمة حكيم ابن حزام وجد أن من الرواة عنه هو ولده حزام كما في الإصابة وأسد الغابة والتهذيب بل ولا من الرواة .",
+        "(*******) [على «حسن»] حيث إن له شاهدا في عمل اليوم والليلة رقم ٢٠٤ قال : أخبرنا أبو يعلى ثنا يحيى بن عبد الحميد الحماني ثنا عبد العزيز بن سليمان بن الغسيل ثنا مسلمة بن خالد الأنصاري عن أبي أمامة بن سهل بن حنيف عن أبيه قال : قال رسول الله ﷺ : « ما يمنع أحدكم إذا رأى من أخيه ما يعجبه في نفسه وماله فليبرك عليه فإن العين حق » . وشاهدا آخر رقم ٢٠٥ عمل اليوم والليلة أيضا قال : أخبرنا أبو عبد الرحمن أن إسحاق ابن إبراهيم أنبأنا معاوية بن هشام ثنا عمار بن رزيق عن عبد الله بن عيسى عن أمية بن هند عن عبد الله بن عامر بن ربيعة عن أبيه قال : خرجت أنا وسهل بن حنيف فوجدنا غديرا وكان أحدنا يستحي أن يراه أحد فاستتر مني ونزع جبة عليه ودخل الماء فنظرت إليه نظرة وأعجبني خلقه فأصبته بعيني فأخذته نافضة فدعوته فلم يجبني فأتيت رسول الله ﷺ فأخبرته فقال : « قم بنا » فأتاه فرفع عن ساقه حتى كأني أنظر إلى بياض وضح ساقه وهو يخوض الماء فأتاه فقال : « اللهم اذهب عنه حرها ووصبها » ثم قال : قم فقال رسول الله ﷺ : « إذا رأى أحدكم من نفسه وماله وأخيه ما يعجبه فليدع بالبركة » . وأخرجه ابن ماجه ٣٥٠٩ بزيادة . وشاهدا ثالثا رقم ٢٠٦ أخبرني محمد بن أحمد بن المهاجر وجعفر بن عيسى الحلواني ثنا عياش بن محمد بن محمد بن حجاج بن نصير ثنا أبو بكر الهذلي - عبد الله - عن ثمامة بن عبد الله بن أنس بن مالك أن رسول الله ﷺ قال : « من رأى شيئا فأعجبه فقال : ما شاء الله لا قوة إلا بالله لم تضره العين » ."
+      ],
+      "corrections": [
+        {
+          "id": 16,
+          "field": "text",
+          "printed": "عبد الحميد محمد",
+          "corrected": "عبد الحميد بن محمد",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «بن» is missing between the narrator's name and his father's (Abd al-Hamid ibn Muhammad al-Harrani); no chain writes a name without it."
+        }
+      ],
+      "transcriber_notes": [
+        "The scan of p. 412 has heavy mirrored bleed-through; the print was read on zoomed crops. The last digit of the citation number («٢٠٧») is partly covered by bleed-through.",
+        "«عبد الحميد محمد الحراني» is printed without «بن» (checked on the scan); corrected by hand (correction 16).",
+        "No source-reference footnote numbered (٦٦٠) is printed. Footnote (*******) is printed on the grading and runs from p. 412 onto p. 413 («=»); it is joined.",
+        "«يقول» before «سمعت سعيد» is printed stretched with a kashida; written without it. «- مسعود -» between dashes is as printed.",
+        "«فليبرك» and «تضره» in footnote (*******) are as printed through the bleed-through."
+      ]
+    },
+    {
+      "number": 661,
+      "book_page": 413,
+      "heading": "ما يقال لمن يبيع أو ينشد ضالَّة في المسجد",
+      "label": null,
+      "citation": "قال الترمذي رقم ١٣٢١",
+      "source": {
+        "collection": "tirmidhi",
+        "hadith": 1321
+      },
+      "text": "حدثنا الحسن بن علي الخلال حدثنا عارم حدثنا عبد العزيز بن محمد أخبرنا يزيد بن خصيفة عن محمد بن عبد الرحمن ابن ثوبان **عن أبي هريرة أن رسول الله ﷺ قال : « إذا رأيتم من يبيع أو يبتاع في المسجد فقولوا : لا أربح الله تجارتك ، وإذا رأيتم من ينشد ضالَّة فقولوا : لا رد الله عليك » .**",
+      "grading": "حسن",
+      "takhrij": "وقال : حديث حسن غريب . وأخرجه الدارمي ص٣٢٦ ج١ ، وابن الجارود رقم ٥٦٢ ، والبيهقي ٢ / ٤٤٧ ، والحاكم ٢ / ٥٦ وقال : صحيح على شرط مسلم . ووافقه الذهبي ، وابن السني رقم ١٥٣ الجزء الأول منه ورقم ١٥١ .",
+      "footnotes": [
+        "(*) [على «رد»] لفظ الدارمي : « لا ردها » ثم إنه أدخل بين محمد بن عبد الرحمن وأبي هريرة أدخل أبيه ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The scan of p. 413 has heavy mirrored bleed-through; the print was read on zoomed crops.",
+        "«ضالَّة» has a printed shadda with fatha, in the heading and the text.",
+        "The page goes on with the next chapter's title «باب»."
+      ]
+    }
+  ]
+}

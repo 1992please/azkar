@@ -1,0 +1,156 @@
+[
+  {
+    "entry": 606,
+    "kind": "extra",
+    "tokens": [
+      87,
+      88
+    ],
+    "printed_words": [
+      "به"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "ذلك",
+      "شييا",
+      "فعوقب"
+    ],
+    "right": [
+      "في",
+      "الدنيا",
+      "فهو"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 2,
+      "context_words": 3,
+      "alternative_in_collections": 2,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (2 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 607,
+    "kind": "other",
+    "tokens": [
+      39,
+      41
+    ],
+    "printed_words": [
+      "ان",
+      "لا"
+    ],
+    "alternative_words": [
+      "الا"
+    ],
+    "alternative_tokens": [
+      "ألا"
+    ],
+    "left": [
+      "وقال",
+      "بايعناه",
+      "علي"
+    ],
+    "right": [
+      "نفر",
+      "ولم",
+      "نبايعه"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 2,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (2 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 609,
+    "kind": "extra",
+    "tokens": [
+      6,
+      8
+    ],
+    "printed_words": [
+      "بن",
+      "مره"
+    ],
+    "alternative_words": [],
+    "alternative_tokens": [],
+    "left": [
+      "شعبه",
+      "عن",
+      "عمرو"
+    ],
+    "right": [
+      "سمعت",
+      "بن",
+      "ابي"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
+  },
+  {
+    "entry": 609,
+    "kind": "substitution",
+    "tokens": [
+      22,
+      23
+    ],
+    "printed_words": [
+      "بصدقته"
+    ],
+    "alternative_words": [
+      "بصدقه"
+    ],
+    "alternative_tokens": [
+      "بصدقة"
+    ],
+    "left": [
+      "اذا",
+      "اتاه",
+      "رجل"
+    ],
+    "right": [
+      "قال",
+      "اللهم",
+      "صل"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 1,
+      "context_words": 3,
+      "alternative_in_collections": 1,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
+  }
+]

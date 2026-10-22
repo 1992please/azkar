@@ -1,0 +1,304 @@
+{
+  "chapter": "ما يقال عند لقاء العدو",
+  "book_pages": [
+    374,
+    380
+  ],
+  "notes": [
+    "The chapter title is printed on p. 374 as «ما يقال عند لقاء العدو»; chapters.tsv has «ما يقال عند العدو». Transcribed as printed.",
+    "A thin vertical scanner line runs through pp. 375 and 377; it hides no letters (checked on zooms).",
+    "The «*» marks between verses on p. 377 are the book's verse separators, left out because the checker rejects «*»; the verses are joined with a space."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 374,
+      "heading": "ما يقال عند لقاء العدو",
+      "kind": "verses",
+      "text": "**﴿ يا أيها الذين آمنوا إذا لقيتم فئة فاثبتوا واذكروا الله كثيرا لعلكم تفلحون . وأطيعوا الله ورسوله ولا تنازعوا فتفشلوا وتذهب ريحكم واصبروا إن الله مع الصابرين ﴾** الأنفال ٤٥ ، ٤٦ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": null,
+      "book_page": 374,
+      "heading": "ما يقال عند لقاء العدو",
+      "kind": "verses",
+      "text": "وقال سبحانه : **﴿ قال الذين يظنون أنهم ملاقوا الله كم من فئة قليلة غلبت فئة كثيرة بإذن الله والله مع الصابرين . ولما برزوا لجالوت وجنوده قالوا ربنا افرغ علينا صبرا وثبت أقدامنا وانصرنا على القوم الكافرين ﴾** البقرة ٢٤٩ ، ٢٥٠ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": null,
+      "book_page": 375,
+      "heading": "ما يقال عند لقاء العدو",
+      "kind": "verses",
+      "text": "وقال سبحانه : **﴿ وكأيّن من نبى قاتل معه ربيون كثير فما وهنوا لما أصابهم فى سبيل الله وما ضعفوا وما استكانوا والله يحب الصابرين . وما كان قولهم إلا أن قالوا ربنا اغفر لنا ذنوبنا وإسرافنا فى أمرنا وثبت أقدامنا وانصرنا على القوم الكافرين ﴾** آل عمران ١٤٦ ، ١٤٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Zoomed «وكأيّن»: a shadda is printed over the ya."
+      ]
+    },
+    {
+      "after_entry": 604,
+      "book_page": 377,
+      "heading": "ما يقوله من خوَّفه قوم",
+      "kind": "verses",
+      "text": "**﴿ الذين قال لهم الناس إن الناس قد جمعوا لكم فاخشوهم فزادهم إيمانا وقالوا حسبنا الله ونعم الوكيل ﴾** . آل عمران",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The heading prints a shadda and fatha on «خوَّفه». The surah is named without a verse number, as printed."
+      ]
+    },
+    {
+      "after_entry": 604,
+      "book_page": 377,
+      "heading": "ما يقوله من خاف قوما",
+      "kind": "verses",
+      "text": "(١) **﴿ ... إذ أخرجه الذين كفروا ثانى اثنين إذ هما فى الغار إذ يقول لصاحبه لا تحزن إن الله معنا ... ﴾** . براءة ٤٠ . (٢) **﴿ فما آمن لموسى إلا ذرية من قومه على خوف من فرعون وملئهم أن يفتنهم وإن فرعون لعال فى الأرض وإنه لمن المسرفين وقال موسى يا قوم إن كنتم آمنتم بالله فعليه توكلوا إن كنتم مسلمين فقالوا على الله توكلنا ربنا لا تجعلنا فتنة للقوم الظالمين ونجنا برحمتك من القوم الكافرين ﴾** . يونس ٨٣-٨٦ . (٣) **﴿ فخرج منها خائفا يترقب قال ربى نجنى من القوم الظالمين ﴾** . القصص .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "A numbered list of three verses; (٣) is printed at the top of p. 378. The book's «*» verse separators are left out (see notes)."
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "number": 599,
+      "book_page": 375,
+      "heading": "ما يقال عند لقاء العدو",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٧ ص٤٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 17,
+        "page": 43
+      },
+      "text": "حدثنا قتيبة بن سعيد حدثنا ليث عن سعيد بن أبي سعيد عن أبيه **عن أبي هريرة أن رسول الله ﷺ كان يقول : « لا إله إلا الله وحده أعز جنده ونصر عبده وغلب الأحزاب وحده فلا شيء بعده » .**",
+      "grading": "صحيح",
+      "takhrij": "وعزاه المزي في الأطراف للبخاري والنسائيّ في التفسير السنن الكبرى .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«قتيبة» is faintly printed in the chain."
+      ]
+    },
+    {
+      "number": 600,
+      "book_page": 375,
+      "heading": "ما يقال عند لقاء العدو",
+      "label": null,
+      "citation": "قال الإمام أحمد رحمه الله ٦ / ١٦",
+      "source": {
+        "collection": "ahmad",
+        "volume": 6,
+        "page": 16
+      },
+      "text": "حدثنا روح ثنا حماد عن ثابت عن عبد الرحمن بن أبي ليلى **عن صهيب أن رسول الله ﷺ كان يقول إذا لقى العدو : « اللهم بك أحاول وبك أصاول وبك أقاتل » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه أحمد أيضا ٤ / ٣٣٣ ، ٦ / ١٦ ، وابن نصر في الصلاة ٣٥ / ٢ مصحوبًا بقصة .",
+      "footnotes": [
+        "(*) [على «أحاول»] في مسند أحمد ١ / ١٦ : « بك أحول وبك أصول وبك أقاتل » والذي يبدو أن التصرف مطبعي فهي في ٦ / ١٦ و ٤ / ٣٣٣ : « بك أحاول ، وبك أصاول ، وبك أقاتل » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Review: zoomed the footnote (p. 375); it prints «في مسند أحمد ١ / ١٦», as transcribed."
+      ]
+    },
+    {
+      "number": 601,
+      "book_page": 375,
+      "heading": "النهي عن تمني لقاء العدو ، وسؤال العافية",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص١٥٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 156
+      },
+      "text": "حدثنا يوسف بن موسى حدثنا عاصم بن يوسف اليربوعي حدثنا أبو إسحاق الفزاري عن موسى بن عقبة قال : حدثني سالم أبو النضر مولى عمر بن عبيد الله كنت كاتبا له قال : **كتب إليه عبد الله بن أوفى حين خرج إلى الحرورية فقرأته فإذا فيه : إن رسول الله ﷺ في بعض أيامه التي لقي فيها العدو انتظر حتى مالت الشمس ثم قام في الناس فقال : « لا تمنوا لقاء العدو وسلوا الله العافية فإذا لقيتموهم فاصبروا واعلموا أن الجنة تحت ظلال السيوف » ثم قال : « اللهم منزل الكتاب ومجري السحاب وهازم الأحزاب اهزمهم وانصرنا عليهم » .**",
+      "grading": "صحيح",
+      "takhrij": "ومسلم في المغازي ٨ : ٢ ، وأخرجه أبو داود ج٣ ص٩٦ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "text",
+          "printed": "بن أوفى",
+          "corrected": "بن أبي أوفى",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 3024) is used."
+        },
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "فقال :",
+          "corrected": "فقال أيها الناس :",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 3024) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The chain starts on p. 375 and the text continues on p. 376.",
+        "Review: zoomed p. 376; the page prints «عبد الله بن أوفى» (no «أبي») and «فقال : « لا تمنوا» (no «أيها الناس»), as transcribed. Corrections 1–2 are the tool's (cited source); correction 2 puts «أيها الناس» before the colon, outside the « »."
+      ]
+    },
+    {
+      "number": 602,
+      "book_page": 376,
+      "heading": "الدعاء على العدو",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١١ ص١٩٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 11,
+        "page": 193
+      },
+      "text": "حدثنا ابن سلام أخبرنا وكيع عن ابن أبي خالد قال : **سمعت ابن أبي أوفى رضي الله عنهما قال : دعا رسول الله ﷺ على الأحزاب فقال : « اللهم منزل الكتاب سريع الحساب اهزم الأحزاب اهزمهم وزلزلهم » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١٢ ص٤٧ ، وابن ماجه ٢٧٩٦ ، والترمذي ج٥ ص٣٢٥ تحفة وقال : حديث حسن صحيح . وأحمد ٤ / ٣٥٥ ، ٣٨١ ، وعزاه المزي في الأطراف للنسائيّ .",
+      "footnotes": [
+        "(*) [على «الدعاء على العدو»] **﴿ وقال موسى ربنا إنك آتيت فرعون وملأه زينة وأموالا فى الحياة الدنيا ربنا ليضلوا عن سبيلك ربنا اطمس على أموالهم واشدد على قلوبهم فلا يؤمنوا حتى يروا العذاب الأليم ﴾** يونس ٨٨ ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The footnote (*) is on the heading «الدعاء على العدو», not on the hadith; kept with this entry, the only one under that heading."
+      ]
+    },
+    {
+      "number": 603,
+      "book_page": 376,
+      "heading": "من سأل الشهادة بصدق",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٣ ص٥٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 13,
+        "page": 55
+      },
+      "text": "حدثنا شيبان بن فروخ حدثنا حماد بن سلمة حدثنا ثابت **عن أنس بن مالك قال : قال لي رسول الله ﷺ : « من طلب الشهادة صادقا أعطيها ولو لم تصبه » .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source-reference footnote (٦٠٣) is printed on pp. 376–377."
+      ]
+    },
+    {
+      "number": 604,
+      "book_page": 377,
+      "heading": "من سأل الشهادة بصدق",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٣ ص٥٥",
+      "source": {
+        "collection": "muslim",
+        "volume": 13,
+        "page": 55
+      },
+      "text": "حدثني أبو الطاهر وحرملة بن يحيى - واللفظ لحرملة - قال أبو الطاهر أخبرنا وقال حرملة حدثنا عبد الله بن وهب حدثني أبو شريح أن سهل بن أبي أمامة بن سهل ابن حنيف حدثه عن أبيه **عن جده أن النبي ﷺ قال : « من سأل الله الشهادة بصدق بلغه الله منازل الشهداء وإن مات على فراشه » .** ولم يذكر أبو الطاهر في حديثه بصدق .",
+      "grading": "صحيح",
+      "takhrij": "والترمذي في الجهاد ١٩ : ١ ، والنسائيّ في الجهاد ٣٦ : ١ ، ورواه أبو داود ج٢ ص١٧٩ ، وابن ماجه ٢٧٩٧ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "Muslim's closing remark «ولم يذكر أبو الطاهر في حديثه بصدق» is printed in regular type after the hadith; kept in text."
+      ]
+    },
+    {
+      "number": 605,
+      "book_page": 378,
+      "heading": "اللهم اكفنيهم بما شئت",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٨ ص١٣٠",
+      "source": {
+        "collection": "muslim",
+        "volume": 18,
+        "page": 130
+      },
+      "text": "حدثنا هداب بن خالد حدثنا حماد بن سلمة حدثنا ثابت عن عبد الرحمن بن أبي ليلى **عن صهيب أن رسول الله ﷺ قال : « كان ملك فيمن كان قبلكم وكان له ساحر فلما كبر قال للملك إني قد كبرت فابعث إلي غلاما أعلمه السحر فبعث إليه غلاما يعلمه السحر فكان في طريقه إذا سلك راهب فقعد إليه وسمع كلامه فأعجبه فكان إذا أتى الساحر مر بالراهب وقعد إليه فإذا أتى الساحر ضربه فشكا ذلك إلى الراهب فقال : إذا خشيت الساحر فقل حبسني أهلي وإذا خشيت أهلك فقل حبسني الراهب ، فبينما هو كذلك إذا أتى على دابة عظيمة قد حبست الناس فقال : اليوم أعلم الساحر أفضل أم الراهب أفضل . فأخذ حجرا فقال : اللهم إن كان أمر الراهب أحب إليك من أمر الساحر فاقتل هذه الدابة حتى يمضي الناس فرماها فقتلها ومضى الناس فأتى الراهب فأخبره فقال له الراهب : أي بني أنت اليوم أفضل مني قد بلغ من أمرك ما أرى وأنك ستبتلى فإن ابتليت فلا تدل علي ، وكان الغلام يبرئ الأكمه والأبرص ويداوي الناس من سائر الأدواء فسمع جليس للملك كان قد عمي فأتاه بهدايا كثيرة فقال : ما ههنا لك أجمع إن أنت شفيتني . فقال : إني لا أشفي أحدًا إنما يشفي الله فإن أنت آمنت بالله دعوت الله فشفاك فآمن بالله فشفاه الله فأتى الملك فجلس إليه كما كان يجلس فقال له الملك من رد عليك بصرك ؟ قال : ربي . قال : ولك رب غيري ؟ قال : ربي وربك الله فأخذه فلم يزل يعذبه حتى دله على الغلام فجيء بالغلام فقال له الملك : أي بني قد بلغ من سحرك ما تبرئ الأكمه والأبرص وتفعل وتفعل فقال : إني لا أشفي أحدًا إنما يشفي الله . فأخذه فلم يزل يعذبه حتى دله على الراهب فجيء بالراهب فقيل له ارجع عن دينك فأبى فدعا بالمنشار فوضع المنشار في مفرق رأسه فشقه حتى وقع شقاه ، ثم جيء بجليس الملك فقيل له ارجع عن دينك فأبى فوضع المنشار في مفرق رأسه فشقه به حتى وقع شقاه ، ثم جيء بالغلام فقيل له ارجع عن دينك فأبى فدفعه إلى نفر من أصحابه فقال : اذهبوا به إلى جبل كذا وكذا فاصعدا به إلى الجبل فإذا بلغتم ذروته فإن رجع عن دينه وإلا فاطرحوه ، فذهبوا به فصعدوا به الجبل فقال : اللهم اكفنيهم بما شئت ، فرجف بهم الجبل فسقطوا وجاء يمشي إلى الملك ، فقال له الملك : ما فعل أصحابك ؟ قال : كفانيهم الله . فدفعه إلى نفر من أصحابه فقال : اذهبوا به فاحملوه في قرقور فتوسطوا به البحر فإن رجع عن دينه وإلا فاقذفوه فذهبوا به فقال : اللهم اكفنيهم بما شئت ، فانكفأت بهم السفينة فغرقوا وجاء يمشي إلى الملك فقال له الملك : ما فعل أصحابك ؟ قال : كفانيهم الله . فقال للملك إنك لست بقاتلي حتى تفعل ما آمرك به قال : وما هو ؟ قال : تجمع الناس في صعيد واحد وتصلبني على جذع ثم خذ سهما من كنانتي ثم ضع السهم في كبد القوس ثم قل : باسم الله رب الغلام ثم ارمني فإنك إذا فعلت ذلك قتلتني . فجمع الناس في صعيد واحد وصلبه على جذع ثم أخذ سهما من كنانته ثم وضع السهم في كبد القوس ثم قال : باسم الله رب الغلام ثم رماه فوقع السهم في صدغه فوضع يده في صدغه في موضع السهم فمات ، فقال الناس آمنا برب الغلام آمنا برب الغلام ، فأتى الملك فقيل له أرأيت ما كنت تحذر قد والله نزل بك حذرك قد آمن الناس فأمر بالأخدود في أفواه السكك فخدت وأضرم النيران وقال : من لم يرجع عن دينه فاحموه فيها أو قيل له اقتحم ففعلوا حتى جاءت امرأة ومعها صبي لها فتقاعست أن تقع فيها فقال لها الغلام : يا أمه اصبري فإنك على الحق .**",
+      "grading": "صحيح",
+      "takhrij": "والترمذي في التفسير تفسير سورة البروج ، وعزاه المزي في الأطراف للنسائيّ السنن الكبرى في التفسير ، وفي حديث الهجرة عند أحمد ١ / ٢٠٣ من حديث البراء بن عازب عن أبي بكر رضي الله عنه قال : قال رسول الله ﷺ : « ... اللهم اكفناه بما شئت » ، وأصله في الصحيحين . انظر صحيح البخاري رقم ٢٤٣٩ ، ٣٦١٥ ، ٣٦٥٢ ، ٣٩٠٨ ، ٣٩١٧ ، ٥٦٠٧ ، وصحيح مسلم ص٢٣١٠ ، وعندهما فدعا عليه رسول الله ﷺ قال الحافظ في الفتح ٧ / ٢٤١ : فدعا عليه رسول الله ﷺ . في رواية أبي خليفة في حديث البراء عند الإسماعيلي فقال : « اللهم اكفناه بما شئت ، وفي حديث ابن عباس مثله ، ونحوه في رواية الحسن عن سراقة .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "يعلمه السحر فكان",
+          "corrected": "يعلمه فكان",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 3005) is used."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "حبسني الراهب ،",
+          "corrected": "حبسني الساحر ،",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 3005) is used."
+        },
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "كذلك إذا أتى",
+          "corrected": "كذلك إذ أتى",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 3005) is used."
+        },
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "يعذبه حتى دله على الراهب",
+          "corrected": "يعذبه حتى دل على الراهب",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 3005) is used."
+        },
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "فاصعدا",
+          "corrected": "فاصعدوا",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 3005) is used."
+        },
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "به إلى الجبل",
+          "corrected": "به الجبل",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 4 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 3005) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The hadith runs from p. 378 to p. 379; the source footnote (٦٠٥) starts on p. 379 and continues on p. 380 (joined).",
+        "The book prints no closing « » » at the end of the hadith (after «على الحق .»), nor after the takhrij's last quotation «اللهم اكفناه بما شئت»; transcribed as printed.",
+        "Zoomed «فلا تدل» (p. 378): a small stray mark like a hamza stands over the lam-alif; not a vowel mark, left out.",
+        "«يبرئ» and «تبرئ» are printed with a dotless ya carrying hamza, i.e. «ئ». The phrase «آمنا برب الغلام» is printed twice; «فاحموه» is printed without a hamza. The book's own marks kept: «أحدًا» (twice).",
+        "Review (OCR flag, p. 379): zoomed, the page prints «فاصعدا» without the waw; «فاصعدوا» had been written from memory, fixed. Also zoomed «وتصلبني» (dotted ya, as transcribed)."
+      ]
+    }
+  ]
+}

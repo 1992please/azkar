@@ -1,0 +1,122 @@
+{
+  "chapter": "بين يدي الكتاب",
+  "book_pages": [
+    5,
+    6
+  ],
+  "notes": [
+    "The preface has no numbered entries; all of it is author_text of kind preface, one block per printed paragraph. Page 7 holds only the next chapter («باب الحث على الذكر»).",
+    "Zoomed on p. 5 for the marks in «المحدِّثين» (shadda with kasra), «يسَّرنا» and «مُدَّكر».",
+    "Review: the one OCR flag («وكما», OCR «وكا», p. 5) is an OCR misread; zoomed, the mim is the small loop at the foot of the kaf, as this font writes «كما»."
+  ],
+  "skipped": [],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 5,
+      "heading": "بين يدي الكتاب",
+      "kind": "preface",
+      "text": "إن الحمد لله نحمده ونستعينه ، ونستغفره ، ونعوذ بالله من شرور أنفسنا ومن سيئات أعمالنا ، من يهده الله فلا مضل له ومن يضلل فلا هادي له ، وأشهد أن لا إله إلا الله وحده لا شريك له وأن محمدا عبده ورسوله . اللهم صل على محمد وعلى آل محمد كما صليت على آل إبراهيم إنك حميد مجيد . اللهم بارك على محمد وعلى آل محمد كما باركت على آل إبراهيم إنك حميد مجيد .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": null,
+      "book_page": 5,
+      "heading": "بين يدي الكتاب",
+      "kind": "preface",
+      "text": "أما بعد : فنذكر هنا إن شاء الله ما يمتاز به هذا الكتاب عن غيره من كتب الأذكار :",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«أما بعد :» is printed on a line of its own."
+      ]
+    },
+    {
+      "after_entry": null,
+      "book_page": 5,
+      "heading": "بين يدي الكتاب",
+      "kind": "list",
+      "text": "**أولا** : سياق الأحاديث بأسانيدها ، وهذا فعلناه لأمرين : ١ - سهولة مراجعة الحديث لمن أراد مراجعته . ٢ - إحياء سنة المحدِّثين - رحمهم الله - في سوق الأحاديث بأسانيدها ، ومن ثم المساهمة في بعث جديد لمراجعة علم الحديث .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The two numbered points are printed on lines of their own."
+      ]
+    },
+    {
+      "after_entry": null,
+      "book_page": 5,
+      "heading": "بين يدي الكتاب",
+      "kind": "list",
+      "text": "**ثانيا** : احتواؤه على الأحاديث الصحاح والحسان دون غيرها من الأحاديث الضعيفة ، وإن كان به ما بين الثلاثة إلى الخمسة من الأحاديث الضعيفة سقناها وبيناها للتنبيه عليها فقط .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": null,
+      "book_page": 5,
+      "heading": "بين يدي الكتاب",
+      "kind": "list",
+      "text": "**ثالثا** : احتواؤه على كثير من الأدلة القرآنية بعد أن أهمل في الاستدلال بها الكثير ، والله سبحانه يقول : ﴿ **ولقد يسَّرنا القرآن للذكر فهل من مُدَّكر** ﴾ وكما قال الشافعي في رسالته : إن كثيرا من آيات الله غني بنفسه عن البيان والتأويل . ونعتقد أن آيات الأذكار من هذا النوع إن لم تكن جميعها فأغلبها . والله أعلم .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": null,
+      "book_page": 6,
+      "heading": "بين يدي الكتاب",
+      "kind": "list",
+      "text": "**رابعا** : راعينا فيه أن تكون الأذكار موازية للوقت ، فتصاحبك الأذكار من لحظة استيقاظك حتى النوم ، ثم بعدها الأذكار الأسبوعية فالموسمية .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": null,
+      "book_page": 6,
+      "heading": "بين يدي الكتاب",
+      "kind": "list",
+      "text": "**خامسا** : الحكم على الحديث بما يستحقه من تصحيح أو تحسين .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": null,
+      "book_page": 6,
+      "heading": "بين يدي الكتاب",
+      "kind": "list",
+      "text": "**سادسا** : عزو الحديث لمخرجيه مع أرقام الصفحات والأجزاء ، مما يسهل على الباحث ، وإن كنا قصرنا في هذا الجانب كثيرا لضيق الوقت ، وإذا يسر الله سبحانه بطبعة أخرى نسأله أن يعيننا على إكمال النقص .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": null,
+      "book_page": 6,
+      "heading": "بين يدي الكتاب",
+      "kind": "list",
+      "text": "**سابعا** : الاستغناء بالصحيحين ما استطعنا إلى ذلك سبيلا ، وإن كان من كتب الأذكار من تعرض لواحدة أو اثنتين مما سبق ، إلا أننا لم نقف على كتاب جامع لها ، فلله الحمد والشكر .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": null,
+      "book_page": 6,
+      "heading": "بين يدي الكتاب",
+      "kind": "note",
+      "text": "المؤلف **مصطفى بن العدوي أحمد** مصر - الدقهلية منية سمنود",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The author's signature, printed on four short lines; only the name is bold."
+      ]
+    }
+  ],
+  "entries": []
+}

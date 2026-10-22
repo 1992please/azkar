@@ -1,0 +1,540 @@
+{
+  "chapter": "باب في فضل لا إله إلا الله",
+  "book_pages": [
+    383,
+    394
+  ],
+  "notes": [
+    "Text is transcribed exactly as printed, including the book's own tashkeel marks and letter forms. Corrections are listed separately and applied only once approved.",
+    "Headings are numbered only once («١ - لا إله إلا الله تعصم الدم والمال»); the later sub-headings have no number, as printed."
+  ],
+  "skipped": [
+    {
+      "pages": "390",
+      "what": "The «تعقيب» at the foot of p. 390 on clapping as a modern innovation: general commentary, not about entry 621 or its wording."
+    }
+  ],
+  "author_text": [
+    {
+      "after_entry": null,
+      "book_page": 383,
+      "heading": "باب في فضل لا إله إلا الله",
+      "kind": "note",
+      "text": "سبقت بعض الأحاديث الخاصة بفضلها في أبواب فضل الذكر والتهليل والتحميد والتسبيح وفي أماكن متفرقة .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": 617,
+      "book_page": 388,
+      "heading": "ما جاء في مرحبا",
+      "kind": "heading",
+      "text": "",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "after_entry": 619,
+      "book_page": 389,
+      "heading": "ما جاء في أبشر",
+      "kind": "verses",
+      "text": "قال تعالى : ﴿ وأبشروا بالجنة التى كنتم توعدون ﴾ فصلت .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    }
+  ],
+  "entries": [
+    {
+      "number": 610,
+      "book_page": 383,
+      "heading": "١ - لا إله إلا الله تعصم الدم والمال",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٧٥",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 75
+      },
+      "text": "حدثنا عبد الله بن محمد المسندي قال : حدثنا أبو روح الحرمي بن عمارة قال : حدثنا شعبة عن واقد بن محمد قال سمعت أبي يحدث **عن ابن عمر أن رسول الله ﷺ قال : « أمرت أن أقاتل الناس حتى يشهدوا أن لا إله إلا الله وأن محمدا رسول الله ويقيموا الصلاة ويؤتوا الزكاة فإذا فعلوا ذلك عصموا مني دماءهم وأموالهم إلا بحق الإسلام وحسابهم على الله » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج١ ص٢١١ نووي ، والنسائيّ ج٧ ص٧٧ ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى في السير .",
+      "footnotes": [
+        "(*) [على «لا إله إلا الله تعصم الدم والمال»] ثم بعد قولها يؤاخذ الناس بشرائع الإسلام .",
+        "(**) [على «أبو روح الحرمي بن عمارة»] قال الحافظ بن حجر عن هذا الحديث : « … وهو عن شعبة عزيز فقد تفرد بروايته عنه حرمي وعبد الملك بن الصباح … » ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "Footnote (*) is printed on the heading «١ - لا إله إلا الله تعصم الدم والمال»; it is kept with this entry, the first under that heading."
+      ]
+    },
+    {
+      "number": 611,
+      "book_page": 383,
+      "heading": "١ - لا إله إلا الله تعصم الدم والمال",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٣ ص٢٦٢",
+      "source": {
+        "collection": "bukhari",
+        "volume": 3,
+        "page": 262
+      },
+      "text": "حدثنا أبو اليمان الحكم بن نافع أخبرنا شعيب بن أبي حمزة عن الزهري حدثنا عبيد الله بن عبد الله ابن عتبة بن مسعود **أن أبا هريرة رضي الله عنه قال : لما توفي رسول الله ﷺ وكان أبو بكر رضي الله عنه وكفر من كفر من العرب فقال عمر رضي الله عنه : كيف نقاتل الناس وقد قال رسول الله ﷺ : « أمرت أن أقاتل الناس حتى يقولوا لا إله إلا الله فمن قالها فقد عصم مني ماله ونفسه إلا بحقه وحسابه على الله » .**",
+      "grading": null,
+      "takhrij": "ورواه مسلم ج١ ص٢٠١ نووي ، وأبو داود ج٢ ص١٩٨ ، وابن ماجه مختصرا رقم ٧١ ، والنسائيّ ج٥ ص١٤ ، والترمذي ج٧ ص٣٣٥ تحفة مطولا وقال : حسن صحيح . وأحمد ١ / ١١ ، ١٩ ، ٣٥ ، ٤٨ .",
+      "footnotes": [
+        "(***) [على «ورواه مسلم» في التخريج] بقية الحديث في مسلم : « … فقال أبو بكر والله لأقاتلن من فرق بين الصلاة والزكاة فإن الزكاة حق المال ، والله لو منعوني عقالا كانوا يؤدونه إلى رسول الله ﷺ لقاتلتهم على منعه . فقال عمر بن الخطاب فوالله ما هو إلا أن رأيت الله عز وجل قد شرح صدر أبي بكر للقتال فعرفت أنه الحق ."
+      ],
+      "corrections": [
+        {
+          "id": 2,
+          "field": "text",
+          "printed": "نقاتل",
+          "corrected": "تقاتل",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1399) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "No grading is printed after this entry (p. 383 ends with the text; p. 384 starts entry 612).",
+        "The takhrij runs from p. 383 onto p. 384 («= مطولا وقال …»); joined.",
+        "Footnote (***) is marked in the takhrij after «ورواه مسلم»; its quotation opens with « but is never closed, as printed."
+      ]
+    },
+    {
+      "number": 612,
+      "book_page": 384,
+      "heading": "١ - لا إله إلا الله تعصم الدم والمال",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٢ ص١٩١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 12,
+        "page": 191
+      },
+      "text": "حدثنا عمرو بن زرارة حدثنا هشيم حدثنا حصين حدثنا أبو ظبيان قال : **سمعت أسامة بن زيد ابن حارثة رضي الله عنهما يحدث قال : بعثنا رسول الله ﷺ إلى الحرقة من جهينة فقال : فصبحنا القوم فهزمناهم ، قال : ولحقت أنا ورجل من الأنصار رجلا منهم قال : فلما غشيناه قال : لا إله إلا الله قال : فكف عنه الأنصاري فطعنته برمحي حتى قتلته قال : فلما بلغ ذلك النبي ﷺ قال : فقال لي : « يا أسامة أقتلته بعد ما قال لا إله إلا الله ؟ » قال : قلت : يا رسول الله إنه إنما كان متعوذا . قال : « قتلته بعد ما قال لا إله إلا الله ؟ » قال : فما زال يكررها علي حتى تمنيت أني لم أكن أسلمت قبل ذلك اليوم .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٢ ص٩٩ نووي ، وأبو داود ج٣ ص١٠٢ ، وأحمد ٥ / ٢٠٠ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 3,
+          "field": "text",
+          "printed": "فلما بلغ",
+          "corrected": "فلما قدمنا بلغ",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; in the hadith text the wording of the cited source (bukhari 6872) is used."
+        },
+        {
+          "id": 4,
+          "field": "text",
+          "printed": "إنه",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6872) is used."
+        },
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "« قتلته بعد",
+          "corrected": "« أقتلته بعد",
+          "confidence": 0.93,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it."
+        }
+      ],
+      "transcriber_notes": []
+    },
+    {
+      "number": 613,
+      "book_page": 384,
+      "heading": "لا إله إلا الله من الإيمان بالله وحده",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص١٨٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 183
+      },
+      "text": "حدثنا محمد بن بشار قال : حدثنا غندر قال : حدثنا شعبة **عن أبي جمرة قال : كنت أترجم بين ابن عباس وبين الناس فقال : إن وفد عبد القيس أتوا النبي ﷺ فقال : « من الوفد أو من القوم ؟ » قالوا : ربيعة . فقال : « مرحبا بالقوم - أو بالوفد - غير خزايا ولا ندامى » . قالوا : إنا نأتيك من شقة بعيدة وبيننا وبينك هذا الحي من كفار مضر ولا نستطيع أن نأتيك إلا في شهر حرام فمرنا بأمر نخبر به من وراءنا ندخل به الجنة ، فأمرهم بأربع ونهاهم عن أربع : أمرهم بالإيمان بالله عز وجل وحده ، قال : « هل تدرون ما الإيمان بالله وحده ؟ » قالوا : الله ورسوله أعلم . قال : « شهادة أن لا إله إلا الله وأن محمدا رسول الله وإقام الصلاة وإيتاء الزكاة وصوم رمضان وتعطوا الخمس من المغنم ونهاهم عن الدباء والحنتم والمزفت . قال شعبة : ربما قال النقير وربما قال المقير ، قال : « احفظوه وأخبروه من وراءكم » .**",
+      "grading": "صحيح",
+      "takhrij": "رواه مسلم ج١ ص١٧٩ نووي ، وأبو داود ج٤ ص٩٤ ، والنسائيّ ج٨ ص١٢١ ، والترمذي ج٧ ص٣٥٠ تحفة ، وأحمد ١ / ٢٨٨ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The quotation opened at «شهادة أن لا إله إلا الله» is not closed before «ونهاهم», as printed."
+      ]
+    },
+    {
+      "number": 614,
+      "book_page": 385,
+      "heading": "شفاعة النبي ﷺ لمن قال لا إله إلا الله",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص١٩٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 193
+      },
+      "text": "حدثنا عبد العزيز بن عبد الله قال : حدثني سليمان عن عمرو بن أبي عمرو عن سعيد بن أبي سعيد المقبري **عن أبي هريرة قال : قيل : يا رسول الله من أسعد الناس بشفاعتك يوم القيامة ؟ قال رسول الله ﷺ : « لقد ظننت يا أبا هريرة أن لا يسألني عن هذا الحديث أحد أولَ منك ، لما رأيت من حرصك على الحديث . أسعد الناس بشفاعتي يوم القيامة من قال لا إله إلا الله خالصا من قلبه أو نفسه » .**",
+      "grading": "صحيح",
+      "takhrij": "وأحمد ٢ / ٣٧٣ ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى في العلم .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 615,
+      "book_page": 385,
+      "heading": "لا إله إلا الله مع الخير تخرج من النار",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص١٠٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 103
+      },
+      "text": "حدثنا مسلم بن إبراهيم قال : حدثنا هشام قال : حدثنا قتادة **عن أنس عن النبي ﷺ قال : « يخرج من النار من قال لا إله إلا الله وفي قلبه وزن شعيرة من خير ، ويخرج من النار من قال لا إله إلا الله وفي قلبه وزن بُرة من الخير ، ويخرج من النار من قال لا إله إلا الله وفي قلبه وزن ذرة من خير » .** قال أبو عبد الله قال أبان حدثنا قتادة **حدثنا أنس عن النبي ﷺ « من إيمان » مكان « من خير » .**",
+      "grading": "صحيح",
+      "takhrij": "ومسلم ص١٨٢ ، وأخرجه ابن خزيمة في كتاب التوحيد ص٢٩٢ ، والترمذي ج٧ ص٣١٨ تحفة وقال : حديث حسن صحيح . وأحمد ٣ / ١٧٣ .",
+      "footnotes": [
+        "(*) [على «قال أبان»] قال الحافظ فتح ج١ ص١٠٤ قوله : « قال أبان » هو ابن يزيد العطار وهذا التعليق وصله الحاكم في كتاب الأربعين له من طريق أبي سلمة قال : حدثنا أبان بن يزيد فذكر الحديث وفائدة إيراد المصنف له من جهتين : إحداهما : تصريح قتادة فيه بالتحديث عن أنس . ثانيتهما : تعبيره في المتن بقوله « من إيمان » بدل قوله « من خير » فبين أن المراد بالخير هنا الإيمان ."
+      ],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "text",
+          "printed": "الخير",
+          "corrected": "خير",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 44) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The further chain «قال أبو عبد الله قال أبان …» (al-Bukhari's mu'allaq) is printed without an entry number and kept in text; it runs onto p. 386.",
+        "The takhrij runs from p. 385 onto p. 386 (p. 385 ends with «-», p. 386 continues with «=»); joined."
+      ]
+    },
+    {
+      "number": 616,
+      "book_page": 386,
+      "heading": "لا إله إلا الله مع الخير تخرج من النار",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٢٢٦",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 226
+      },
+      "text": "حدثنا إسحاق بن إبراهيم قال حدثنا معاذ بن هشام قال : حدثني أبي عن قتادة قال : **حدثنا أنس بن مالك أن النبي ﷺ - ومعاذ رديفه على الرحل - قال : « يا معاذ بن جبل . قال : لبيك يا رسول الله وسعديك . قال : يا معاذ . قال : لبيك يا رسول الله وسعديك ( ثلاثا ) قال : « ما من أحد يشهد أن لا إله إلا الله وأن محمدا رسول الله صدقا من قلبه إلا حرمه الله على النار » . قال : يا رسول الله أفلا أخبر به الناس فيستبشروا ؟ قال : « إذا يتكلوا » . وأخبر بها معاذ عند موته تأثما » .**",
+      "grading": "حسن",
+      "takhrij": "وراه مسلم ج١ ص٢٤٠ نووي .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 1,
+          "field": "takhrij",
+          "printed": "وراه",
+          "corrected": "ورواه",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "auto",
+          "source": "transcriber",
+          "reason": "Transcriber's judgment: «وراه» is a misprint of «ورواه», the word that opens the book's source footnotes (zoomed on p. 386)."
+        }
+      ],
+      "transcriber_notes": [
+        "The quotation marks are printed as on p. 386: « opens at «يا معاذ بن جبل» and the text ends with «تأثما » .», with no closing mark in between."
+      ]
+    },
+    {
+      "number": 617,
+      "book_page": 386,
+      "heading": "قول لا إله إلا الله أفضل شعب الإيمان",
+      "label": null,
+      "citation": "قال الإمام مسلم ج٢ ص٣ نووي",
+      "source": {
+        "collection": "muslim",
+        "volume": 2,
+        "page": 3
+      },
+      "text": "حدثنا زهير بن حرب حدثنا جرير عن سهيل عن عبد الله بن دينار عن أبي صالح **عن أبي هريرة قال : قال رسول الله ﷺ : « الإيمان بضع وسبعون أو بضع وستون شعبة فأفضلها قول لا إله إلا الله وأدناها إماطة الأذى عن الطريق ، والحياء شعبة من الإيمان » .**",
+      "grading": "حسن",
+      "takhrij": "وأخرجه أبو داود ج٥ ص٥٦ ، وابن ماجه رقم ٥٧ ، والنسائيّ ج٨ ص١١٠ ، والترمذي ج٧ ص٣٥٩ تحفة وقال : حسن صحيح .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "The chain is on p. 386 and the hadith on p. 387, which ends with a row of «****» and is otherwise blank."
+      ]
+    },
+    {
+      "number": 618,
+      "book_page": 388,
+      "heading": "١ - مرحبا بأم هانىء",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٤٦٩",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 469
+      },
+      "text": "حدثنا إسماعيل بن أبي أويس قال : حدثني مالك بن أنس عن أبي النضر مولى عمر بن عبيد الله أن أبا مرة مولى أم هانىء بنت أبي طالب أخبره أنه **سمع أم هانىء بنت أبي طالب تقول : ذهبت إلى رسول الله ﷺ عام الفتح فوجدته يغتسل ، وفاطمة ابنته تستره . قالت فسلمت عليه فقال : من هذه ؟ فقلت أنا أم هانىء بنت أبي طالب . فقال مرحبا بأم هانىء ، فلما فرغ من غسله قام فصلى ثمان ركعات ملتحفا في ثوب واحد . فلما انصرف قلت : يا رسول الله زعم ابن أمي أنه قاتل رجلا قد أجرته فلان بن هبيرة . فقال رسول الله ﷺ : « قد أجرنا من أجرت يا أم هانىء » . قالت أم هانىء : وذاك ضحى .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص٢٨ ، ج٥ ص٢٣١ ، والترمذي ج٨ ص٣ وقال : صحيح . وابن ماجه في الطهارة ٥٩ ، والنسائيّ في الطهارة ١٤٣ ، وأحمد ٦ / ٣٤١ ، ٣٤٢ ، ٣٤٣ ، ٤٢٣ ، ٤٢٤ ، ٤٢٥ .",
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "«هانىء» is printed throughout with a dotless final ya and a separate hamza (zoomed on p. 388); kept as printed.",
+        "The heading «ما جاء في مرحبا» above «١ - مرحبا بأم هانىء» has no text of its own; it is an author_text heading block."
+      ]
+    },
+    {
+      "number": 619,
+      "book_page": 388,
+      "heading": "٢ - مرحبا بالأخ الصالح والنبي الصالح",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٦ ص٤٢٣",
+      "source": {
+        "collection": "bukhari",
+        "volume": 6,
+        "page": 423
+      },
+      "text": "حدثنا هدبة بن خالد حدثنا همام حدثنا قتادة عن أنس بن مالك **عن مالك بن صعصعة أن رسول الله ﷺ حدثهم عن ليلة أسري به حتى أتى السماء الخامسة فإذا هارون قال : هذا هارون فسلم عليه فسلمت عليه فرد ثم قال : مرحبا بالأخ الصالح والنبي الصالح »** تابعه ثابت وعباد بن أبي علي عن أنس عن النبي ﷺ .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٢ ص٢٠٩ نووي ، والنسائيّ ج١ ص٢٢٤ ، والترمذي في التفسير تفسير سورة ألم نشرح وقال : حسن صحيح .",
+      "footnotes": [
+        "(*) [على «مرحبا بالأخ الصالح والنبي الصالح»] أتينا به مختصرا هنا لإيفائه بالغرض وهو مخرج في البخاري في أكثر من موضع غير طريق قتادة ."
+      ],
+      "corrections": [],
+      "transcriber_notes": [
+        "The text runs from p. 388 onto p. 389. A closing » is printed after «الصالح» with no opening « before «مرحبا»; kept as printed.",
+        "«تابعه ثابت …» (al-Bukhari's remark) is printed in regular type after the hadith and kept in text."
+      ]
+    },
+    {
+      "number": 620,
+      "book_page": 389,
+      "heading": "ما جاء في أبشر",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٦ ص٥٨",
+      "source": {
+        "collection": "muslim",
+        "volume": 16,
+        "page": 58
+      },
+      "text": "حدثنا أبو عامر الأشعري وأبو كريب جميعا عن أبي أسامة قال أبو عامر : حدثنا أبو أسامة حدثنا بريد عن جده أبي بردة **عن أبي موسى قال : كنت عند النبي ﷺ وهو نازل بالجعرانة بين مكة والمدينة ومعه بلال فأتى رسول الله ﷺ رجل أعرابي فقال : ألا تنجز لي ما وعدتني ؟ فقال له رسول الله ﷺ : « أبشر » فقال له الأعرابي : أكثرت عليَّ من أبشر فأقبل رسول الله ﷺ على أبي موسى وبلال كهيئة الغضبان فقال : « إن هذا قد رد البشرى فاقبلا أنتما فقالا قبلنا يا رسول الله » ثم دعا رسول الله ﷺ بقدح فيه ماء فغسل يديه ووجهه فيه ومج فيه ثم قال : « اشربا منه وأفرغا على وجوهكما ونحوركما وأبشرا » . فأخذا القدح ففعلا ما أمرهما به رسول الله ﷺ فنادتهما أم سلمة من وراء الستر أفضلا لأمكما مما في إنائكما فأفضلا لها منه طائفة .**",
+      "grading": "صحيح",
+      "takhrij": null,
+      "footnotes": [],
+      "corrections": [],
+      "transcriber_notes": [
+        "No source footnote numbered (٦٢٠) is printed on p. 389 or p. 390; takhrij is null.",
+        "The closing » after «فاقبلا أنتما» is printed after «قبلنا يا رسول الله», as printed."
+      ]
+    },
+    {
+      "number": 621,
+      "book_page": 390,
+      "heading": "ما يقال عند التعجب ( سبحان الله )",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١٠ ص٥٩٨",
+      "source": {
+        "collection": "bukhari",
+        "volume": 10,
+        "page": 598
+      },
+      "text": "حدثنا أبو اليمان أخبرنا شعيب عن الزهري حدثتني هند بنت الحارث **أن أم سلمة رضي الله عنها قالت : استيقظ النبي ﷺ فقال : « سبحان الله ، ماذا أُنزل من الخزائن وماذا أُنزل من الفتن من يوقظ صواحب الحجر - يريد أزواجه - حتى يصلين ؛ ربَّ كاسية في الدنيا عارية في الآخرة » .**",
+      "grading": "صحيح",
+      "takhrij": "الأطراف فتح ج١ ص٢١٠ ، والترمذي في الفتن ٣٠ : ٢ .",
+      "footnotes": [
+        "(*) [على «سبحان الله»] ورواه البخاري فتح ج١٠ ص٣٠٢ بلفظ لا إله إلا الله بدلا من سبحان الله ."
+      ],
+      "corrections": [
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "يريد أزواجه",
+          "corrected": "يريد به أزواجه",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 6218) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The heading is printed on two lines, «ما يقال عند التعجب» over «(سبحان الله)»; joined as in the index.",
+        "The book prints «؛» before «ربَّ»; kept."
+      ]
+    },
+    {
+      "number": 622,
+      "book_page": 390,
+      "heading": "ما يقال عند التعجب ( سبحان الله )",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٥ ص١٥٦",
+      "source": {
+        "collection": "muslim",
+        "volume": 15,
+        "page": 156
+      },
+      "text": "حدثني أبو الطاهر أحمد بن عمرو بن سرح وحرملة بن يحيى قالا : أخبرنا ابن وهب أخبرني يونس عن ابن شهاب حدثني سعيد بن المسيب وأبو سلمة بن عبد الرحمن أنهما **سمعا أبا هريرة يقول : قال رسول الله ﷺ : « بينما رجل يسوق بقرة له قد حمل عليها التفتت إليه البقرة فقالت إني لم أخلق لهذا ولكن إنما خلقت للحرث ، فقال الناس : سبحان الله تعجبا وفزعا أبقرة تكلم ! فقال رسول الله ﷺ : « فإني أومن به وأبو بكر وعمر » . قال أبو هريرة : قال رسول الله ﷺ : « بينما راع في غنمه عدا عليه الذئب فأخذ منها شاة فطلبه الراعي حتى استنقذها منه فالتفت إليه الذئب فقال له : من لها يوم السبع يوم ليس لها راع غيري فقال الناس : سبحان الله فقال رسول الله ﷺ : فإني أومن بذلك أنا وأبو بكر وعمر » .**",
+      "grading": "صحيح",
+      "takhrij": "وعزاه المزي في الأطراف للنسائيّ السنن الكبرى في المناقب ، وأحمد ٢ / ٣٨٢ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "ولكن",
+          "corrected": "ولكني",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 2388.01) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The text runs from p. 390 onto p. 391. The quotation marks are as printed: the first « is closed only after «وأبو بكر وعمر», with a second « before «فإني أومن به»; the last «فإني أومن بذلك» has no opening mark."
+      ]
+    },
+    {
+      "number": 623,
+      "book_page": 391,
+      "heading": "ما يقال عند التعجب ( سبحان الله )",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٣٩٠",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 390
+      },
+      "text": "حدثنا علي بن عبد الله قال : حدثنا يحيى قال : حدثنا حميد قال : حدثنا بكر عن أبي رافع **عن أبي هريرة أن النبي ﷺ لقيه في بعض طريق المدينة وهو جنب فانخنست منه فذهب فاغتسل ثم جاء فقال أين كنت يا أبا هريرة ؟ قال : كنت جنبا فكرهت أن أجالسك وأنا على غير طهارة فقال : « سبحان الله إن المسلم لا ينجس » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص٦٦ نووي ، وأبو داود ج١ ص١٥٦ ، والنسائيّ ج١ ص١٤٦ ، وأحمد ٢ / ٢٤٥ ، ٣٨٢ ، ٤٧١ ، وأبو عوانة ١ / ٢٧٥ .",
+      "footnotes": [
+        "(*) [على «ورواه مسلم» في التخريج] لفظ مسلم « .. إن المؤمن لا ينجس » وحديث حذيفة في مسلم أيضا « إن المسلم لا ينجس » ، وأخرجه الترمذي في المناقب باب ٨٩ ، وابن ماجه رقم ٥٣٤ ، وليس في روايتهما « سبحان الله » وهي اللفظة التي بوبنا لها . وهذا دأبنا في كثير من الأحاديث أننا نغفل ذكر بعض الذين أخرجوا الحديث لكونهم لم يذكروا اللفظة المرادة منه مع كونهم أخرجوا أصل الحديث ."
+      ],
+      "corrections": [],
+      "transcriber_notes": []
+    },
+    {
+      "number": 624,
+      "book_page": 391,
+      "heading": "ما يقال عند التعجب ( سبحان الله )",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج١ ص٤١٤",
+      "source": {
+        "collection": "bukhari",
+        "volume": 1,
+        "page": 414
+      },
+      "text": "حدثنا يحيى قال : حدثنا ابن عيينة عن منصور بن صَفية عن أمه **عن عائشة أن امرأة سألت النبي ﷺ عن غسلها من المحيض فأمرها كيف تغتسل قال : « خذي فرصة من مسك فتطهري بها . قالت : كيف أتطهر ؟ قال : تطهري بها . قالت : كيف ؟ قال : سبحان الله ، تطهري . فاجتذبتها إليَّ فقلت تتبعي بها أثر الدم » .**",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٤ ص١٣ ، وابن ماجه حديث رقم ٦٤٢ ، والنسائيّ في الطهارة ، وأحمد ١٥٩ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 9,
+          "field": "text",
+          "printed": "فاجتذبتها",
+          "corrected": "فاجتبذتها",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 314) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The quotation opened at «خذي فرصة» closes only after «أثر الدم», as printed.",
+        "The takhrij prints «وأحمد ١٥٩» with no volume; kept as printed."
+      ]
+    },
+    {
+      "number": 625,
+      "book_page": 392,
+      "heading": "ما يقال عند الفزع",
+      "label": null,
+      "citation": "قال الإمام مسلم ج١٨ ص٣",
+      "source": {
+        "collection": "muslim",
+        "volume": 18,
+        "page": 3
+      },
+      "text": "حدثني حرملة بن يحيى أخبرنا ابن وهب أخبرني يونس عن ابن شهاب أخبرني عروة ابن الزبير أن زينب بنت أبي سلمة أخبرته أن أم حبيبة بنت أبي سفيان أخبرتها **أن زينب بنت جحش زوج النبي ﷺ قالت : خرج رسول الله ﷺ يوما فزعا محمرا وجهه يقول : « لا إله إلا الله ويل للعرب من شر قد اقترب فتح اليوم من ردم يأجوج ومأجوج مثل هذه وحلق بإصبعه الإبهام والتي تليها . فقلت : يا رسول الله أنهلك وفينا الصالحون ؟ قال : نعم إذا كثر الخبث » .**",
+      "grading": "صحيح",
+      "takhrij": "وأخرجه البخاري في الفتن الفتح ١٣ / ١١ رقم ٥٩ : ٧ ، والترمذي في الفتن ٢٣ وقال : حسن صحيح . وابن ماجه في الفتن ٩ : ٣ ، وعزاه المزي في الأطراف للنسائيّ في السنن الكبرى في التفسير ، وأخرجه أحمد ٦ / ٤٢٨ .",
+      "footnotes": [],
+      "corrections": [
+        {
+          "id": 10,
+          "field": "text",
+          "printed": "تليها .",
+          "corrected": "تليها قالت .",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net; in the hadith text the wording of the cited source (muslim 2880.03) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The quotation opened at «لا إله إلا الله» closes only after «الخبث», as printed."
+      ]
+    },
+    {
+      "number": 626,
+      "book_page": 392,
+      "heading": "التكبير عند الأمر السار",
+      "label": null,
+      "citation": "قال الإمام البخاري فتح ج٨ ص٤٤١",
+      "source": {
+        "collection": "bukhari",
+        "volume": 8,
+        "page": 441
+      },
+      "text": "حدثنا عمر بن حفص حدثنا أبي حدثنا الأعمش حدثنا أبو صالح **عن أبي سعيد الخدري قال : قال النبي ﷺ : « يقول الله عز وجل يوم القيامة : يا آدم فيقول : لبيك ربنا وسعديك فينادى بصوت : إن الله يأمرك أن تخرج من ذريتك بعثا إلى النار . قال : يا رب وما بعث النار ؟ قال : من كل ألف - أراه قال تسعمائة وتسعة وتسعين - فحينئذ تضع الحامل حملها ويشيب الولد ، وترى الناس سكارى وما هم بسكارى ولكن عذاب الله شديد . فشق ذلك على الناس حتى تغيرت وجوههم ، فقال النبي ﷺ : من يأجوج ومأجوج تسعمائة وتسعة وتسعين ، ومنكم واحد . ثم أنتم في الناس كالشعرة السوداء في جنب الثور الأبيض أو كالشعرة البيضاء في جنب الثور الأسود وإني لأرجو أن تكونوا ربع أهل الجنة فكبَّرنا ثم قال : ثلث أهل الجنة ، فكبَّرنا ثم قال شطر أهل الجنة فكبَّرنا » .** قال أبو أسامة عن الأعمش : « ترى الناس سكارى وما هم بسكارى » قال : « من كل ألف تسعمائة وتسعة وتسعين » وقال جرير وعيسى بن يونس وأبو معاوية : « سكرى وما هم بسكرى » .",
+      "grading": "صحيح",
+      "takhrij": "ورواه مسلم ج٣ ص٩٧ ، وأحمد ٣ / ٣٢ ، ٣٣ ، وعزاه المزي في الأطراف للنسائيّ السنن الكبرى في التفسير .",
+      "footnotes": [
+        "(*) [على «فكبَّرنا» الأولى] في رواية جرير عن الأعمش فحمدنا الله وكبرنا . تقدم توضيح أن التصفيق ليس بمشروع ."
+      ],
+      "corrections": [
+        {
+          "id": 11,
+          "field": "text",
+          "printed": "فيقول",
+          "corrected": "يقول",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4741) is used."
+        },
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "الولد",
+          "corrected": "الوليد",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 4741) is used."
+        }
+      ],
+      "transcriber_notes": [
+        "The text runs from p. 392 onto p. 393. «أنتم» on p. 393 is printed with the font's «تم» ligature, whose dots are hard to see (zoomed); the verse on p. 389 prints «كنتم» the same way, so it is «أنتم», not «أنعم».",
+        "«ويشيب الولد» is printed so on p. 392 (zoomed); kept.",
+        "Al-Bukhari's further remarks «قال أبو أسامة … بسكرى» are printed in regular type after the hadith and kept in text."
+      ]
+    }
+  ]
+}
