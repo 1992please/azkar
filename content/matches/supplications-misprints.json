@@ -40,48 +40,6 @@
     "evidence": "Kept: a different transmission verb, a usual difference between editions."
   },
   {
-    "entry": 293,
-    "kind": "missing",
-    "tokens": [
-      18,
-      18
-    ],
-    "printed_words": [],
-    "alternative_words": [
-      "عن",
-      "ذر"
-    ],
-    "alternative_tokens": [
-      "عن",
-      "ذر"
-    ],
-    "left": [
-      "عن",
-      "منصور",
-      "والاعمش"
-    ],
-    "right": [
-      "عن",
-      "يسيع",
-      "الحضرمي"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 2,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 0,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.45,
-    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections.",
-    "printed": "والأعمش عن",
-    "corrected": "والأعمش عن ذر عن"
-  },
-  {
     "entry": 295,
     "kind": "other",
     "tokens": [
@@ -118,7 +76,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": false
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.45,
     "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net.",
     "printed": "قال : « وفوقه",
@@ -584,7 +542,7 @@
       "alternative_on_dorar": 4,
       "ocr_confirms_printed": false
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.65,
     "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net.",
     "printed": "النار »",

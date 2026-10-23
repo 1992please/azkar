@@ -535,8 +535,12 @@ def main() -> None:
         for c in cands:
             if c["decision"] in ("approve", "ask"):
                 c["printed"], c["corrected"] = correction_strings(c, toks, text)
-                if any(o["field"] == "text" and (c["printed"] in o["printed"] or o["printed"] in c["printed"])
-                       for o in owner):
+                # The candidates come from the text with the kept corrections applied, so a difference
+                # next to one of them can have a printed text the book doesn't print; that correction
+                # settles the spot (e.g. «حسسيبه» → «حسيبه» kept, «والله حسيبه» is then not asked).
+                if e["text"].count(c["printed"]) != 1 or any(
+                        o["field"] == "text" and (c["printed"] in o["printed"] or o["printed"] in c["printed"])
+                        for o in owner):
                     c["decision"] = "owner-decided"
                 else:
                     new.append(c)

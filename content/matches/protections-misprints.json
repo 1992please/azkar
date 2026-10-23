@@ -241,54 +241,10 @@
   },
   {
     "entry": 156,
-    "kind": "missing",
-    "tokens": [
-      244,
-      244
-    ],
-    "printed_words": [],
-    "alternative_words": [
-      "حتي",
-      "تختم",
-      "الايه"
-    ],
-    "alternative_tokens": [
-      "حتى",
-      "تختم",
-      "الآية"
-    ],
-    "left": [
-      "هو",
-      "الحي",
-      "القيوم"
-    ],
-    "right": [
-      "فانك",
-      "لن",
-      "يزال"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 2,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.5,
-    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net.",
-    "printed": "الحى القيوم ﴾ فإنك",
-    "corrected": "الحى القيوم حتى تختم الآية ﴾ فإنك"
-  },
-  {
-    "entry": 156,
     "kind": "order",
     "tokens": [
-      285,
-      287
+      288,
+      290
     ],
     "printed_words": [
       "بها",
@@ -320,11 +276,11 @@
       "alternative_in_collections": 1,
       "printed_on_dorar": 0,
       "alternative_on_dorar": 5,
-      "ocr_confirms_printed": true
+      "ocr_confirms_printed": false
     },
     "decision": "approve",
     "confidence": 0.9,
-    "evidence": "Order: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used.",
+    "evidence": "Order: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; in the hadith text the wording of the cited source (bukhari 2311) is used.",
     "printed": "بها الله",
     "corrected": "الله بها"
   },
@@ -332,8 +288,8 @@
     "entry": 156,
     "kind": "extra",
     "tokens": [
-      313,
-      314
+      316,
+      317
     ],
     "printed_words": [
       "الايه"
@@ -358,7 +314,7 @@
       "alternative_in_collections": 1,
       "printed_on_dorar": 5,
       "alternative_on_dorar": 0,
-      "ocr_confirms_printed": true
+      "ocr_confirms_printed": false
     },
     "decision": "variant",
     "confidence": 0.05,
@@ -368,8 +324,8 @@
     "entry": 156,
     "kind": "substitution",
     "tokens": [
-      359,
-      360
+      362,
+      363
     ],
     "printed_words": [
       "مذ"
@@ -398,11 +354,11 @@
       "alternative_in_collections": 1,
       "printed_on_dorar": 0,
       "alternative_on_dorar": 4,
-      "ocr_confirms_printed": true
+      "ocr_confirms_printed": false
     },
     "decision": "approve",
     "confidence": 0.9,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used.",
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; in the hadith text the wording of the cited source (bukhari 2311) is used.",
     "printed": "مذ",
     "corrected": "منذ"
   },
@@ -725,7 +681,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2035) is used.",
     "printed": "إلى",

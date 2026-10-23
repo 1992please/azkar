@@ -102,9 +102,9 @@
           "printed": "بشيء",
           "corrected": "",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5022) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «أوصى النبي ﷺ بشيء ؟» is the wording of other narrations of this hadith (Ahmad 18595, Ibn Majah 2696: «أوصى رسول الله ﷺ بشيء»); attested, so kept. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5022) is used."
         }
       ],
       "transcriber_notes": [
@@ -198,9 +198,9 @@
           "printed": "باللفظ",
           "corrected": "في اللفظ",
           "confidence": 0.63,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): Muslim's own remark in the chain is «وتقاربا في اللفظ» (Muslim 796, matched 97%); «باللفظ» occurs nowhere. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections."
         }
       ],
       "transcriber_notes": [
@@ -292,9 +292,9 @@
           "printed": "بن مالك",
           "corrected": "",
           "confidence": 0.48,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «أنس بن مالك» is the Companion's full name, not a misprint. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
         },
         {
           "id": 8,
@@ -302,9 +302,9 @@
           "printed": "فيها",
           "corrected": "لها",
           "confidence": 0.88,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 5 time(s) in the collections and 13 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 5020 reads «كالتمرة طعمها طيب ولا ريح لها», as the book itself prints at the end of the same hadith; «ولا ريح فيها» occurs in no narration. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 5 time(s) in the collections and 13 on dorar.net."
         }
       ],
       "transcriber_notes": [
@@ -530,9 +530,9 @@
           "printed": "بن المغفل المزني",
           "corrected": "بن مغفل المزني",
           "confidence": 0.99,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7540) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «عبد الله بن المغفل المزني» is an attested form of the Companion's name (Bukhari 4842, Muslim, al-Nasa'i: 11 narrations), not a misprint. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7540) is used."
         },
         {
           "id": 13,
@@ -540,9 +540,9 @@
           "printed": "ابن المغفل وقال",
           "corrected": "ابن مغفل وقال",
           "confidence": 0.93,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7540) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «ابن المغفل» is an attested form of the Companion's name (see correction 12), not a misprint. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7540) is used."
         }
       ],
       "transcriber_notes": [
@@ -679,6 +679,16 @@
       "footnotes": [],
       "corrections": [
         {
+          "id": 16,
+          "field": "text",
+          "printed": "فقرأت فقال",
+          "corrected": "فقرأت التي أقرأني فقال",
+          "confidence": 0.9,
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «اقرأ يا عمر» . فقرأت فقال is al-Bukhari's own wording of this hadith in Bukhari 6936 (also al-Nasa'i 936, Ahmad 153); attested, so kept. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 7550) is used."
+        },
+        {
           "id": 15,
           "field": "text",
           "printed": "الرسول",
@@ -687,16 +697,6 @@
           "status": "approved",
           "decided_by": "auto",
           "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 8 time(s) in the collections and 11 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7550) is used."
-        },
-        {
-          "id": 16,
-          "field": "text",
-          "printed": "فقرأت فقال",
-          "corrected": "فقرأت التي أقرأني فقال",
-          "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 7550) is used."
         }
       ],
       "transcriber_notes": [
@@ -726,9 +726,9 @@
           "printed": "بشار أخبرنا أبو",
           "corrected": "بشار قال حدثنا أبو",
           "confidence": 0.53,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A transmission word in the chain («أخبرنا» for «قال حدثنا»); the book's chain wording is kept. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections."
         }
       ],
       "transcriber_notes": []
@@ -1059,11 +1059,11 @@
           "id": 20,
           "field": "text",
           "printed": "بن البجلي",
-          "corrected": "",
+          "corrected": "البجلي",
           "confidence": 0.9,
           "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 154 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7364) is used."
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The Companion is «جندب بن عبد الله البجلي» (42 narrations); the extra «بن» before the nisba is the misprint. The tool deleted «بن البجلي» whole, which also dropped the nisba; only «بن» is removed. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 154 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7364) is used."
         }
       ],
       "transcriber_notes": [
@@ -1090,11 +1090,11 @@
           "id": 21,
           "field": "text",
           "printed": "هشيم أن داود",
-          "corrected": "هشيم أخبرنا داود",
+          "corrected": "هشيم أنا داود",
           "confidence": 0.63,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «حدثنا هشيم أن داود بن عمرو» leaves «أن» without a predicate; the Musnad's printed text abbreviates «أخبرنا» as «أنا» (Ahmad 17380 has «أخبرنا داود»), so the dropped alif is restored in the book's own abbreviation. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -1143,9 +1143,9 @@
           "printed": "من آل حاميم",
           "corrected": "",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 775) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «سورتين من آل حاميم» is the wording of other narrations of this hadith («وسورتين من آل حم», Bukhari 5043, al-Nasa'i 1006); «حاميم» is «حم» spelled out. Attested, so kept. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 775) is used."
         }
       ],
       "transcriber_notes": [
@@ -1201,6 +1201,16 @@
       "footnotes": [],
       "corrections": [
         {
+          "id": 25,
+          "field": "text",
+          "printed": "في شهر",
+          "corrected": "في كل شهر",
+          "confidence": 0.9,
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «واقرأ القرآن في شهر» is the wording of Bukhari 1978 and Abu Dawud 1388 for this hadith of Abd Allah ibn Amr; attested, so kept. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; in the hadith text the wording of the cited source (bukhari 5052) is used."
+        },
+        {
           "id": 24,
           "field": "text",
           "printed": "أصوم",
@@ -1209,16 +1219,6 @@
           "status": "approved",
           "decided_by": "auto",
           "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5052) is used."
-        },
-        {
-          "id": 25,
-          "field": "text",
-          "printed": "في شهر",
-          "corrected": "في كل شهر",
-          "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; in the hadith text the wording of the cited source (bukhari 5052) is used."
         }
       ],
       "transcriber_notes": [
@@ -1483,9 +1483,9 @@
           "printed": "ورجل آتاه الله",
           "corrected": "ورجل أعطاه الله",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5025) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «ورجل آتاه الله مالا فهو …» is al-Bukhari's own wording of this hadith in Bukhari 5026, 7528 and 7529; attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5025) is used."
         }
       ],
       "transcriber_notes": []
@@ -1512,9 +1512,9 @@
           "printed": "سليمان قال :",
           "corrected": "سليمان :",
           "confidence": 0.58,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «قال» is a transmission word in the chain («عن سليمان قال : سمعت ذكوان»); the book's chain wording is kept. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -1543,9 +1543,20 @@
           "printed": "رضي الله عنه",
           "corrected": "",
           "confidence": 0.48,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «رضي الله عنه» is the Sheikh's honorific after the Companion's name, not a misprint. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 43,
+          "field": "text",
+          "printed": "وِهل",
+          "corrected": "وهل",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A stray kasra is printed under the waw of «وهل» (zoomed at 1600 dpi); the conjunction takes a fatha. The mark is dropped."
         },
         {
           "id": 35,
@@ -1679,9 +1690,9 @@
           "printed": "الإمام",
           "corrected": "حدثنا",
           "confidence": 0.66,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 838 time(s) in the collections; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The book abridges al-Bukhari's chain («قال : قال الإمام شعبة :», leaving out Ghundar); replacing «الإمام» with «حدثنا» would give the malformed «قال : قال حدثنا شعبة». The chain is kept as printed. Earlier evidence: Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 838 time(s) in the collections; the OCR confirms the page prints it."
         },
         {
           "id": 40,

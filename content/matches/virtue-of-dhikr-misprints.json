@@ -234,7 +234,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": false
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.6,
     "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections.",
     "printed": "الجهني وحدثنا",

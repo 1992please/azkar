@@ -38,10 +38,10 @@
           "printed": "إن الرق والتمائم",
           "corrected": "إن الرقى والتمائم",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "The same printing as correction 10, inside the hadith the Sheikh quotes («إن الرقى والتمائم والتولة شرك»): «الرق» (slavery) makes no sense among incantations and amulets. The page prints «الرق» with a final qaf and no «ى» (checked at 1200 dpi). Left for the owner because it depends on meaning, not grammar."
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The Sheikh quotes the hadith «إن الرقى والتمائم والتولة شرك» (Abu Dawud 3883, Ibn Majah 3530); «الرق» (slavery) is the book's dropped final «ى» after «ق», as in correction 10 three lines earlier. Earlier evidence: The same printing as correction 10, inside the hadith the Sheikh quotes («إن الرقى والتمائم والتولة شرك»): «الرق» (slavery) makes no sense among incantations and amulets. The page prints «الرق» with a final qaf and no «ى» (checked at 1200 dpi). Left for the owner because it depends on meaning, not grammar."
         }
       ],
       "transcriber_notes": [
@@ -120,6 +120,16 @@
       ],
       "corrections": [
         {
+          "id": 5,
+          "field": "text",
+          "printed": "القيوم ﴾ فإنك",
+          "corrected": "القيوم ﴾ حتى تختم الآية فإنك",
+          "confidence": 0.5,
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 2311 reads «فاقرأ آية الكرسي ﴿ الله لا إله إلا هو الحي القيوم ﴾ حتى تختم الآية فإنك …»; the book drops «حتى تختم الآية». The tool placed the words inside the Quran brackets; here they follow «﴾», as in al-Bukhari. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net."
+        },
+        {
           "id": 1,
           "field": "text",
           "printed": "وقلت له :",
@@ -160,16 +170,6 @@
           "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 4 time(s) in the collections and 8 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used."
         },
         {
-          "id": 5,
-          "field": "text",
-          "printed": "الحى القيوم ﴾ فإنك",
-          "corrected": "الحى القيوم حتى تختم الآية ﴾ فإنك",
-          "confidence": 0.5,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net."
-        },
-        {
           "id": 12,
           "field": "text",
           "printed": "بها الله",
@@ -177,7 +177,7 @@
           "confidence": 0.9,
           "status": "approved",
           "decided_by": "auto",
-          "reason": "Order: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used."
+          "reason": "Order: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; in the hadith text the wording of the cited source (bukhari 2311) is used."
         },
         {
           "id": 6,
@@ -187,7 +187,7 @@
           "confidence": 0.9,
           "status": "approved",
           "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2311) is used."
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; in the hadith text the wording of the cited source (bukhari 2311) is used."
         }
       ],
       "transcriber_notes": [
@@ -479,9 +479,9 @@
           "printed": "إلى",
           "corrected": "",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2035) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): Attested in the cited collection itself: Open-Hadith-Data's text of this Bukhari hadith (Safiyya visiting in i'tikaf) reads «أنها جاءت إلى رسول الله ﷺ تزوره», as does Ibn Majah 1779. A wording attested in another narration is kept. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 2035) is used."
         }
       ],
       "transcriber_notes": [

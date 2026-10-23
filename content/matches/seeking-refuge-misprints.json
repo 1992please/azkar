@@ -1,50 +1,10 @@
 [
   {
     "entry": 190,
-    "kind": "missing",
-    "tokens": [
-      3,
-      3
-    ],
-    "printed_words": [],
-    "alternative_words": [
-      "حدثنا"
-    ],
-    "alternative_tokens": [
-      "حدثنا"
-    ],
-    "left": [
-      "اخبرنا",
-      "قتيبه",
-      "قال"
-    ],
-    "right": [
-      "الليث",
-      "عن",
-      "بن"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 35,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 0,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.68,
-    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 35 time(s) in the collections.",
-    "printed": "قال الليث",
-    "corrected": "قال حدثنا الليث"
-  },
-  {
-    "entry": 190,
     "kind": "substitution",
     "tokens": [
-      50,
-      51
+      51,
+      52
     ],
     "printed_words": [
       "فقلت"
@@ -73,7 +33,7 @@
       "alternative_in_collections": 2,
       "printed_on_dorar": 0,
       "alternative_on_dorar": 0,
-      "ocr_confirms_printed": true
+      "ocr_confirms_printed": false
     },
     "decision": "variant",
     "confidence": 0.05,
@@ -83,8 +43,8 @@
     "entry": 190,
     "kind": "substitution",
     "tokens": [
-      138,
-      139
+      139,
+      140
     ],
     "printed_words": [
       "بمثلها"
@@ -113,11 +73,11 @@
       "alternative_in_collections": 1,
       "printed_on_dorar": 0,
       "alternative_on_dorar": 4,
-      "ocr_confirms_printed": true
+      "ocr_confirms_printed": false
     },
     "decision": "approve",
     "confidence": 0.9,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (nasai 5438) is used.",
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; in the hadith text the wording of the cited source (nasai 5438) is used.",
     "printed": "بمثلها",
     "corrected": "بمثلهما"
   },
@@ -786,7 +746,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.58,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections; the OCR confirms the page prints it.",
     "printed": "أبيه قال **في",

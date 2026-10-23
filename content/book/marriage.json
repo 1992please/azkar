@@ -174,9 +174,9 @@
           "printed": "تستحي",
           "corrected": "تستحيي",
           "confidence": 0.83,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «إن البكر تستحي» is al-Bukhari's own wording of this hadith (Bukhari 5137); «تستحي»/«تستحيي» is a spelling difference. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -207,9 +207,9 @@
           "printed": "رضي الله عنها",
           "corrected": "",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5162) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «رضي الله عنها» after «عن عائشة» is the Sheikh's honorific, which he adds throughout the book; removing it corrects no misprint. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5162) is used."
         }
       ],
       "transcriber_notes": [
@@ -307,6 +307,16 @@
       "footnotes": [],
       "corrections": [
         {
+          "id": 10,
+          "field": "text",
+          "printed": "أحدكم",
+          "corrected": "أحدهم",
+          "confidence": 0.8,
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «لو أن أحدكم» is the wording of most narrations of this hadith (Bukhari 141, 3283, 7396; Muslim 1434); attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+        },
+        {
           "id": 9,
           "field": "text",
           "printed": "سعيد",
@@ -315,16 +325,6 @@
           "status": "approved",
           "decided_by": "auto",
           "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 12 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it."
-        },
-        {
-          "id": 10,
-          "field": "text",
-          "printed": "أحدكم",
-          "corrected": "أحدهم",
-          "confidence": 0.8,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
         }
       ],
       "transcriber_notes": []
@@ -372,12 +372,12 @@
         {
           "id": 11,
           "field": "text",
-          "printed": "تسع -",
-          "corrected": "تسع بنات -",
+          "printed": "تسع - فتزوجت",
+          "corrected": "تسع - بنات فتزوجت",
           "confidence": 0.65,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 6387 reads «وترك سبع أو تسع بنات»; the book drops «بنات», which it prints later in the same hadith («فترك سبع أو تسع بنات»). Placed after the closing dash, so the narrator's aside «أو تسع» stays set off. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net."
         },
         {
           "id": 12,
@@ -385,9 +385,9 @@
           "printed": ": ثيب قال",
           "corrected": ": ثيبا قال",
           "confidence": 0.93,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6387) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «قلت : ثيب» is al-Bukhari's own wording of this hadith of Jabir in Bukhari 5079; attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6387) is used."
         }
       ],
       "transcriber_notes": [

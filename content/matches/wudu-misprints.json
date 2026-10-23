@@ -73,7 +73,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.85,
     "evidence": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared.",
     "printed": "العتبي",

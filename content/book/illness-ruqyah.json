@@ -62,10 +62,10 @@
           "printed": "الرق",
           "corrected": "الرقى",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "The same printing as in entry 448's heading: «الرق» (slavery) for «الرقى» (incantations), the final «ى» after «ق» dropped as throughout this chapter. Left for the owner because it depends on meaning."
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The book's type drops the final «ى» after «ق» throughout this chapter and its index («الرق», «يرق», «استرق»); in these headings and in Ibn Hajar's words «الرق» (slavery) stands for «الرقى» (incantations), the chapter's subject. Applied to all five places of correction 14. Earlier evidence: The same printing as in entry 448's heading: «الرق» (slavery) for «الرقى» (incantations), the final «ى» after «ق» dropped as throughout this chapter. Left for the owner because it depends on meaning."
         }
       ],
       "transcriber_notes": [
@@ -120,9 +120,9 @@
           "printed": "القسم",
           "corrected": "المقسم",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5635) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «وإبرار القسم» is al-Bukhari's own wording of this hadith of the seven commands (Bukhari 1239, 5175); attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5635) is used."
         },
         {
           "id": 3,
@@ -297,9 +297,9 @@
           "printed": "إليه",
           "corrected": "",
           "confidence": 0.66,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 347 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «أو أُتي به إليه» is a narrator's wording around the supplication, not a misprint, and the entry is matched only loosely (70%, marked for checking), so the cited-source rule doesn't apply. Earlier evidence: Extra: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 347 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
         },
         {
           "id": 7,
@@ -307,9 +307,9 @@
           "printed": "عليه الصلاة والسلام",
           "corrected": "",
           "confidence": 0.56,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 104 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «عليه الصلاة والسلام» is the Sheikh's honorific, not a misprint. Earlier evidence: Extra: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 104 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -546,10 +546,10 @@
           "printed": "الرق",
           "corrected": "الرقى",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "The same printing as in entry 448's heading: «الرق» (slavery) for «الرقى» (incantations), the final «ى» after «ق» dropped as throughout this chapter. Left for the owner because it depends on meaning."
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The book's type drops the final «ى» after «ق» throughout this chapter and its index («الرق», «يرق», «استرق»); in these headings and in Ibn Hajar's words «الرق» (slavery) stands for «الرقى» (incantations), the chapter's subject. Applied to all five places of correction 14. Earlier evidence: The same printing as in entry 448's heading: «الرق» (slavery) for «الرقى» (incantations), the final «ى» after «ق» dropped as throughout this chapter. Left for the owner because it depends on meaning."
         },
         {
           "id": 9,
@@ -591,10 +591,10 @@
           "printed": "الرق",
           "corrected": "الرقى",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "The same printing as in entry 448's heading: «الرق» (slavery) for «الرقى» (incantations), the final «ى» after «ق» dropped as throughout this chapter. Left for the owner because it depends on meaning."
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The book's type drops the final «ى» after «ق» throughout this chapter and its index («الرق», «يرق», «استرق»); in these headings and in Ibn Hajar's words «الرق» (slavery) stands for «الرقى» (incantations), the chapter's subject. Applied to all five places of correction 14. Earlier evidence: The same printing as in entry 448's heading: «الرق» (slavery) for «الرقى» (incantations), the final «ى» after «ق» dropped as throughout this chapter. Left for the owner because it depends on meaning."
         },
         {
           "id": 10,
@@ -633,10 +633,10 @@
           "printed": "الرق",
           "corrected": "الرقى",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "The book drops the final «ى» after «ق» throughout this chapter («الرق», «يرق», «استرق», «يسترق»). In these headings and in Ibn Hajar's words quoted in entry 455's footnote, «الرق» (slavery) makes no sense: the sections are about incantations, «الرقى». Left for the owner because it depends on meaning, not grammar (as protections correction 11)."
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The book's type drops the final «ى» after «ق» throughout this chapter and its index («الرق», «يرق», «استرق»); in these headings and in Ibn Hajar's words «الرق» (slavery) stands for «الرقى» (incantations), the chapter's subject. Applied to all five places of correction 14. Earlier evidence: The book drops the final «ى» after «ق» throughout this chapter («الرق», «يرق», «استرق», «يسترق»). In these headings and in Ibn Hajar's words quoted in entry 455's footnote, «الرق» (slavery) makes no sense: the sections are about incantations, «الرقى». Left for the owner because it depends on meaning, not grammar (as protections correction 11)."
         },
         {
           "id": 17,
@@ -824,10 +824,10 @@
           "printed": "الرق",
           "corrected": "الرقى",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "The same printing as in entry 448's heading: in Ibn Hajar's «فيه إشارة إلى أن النهي عن الرق كان متقدما», «الرق» (slavery) stands for «الرقى» (incantations), the subject of «رخص». Left for the owner with the headings, because it depends on meaning."
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The book's type drops the final «ى» after «ق» throughout this chapter and its index («الرق», «يرق», «استرق»); in these headings and in Ibn Hajar's words «الرق» (slavery) stands for «الرقى» (incantations), the chapter's subject. Applied to all five places of correction 14. Earlier evidence: The same printing as in entry 448's heading: in Ibn Hajar's «فيه إشارة إلى أن النهي عن الرق كان متقدما», «الرق» (slavery) stands for «الرقى» (incantations), the subject of «رخص». Left for the owner with the headings, because it depends on meaning."
         }
       ],
       "transcriber_notes": [
@@ -869,9 +869,9 @@
           "printed": "أمرني النبي ﷺ",
           "corrected": "أمرني رسول الله ﷺ",
           "confidence": 0.53,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «النبي ﷺ» for «رسول الله ﷺ» is no misprint; both are attested in Aisha's report («أمرني النبي ﷺ» in 11 narrations of other hadith), and the book's aside «- أو أمر -» is kept with it. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -900,9 +900,9 @@
           "printed": "النملة",
           "corrected": "الحية",
           "confidence": 0.55,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Muslim 2198 reads «رخص النبي ﷺ لآل حزم في رقية الحية»; «رقية النملة» belongs to a different hadith (al-Shifa', Abu Dawud 3887), so the book's word is a slip. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
         },
         {
           "id": 13,
@@ -910,9 +910,9 @@
           "printed": "أدري",
           "corrected": "",
           "confidence": 0.63,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Muslim 2198 reads «قالت : لا ، ولكن العين تسرع إليهم» ('No, but …'); «لا أدري» occurs in no narration and changes her answer. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [

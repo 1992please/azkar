@@ -154,7 +154,19 @@
         "(**) [على «حج»] قوله من غزو أو حج أو عمرة : قال الحافظ ظاهره اختصاص ذلك بهذه الأمور الثلاثة وليس الحكم كذلك عند الجمهور بل يشرع قول ذلك في كل سفر إذا كان سفر طاعة كصلة الرحم وطلب العلم لما يشمل الجميع من اسم الطاعة .",
         "(***) [على «عابدون»] في بعض الروايات - الصحيحة أيضا - زيادة ساجدون ."
       ],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 17,
+          "field": "text",
+          "printed": "يكبُّر",
+          "corrected": "يكبّر",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A misprinted vowel: «يُكَبِّر على كل شرف» takes a kasra under the shadda, but the page prints a damma-shaped stroke (zoomed at 408 dpi). Only the shadda is kept, so the database's «يُكَبِّرُ» shows."
+        }
+      ],
       "transcriber_notes": [
         "«يكبُّر» zoomed: a shadda with a damma is printed over the ba.",
         "Footnote (**) runs from p. 396 onto p. 397 («=») and is joined."
@@ -244,9 +256,9 @@
           "printed": "الساجي",
           "corrected": "الحساني",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 4 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the entry's source isn't in the databases, so its wording can't be compared."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «أبو يحيى الساجي» is Zakariyya ibn Yahya al-Saji, the Basran hafiz from whom Ibn al-Sunni narrates; the tool's «الحساني» is a guess from similar spellings. Ibn al-Sunni isn't in the databases. Earlier evidence: Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 4 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the entry's source isn't in the databases, so its wording can't be compared."
         }
       ],
       "transcriber_notes": [
@@ -302,9 +314,9 @@
           "printed": "أودعك الله كما",
           "corrected": "أودعك كما",
           "confidence": 0.66,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 6 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): Ibn Umar's words are «ادن حتى أودعك كما كان رسول الله ﷺ يودعنا» in the Musnad (4295) and al-Tirmidhi 3443; «أودعك الله» occurs in no narration. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 6 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -456,9 +468,9 @@
           "printed": "سألكم بالله فأعطوه",
           "corrected": "سألكم بوجه الله فأعطوه",
           "confidence": 0.48,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «ومن سألكم بالله فأعطوه» is the wording of Abu Dawud 5109 and al-Nasa'i 2567 for this same hadith; attested, so kept. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
         },
         {
           "id": 9,
@@ -610,9 +622,9 @@
           "printed": "بنا",
           "corrected": "لنا",
           "confidence": 0.91,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 10 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1038) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «صلى بنا رسول الله ﷺ صلاة الصبح بالحديبية» is Muslim's own wording of this hadith (Muslim 71); attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 10 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1038) is used."
         }
       ],
       "transcriber_notes": []

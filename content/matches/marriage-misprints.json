@@ -347,7 +347,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.83,
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it.",
     "printed": "تستحي",
@@ -387,7 +387,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5162) is used.",
     "printed": "رضي الله عنها",
@@ -672,7 +672,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": false
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.8,
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net.",
     "printed": "أحدكم",
@@ -760,50 +760,10 @@
   },
   {
     "entry": 426,
-    "kind": "missing",
-    "tokens": [
-      23,
-      23
-    ],
-    "printed_words": [],
-    "alternative_words": [
-      "بنات"
-    ],
-    "alternative_tokens": [
-      "بنات"
-    ],
-    "left": [
-      "سبع",
-      "او",
-      "تسع"
-    ],
-    "right": [
-      "فتزوجت",
-      "امراه",
-      "فقال"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 2,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.65,
-    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net.",
-    "printed": "تسع -",
-    "corrected": "تسع بنات -"
-  },
-  {
-    "entry": 426,
     "kind": "substitution",
     "tokens": [
-      49,
-      50
+      50,
+      51
     ],
     "printed_words": [
       "ثيب"
@@ -832,11 +792,11 @@
       "alternative_in_collections": 1,
       "printed_on_dorar": 0,
       "alternative_on_dorar": 1,
-      "ocr_confirms_printed": true
+      "ocr_confirms_printed": false
     },
-    "decision": "approve",
-    "confidence": 0.93,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6387) is used.",
+    "decision": "owner-decided",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; in the hadith text the wording of the cited source (bukhari 6387) is used.",
     "printed": ": ثيب قال",
     "corrected": ": ثيبا قال"
   },

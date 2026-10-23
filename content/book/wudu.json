@@ -55,9 +55,9 @@
           "printed": "العتبي",
           "corrected": "الضبي",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «عبد الرحمن بن معاوية العتبي المصري» is al-Tabarani's Egyptian shaykh, known by the nisba al-Utbi; the tool's «الضبي» is attested nowhere. Al-Tabarani isn't in the databases, so the tool couldn't see the name. Earlier evidence: Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
         }
       ],
       "transcriber_notes": [
@@ -223,10 +223,10 @@
           "printed": "أن شعبة",
           "corrected": "أنا شعبة",
           "confidence": 0.75,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "Transcriber's proposal: «حدثنا عمرو بن مرزوق أن شعبة عن بريد» has a transmission word where «أن» has no predicate. «أنا» (the usual abbreviation of «أخبرنا») is one letter from the print, but «ثنا» is also possible. Checked on the scan in transcription: the page prints «أن». Al-Tabarani isn't in the databases, so the tool couldn't check it. Left for the owner."
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «عمرو بن مرزوق أن شعبة» leaves «أن» without a predicate; «أنا», al-Tabarani's usual abbreviation of «أخبرنا», is one letter from the print and restores the chain. Earlier evidence: Transcriber's proposal: «حدثنا عمرو بن مرزوق أن شعبة عن بريد» has a transmission word where «أن» has no predicate. «أنا» (the usual abbreviation of «أخبرنا») is one letter from the print, but «ثنا» is also possible. Checked on the scan in transcription: the page prints «أن». Al-Tabarani isn't in the databases, so the tool couldn't check it. Left for the owner."
         }
       ],
       "transcriber_notes": [

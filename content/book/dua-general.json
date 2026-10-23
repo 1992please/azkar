@@ -147,6 +147,16 @@
       "footnotes": [],
       "corrections": [
         {
+          "id": 6,
+          "field": "text",
+          "printed": "تظلمني حقي",
+          "corrected": "تظلمني وأعطني حقي",
+          "confidence": 0.9,
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «اتق الله ولا تظلمني حقي» is Muslim's wording of the same hadith of the cave (Muslim 2743); attested, so kept. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 5974) is used."
+        },
+        {
           "id": 3,
           "field": "text",
           "printed": "أتين",
@@ -171,16 +181,6 @@
           "field": "text",
           "printed": "منها .",
           "corrected": "منها ففرج لهم فرجة .",
-          "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 5974) is used."
-        },
-        {
-          "id": 6,
-          "field": "text",
-          "printed": "تظلمني حقي",
-          "corrected": "تظلمني وأعطني حقي",
           "confidence": 0.9,
           "status": "approved",
           "decided_by": "auto",
@@ -301,6 +301,17 @@
       "takhrij": null,
       "footnotes": [],
       "corrections": [
+        {
+          "id": 31,
+          "field": "text",
+          "printed": "حدُّثِ",
+          "corrected": "حدّثِ",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A misprinted vowel: the imperative «حَدِّثِ الناس» takes a kasra under the shadda, but the page prints a damma-shaped stroke above it (zoomed at 1600 dpi; compare the fatha of «رحَّب», p. 287). The shadda and the final kasra are kept, so the database's «حَدِّثِ» shows."
+        },
         {
           "id": 9,
           "field": "text",
@@ -586,9 +597,9 @@
           "printed": "أغني",
           "corrected": "أغير",
           "confidence": 0.91,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 240) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «وأنا أنظر لا أغني شيئا» is the text of this very hadith (Bukhari 240) in Open-Hadith-Data's edition of al-Bukhari; attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 240) is used."
         },
         {
           "id": 12,
@@ -596,9 +607,9 @@
           "printed": "كانت",
           "corrected": "كان",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 240) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «لو كانت لي منعة» is Muslim's wording of the same story (Muslim 1794); attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 240) is used."
         },
         {
           "id": 13,
@@ -652,9 +663,9 @@
           "printed": "سبتا",
           "corrected": "ستا",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1013) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «ما رأينا الشمس سبتا» is the wording of Muslim 897 and al-Nasa'i 1518 for this same hadith of the rain prayer; attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1013) is used."
         }
       ],
       "transcriber_notes": [
@@ -699,9 +710,9 @@
           "printed": "ﷺ ﴿",
           "corrected": "ﷺ اللهم ﴿",
           "confidence": 0.65,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 4 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 6389 reads «كان أكثر دعاء النبي ﷺ : اللهم ربنا آتنا في الدنيا حسنة …»; the book drops «اللهم», which belongs before the verse (placed outside the Quran brackets, as the tool proposed). Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 4 on dorar.net."
         }
       ],
       "transcriber_notes": [
@@ -749,12 +760,22 @@
         {
           "id": 17,
           "field": "text",
-          "printed": "يسّامع عند",
-          "corrected": "يتسامع عنده",
+          "printed": "عند الشعر",
+          "corrected": "عنده الشعر",
           "confidence": 0.63,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «يسّامع عند الشعر» drops the pronoun of «عنده»: Ahmad's text (23995, 23871, 24378) reads «يتسامع عنده الشعر». «يسّامع», with the book's printed shadda, is the assimilated form of «يتسامع» (as «يسّمّعون» in al-Saffat 8) and is kept; only «عنده» is restored. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 30,
+          "field": "text",
+          "printed": "يسّامع",
+          "corrected": "يتسامع",
+          "confidence": 0.98,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -891,9 +912,9 @@
           "printed": "عنه قال :",
           "corrected": "عنه :",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6397) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «قال» after «عن أبي هريرة رضي الله عنه» is the narrator's transmission word, which the rules keep as printed. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6397) is used."
         },
         {
           "id": 19,
@@ -967,9 +988,9 @@
           "printed": "المصدر",
           "corrected": "المنذر",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «وقال الحاكم أيضا في نفس المصدر» is the Sheikh's own linking line ('in the same source'), not a name; «المنذر» would make no sense. Earlier evidence: Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
         },
         {
           "id": 22,
@@ -977,9 +998,9 @@
           "printed": "جوريه",
           "corrected": "جرير",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The scan prints «ابن جوريه» (checked in review at 820 dpi); the tool's «جرير» is attested nowhere, and al-Hakim isn't in the databases, so there is no evidence for a different name. Kept as printed. Earlier evidence: Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
         }
       ],
       "transcriber_notes": [
@@ -1402,9 +1423,9 @@
           "printed": "يوم",
           "corrected": "",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6400) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «في يوم الجمعة ساعة لا يوافقها …» is the wording of other narrations of this hadith (Ibn Majah 1139, Ahmad 8871, 22665); attested, so kept. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6400) is used."
         }
       ],
       "transcriber_notes": [

@@ -168,6 +168,17 @@
       "footnotes": [],
       "corrections": [
         {
+          "id": 11,
+          "field": "text",
+          "printed": "ربَّ",
+          "corrected": "ربّ",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A misprinted vowel: the angels' address «فيقولون ربِّ فيهم فلان» needs a kasra (Muslim 2689: «رَبِّ»), but the page prints a vowel stroke above the shadda (zoomed at 1090 dpi). Only the shadda is kept, so the database's «رَبِّ» shows."
+        },
+        {
           "id": 2,
           "field": "text",
           "printed": "يملأوا",
@@ -256,9 +267,20 @@
           "printed": "الجهني وحدثنا",
           "corrected": "الجهني ح وحدثنا",
           "confidence": 0.6,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «ح» is the chain-switch sign in Muslim's isnad; the book's chains omit or shorten such marks, so its absence is not a misprint (chain of narrators keeps the book). Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections."
+        },
+        {
+          "id": 12,
+          "field": "text",
+          "printed": "أنَ",
+          "corrected": "أن",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A misprinted mark: the page prints a fatha on the nun of «أن يكسب» (zoomed at 1600 dpi), where the particle takes a sukun («أَنْ»). The mark is dropped so the database's tashkeel shows."
         },
         {
           "id": 5,

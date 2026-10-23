@@ -48,9 +48,9 @@
           "printed": "رؤيا المؤمن تكذب",
           "corrected": "رؤيا المسلم تكذب",
           "confidence": 0.55,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «لم تكد رؤيا المؤمن تكذب» is the wording of al-Tirmidhi 2270 and Ibn Majah 3917 for this same hadith; attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
         },
         {
           "id": 3,
@@ -58,9 +58,9 @@
           "printed": "إلى الصلاة",
           "corrected": "فليصل",
           "confidence": 0.5,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Muslim 2263 reads «فليقم فليصل»; «فليقم إلى الصلاة» occurs in no narration. (The match is 77% only because the book adds Muslim's second chain; it is the right hadith.) Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net."
         },
         {
           "id": 4,
@@ -68,9 +68,9 @@
           "printed": "أم قال ابن",
           "corrected": "أم قاله ابن",
           "confidence": 0.8,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; asked rather than corrected automatically, because an attached pronoun is added or dropped, and either form can be grammatical."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «أم قال ابن سيرين» is grammatical with the object understood; an attached-pronoun variant in the narrator's remark is not a misprint. Earlier evidence: Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; asked rather than corrected automatically, because an attached pronoun is added or dropped, and either form can be grammatical."
         }
       ],
       "transcriber_notes": [
@@ -170,9 +170,9 @@
           "printed": "أحدكم",
           "corrected": "",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6986) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «فإذا حلم أحدكم» is al-Bukhari's and Muslim's own wording of this hadith (Bukhari 3292, 7005; Muslim 2261); attested, so kept. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6986) is used."
         },
         {
           "id": 6,
@@ -180,9 +180,9 @@
           "printed": "أبيه قال :",
           "corrected": "أبيه :",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6986) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «وعن أبيه قال : حدثنا …» opens al-Bukhari's further chain; «قال» is a transmission word, kept as printed. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6986) is used."
         }
       ],
       "transcriber_notes": [

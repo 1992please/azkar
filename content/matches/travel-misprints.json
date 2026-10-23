@@ -232,7 +232,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.85,
     "evidence": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 4 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the entry's source isn't in the databases, so its wording can't be compared.",
     "printed": "الساجي",
@@ -301,44 +301,6 @@
     "decision": "unknown",
     "confidence": null,
     "evidence": "The printed word occurs nowhere in the collections, and no similar word was found in this context."
-  },
-  {
-    "entry": 637,
-    "kind": "extra",
-    "tokens": [
-      33,
-      34
-    ],
-    "printed_words": [
-      "الله"
-    ],
-    "alternative_words": [],
-    "alternative_tokens": [],
-    "left": [
-      "ادن",
-      "حتي",
-      "اودعك"
-    ],
-    "right": [
-      "كما",
-      "كان",
-      "رسول"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 6,
-      "ocr_confirms_printed": true
-    },
-    "decision": "ask",
-    "confidence": 0.66,
-    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 6 on dorar.net; the OCR confirms the page prints it.",
-    "printed": "أودعك الله كما",
-    "corrected": "أودعك كما"
   },
   {
     "entry": 638,
@@ -618,7 +580,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.48,
     "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it.",
     "printed": "سألكم بالله فأعطوه",
@@ -855,7 +817,7 @@
       "alternative_on_dorar": 2,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.91,
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 10 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1038) is used.",
     "printed": "بنا",

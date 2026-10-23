@@ -301,7 +301,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.83,
     "evidence": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared.",
     "printed": "فالإذن",
@@ -815,41 +815,5 @@
     "decision": "variant",
     "confidence": 0.05,
     "evidence": "The printed wording is attested elsewhere (90 in the collections, 0 on dorar.net), so it is a genuine variant."
-  },
-  {
-    "entry": 417,
-    "kind": "extra",
-    "tokens": [
-      37,
-      38
-    ],
-    "printed_words": [
-      "ذلك"
-    ],
-    "alternative_words": [],
-    "alternative_tokens": [],
-    "left": [
-      "بالناس",
-      "اجل",
-      "ان"
-    ],
-    "right": [
-      "يحزنه"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 2,
-      "ocr_confirms_printed": true
-    },
-    "decision": "ask",
-    "confidence": 0.63,
-    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it.",
-    "printed": "ذلك",
-    "corrected": ""
   }
 ]

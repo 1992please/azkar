@@ -31,7 +31,7 @@
       "alternative_on_dorar": 2,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5022) is used.",
     "printed": "بشيء",
@@ -150,50 +150,6 @@
     "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
   },
   {
-    "entry": 215,
-    "kind": "other",
-    "tokens": [
-      10,
-      11
-    ],
-    "printed_words": [
-      "باللفظ"
-    ],
-    "alternative_words": [
-      "في",
-      "اللفظ"
-    ],
-    "alternative_tokens": [
-      "في",
-      "اللفظ"
-    ],
-    "left": [
-      "بن",
-      "الشاعر",
-      "وتقاربا"
-    ],
-    "right": [
-      "قالا",
-      "حدثنا",
-      "يعقوب"
-    ],
-    "cited_wins": false,
-    "nonword": true,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 0,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.63,
-    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections.",
-    "printed": "باللفظ",
-    "corrected": "في اللفظ"
-  },
-  {
     "entry": 216,
     "kind": "substitution",
     "tokens": [
@@ -304,7 +260,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.48,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it.",
     "printed": "بن مالك",
@@ -345,48 +301,6 @@
     "decision": "variant",
     "confidence": 0.05,
     "evidence": "The printed wording is attested elsewhere (16 in the collections, 0 on dorar.net), so it is a genuine variant."
-  },
-  {
-    "entry": 219,
-    "kind": "substitution",
-    "tokens": [
-      43,
-      44
-    ],
-    "printed_words": [
-      "فيها"
-    ],
-    "alternative_words": [
-      "لها"
-    ],
-    "alternative_tokens": [
-      "لها"
-    ],
-    "left": [
-      "طيب",
-      "ولا",
-      "ريح"
-    ],
-    "right": [
-      "ومثل",
-      "الفاجر",
-      "الذي"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 5,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 13,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.88,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 5 time(s) in the collections and 13 on dorar.net.",
-    "printed": "فيها",
-    "corrected": "لها"
   },
   {
     "entry": 220,
@@ -786,7 +700,7 @@
       "alternative_on_dorar": 3,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.99,
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7540) is used.",
     "printed": "بن المغفل المزني",
@@ -828,7 +742,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.93,
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7540) is used.",
     "printed": "ابن المغفل وقال",
@@ -996,7 +910,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": false
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 7550) is used.",
     "printed": "فقرأت فقال",
@@ -1080,7 +994,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": false
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.53,
     "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections.",
     "printed": "بشار أخبرنا أبو",
@@ -1745,10 +1659,9 @@
     "kind": "extra",
     "tokens": [
       21,
-      23
+      22
     ],
     "printed_words": [
-      "بن",
       "البجلي"
     ],
     "alternative_words": [],
@@ -1763,21 +1676,19 @@
       "قال",
       "رسول"
     ],
-    "cited_wins": true,
+    "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
-      "printed_in_collections": 0,
+      "printed_in_collections": 4,
       "context_words": 3,
       "alternative_in_collections": 154,
       "printed_on_dorar": 0,
-      "alternative_on_dorar": 2,
-      "ocr_confirms_printed": true
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": false
     },
-    "decision": "approve",
-    "confidence": 0.9,
-    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 154 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7364) is used.",
-    "printed": "بن البجلي",
-    "corrected": ""
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (4 in the collections, 0 on dorar.net), so it is a genuine variant."
   },
   {
     "entry": 250,
@@ -1787,7 +1698,7 @@
       3
     ],
     "printed_words": [
-      "ان"
+      "انا"
     ],
     "alternative_words": [
       "اخبرنا"
@@ -1807,18 +1718,16 @@
     "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
-      "printed_in_collections": 0,
+      "printed_in_collections": 1,
       "context_words": 3,
       "alternative_in_collections": 2,
       "printed_on_dorar": 0,
       "alternative_on_dorar": 0,
-      "ocr_confirms_printed": true
+      "ocr_confirms_printed": false
     },
-    "decision": "ask",
-    "confidence": 0.63,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; the OCR confirms the page prints it.",
-    "printed": "هشيم أن داود",
-    "corrected": "هشيم أخبرنا داود"
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (1 in the collections, 0 on dorar.net), so it is a genuine variant."
   },
   {
     "entry": 252,
@@ -1854,7 +1763,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": false
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 775) is used.",
     "printed": "من آل حاميم",
@@ -2084,7 +1993,7 @@
       "alternative_on_dorar": 3,
       "ocr_confirms_printed": false
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; in the hadith text the wording of the cited source (bukhari 5052) is used.",
     "printed": "في شهر",
@@ -2657,7 +2566,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 5025) is used.",
     "printed": "ورجل آتاه الله",
@@ -2732,7 +2641,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.58,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections; the OCR confirms the page prints it.",
     "printed": "سليمان قال :",
@@ -2772,7 +2681,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.48,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it.",
     "printed": "رضي الله عنه",
@@ -3296,7 +3205,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.66,
     "evidence": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 838 time(s) in the collections; the OCR confirms the page prints it.",
     "printed": "الإمام",

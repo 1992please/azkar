@@ -25,7 +25,7 @@
       "واصدقكم",
       "رويا"
     ],
-    "cited_wins": false,
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -35,61 +35,18 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": false
     },
-    "decision": "ask",
-    "confidence": 0.55,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net.",
+    "decision": "owner-decided",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (muslim 4200) is used.",
     "printed": "رؤيا المؤمن تكذب",
     "corrected": "رؤيا المسلم تكذب"
   },
   {
     "entry": 562,
-    "kind": "other",
-    "tokens": [
-      71,
-      73
-    ],
-    "printed_words": [
-      "الي",
-      "الصلاه"
-    ],
-    "alternative_words": [
-      "فليصل"
-    ],
-    "alternative_tokens": [
-      "فليصل"
-    ],
-    "left": [
-      "ما",
-      "يكره",
-      "فليقم"
-    ],
-    "right": [
-      "ولا",
-      "يحدث",
-      "بها"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 2,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 3,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.5,
-    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net.",
-    "printed": "إلى الصلاة",
-    "corrected": "فليصل"
-  },
-  {
-    "entry": 562,
     "kind": "substitution",
     "tokens": [
-      90,
-      91
+      89,
+      90
     ],
     "printed_words": [
       "اهو"
@@ -118,7 +75,7 @@
       "alternative_in_collections": 1,
       "printed_on_dorar": 2,
       "alternative_on_dorar": 1,
-      "ocr_confirms_printed": false
+      "ocr_confirms_printed": true
     },
     "decision": "variant",
     "confidence": 0.05,
@@ -128,8 +85,8 @@
     "entry": 562,
     "kind": "substitution",
     "tokens": [
-      94,
-      95
+      93,
+      94
     ],
     "printed_words": [
       "قال"
@@ -150,7 +107,7 @@
       "سيرين",
       "وحدثني"
     ],
-    "cited_wins": false,
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -158,13 +115,55 @@
       "alternative_in_collections": 1,
       "printed_on_dorar": 0,
       "alternative_on_dorar": 1,
-      "ocr_confirms_printed": false
+      "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.8,
-    "evidence": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; asked rather than corrected automatically, because an attached pronoun is added or dropped, and either form can be grammatical.",
+    "decision": "owner-decided",
+    "confidence": 0.9,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 4200) is used.",
     "printed": "أم قال ابن",
     "corrected": "أم قاله ابن"
+  },
+  {
+    "entry": 562,
+    "kind": "other",
+    "tokens": [
+      97,
+      98
+    ],
+    "printed_words": [
+      "وحدثني"
+    ],
+    "alternative_words": [
+      "و",
+      "حدثني"
+    ],
+    "alternative_tokens": [
+      "و",
+      "حدثني"
+    ],
+    "left": [
+      "قال",
+      "بن",
+      "سيرين"
+    ],
+    "right": [
+      "محمد",
+      "بن",
+      "رافع"
+    ],
+    "cited_wins": false,
+    "nonword": false,
+    "evidence_counts": {
+      "printed_in_collections": 0,
+      "context_words": 1,
+      "alternative_in_collections": 0,
+      "printed_on_dorar": 0,
+      "alternative_on_dorar": 0,
+      "ocr_confirms_printed": true
+    },
+    "decision": "kept",
+    "confidence": 0.15,
+    "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
   },
   {
     "entry": 564,
@@ -318,7 +317,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6986) is used.",
     "printed": "أحدكم",
@@ -356,7 +355,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6986) is used.",
     "printed": "أبيه قال :",

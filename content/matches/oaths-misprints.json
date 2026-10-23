@@ -116,7 +116,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6617) is used.",
     "printed": "ما",
@@ -273,7 +273,7 @@
       "alternative_on_dorar": 4,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used.",
     "printed": "بن الخطاب",
@@ -311,55 +311,11 @@
       "alternative_on_dorar": 15,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 73 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used.",
     "printed": "أولى",
     "corrected": ""
-  },
-  {
-    "entry": 674,
-    "kind": "other",
-    "tokens": [
-      43,
-      44
-    ],
-    "printed_words": [
-      "انكم"
-    ],
-    "alternative_words": [
-      "ان",
-      "كنتم"
-    ],
-    "alternative_tokens": [
-      "إن",
-      "كنتم"
-    ],
-    "left": [
-      "عليه",
-      "وسلم",
-      "فقال"
-    ],
-    "right": [
-      "تطعنون",
-      "في",
-      "امرته"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 1,
-      "ocr_confirms_printed": true
-    },
-    "decision": "ask",
-    "confidence": 0.48,
-    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it.",
-    "printed": "إنكم",
-    "corrected": "إن كنتم"
   },
   {
     "entry": 675,
@@ -394,7 +350,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6649) is used.",
     "printed": "ابن الحارث",
@@ -782,7 +738,7 @@
       "الابرص",
       "في"
     ],
-    "cited_wins": false,
+    "cited_wins": true,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
@@ -792,9 +748,11 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": false
     },
-    "decision": "kept",
-    "confidence": 0.15,
-    "evidence": "Kept: the alternative has no support beyond the one matched database text."
+    "decision": "approve",
+    "confidence": 0.9,
+    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; in the hadith text the wording of the cited source (bukhari 3464) is used.",
+    "printed": "ثم أتى",
+    "corrected": "ثم إنه أتى"
   },
   {
     "entry": 676,
@@ -1060,7 +1018,7 @@
     "right": [
       "فلا",
       "بلاغ",
-      "الا"
+      "اليوم"
     ],
     "cited_wins": false,
     "nonword": false,
@@ -1075,131 +1033,6 @@
     "decision": "variant",
     "confidence": 0.05,
     "evidence": "The printed wording is attested elsewhere (0 in the collections, 1 on dorar.net), so it is a genuine variant."
-  },
-  {
-    "entry": 676,
-    "kind": "missing",
-    "tokens": [
-      371,
-      371
-    ],
-    "printed_words": [],
-    "alternative_words": [
-      "اليوم"
-    ],
-    "alternative_tokens": [
-      "اليوم"
-    ],
-    "left": [
-      "سفره",
-      "فلا",
-      "بلاغ"
-    ],
-    "right": [
-      "الا",
-      "بالله",
-      "ثم"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 2,
-      "alternative_in_collections": 2,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 3,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.65,
-    "evidence": "Missing: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net.",
-    "printed": "بلاغ إلا",
-    "corrected": "بلاغ اليوم إلا"
-  },
-  {
-    "entry": 676,
-    "kind": "other",
-    "tokens": [
-      386,
-      388
-    ],
-    "printed_words": [
-      "وقال",
-      "له"
-    ],
-    "alternative_words": [
-      "فقال"
-    ],
-    "alternative_tokens": [
-      "فقال"
-    ],
-    "left": [
-      "بها",
-      "في",
-      "سفري"
-    ],
-    "right": [
-      "قد",
-      "كنت",
-      "اعمي"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 2,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 6,
-      "ocr_confirms_printed": true
-    },
-    "decision": "ask",
-    "confidence": 0.53,
-    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 6 on dorar.net; the OCR confirms the page prints it.",
-    "printed": "وقال له",
-    "corrected": "فقال"
-  },
-  {
-    "entry": 676,
-    "kind": "missing",
-    "tokens": [
-      414,
-      414
-    ],
-    "printed_words": [],
-    "alternative_words": [
-      "فانما",
-      "ابتليتم"
-    ],
-    "alternative_tokens": [
-      "فإنما",
-      "ابتليتم"
-    ],
-    "left": [
-      "فقال",
-      "امسك",
-      "مالك"
-    ],
-    "right": [
-      "فقد",
-      "رضي",
-      "الله"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 3,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.5,
-    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net.",
-    "printed": "مالك فقد",
-    "corrected": "مالك فإنما ابتليتم فقد"
   },
   {
     "entry": 677,
@@ -1401,7 +1234,7 @@
     ],
     "printed_words": [
       "والله",
-      "حسسيبه"
+      "حسيبه"
     ],
     "alternative_words": [
       "وحسيبه",
@@ -1422,7 +1255,7 @@
       "علي"
     ],
     "cited_wins": false,
-    "nonword": true,
+    "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
       "context_words": 3,
@@ -1431,10 +1264,10 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": false
     },
-    "decision": "ask",
-    "confidence": 0.55,
-    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net.",
-    "printed": "والله حسسيبه",
+    "decision": "owner-decided",
+    "confidence": 0.45,
+    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net.",
+    "printed": "والله حسيبه",
     "corrected": "وحسيبه الله"
   },
   {
@@ -1473,7 +1306,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.83,
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it.",
     "printed": "الله أحد »**",
@@ -1791,7 +1624,7 @@
       "alternative_on_dorar": 7,
       "ocr_confirms_printed": false
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; in the hadith text the wording of the cited source (abudawud 4859) is used.",
     "printed": "رجل :",

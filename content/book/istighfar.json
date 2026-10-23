@@ -247,9 +247,9 @@
           "printed": "عمرة فسمعته",
           "corrected": "عمرة قال فسمعته",
           "confidence": 0.65,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The narrator's transmission word «قال» before «فسمعته» is left out in the book; such chain wording is kept as printed. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections."
         }
       ],
       "transcriber_notes": [

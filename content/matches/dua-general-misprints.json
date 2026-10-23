@@ -469,7 +469,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": false
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 5974) is used.",
     "printed": "تظلمني حقي",
@@ -1072,7 +1072,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.91,
     "evidence": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 240) is used.",
     "printed": "أغني",
@@ -1114,7 +1114,7 @@
       "alternative_on_dorar": 1,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 240) is used.",
     "printed": "كانت",
@@ -1276,7 +1276,7 @@
       "alternative_on_dorar": 4,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1013) is used.",
     "printed": "سبتا",
@@ -1361,63 +1361,20 @@
     "evidence": "Kept: a spelling-only difference (a long-vowel alif or a doubled waw, or words written joined), a usual difference between editions."
   },
   {
-    "entry": 320,
-    "kind": "missing",
-    "tokens": [
-      17,
-      17
-    ],
-    "printed_words": [],
-    "alternative_words": [
-      "اللهم"
-    ],
-    "alternative_tokens": [
-      "اللهم"
-    ],
-    "left": [
-      "الله",
-      "عليه",
-      "وسلم"
-    ],
-    "right": [
-      "ربنا",
-      "اتنا",
-      "في"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 3,
-      "alternative_in_collections": 2,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 4,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.65,
-    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 4 on dorar.net.",
-    "printed": "ﷺ ﴿",
-    "corrected": "ﷺ اللهم ﴿"
-  },
-  {
     "entry": 322,
-    "kind": "other",
+    "kind": "substitution",
     "tokens": [
       20,
-      22
+      21
     ],
     "printed_words": [
-      "يسامع",
-      "عند"
+      "يسامع"
     ],
     "alternative_words": [
-      "يتسامع",
-      "عنده"
+      "يتسامع"
     ],
     "alternative_tokens": [
-      "يتسامع",
-      "عنده"
+      "يتسامع"
     ],
     "left": [
       "الله",
@@ -1425,25 +1382,25 @@
       "وسلم"
     ],
     "right": [
+      "عنده",
       "الشعر",
-      "فقالت",
-      "كان"
+      "فقالت"
     ],
     "cited_wins": false,
     "nonword": true,
     "evidence_counts": {
       "printed_in_collections": 0,
       "context_words": 3,
-      "alternative_in_collections": 1,
+      "alternative_in_collections": 2,
       "printed_on_dorar": 0,
-      "alternative_on_dorar": 2,
+      "alternative_on_dorar": 5,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.63,
-    "evidence": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it.",
-    "printed": "يسّامع عند",
-    "corrected": "يتسامع عنده"
+    "decision": "approve",
+    "confidence": 0.98,
+    "evidence": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it.",
+    "printed": "يسّامع",
+    "corrected": "يتسامع"
   },
   {
     "entry": 328,
@@ -1477,7 +1434,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6397) is used.",
     "printed": "عنه قال :",
@@ -1645,7 +1602,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.85,
     "evidence": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared.",
     "printed": "المصدر",
@@ -1685,7 +1642,7 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.85,
     "evidence": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared.",
     "printed": "جوريه",
@@ -2438,7 +2395,7 @@
       "alternative_on_dorar": 2,
       "ocr_confirms_printed": true
     },
-    "decision": "approve",
+    "decision": "owner-decided",
     "confidence": 0.9,
     "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6400) is used.",
     "printed": "يوم",

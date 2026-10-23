@@ -6,7 +6,7 @@ All content comes from the book **الصحيح المسند من أذكار ال
 
 ## Status
 
-Transcribing the book chapter by chapter. The index is transcribed (41 work units), the Adhan chapter (pp. 35–47, entries 37–57) is done and reviewed, and the long run over the remaining chapters is ready to start. No app code yet.
+The whole book is transcribed: 693 numbered entries in 41 chapters (pp. 5–439) plus the Sheikh's own text, each matched, cross-checked with OCR, vocalized and reviewed. The review of 2026-10-23 settled every open question (`.cache/reports/review-2026-10-23.html`). Next is step 7, preparing the content for the app. No app code yet.
 
 ## Features
 
@@ -52,7 +52,13 @@ Each chapter goes through these steps:
 
 After all chapters are done:
 
-7. **Prepare for the app.** Pull out the exact words to say, repeat counts and virtues. Assign sections and tags. Mark entries that are supporting hadith (virtues, rulings) rather than azkar to recite.
+7. **Prepare for the app.** Pull out the exact words to say, repeat counts and virtues. Assign sections and tags. Mark entries that are supporting hadith (virtues, rulings) rather than azkar to recite. Points the build must handle, found in the 2026-10-23 review:
+   - Apply every approved correction, to all fields (`text`, `heading`, `grading`, `takhrij`, `footnotes.N`) and to the Sheikh's own text, with `corrected()` in `tools/book.py`.
+   - `text` also holds further narrations and the Sheikh's remarks («قلت : …», «وقال الطبراني …»); separate them from the hadith, which can also improve matching (entry 132's three Tabarani narrations keep it unmatched and unvocalized).
+   - About 9% of hadith-text words have no tashkeel, mostly in the 41 entries whose source isn't in the databases or whose match is weak (`content/vocalized/`, `tashkeel: none`).
+   - The book's letter forms are kept as printed («فى», final «ى» for «ي», «على» for «علي»); decide how to display them.
+   - Some quotations open without closing as printed (e.g. entries 152, 248, 312, 605), so « » can't be relied on to find the words to say.
+   - An entry without a heading of its own inherits the one before it, which may not describe it (entry 143, «سبحان الله وبحمده», sits under «سيد الاستغفار»); give app titles per entry.
 8. **Translate.** Write the English translation of the meaning and the transliteration, then have them reviewed.
 9. **Final review.** A person with Arabic and sharia knowledge checks every entry before release.
 

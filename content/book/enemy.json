@@ -128,6 +128,16 @@
       "footnotes": [],
       "corrections": [
         {
+          "id": 2,
+          "field": "text",
+          "printed": "فقال : « لا تمنوا",
+          "corrected": "فقال : « أيها الناس لا تمنوا",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 3024 reads «فقال : أيها الناس لا تمنوا لقاء العدو»; «أيها الناس» is the Prophet's own address, so it goes inside the quotation marks (the tool placed it before them). Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 3024) is used."
+        },
+        {
           "id": 1,
           "field": "text",
           "printed": "بن أوفى",
@@ -136,16 +146,6 @@
           "status": "approved",
           "decided_by": "auto",
           "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 3024) is used."
-        },
-        {
-          "id": 2,
-          "field": "text",
-          "printed": "فقال :",
-          "corrected": "فقال أيها الناس :",
-          "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; in the hadith text the wording of the cited source (bukhari 3024) is used."
         }
       ],
       "transcriber_notes": [

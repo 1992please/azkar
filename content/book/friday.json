@@ -256,9 +256,9 @@
           "printed": "الشعراني",
           "corrected": "الزعفراني",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 11 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the entry's source isn't in the databases, so its wording can't be compared."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «الفضل بن محمد الشعراني» is a well-known narrator (al-Fadl ibn Muhammad ibn al-Musayyab al-Sha'rani), Muhammad ibn al-Mu'ammal's shaykh in al-Hakim's chains; «الزعفراني» would replace a correct name. Earlier evidence: Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 11 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the entry's source isn't in the databases, so its wording can't be compared."
         }
       ],
       "transcriber_notes": [
@@ -289,10 +289,10 @@
           "printed": "بن عمر",
           "corrected": "أن عمر",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "Proposed by the transcriber: the page prints «عن عبيد الله بن عبد الله بن عمر بن الخطاب سأل أبا واقد» (zoomed p. 361). That makes Ubaydullah ibn Abdullah ibn Umar the one who asked, and leaves «سأل» with no «أن» or «قال» to link it. Muslim 891, the cited source, has «عن عبيد الله بن عبد الله أن عمر بن الخطاب سأل», so «بن» looks like a misprint of «أن». It is left for the owner because the printed form is a real name, though it belongs to a different narrator."
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «بن» printed for «أن»: Muslim 891 reads «عن عبيد الله بن عبد الله أن عمر بن الخطاب سأل أبا واقد الليثي». As printed, the asker becomes a different person and «سأل» has nothing linking it (like the owner-approved «عن» printed for «بن»). Earlier evidence: Proposed by the transcriber: the page prints «عن عبيد الله بن عبد الله بن عمر بن الخطاب سأل أبا واقد» (zoomed p. 361). That makes Ubaydullah ibn Abdullah ibn Umar the one who asked, and leaves «سأل» with no «أن» or «قال» to link it. Muslim 891, the cited source, has «عن عبيد الله بن عبد الله أن عمر بن الخطاب سأل», so «بن» looks like a misprint of «أن». It is left for the owner because the printed form is a real name, though it belongs to a different narrator."
         },
         {
           "id": 3,
@@ -300,9 +300,9 @@
           "printed": "يقرأ به",
           "corrected": "",
           "confidence": 0.53,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 3 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): Half of a word-order variant: the book has «رسول الله ﷺ يقرأ به» where Muslim has «يقرأ به رسول الله ﷺ». Deleting «يقرأ به» on its own would leave «ما كان رسول الله ﷺ في الأضحى». Earlier evidence: Extra: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 3 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
         },
         {
           "id": 4,
@@ -310,9 +310,9 @@
           "printed": "الأضحى فقال",
           "corrected": "الأضحى والفطر فقال",
           "confidence": 0.65,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Muslim 891 reads «في الأضحى والفطر»; without «والفطر» the answer's dual «كان يقرأ فيهما» has nothing to refer to. Earlier evidence: Missing: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net."
         }
       ],
       "transcriber_notes": [
@@ -335,7 +335,30 @@
       "grading": "حسن لما بعد",
       "takhrij": "وأخرجه أبو داود رقم ١١٥١ ، وابن الجارود في المنتقى ٢٦٢ ، وأحمد ٢ / ١٨٠ .",
       "footnotes": [],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 6,
+          "field": "grading",
+          "printed": "حسن لما بعد",
+          "corrected": "حسن لما بعده",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The grading's final «ه» is missing: «حسن لما بعده» (supported by the next entry, 582, the same practice of seven and five takbirs), as the Sheikh writes it elsewhere."
+        },
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "كبُّر",
+          "corrected": "كبّر",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A misprinted vowel: «أن النبي ﷺ كَبَّر» takes a fatha with the shadda, but the page prints a damma-shaped stroke (zoomed at 1600 dpi, unlike the fatha of «رحَّب», p. 287). Only the shadda is kept."
+        }
+      ],
       "transcriber_notes": [
         "Zoomed: «كبُّر» is printed with a shadda and a damma-like mark over the ba.",
         "The grading reads «حسن لما بعد» as printed (presumably «لما بعده», i.e. supported by the next entry)."
@@ -355,7 +378,19 @@
       "grading": null,
       "takhrij": "والحاكم ٣ / ٦٠٧ ، والبيهقي ٣ / ٢٨٨ ، والدارمي ١ / ٣٧٦ ، وابن الجارود ٢٦٢ .",
       "footnotes": [],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 8,
+          "field": "text",
+          "printed": "يكبُّر",
+          "corrected": "يكبّر",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A misprinted vowel: «كان يُكَبِّر» takes a kasra under the shadda, but the page prints a damma-shaped stroke (zoomed). Only the shadda is kept."
+        }
+      ],
       "transcriber_notes": [
         "No grading is printed: the hadith is followed by «****», the end of the chapter.",
         "Zoomed: «يكبُّر» is printed with a shadda and a damma-like mark."

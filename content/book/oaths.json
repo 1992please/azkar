@@ -260,9 +260,9 @@
           "printed": "ما",
           "corrected": "مما",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6617) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «كثيرا ما كان رسول الله ﷺ يحلف» is the wording of this hadith in al-Tirmidhi 1540; attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6617) is used."
         }
       ],
       "transcriber_notes": [
@@ -304,6 +304,26 @@
       "footnotes": [],
       "corrections": [
         {
+          "id": 4,
+          "field": "text",
+          "printed": "بن الخطاب",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «بن الخطاب» is the Sheikh writing Umar's name in full, not a misprint; deleting it changes nothing in the hadith's wording. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used."
+        },
+        {
+          "id": 5,
+          "field": "text",
+          "printed": "أولى",
+          "corrected": "",
+          "confidence": 0.9,
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «أولى» is a genuine word of this story: Muslim 2359 has «ثم قال رسول الله ﷺ أولى والذي نفس محمد بيده». It stands just before the opening quotation mark, where the cited-source rule doesn't apply. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 73 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used."
+        },
+        {
           "id": 3,
           "field": "text",
           "printed": "فلما صلى قام",
@@ -312,26 +332,6 @@
           "status": "approved",
           "decided_by": "auto",
           "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used."
-        },
-        {
-          "id": 4,
-          "field": "text",
-          "printed": "بن الخطاب",
-          "corrected": "",
-          "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used."
-        },
-        {
-          "id": 5,
-          "field": "text",
-          "printed": "أولى",
-          "corrected": "",
-          "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 73 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 7294) is used."
         }
       ],
       "transcriber_notes": [
@@ -360,9 +360,9 @@
           "printed": "إنكم",
           "corrected": "إن كنتم",
           "confidence": 0.48,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): Inside the Prophet's words, matched 97% in the cited Bukhari 6627, which reads «إن كنتم تطعنون في إمرته فقد كنتم تطعنون»; the cited source's wording is used in the hadith text. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -391,9 +391,31 @@
           "printed": "ابن الحارث",
           "corrected": "",
           "confidence": 0.9,
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «ابن الحارث» is the Sheikh naming the narrator Zahdam in full, not a misprint. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6649) is used."
+        },
+        {
+          "id": 19,
+          "field": "text",
+          "printed": "غرٌّ",
+          "corrected": "غرّ",
+          "confidence": 0.95,
           "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6649) is used."
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «بخمس ذود غُرِّ الذُّرى»: the adjective is genitive, but the printed mark reads as a nominative (zoomed at 1307 dpi). Only the shadda is kept, so the database's «غُرِّ» shows."
+        },
+        {
+          "id": 20,
+          "field": "text",
+          "printed": "وُدُّ",
+          "corrected": "وُدّ",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «وُدٌّ وإخاء» needs the indefinite tanween; the printed mark over the dal reads as a plain damma. The waw's damma and the shadda are kept, so the database's «وُدٌّ» shows."
         },
         {
           "id": 8,
@@ -442,9 +464,9 @@
           "printed": "بلاغ إلا",
           "corrected": "بلاغ اليوم إلا",
           "confidence": 0.65,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «فلا بلاغ اليوم إلا بالله ثم بك» in the cited Bukhari 3464 and in every narration; the missing «اليوم» is a slip (cited-source rule). Earlier evidence: Missing: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net."
         },
         {
           "id": 11,
@@ -452,9 +474,9 @@
           "printed": "وقال له",
           "corrected": "فقال",
           "confidence": 0.53,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 6 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 3464 reads «فقال : قد كنت أعمى»; cited-source rule in the hadith text. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 6 on dorar.net; the OCR confirms the page prints it."
         },
         {
           "id": 12,
@@ -462,9 +484,19 @@
           "printed": "مالك فقد",
           "corrected": "مالك فإنما ابتليتم فقد",
           "confidence": 0.5,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 3464 reads «أمسك مالك فإنما ابتليتم فقد رضي الله عنك»; the book drops «فإنما ابتليتم» (cited-source rule). Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net."
+        },
+        {
+          "id": 18,
+          "field": "text",
+          "printed": "ثم أتى",
+          "corrected": "ثم إنه أتى",
+          "confidence": 0.9,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; in the hadith text the wording of the cited source (bukhari 3464) is used."
         }
       ],
       "transcriber_notes": [
@@ -573,12 +605,12 @@
         {
           "id": 13,
           "field": "text",
-          "printed": "والله حسسيبه",
-          "corrected": "وحسيبه الله",
+          "printed": "حسسيبه",
+          "corrected": "حسيبه",
           "confidence": 0.55,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «حسسيبه» is no word (an extra tooth, zoomed in transcription): a one-letter slip for «حسيبه». Only the slip is corrected; the word order «والله حسيبه» is attested (Muslim 3000) and stays as printed. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
         },
         {
           "id": 14,
@@ -586,9 +618,9 @@
           "printed": "الله أحد »**",
           "corrected": "الله أحدا »**",
           "confidence": 0.83,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The Sheikh's own footnote (**) says «يزكى» is passive («بفتح الكاف للبناء على المجهول»), so «ولا يُزكَّى على الله أحدٌ» with the nominative «أحد» is his deliberate reading (Fath al-Bari's text), not a misprint. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -852,9 +884,9 @@
           "printed": "رجل :",
           "corrected": "رجل يا رسول الله :",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; in the hadith text the wording of the cited source (abudawud 4859) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The book prints «يا رسول الله» at the end of the man's words («فيما مضى يا رسول الله ؟»), a word-order variant; inserting it after «فقال رجل» too gives it twice. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 7 on dorar.net; in the hadith text the wording of the cited source (abudawud 4859) is used."
         }
       ],
       "transcriber_notes": [

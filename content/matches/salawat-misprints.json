@@ -712,22 +712,20 @@
     "entry": 188,
     "kind": "missing",
     "tokens": [
-      108,
-      108
+      109,
+      109
     ],
     "printed_words": [],
     "alternative_words": [
-      "لك",
       "قال"
     ],
     "alternative_tokens": [
-      "لك",
       "قال"
     ],
     "left": [
-      "زدت",
       "فهو",
-      "خير"
+      "خير",
+      "لك"
     ],
     "right": [
       "قلت",
@@ -740,22 +738,20 @@
       "printed_in_collections": 0,
       "context_words": 3,
       "alternative_in_collections": 1,
-      "printed_on_dorar": 0,
+      "printed_on_dorar": 2,
       "alternative_on_dorar": 3,
       "ocr_confirms_printed": false
     },
-    "decision": "owner-decided",
-    "confidence": 0.5,
-    "evidence": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 3 on dorar.net.",
-    "printed": "فهو خير » .",
-    "corrected": "فهو خير لك قال » ."
+    "decision": "variant",
+    "confidence": 0.05,
+    "evidence": "The printed wording is attested elsewhere (0 in the collections, 2 on dorar.net), so it is a genuine variant."
   },
   {
     "entry": 188,
     "kind": "missing",
     "tokens": [
-      123,
-      123
+      124,
+      124
     ],
     "printed_words": [],
     "alternative_words": [
@@ -792,8 +788,8 @@
     "entry": 188,
     "kind": "missing",
     "tokens": [
-      141,
-      141
+      142,
+      142
     ],
     "printed_words": [],
     "alternative_words": [

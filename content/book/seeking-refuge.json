@@ -69,9 +69,9 @@
           "printed": "قال الليث",
           "corrected": "قال حدثنا الليث",
           "confidence": 0.68,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 35 time(s) in the collections."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «أخبرنا قتيبة قال الليث : عن ابن عجلان» drops the transmission word; the cited al-Nasa'i 5438 reads «أخبرنا قتيبة قال حدثنا الليث عن ابن عجلان». Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 35 time(s) in the collections."
         },
         {
           "id": 2,
@@ -81,7 +81,7 @@
           "confidence": 0.9,
           "status": "approved",
           "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (nasai 5438) is used."
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net; in the hadith text the wording of the cited source (nasai 5438) is used."
         }
       ],
       "transcriber_notes": [
@@ -162,7 +162,19 @@
       "grading": null,
       "takhrij": null,
       "footnotes": [],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 7,
+          "field": "text",
+          "printed": "ثم أكثر أن يقول :**",
+          "corrected": "ثم أكثر أن يقول : « سلوني » . فبرك عمر على ركبتيه فقال : رضينا بالله ربا وبالإسلام دينا وبمحمد نبيا . فسكت ثم قال : « عرضت علي الجنة والنار آنفا في عرض هذا الحائط فلم أر كالخير والشر » .**",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The rest of the hadith was lost in typesetting: p. 128 ends with «ثم أكثر أن يقول :» and p. 129 opens with the next heading and entry 195 (checked on the scan), so the end, the grading and the source footnote are missing. The text printed so far matches Bukhari 540 at 97% (the same chain, Abu al-Yaman from Shu'ayb from al-Zuhri), and the end is restored from it. The grading stays null: none is printed."
+        }
+      ],
       "transcriber_notes": [
         "The text breaks off at the foot of p. 128 («ثم أكثر أن يقول :»); p. 129 opens with a new heading and entry 195. The rest of the hadith, the grading and the source footnote are not printed, so grading and takhrij are null."
       ]
@@ -531,9 +543,9 @@
           "printed": "أبيه قال **في",
           "corrected": "أبيه **في",
           "confidence": 0.58,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «قال» belongs to the chain («عن أبيه قال في حديث أبي أحمد …»), where the book's transmission words are kept. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections; the OCR confirms the page prints it."
         },
         {
           "id": 6,

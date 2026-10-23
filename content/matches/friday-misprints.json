@@ -635,51 +635,11 @@
       "alternative_on_dorar": 0,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
+    "decision": "owner-decided",
     "confidence": 0.85,
     "evidence": "Substitution: the printed wording occurs nowhere (with 1 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 11 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the entry's source isn't in the databases, so its wording can't be compared.",
     "printed": "الشعراني",
     "corrected": "الزعفراني"
-  },
-  {
-    "entry": 580,
-    "kind": "substitution",
-    "tokens": [
-      20,
-      21
-    ],
-    "printed_words": [
-      "بن"
-    ],
-    "alternative_words": [
-      "ان"
-    ],
-    "alternative_tokens": [
-      "أن"
-    ],
-    "left": [
-      "بن",
-      "عبد",
-      "الله"
-    ],
-    "right": [
-      "عمر",
-      "بن",
-      "الخطاب"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 17,
-      "context_words": 3,
-      "alternative_in_collections": 12,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 0,
-      "ocr_confirms_printed": true
-    },
-    "decision": "variant",
-    "confidence": 0.05,
-    "evidence": "The printed wording is attested elsewhere (17 in the collections, 0 on dorar.net), so it is a genuine variant."
   },
   {
     "entry": 580,
@@ -742,70 +702,30 @@
     "right": [
       "في",
       "الاضحي",
-      "فقال"
+      "والفطر"
     ],
     "cited_wins": false,
     "nonword": false,
     "evidence_counts": {
       "printed_in_collections": 0,
-      "context_words": 2,
+      "context_words": 3,
       "alternative_in_collections": 3,
       "printed_on_dorar": 0,
-      "alternative_on_dorar": 0,
+      "alternative_on_dorar": 7,
       "ocr_confirms_printed": true
     },
-    "decision": "ask",
-    "confidence": 0.53,
-    "evidence": "Extra: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 3 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it.",
+    "decision": "owner-decided",
+    "confidence": 0.56,
+    "evidence": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 7 on dorar.net; the OCR confirms the page prints it.",
     "printed": "يقرأ به",
     "corrected": ""
   },
   {
     "entry": 580,
-    "kind": "missing",
-    "tokens": [
-      37,
-      37
-    ],
-    "printed_words": [],
-    "alternative_words": [
-      "والفطر"
-    ],
-    "alternative_tokens": [
-      "والفطر"
-    ],
-    "left": [
-      "به",
-      "في",
-      "الاضحي"
-    ],
-    "right": [
-      "فقال",
-      "كان",
-      "يقرا"
-    ],
-    "cited_wins": false,
-    "nonword": false,
-    "evidence_counts": {
-      "printed_in_collections": 0,
-      "context_words": 2,
-      "alternative_in_collections": 2,
-      "printed_on_dorar": 0,
-      "alternative_on_dorar": 3,
-      "ocr_confirms_printed": false
-    },
-    "decision": "ask",
-    "confidence": 0.65,
-    "evidence": "Missing: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 2 time(s) in the collections and 3 on dorar.net.",
-    "printed": "الأضحى فقال",
-    "corrected": "الأضحى والفطر فقال"
-  },
-  {
-    "entry": 580,
     "kind": "other",
     "tokens": [
-      42,
-      43
+      43,
+      44
     ],
     "printed_words": [
       "بق"
@@ -836,7 +756,7 @@
       "alternative_in_collections": 1,
       "printed_on_dorar": 0,
       "alternative_on_dorar": 1,
-      "ocr_confirms_printed": true
+      "ocr_confirms_printed": false
     },
     "decision": "kept",
     "confidence": 0.15,
@@ -846,8 +766,8 @@
     "entry": 580,
     "kind": "other",
     "tokens": [
-      45,
-      46
+      46,
+      47
     ],
     "printed_words": [
       "واقتربت"
@@ -878,7 +798,7 @@
       "alternative_in_collections": 3,
       "printed_on_dorar": 2,
       "alternative_on_dorar": 8,
-      "ocr_confirms_printed": true
+      "ocr_confirms_printed": false
     },
     "decision": "variant",
     "confidence": 0.05,

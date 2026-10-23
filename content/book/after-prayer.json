@@ -328,7 +328,30 @@
       "footnotes": [
         "(**) [على «والإكرام»] وهناك زيادة تفسيرية من قول التابعي .. وهي ( قال الوليد للأُوزاعي : كيف الاستغفار ؟ قال : تقول : استغفر الله ، استغفر الله ) ."
       ],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 17,
+          "field": "text",
+          "printed": "ثنا الأُوزاعي ح وحدثنا",
+          "corrected": "ثنا الأوزاعي ح وحدثنا",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A misprinted mark in the narrator's name: al-Awza'i is «الأَوْزاعي»; the hamza is printed with a damma-like head (zoomed at 1600 dpi). The mark is dropped so the database's tashkeel shows."
+        },
+        {
+          "id": 18,
+          "field": "text",
+          "printed": "الأُوزاعي حدثني",
+          "corrected": "الأوزاعي حدثني",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The same misprinted mark as in the first «الأوزاعي» of this chain; dropped so the database's tashkeel shows."
+        }
+      ],
       "transcriber_notes": [
         "The heading is printed «٨ -حديث ثوبان», the dash attached to «حديث»; written with spaces.",
         "«الأُوزاعي» has a damma over the hamza both times in the chain, and «للأُوزاعي» in the footnote too (checked at 1100–1600 dpi).",
@@ -538,7 +561,19 @@
       "footnotes": [
         "(*) [على «هذا حديث حسن» في التخريج] قال المباركفوري : حسنه الترمذي ، في إسناده أبو ظلال متكلم فيه لكن له شواهد ، فمنها حديث أبي أمامة قال : قال رسول الله ﷺ : « من صلى الغداة في جماعة ثم جلس يذكر الله حتى تطلع الشمس ثم قام فصلى ركعتين انقلب بأجر حجة وعمرة » . أخرجه الطبراني ، قال المنذري في الترغيب : إسناده جيد . ومنها حديث أبي أمامة وعتبة بن عبد مرفوعا : « من صلى الصبح في جماعة ثم ثبت حتى يسبح الله سبحة الضحى كان له كأجر حاج ومعتمر تاما له حجة وعمرة » . أخرجه الطبراني ، قال المنذري : وبعض رواته مختلف فيه ، قال : وللحديث شواهد كثيرة . انتهى ، وفي الباب أحاديث عديدة ذكرها المنذري في الترغيب ."
       ],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 16,
+          "field": "text",
+          "printed": "كأجر حجة قال الطبراني",
+          "corrected": "كأجر حجة وعمرة » قال : قال رسول الله ﷺ : « تامة تامة تامة » . قال الطبراني",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The end of the hadith was lost in typesetting: p. 87 ends with «كانت له كأجر حجة» at the end of a full line, with no closing quotation mark, just above the footnote rule, and p. 88 opens with al-Tabarani's citation (checked on the scan). The cited al-Tirmidhi 586 continues «كانت له كأجر حجة وعمرة» قال : قال رسول الله ﷺ : «تامة تامة تامة», which is restored here."
+        }
+      ],
       "transcriber_notes": [
         "The heading is printed on two lines («فضل من جلس بعد صلاة الفجر جماعة» / «يذكر الله حتى تطلع الشمس»); joined with a space.",
         "The hadith breaks off at the bottom of p. 87 with «كانت له كأجر حجة», with no closing quotation mark and no full stop: nothing else is printed below it before the footnote rule, and p. 88 opens directly with «قال الطبراني رقم ٧٦٤٩ :» (both checked at 330 dpi). Al-Tirmidhi's narration ends «… كأجر حجة وعمرة تامة تامة تامة», so the rest of the line seems lost in typesetting. Transcribed as printed.",

@@ -111,9 +111,9 @@
           "printed": "ثني",
           "corrected": "حدثني",
           "confidence": 0.88,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «ثني» is the usual abbreviation of «حدثني»; the rules keep such abbreviations as printed. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections."
         }
       ],
       "transcriber_notes": [
@@ -183,9 +183,9 @@
           "printed": "المزكي",
           "corrected": "المصري",
           "confidence": 0.85,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «أبو زكريا بن أبي إسحاق المزكي» is al-Bayhaqi's well-known shaykh Abu Zakariyya Yahya ibn Ibrahim al-Muzakki; «المصري» would replace a correct name. Al-Bayhaqi isn't in the databases, so the tool couldn't see it. Earlier evidence: Substitution: the printed wording occurs nowhere (in context); the printed word exists nowhere in the collections; the alternative is attested 0 time(s) in the collections; it is part of a name, and the printed spelling is used in no narration; the OCR confirms the page prints it; asked rather than corrected automatically, because the alternative is attested nowhere in this context and the entry's source isn't in the databases, so its wording can't be compared."
         }
       ],
       "transcriber_notes": [
@@ -248,9 +248,9 @@
           "printed": "القسم",
           "corrected": "المقسم",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6235) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «وإبرار القسم» is al-Bukhari's own wording of this hadith of the seven commands in Bukhari 1239 and 5175 (Muslim 2066: «وإبرار القسم أو المقسم»); attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 6235) is used."
         },
         {
           "id": 6,
@@ -425,9 +425,9 @@
           "printed": "أو أطعتن",
           "corrected": "وأطعتن",
           "confidence": 0.48,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Musnad Ahmad (25768) reads «فيما استطعتن وأطعتن»; «أو أطعتن» occurs in no narration. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -618,9 +618,9 @@
           "printed": "مولى ابن",
           "corrected": "مولى عبد الرحمن ابن",
           "confidence": 0.53,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «ثابتا مولى ابن زيد» shortens the patron's name (Abd al-Rahman ibn Zayd) in the chain; chains keep the book's wording. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections."
         }
       ],
       "transcriber_notes": [
@@ -874,9 +874,9 @@
           "printed": "في الطرقات",
           "corrected": "بالطرقات",
           "confidence": 0.53,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «إياكم والجلوس في الطرقات» is Muslim's wording of this same hadith (Muslim 2121, Ahmad 10883); attested, so kept. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -1037,7 +1037,19 @@
       "grading": "صحيح",
       "takhrij": null,
       "footnotes": [],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 17,
+          "field": "text",
+          "printed": "فُقال",
+          "corrected": "فقال",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A stray damma-like mark is printed over the fa of «فقال» (zoomed); the verb is «فَقال». The mark is dropped so the database's tashkeel shows."
+        }
+      ],
       "transcriber_notes": [
         "No source footnote is printed for this entry. «ابن كهيل» begins a printed line. A damma-like mark is printed over the fa of «فُقال» (zoomed); kept as printed, though it may be an ink mark."
       ]
@@ -1249,9 +1261,9 @@
           "printed": "فلا",
           "corrected": "فما",
           "confidence": 0.83,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «أما بسم الله … فلا ندري ما بسم الله الرحمن الرحيم» is the wording of Musnad Ahmad (13325) for this same Hudaybiyya story; attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 2 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [

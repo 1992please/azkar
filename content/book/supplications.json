@@ -82,9 +82,9 @@
           "printed": "والأعمش عن",
           "corrected": "والأعمش عن ذر عن",
           "confidence": 0.45,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A narrator dropped from the middle of the chain: Mansur and al-A'mash narrate from Dharr, from Yusay' al-Hadrami (Tirmidhi 3247, the cited source, and every narration of this chain). The book shortens chains only at their start, so «عن ذر» is restored. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections."
         }
       ],
       "transcriber_notes": [
@@ -146,9 +146,9 @@
           "printed": "قال : « وفوقه",
           "corrected": "فوقه",
           "confidence": 0.45,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The tool's change would remove the opening « and leave the closing » unmatched. «أراه قال : وفوقه» differs from al-Bukhari's «أراه فوقه» only by the narrator's «قال» and a prefix «و», both kept variants. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
         }
       ],
       "transcriber_notes": [
@@ -241,9 +241,9 @@
           "printed": "النار »",
           "corrected": "النار قال »",
           "confidence": 0.65,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The tool would insert the narrator's «قال» before the closing » , inside the Prophet's words. The book only leaves out the narrator's «قال» before «فدعا الله له», a kept variant. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 4 on dorar.net."
         }
       ],
       "transcriber_notes": [

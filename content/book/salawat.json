@@ -376,10 +376,10 @@
           "printed": "فهو خير » .",
           "corrected": "فهو خير لك » .",
           "confidence": 0.5,
-          "status": "proposed",
-          "decided_by": null,
+          "status": "approved",
+          "decided_by": "owner",
           "source": "transcriber",
-          "reason": "Missing «لك» after the answer to «فالنصف»: Tirmidhi 2457 has «فهو خير لك»; the printed «فهو خير» here occurs nowhere with its context (the same words after «فالثلثين» are attested on dorar.net). Narrowed by the transcriber from the tool's «فهو خير لك قال » .», which put the narrator's «قال» (before «قلت : فالثلثين») inside the Prophet's quoted words. Scan p. 124 checked: printed without «لك». Not ungrammatical, so left for the owner."
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Tirmidhi 2457 has «فإن زدت فهو خير لك» at every step, and the book itself prints «فهو خير لك» at the first step of the same hadith; «لك» is dropped here. Earlier evidence: Missing «لك» after the answer to «فالنصف»: Tirmidhi 2457 has «فهو خير لك»; the printed «فهو خير» here occurs nowhere with its context (the same words after «فالثلثين» are attested on dorar.net). Narrowed by the transcriber from the tool's «فهو خير لك قال » .», which put the narrator's «قال» (before «قلت : فالثلثين») inside the Prophet's quoted words. Scan p. 124 checked: printed without «لك». Not ungrammatical, so left for the owner."
         }
       ],
       "transcriber_notes": [

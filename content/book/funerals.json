@@ -157,9 +157,9 @@
           "printed": "نزاع",
           "corrected": "تنازع",
           "confidence": 0.73,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 4431 reads «ولا ينبغي عند نبي تنازع», echoing «فتنازعوا» just before; «نزاع» occurs in no narration of this hadith. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 2 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it."
         },
         {
           "id": 5,
@@ -167,9 +167,9 @@
           "printed": "من الذي تدعونني",
           "corrected": "مما تدعوني",
           "confidence": 0.63,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 4431 reads «فالذي أنا فيه خير مما تدعوني إليه»; the book's «من الذي تدعونني» occurs in no narration. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the printed word exists nowhere in the collections; the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -576,24 +576,14 @@
       "footnotes": [],
       "corrections": [
         {
-          "id": 19,
-          "field": "text",
-          "printed": "عقبة",
-          "corrected": "عقبى",
-          "confidence": 0.91,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it."
-        },
-        {
           "id": 20,
           "field": "text",
           "printed": "فأعقبني من",
           "corrected": "فأعقبني الله من",
           "confidence": 0.65,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Muslim 919 reads «فأعقبني الله من هو خير لي منه»; the book drops «الله». Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net."
         },
         {
           "id": 21,
@@ -601,9 +591,19 @@
           "printed": "محمد",
           "corrected": "محمدا",
           "confidence": 0.88,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Muslim 919 reads «منه محمدا ﷺ», in apposition to «من هو خير»; the nominative occurs in no narration. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+        },
+        {
+          "id": 19,
+          "field": "text",
+          "printed": "عقبة",
+          "corrected": "عقبى",
+          "confidence": 0.91,
+          "status": "approved",
+          "decided_by": "auto",
+          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 4 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (muslim 919) is used."
         }
       ],
       "transcriber_notes": [
@@ -862,9 +862,9 @@
           "printed": "وجده",
           "corrected": "فوجده",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1304) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «فلما دخل عليه وجده في غشية» is Muslim's wording of the same story of Sa'd ibn Ubada's illness (Muslim 924); attested, so kept. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1304) is used."
         },
         {
           "id": 28,
@@ -872,9 +872,9 @@
           "printed": "بلسانه",
           "corrected": "إلى لسانه",
           "confidence": 0.53,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 1304 reads «وأشار إلى لسانه» (he pointed to his tongue); «وأشار بلسانه» occurs in no narration. Earlier evidence: Other: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 5 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -899,6 +899,16 @@
       "footnotes": [],
       "corrections": [
         {
+          "id": 30,
+          "field": "text",
+          "printed": "الله عنه عند",
+          "corrected": "الله عنهما عند",
+          "confidence": 0.96,
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «رضي الله عنه» after Ibn Abbas is the Sheikh's honorific; the form of an honorific is not a misprint. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1286) is used."
+        },
+        {
           "id": 29,
           "field": "text",
           "printed": "بأمير",
@@ -907,16 +917,6 @@
           "status": "approved",
           "decided_by": "auto",
           "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 3 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1286) is used."
-        },
-        {
-          "id": 30,
-          "field": "text",
-          "printed": "الله عنه عند",
-          "corrected": "الله عنهما عند",
-          "confidence": 0.96,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 3 time(s) in the collections and 1 on dorar.net; the alternative also appears elsewhere in this entry; the OCR confirms the page prints it; in the hadith text the wording of the cited source (bukhari 1286) is used."
         }
       ],
       "transcriber_notes": [
@@ -982,9 +982,9 @@
           "printed": "**عائشة زوج",
           "corrected": "**عائشة رضى الله عنها زوج",
           "confidence": 0.45,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The tool would add an honorific the book doesn't print; honorifics are the Sheikh's, not misprints. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net."
         },
         {
           "id": 33,
@@ -992,9 +992,9 @@
           "printed": "فقال له :",
           "corrected": "فقال :",
           "confidence": 0.63,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «فقال له : اجلس» is no misprint, and the entry is matched only 80%, so the cited-source rule doesn't apply. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 2 time(s) in the collections and 1 on dorar.net; the OCR confirms the page prints it."
         },
         {
           "id": 34,
@@ -1002,9 +1002,9 @@
           "printed": "آل عمران ١٤٤ ، فوالله",
           "corrected": "والله",
           "confidence": 0.45,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Other: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «آل عمران ١٤٤ ،» is the Sheikh's own verse reference printed inside the hadith, and «فوالله» differs from «والله» only by a kept prefix; deleting them is no correction. Earlier evidence: Other: the printed wording occurs nowhere (with 1 word(s) of context); the alternative is attested 2 time(s) in the collections and 0 on dorar.net."
         }
       ],
       "transcriber_notes": [
@@ -1055,9 +1055,9 @@
           "printed": "عامدا",
           "corrected": "",
           "confidence": 0.66,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 45 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 1291 reads «من كذب علي متعمدا فليتبوأ مقعده من النار», as in every narration; «عامدا متعمدا» occurs nowhere. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 45 time(s) in the collections and 15 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -1367,9 +1367,9 @@
           "printed": "معمر حدثنا",
           "corrected": "معمر حدثنا عبد الوارث حدثنا",
           "confidence": 0.53,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 10 time(s) in the collections."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): A narrator dropped from the middle of the chain: Abu Ma'mar narrates from Abd al-Warith, from Ayyub (Bukhari 1246, the cited source); the book shortens chains only at their start. Earlier evidence: Missing: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 10 time(s) in the collections."
         }
       ],
       "transcriber_notes": [
@@ -1588,9 +1588,9 @@
           "printed": "بها",
           "corrected": "عليها",
           "confidence": 0.63,
-          "status": "proposed",
-          "decided_by": null,
-          "reason": "Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
+          "status": "approved",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The cited Bukhari 4671 reads «لو أعلم أني إن زدت على السبعين يغفر له لزدت عليها»; «لزدت بها» occurs in no narration. Earlier evidence: Substitution: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 2 on dorar.net; the OCR confirms the page prints it."
         }
       ],
       "transcriber_notes": [
@@ -1654,7 +1654,7 @@
         "volume": 4,
         "page": 466
       },
-      "text": "حدثنا المكي بن إبراهيم حدثنا يزيد بن أبي عبيد **عن سلمة بن الأكوع رضي الله عنه قال : كنا جلوسا عند النبي ﷺ إذ أَتي بجنازة فقالوا : صل عليها ، فقال : « هل عليه دين ؟ » قالوا : لا قال : « فهل ترك شيئا ؟ » قالوا : لا فصلى عليه ، ثم أُتي بجنازة أخرى فقالوا : يا رسول الله صل عليها . قال : « هل عليه دين ؟ » قيل : نعم قال : « فهل ترك شيئا ؟ » قالوا : ثلاثة دنانير فصلى عليها . ثم أُتي بالثالثة فقالوا : صل عليها فقال : « هل ترك شيئا ؟ » قالو : لا فقال : « هل عليه دين ؟ » قالوا : ثلاثة دنانير قال : « صلوا على صاحبكم » . قال أبو قتادة : صلّ عليه يا رسول الله وعليَّ دينه . فصلى عليه .**",
+      "text": "حدثنا المكي بن إبراهيم حدثنا يزيد بن أبي عبيد **عن سلمة بن الأكوع رضي الله عنه قال : كنا جلوسا عند النبي ﷺ إذ أُتي بجنازة فقالوا : صل عليها ، فقال : « هل عليه دين ؟ » قالوا : لا قال : « فهل ترك شيئا ؟ » قالوا : لا فصلى عليه ، ثم أُتي بجنازة أخرى فقالوا : يا رسول الله صل عليها . قال : « هل عليه دين ؟ » قيل : نعم قال : « فهل ترك شيئا ؟ » قالوا : ثلاثة دنانير فصلى عليها . ثم أُتي بالثالثة فقالوا : صل عليها فقال : « هل ترك شيئا ؟ » قالو : لا فقال : « هل عليه دين ؟ » قالوا : ثلاثة دنانير قال : « صلوا على صاحبكم » . قال أبو قتادة : صلّ عليه يا رسول الله وعليَّ دينه . فصلى عليه .**",
       "grading": "صحيح",
       "takhrij": "وأخرجه النسائيّ ج٤ ص٦٥ ، وأحمد ٤ / ٤٧ ، ٥٠ .",
       "footnotes": [],
@@ -1674,7 +1674,8 @@
         "«إذ أَتي»: the mark over the first alif is drawn as a slanted stroke like a fatha, while the two later «أُتي» have a clear damma (zoomed at 724–1086 dpi); each written as printed.",
         "«صلّ عليه»: a shadda over the lam; «عليَّ»: a shadda and a fatha over the ya (zoomed at 724 dpi).",
         "«قالو : لا» is printed without the final alif; kept as printed.",
-        "«فصلى» and «أخرى» are printed with dotless final ya."
+        "«فصلى» and «أخرى» are printed with dotless final ya.",
+        "Review 2026-10-23: «أُتي» (passive) is printed with a damma on the hamza (zoomed at 1600 dpi, p. 313); it had been written with a fatha."
       ]
     },
     {
@@ -1701,9 +1702,9 @@
           "printed": "ابن عبد الله",
           "corrected": "",
           "confidence": 0.9,
-          "status": "approved",
-          "decided_by": "auto",
-          "reason": "Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 14009) is used."
+          "status": "rejected",
+          "decided_by": "owner",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): «جابر ابن عبد الله» is the Companion's full name, not a misprint. Earlier evidence: Extra: the printed wording occurs nowhere (with 3 word(s) of context); the alternative is attested 1 time(s) in the collections and 0 on dorar.net; the OCR confirms the page prints it; in the hadith text the wording of the cited source (ahmad 14009) is used."
         }
       ],
       "transcriber_notes": [
@@ -1887,7 +1888,19 @@
         "(***) [على «لغيره» في الحكم] وقال في الزوائد رجاله رجال الصحيح ١ / ١١٨ .",
         "(****) [على «أبيه» في التخريج] أخرج هذا الحديث الشيخ ناصر الدين الألباني في سلسلة الأحاديث الصحيحة رقم ١٨ من طريق عامر بن سعد عن أبيه ورجح هذه الطريق في نهاية كلامه على الحديث وقال : إسناده صحيح رجاله كلهم ثقات معروفون ثم ذكر حفظه الله كلاما قيما في تعقيبه على فقه الحديث نذكره إن شاء الله لعل الله ينفع به ، قال رحمه الله :"
       ],
-      "corrections": [],
+      "corrections": [
+        {
+          "id": 59,
+          "field": "grading",
+          "printed": "لغيره",
+          "corrected": "صحيح لغيره",
+          "confidence": 0.95,
+          "status": "approved",
+          "decided_by": "owner",
+          "source": "transcriber",
+          "reason": "Owner's review 2026-10-23 (decided by Claude at the owner's request): The grading line prints only «لغيره»: the first word is missing, with no gap where it stood (checked on the scan, p. 317). The Sheikh's own footnote on it cites «رجاله رجال الصحيح» (al-Zawa'id), and his source footnote quotes al-Albani's «إسناده صحيح» for the supporting route through Amir ibn Sa'd, so the grading is read as «صحيح لغيره»."
+        }
+      ],
       "transcriber_notes": [
         "The grading line prints only «لغيره» (zoomed; no word before it, probably «صحيح لغيره» with the first word dropped); kept as printed.",
         "The footnotes are numbered (**), (***), (****) on this page because (*) belongs to entry 515's takhrij.",

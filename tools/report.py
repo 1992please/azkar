@@ -205,7 +205,7 @@ def card(entry: dict, result: dict, voc: dict) -> str:
     title = f"({entry['number']}) {voc['heading']}" + (f" ({entry['label']})" if entry["label"] else "")
     meta = [ar(entry["citation"]), f"Book p. {entry['book_page']}"]
     if entry["grading"]:
-        meta.append("Grading: " + ar(entry["grading"]))
+        meta.append("Grading: " + ar(corrected(entry, "grading")))
     body = []
     best = result["match"]
     text = corrected(entry, "text")
